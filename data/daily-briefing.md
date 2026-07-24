@@ -11,10 +11,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [AI编程已经如此强大，我们还需要再学习基础嘛？或者说初级程序员还有可能存在吗？](https://juejin.cn/post/7664549690965934126) | juejin | AI |
-| 2 | [开放权重和美国人工智能领导力 [pdf] / Open Weights and American AI Leadership [pdf]](https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf) | Hacker News | AI |
-| 3 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
-| 4 | [众议院通过预算法案，莫名其妙地禁止国家人工智能法规十年 / House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
-| 5 | [硅谷对中国人工智能完全分裂 / Silicon Valley Is Completely Divided Over Chinese AI](https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai) | Wired | AI |
+| 2 | [我一个前端切图仔，凭什么能在浏览器里跑大模型？](https://juejin.cn/post/7665154606209318963) | juejin | AI |
+| 3 | [面试官：Agent意图识别怎么做？95%的人一句话就把自己送走了](https://juejin.cn/post/7665139081606053940) | juejin | AI |
+| 4 | [告别 AI 过度工程：一文吃透 Ponytail 七层精简阶梯与落地实践](https://juejin.cn/post/7665313565675323438) | juejin | AI |
+| 5 | [Grok Build 被众人唾骂，结果老马把它开源了](https://juejin.cn/post/7664994459843903529) | juejin | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [★ 欧盟委员会：“谷歌关于 Android 上人工智能互操作性和谷歌搜索共享的指南” / ★ European Commission: ‘Guidance to Google for AI Interoperability on Android & Sharing of Google Search’](https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing) | Daring Fireball | AI |
-| 2 | [机器人蛇在倒塌的建筑物中搜寻委内瑞拉地震幸存者 / Robot snakes searched for Venezuela earthquake survivors in collapsed buildings](https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings) | Ars Technica | AI |
-| 3 | [谁赋予了AI企业构建未来的权利？ / Who gave AI companies the right to build the future?](https://www.vox.com/future-perfect/492902/artificial-intelligence-ai-anthropic-jack-clark-oppenheimer-trump) | Recode | AI |
-| 4 | [How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You](https://www.nytimes.com/2026/07/23/technology/personaltech/chatgpt-gemini-prompts-privacy.html) | New York Times | AI |
-| 5 | [我把刘备一生做成了可播放的高德地图，还把整套方法封装成了 Skill](https://juejin.cn/post/7663708874660331556) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [ios零基础的Android开发能否靠AI让老板省一笔人工费呢](https://juejin.cn/post/7664909653969289216) | juejin | AI |
+| 2 | [端侧AI实战第二章：React组件工程化 + 事件系统 + 可复用进度条（WebGPU模型加载底座）](https://juejin.cn/post/7665035990349037574) | juejin | AI |
+| 3 | [拿捏大模型输出随机性：Temperature、Top-K 原理 + LangChain 工程落地实战](https://juejin.cn/post/7664864449153400832) | juejin | AI/认知 |
+| 4 | [十年后 Meta 退出 RE100 清洁能源协议，因为其人工智能天然气建设超过可再生能源 / Meta leaves RE100 clean energy pact after a decade as its gas buildout for AI outpaces renewables](https://thenextweb.com/news/meta-leaves-re100-clean-energy-gas-ai-data-centres) | The Next Web | AI |
+| 5 | [★ 欧盟委员会：“谷歌关于 Android 上人工智能互操作性和谷歌搜索共享的指南” / ★ European Commission: ‘Guidance to Google for AI Interoperability on Android & Sharing of Google Search’](https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing) | Daring Fireball | AI |
 
-> 共 20 条，以上为 TOP 5。
+> 共 21 条，以上为 TOP 5。
 
 ---
 
@@ -40,11 +40,11 @@
 |---|------|------|------|
 | 1 | [又一个顶级 AI 终端诞生了！Kaku 开源，实测安装配置+分屏对决](https://juejin.cn/post/7664569330017026083) | juejin | AI |
 | 2 | [花了3天，我写了一款开源AI公众号编辑器](https://juejin.cn/post/7664565641965944883) | juejin | AI/IP |
-| 3 | [Stripe 斥资 100 亿美元收购人工智能模型市场 OpenRouter / Stripe Eyes $10 Billion Deal For AI Model Marketplace OpenRouter](https://slashdot.org/story/26/07/24/0719241/stripe-eyes-10-billion-deal-for-ai-model-marketplace-openrouter) | Slashdot | AI |
-| 4 | [Alexa Plus 正在进行人工智能更新以处理更复杂的指令 / Alexa Plus is getting an AI update to handle more complicated instructions](https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices) | The Verge | AI |
-| 5 | [AMD 推出 Helios AI 机架规模系统与 Nvidia 展开较量 / AMD takes on Nvidia with its Helios AI rack scale system](https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system) | TechCrunch | AI |
+| 3 | [三伏天正是减肥天：我在 EdgeOne Makers 上从 0 到 1 上线了一个 AI 健康教练](https://juejin.cn/post/7665614902707617827) | juejin | AI |
+| 4 | [OpenAI官方发布最新提示词技巧！](https://juejin.cn/post/7665417513739780148) | juejin | AI |
+| 5 | [1k星开源！中医怪杰倪海厦，AI给他"复活"了](https://juejin.cn/post/7665266115896016905) | juejin | AI |
 
-> 共 66 条，以上为 TOP 5。
+> 共 70 条，以上为 TOP 5。
 
 ---
 
@@ -56,7 +56,6 @@
 | 2 | [[推广] 🔥拿来做轻度中转站顶呱呱， CCS 洛杉矶补货了，目前美西最便宜的大内存/大流量机器，每个月 40T， CCS 低价机，不是优化线路，](https://www.v2ex.com/t/1229658) | V2EX (创意工作者社区) | IP |
 | 3 | [快手入局AI互动内容赛道，开放首批创作者招募](https://www.aibase.com/news/29872) | AIbase | AI/IP |
 | 4 | [[问与答] 遥遥领先真牛逼，我一篇公众号文章里面引用了公开报道的一个问界没有续费，无法紧急救援的新闻。结果在公众号 疯狂投诉我！](https://www.v2ex.com/t/1229616) | V2EX (创意工作者社区) | IP |
-| 5 | [[推广] 动态流量 用不完随机送自取](https://www.v2ex.com/t/1229605) | V2EX (创意工作者社区) | IP |
 
 ---
 
@@ -82,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-24T17:17:53.169Z
-- **总资讯数**：4364 条原始 → 649 条筛选后
+- **聚合时间**：2026-07-24T19:07:17.040Z
+- **总资讯数**：4276 条原始 → 653 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
