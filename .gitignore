@@ -1,0 +1,44 @@
+feeds/*.opml
+!feeds/*.example.opml
+
+# Dependencies
+node_modules/
+
+dist/
+
+# Large data files - GitHub Actions will regenerate these
+data/archive.json
+data/title-zh-cache.json
+data/latest-7d.json
+
+# Keep small data files for reference
+# data/latest-24h.json
+# data/source-status.json
+# data/daily-briefing.md
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Test coverage
+coverage/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Cache
+.eslintcache
+*.tsbuildinfo
