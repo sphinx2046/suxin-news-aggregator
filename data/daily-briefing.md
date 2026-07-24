@@ -11,10 +11,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [AI编程已经如此强大，我们还需要再学习基础嘛？或者说初级程序员还有可能存在吗？](https://juejin.cn/post/7664549690965934126) | juejin | AI |
-| 2 | [我一个前端切图仔，凭什么能在浏览器里跑大模型？](https://juejin.cn/post/7665154606209318963) | juejin | AI |
-| 3 | [面试官：Agent意图识别怎么做？95%的人一句话就把自己送走了](https://juejin.cn/post/7665139081606053940) | juejin | AI |
-| 4 | [告别 AI 过度工程：一文吃透 Ponytail 七层精简阶梯与落地实践](https://juejin.cn/post/7665313565675323438) | juejin | AI |
-| 5 | [Grok Build 被众人唾骂，结果老马把它开源了](https://juejin.cn/post/7664994459843903529) | juejin | 其他 |
+| 2 | [BGP ORIGIN 属性操作及其对 Internet 的影响 / BGP ORIGIN attribute manipulation and its impact on the Internet](https://blog.cloudflare.com/bgp-origin-attribute) | Hacker News | 其他 |
+| 3 | [克劳德 作品第5号 / Claude Opus 5](https://www.anthropic.com/claude-opus-5-system-card) | Hacker News | AI |
+| 4 | [近距离工作5 / Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) | Hacker News | AI |
+| 5 | [对OpenAI关于“失控黑客代理”的说法要持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [ios零基础的Android开发能否靠AI让老板省一笔人工费呢](https://juejin.cn/post/7664909653969289216) | juejin | AI |
-| 2 | [端侧AI实战第二章：React组件工程化 + 事件系统 + 可复用进度条（WebGPU模型加载底座）](https://juejin.cn/post/7665035990349037574) | juejin | AI |
-| 3 | [拿捏大模型输出随机性：Temperature、Top-K 原理 + LangChain 工程落地实战](https://juejin.cn/post/7664864449153400832) | juejin | AI/认知 |
-| 4 | [十年后 Meta 退出 RE100 清洁能源协议，因为其人工智能天然气建设超过可再生能源 / Meta leaves RE100 clean energy pact after a decade as its gas buildout for AI outpaces renewables](https://thenextweb.com/news/meta-leaves-re100-clean-energy-gas-ai-data-centres) | The Next Web | AI |
-| 5 | [★ 欧盟委员会：“谷歌关于 Android 上人工智能互操作性和谷歌搜索共享的指南” / ★ European Commission: ‘Guidance to Google for AI Interoperability on Android & Sharing of Google Search’](https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing) | Daring Fireball | AI |
+| 1 | [十年后 Meta 退出 RE100 清洁能源协议，因为其人工智能天然气建设超过可再生能源 / Meta leaves RE100 clean energy pact after a decade as its gas buildout for AI outpaces renewables](https://thenextweb.com/news/meta-leaves-re100-clean-energy-gas-ai-data-centres) | The Next Web | AI |
+| 2 | [★ 欧盟委员会：“谷歌关于 Android 上人工智能互操作性和谷歌搜索共享的指南” / ★ European Commission: ‘Guidance to Google for AI Interoperability on Android & Sharing of Google Search’](https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing) | Daring Fireball | AI |
+| 3 | [机器人蛇在倒塌的建筑物中搜寻委内瑞拉地震幸存者 / Robot snakes searched for Venezuela earthquake survivors in collapsed buildings](https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings) | Ars Technica | AI |
+| 4 | [谁赋予了AI企业构建未来的权利？ / Who gave AI companies the right to build the future?](https://www.vox.com/future-perfect/492902/artificial-intelligence-ai-anthropic-jack-clark-oppenheimer-trump) | Recode | AI |
+| 5 | [How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You](https://www.nytimes.com/2026/07/23/technology/personaltech/chatgpt-gemini-prompts-privacy.html) | New York Times | AI |
 
-> 共 21 条，以上为 TOP 5。
+> 共 20 条，以上为 TOP 5。
 
 ---
 
@@ -40,11 +40,11 @@
 |---|------|------|------|
 | 1 | [又一个顶级 AI 终端诞生了！Kaku 开源，实测安装配置+分屏对决](https://juejin.cn/post/7664569330017026083) | juejin | AI |
 | 2 | [花了3天，我写了一款开源AI公众号编辑器](https://juejin.cn/post/7664565641965944883) | juejin | AI/IP |
-| 3 | [三伏天正是减肥天：我在 EdgeOne Makers 上从 0 到 1 上线了一个 AI 健康教练](https://juejin.cn/post/7665614902707617827) | juejin | AI |
-| 4 | [OpenAI官方发布最新提示词技巧！](https://juejin.cn/post/7665417513739780148) | juejin | AI |
-| 5 | [1k星开源！中医怪杰倪海厦，AI给他"复活"了](https://juejin.cn/post/7665266115896016905) | juejin | AI |
+| 3 | [Stripe 斥资 100 亿美元收购人工智能模型市场 OpenRouter / Stripe Eyes $10 Billion Deal For AI Model Marketplace OpenRouter](https://slashdot.org/story/26/07/24/0719241/stripe-eyes-10-billion-deal-for-ai-model-marketplace-openrouter) | Slashdot | AI |
+| 4 | [Alexa Plus 正在进行人工智能更新以处理更复杂的指令 / Alexa Plus is getting an AI update to handle more complicated instructions](https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices) | The Verge | AI |
+| 5 | [Cognition为何收购Poke：AI个性正在成为竞争优势 / Why Cognition bought Poke: AI personality is becoming a competitive advantage](https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage) | TechCrunch | AI |
 
-> 共 70 条，以上为 TOP 5。
+> 共 72 条，以上为 TOP 5。
 
 ---
 
@@ -64,12 +64,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？](https://www.qbitai.com/2026/07/459262.html) | 量子位 · 每日最新 | 变现 |
-| 2 | [特朗普的新关税带来的收入不如非法关税多](https://www.axios.com/2026/07/24/tariffs-import-taxes) | www.axios.com | 变现 |
-| 3 | [宁德时代：2026年上半年营业收入2769.17亿元，同比增长54.80%](https://36kr.com/newsflashes/3909560457303431?f=rss) | 36氪 (36Kr) | 变现 |
-| 4 | [花旗：腾讯大跌是“对游戏收入放缓的恐惧和误读”所致](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA%3D%3D&mid=2247644551&idx=2&sn=4d3bccc2004c25bda746458b0e4e7be7) | 华尔街见闻 | 变现 |
-| 5 | [想赚钱的中国人，早就挤爆了中亚](https://mp.weixin.qq.com/s?__biz=MjM5NjM5MjQ4MQ%3D%3D&mid=2651785837&idx=1&sn=8c3e3c1e5a32bc956ec38074eae85ba4) | 刘润 | 变现 |
+| 2 | [迈克尔·伯里的月费39美元的Substack订阅服务订阅量已达30万，这引发了对其年收入1.13亿美元的时事通讯帝国将如何发展的猜测](https://finance.yahoo.com/markets/stocks/articles/michael-burrys-39-month-substack-105500686.html) | finance.yahoo.com | 变现 |
+| 3 | [惠誉将简街评级上调至高评级，理由是其收入增长](https://www.bloomberg.com/news/articles/2026-07-24/fitch-upgrades-jane-street-to-high-grade-citing-income-growth) | www.bloomberg.com | 变现 |
+| 4 | [特朗普的新关税带来的收入不如非法关税多](https://www.axios.com/2026/07/24/tariffs-import-taxes) | www.axios.com | 变现 |
+| 5 | [宁德时代：2026年上半年营业收入2769.17亿元，同比增长54.80%](https://36kr.com/newsflashes/3909560457303431?f=rss) | 36氪 (36Kr) | 变现 |
 
-> 共 6 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -81,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-24T19:07:17.040Z
-- **总资讯数**：4276 条原始 → 653 条筛选后
+- **聚合时间**：2026-07-24T20:53:16.212Z
+- **总资讯数**：4341 条原始 → 657 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
