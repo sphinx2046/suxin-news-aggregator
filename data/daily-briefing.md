@@ -11,10 +11,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [我让AI改一个bug——它偷偷动了5个我没让它碰的地方](https://juejin.cn/post/7664967296295354414) | juejin | AI |
-| 2 | [告别 AI 过度工程：一文吃透 Ponytail 七层精简阶梯与落地实践](https://juejin.cn/post/7665313565675323438) | juejin | AI |
-| 3 | [AI Skill 是什么？从重复 Prompt 到可复用的 Agent 专业能力](https://juejin.cn/post/7665266178301886474) | juejin | AI |
-| 4 | [RAG 核心概念与原理：Chunking、Embedding、相似度、HNSW 与多路召回｜得物技术](https://juejin.cn/post/7665283562345775123) | juejin | 其他 |
-| 5 | [从0开发一个 Coding Agent（一）：前言](https://juejin.cn/post/7665215351420534810) | juejin | AI |
+| 2 | [将 PyTorch Monarch 引入 AMD GPU / Bringing PyTorch Monarch to AMD GPUs](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm) | Hacker News | 其他 |
+| 3 | [开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment) | Hacker News | AI |
+| 4 | [人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon](https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor) | Hacker News | AI |
+| 5 | [Scanwheel 是一款您可以自己制作的鼓式机械电视 / Scanwheel is a drum style mechanical television you can build yourself](https://github.com/AncientJames/Scanwheel) | Hacker News | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,11 +24,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI 写代码总翻车？试试"先画图再砌墙"的 Vibe Coding 三步法](https://juejin.cn/post/7665616004353261619) | juejin | AI |
-| 2 | [一根倒下的电线暴露了人工智能数据中心日益严重的问题。以下是修复方法。 / One fallen power line exposed a growing AI data center problem. Here’s how to fix it.](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it) | TechCrunch | AI |
-| 3 | [我尝试了 OpenAI 的新 AI 键盘——这对一些程序员来说会很有趣，但对其他人来说有点神秘 / I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else) | TechCrunch | AI |
-| 4 | [使用此限时 Hostinger 优惠，利用 AI 构建完整的网站 / Build a complete website with AI using this limited-time Hostinger deal](https://mashable.com/tech/july-25-hostinger-ai-website-builder-deal) | Mashable | AI |
-| 5 | [2026 年人工智能可见性和链接建设的 10 个平台 / 10 Platforms for AI Visibility and Link Building in 2026](https://thenextweb.com/news/10-platforms-ai-visibility-link-building-2026) | The Next Web | AI |
+| 1 | [一根倒下的电线暴露了人工智能数据中心日益严重的问题。以下是修复方法。 / One fallen power line exposed a growing AI data center problem. Here’s how to fix it.](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it) | TechCrunch | AI |
+| 2 | [我尝试了 OpenAI 的新 AI 键盘——这对一些程序员来说会很有趣，但对其他人来说有点神秘 / I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else) | TechCrunch | AI |
+| 3 | [使用此限时 Hostinger 优惠，利用 AI 构建完整的网站 / Build a complete website with AI using this limited-time Hostinger deal](https://mashable.com/tech/july-25-hostinger-ai-website-builder-deal) | Mashable | AI |
+| 4 | [2026 年人工智能可见性和链接建设的 10 个平台 / 10 Platforms for AI Visibility and Link Building in 2026](https://thenextweb.com/news/10-platforms-ai-visibility-link-building-2026) | The Next Web | AI |
+| 5 | [★ 欧盟委员会：“谷歌关于 Android 上人工智能互操作性和谷歌搜索共享的指南” / ★ European Commission: ‘Guidance to Google for AI Interoperability on Android & Sharing of Google Search’](https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing) | Daring Fireball | AI |
 
 > 共 14 条，以上为 TOP 5。
 
@@ -39,12 +39,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [给公司做了个AI客服Agent，用的Spring AI 1.0，3天上线领导拍板了](https://juejin.cn/post/7664976793314246665) | juejin | AI |
-| 2 | [三伏天正是减肥天：我在 EdgeOne Makers 上从 0 到 1 上线了一个 AI 健康教练](https://juejin.cn/post/7665614902707617827) | juejin | AI |
-| 3 | [OpenAI官方发布最新提示词技巧！](https://juejin.cn/post/7665417513739780148) | juejin | AI |
-| 4 | [1k星开源！中医怪杰倪海厦，AI给他"复活"了](https://juejin.cn/post/7665266115896016905) | juejin | AI |
-| 5 | [Stripe 斥资 100 亿美元收购人工智能模型市场 OpenRouter / Stripe Eyes $10 Billion Deal For AI Model Marketplace OpenRouter](https://slashdot.org/story/26/07/24/0719241/stripe-eyes-10-billion-deal-for-ai-model-marketplace-openrouter) | Slashdot | AI |
+| 2 | [Stripe 斥资 100 亿美元收购人工智能模型市场 OpenRouter / Stripe Eyes $10 Billion Deal For AI Model Marketplace OpenRouter](https://slashdot.org/story/26/07/24/0719241/stripe-eyes-10-billion-deal-for-ai-model-marketplace-openrouter) | Slashdot | AI |
+| 3 | [由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m) | TechCrunch | AI |
+| 4 | [由 Reid Hoffman 和 Marc Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m) | TechCrunch | AI |
+| 5 | [Cognition为何收购Poke：AI个性正在成为竞争优势 / Why Cognition bought Poke: AI personality is becoming a competitive advantage](https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage) | TechCrunch | AI |
 
-> 共 76 条，以上为 TOP 5。
+> 共 72 条，以上为 TOP 5。
 
 ---
 
@@ -67,8 +67,6 @@
 | 4 | [到2032年，英国可能有超过60万高收入者陷入养老金陷阱](https://www.ft.com/content/bfe34895-6383-4906-96b9-c622d10e32da?syn-25a6b1a6=1) | www.ft.com | 变现 |
 | 5 | [2025年我国数字产业收入39.6万亿元](https://36kr.com/newsflashes/3910502774101383?f=rss) | 36氪 (36Kr) | 变现 |
 
-> 共 6 条，以上为 TOP 5。
-
 ---
 
 ## 🎯 姜胡说追踪
@@ -79,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-25T14:53:14.489Z
-- **总资讯数**：4310 条原始 → 593 条筛选后
+- **聚合时间**：2026-07-25T16:41:23.483Z
+- **总资讯数**：4255 条原始 → 576 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
