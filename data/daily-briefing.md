@@ -30,7 +30,7 @@
 | 4 | [★ 欧盟委员会：“谷歌关于 Android 上人工智能互操作性和谷歌搜索共享的指南” / ★ European Commission: ‘Guidance to Google for AI Interoperability on Android & Sharing of Google Search’](https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing) | Daring Fireball | AI |
 | 5 | [机器人蛇在倒塌的建筑物中搜寻委内瑞拉地震幸存者 / Robot snakes searched for Venezuela earthquake survivors in collapsed buildings](https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings) | Ars Technica | AI |
 
-> 共 17 条，以上为 TOP 5。
+> 共 14 条，以上为 TOP 5。
 
 ---
 
@@ -39,12 +39,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [2个月估值从88亿暴涨到680亿！最大AI中转站OpenRouter要被收购了](https://aiera.com.cn/2026/07/25/other/admin/105675/2%e4%b8%aa%e6%9c%88%e4%bc%b0%e5%80%bc%e4%bb%8e88%e4%ba%bf%e6%9a%b4%e6%b6%a8%e5%88%b0680%e4%ba%bf%ef%bc%81%e6%9c%80%e5%a4%a7ai%e4%b8%ad%e8%bd%ac%e7%ab%99openrouter%e8%a6%81%e8%a2%ab%e6%94%b6%e8%b4%ad) | 新智元 | AI |
-| 2 | [花了3天，我写了一款开源AI公众号编辑器](https://juejin.cn/post/7664565641965944883) | juejin | AI/IP |
-| 3 | [Stripe 斥资 100 亿美元收购人工智能模型市场 OpenRouter / Stripe Eyes $10 Billion Deal For AI Model Marketplace OpenRouter](https://slashdot.org/story/26/07/24/0719241/stripe-eyes-10-billion-deal-for-ai-model-marketplace-openrouter) | Slashdot | AI |
-| 4 | [由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m) | TechCrunch | AI |
-| 5 | [由 Reid Hoffman 和 Marc Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m) | TechCrunch | AI |
+| 2 | [Stripe 斥资 100 亿美元收购人工智能模型市场 OpenRouter / Stripe Eyes $10 Billion Deal For AI Model Marketplace OpenRouter](https://slashdot.org/story/26/07/24/0719241/stripe-eyes-10-billion-deal-for-ai-model-marketplace-openrouter) | Slashdot | AI |
+| 3 | [由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m) | TechCrunch | AI |
+| 4 | [由 Reid Hoffman 和 Marc Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m) | TechCrunch | AI |
+| 5 | [Cognition为何收购Poke：AI个性正在成为竞争优势 / Why Cognition bought Poke: AI personality is becoming a competitive advantage](https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage) | TechCrunch | AI |
 
-> 共 74 条，以上为 TOP 5。
+> 共 76 条，以上为 TOP 5。
 
 ---
 
@@ -53,10 +53,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [长内容创作者苦AI失忆久矣，这个新Agent漂亮填坑！门槛低到只需要会用键盘打字](https://www.qbitai.com/2026/07/458687.html) | 量子位 · 每日最新 | AI/IP |
-| 2 | [[问与答] 想买随身 wifi，带电时间长或是流量卡流量多的，有推荐的吗](https://www.v2ex.com/t/1229698) | V2EX (创意工作者社区) | IP |
-| 3 | [[推广] 周末福利放送！ 500MB 流量先到先得](https://www.v2ex.com/t/1229689) | V2EX (创意工作者社区) | IP |
-| 4 | [[推广] 加量赠送流量，大家都太热情了，免费测试，稳定高匿](https://www.v2ex.com/t/1229684) | V2EX (创意工作者社区) | IP |
-| 5 | [[推广] 🔥拿来做轻度中转站顶呱呱， CCS 洛杉矶补货了，目前美西最便宜的大内存/大流量机器，每个月 40T， CCS 低价机，不是优化线路，](https://www.v2ex.com/t/1229658) | V2EX (创意工作者社区) | IP |
+| 2 | [动漫展上的Cosplay爱好者们不畏酷暑、不惧意外，经过数月的精心准备，向大家展示了他们的粉丝热情](https://www.reuters.com/lifestyle/comic-con-cosplayers-brave-heat-mishaps-months-work-showcase-fandom-2026-07-25) | www.reuters.com | IP |
+| 3 | [[问与答] 想买随身 wifi，带电时间长或是流量卡流量多的，有推荐的吗](https://www.v2ex.com/t/1229698) | V2EX (创意工作者社区) | IP |
+| 4 | [[推广] 周末福利放送！ 500MB 流量先到先得](https://www.v2ex.com/t/1229689) | V2EX (创意工作者社区) | IP |
+| 5 | [[推广] 加量赠送流量，大家都太热情了，免费测试，稳定高匿](https://www.v2ex.com/t/1229684) | V2EX (创意工作者社区) | IP |
 
 > 共 6 条，以上为 TOP 5。
 
@@ -82,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-25T04:52:03.670Z
-- **总资讯数**：4386 条原始 → 628 条筛选后
+- **聚合时间**：2026-07-25T07:46:00.614Z
+- **总资讯数**：4386 条原始 → 617 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
