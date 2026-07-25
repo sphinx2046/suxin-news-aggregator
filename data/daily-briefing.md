@@ -28,9 +28,9 @@
 | 2 | [我尝试了 OpenAI 的新 AI 键盘——这对一些程序员来说会很有趣，但对其他人来说有点神秘 / I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else) | TechCrunch | AI |
 | 3 | [使用此限时 Hostinger 优惠，利用 AI 构建完整的网站 / Build a complete website with AI using this limited-time Hostinger deal](https://mashable.com/tech/july-25-hostinger-ai-website-builder-deal) | Mashable | AI |
 | 4 | [2026 年人工智能可见性和链接建设的 10 个平台 / 10 Platforms for AI Visibility and Link Building in 2026](https://thenextweb.com/news/10-platforms-ai-visibility-link-building-2026) | The Next Web | AI |
-| 5 | [十年后 Meta 退出 RE100 清洁能源协议，因为其人工智能天然气建设超过可再生能源 / Meta leaves RE100 clean energy pact after a decade as its gas buildout for AI outpaces renewables](https://thenextweb.com/news/meta-leaves-re100-clean-energy-gas-ai-data-centres) | The Next Web | AI |
+| 5 | [★ 欧盟委员会：“谷歌关于 Android 上人工智能互操作性和谷歌搜索共享的指南” / ★ European Commission: ‘Guidance to Google for AI Interoperability on Android & Sharing of Google Search’](https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing) | Daring Fireball | AI |
 
-> 共 18 条，以上为 TOP 5。
+> 共 14 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [1k星开源！中医怪杰倪海厦，AI给他"复活"了](https://juejin.cn/post/7665266115896016905) | juejin | AI |
 | 5 | [Stripe 斥资 100 亿美元收购人工智能模型市场 OpenRouter / Stripe Eyes $10 Billion Deal For AI Model Marketplace OpenRouter](https://slashdot.org/story/26/07/24/0719241/stripe-eyes-10-billion-deal-for-ai-model-marketplace-openrouter) | Slashdot | AI |
 
-> 共 76 条，以上为 TOP 5。
+> 共 74 条，以上为 TOP 5。
 
 ---
 
@@ -52,7 +52,7 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [长内容创作者苦AI失忆久矣，这个新Agent漂亮填坑！门槛低到只需要会用键盘打字](https://www.qbitai.com/2026/07/458687.html) | 量子位 · 每日最新 | AI/IP |
+| 1 | [长内容创作者苦AI失忆久矣，这个新Agent漂亮填坑！门槛低到只需要会...](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247906883&idx=1&sn=5d7b8dd544174c8d559ceba86656189f) | 量子位 | AI/IP |
 | 2 | [快手入局AI互动内容赛道，开放首批创作者招募](https://www.aibase.com/news/29872) | AIbase | AI/IP |
 
 ---
@@ -62,9 +62,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？](https://www.qbitai.com/2026/07/459262.html) | 量子位 · 每日最新 | 变现 |
-| 2 | [到2032年，英国可能有超过60万高收入者陷入养老金陷阱](https://www.ft.com/content/bfe34895-6383-4906-96b9-c622d10e32da?syn-25a6b1a6=1) | www.ft.com | 变现 |
-| 3 | [2025年我国数字产业收入39.6万亿元](https://36kr.com/newsflashes/3910502774101383?f=rss) | 36氪 (36Kr) | 变现 |
-| 4 | [特朗普的新关税带来的收入不如非法关税多](https://www.axios.com/2026/07/24/tariffs-import-taxes) | www.axios.com | 变现 |
+| 2 | [罕见的蓝色光学瞬变现象暗示可能存在一种新型宇宙爆炸](https://phys.org/news/2026-07-rare-blue-optical-transient-class.html) | phys.org | 变现 |
+| 3 | [了解这款可能为您的每月退休收入提供补充的股息ETF](https://finance.yahoo.com/markets/options/articles/meet-dividend-etf-could-supplement-120900923.html) | finance.yahoo.com | 变现 |
+| 4 | [到2032年，英国可能有超过60万高收入者陷入养老金陷阱](https://www.ft.com/content/bfe34895-6383-4906-96b9-c622d10e32da?syn-25a6b1a6=1) | www.ft.com | 变现 |
+| 5 | [2025年我国数字产业收入39.6万亿元](https://36kr.com/newsflashes/3910502774101383?f=rss) | 36氪 (36Kr) | 变现 |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -76,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-25T10:58:50.615Z
-- **总资讯数**：4342 条原始 → 622 条筛选后
+- **聚合时间**：2026-07-25T12:53:03.184Z
+- **总资讯数**：4322 条原始 → 611 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
