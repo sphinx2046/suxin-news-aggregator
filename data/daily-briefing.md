@@ -11,10 +11,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [我让AI改一个bug——它偷偷动了5个我没让它碰的地方](https://juejin.cn/post/7664967296295354414) | juejin | AI |
-| 2 | [苹果是人工智能之王，但无人知晓 / Apple Is the King of AI and Nobody Knows It](https://limitededitionjonathan.substack.com/p/apple-is-the-king-of-ai-and-nobody) | Hacker News | AI |
-| 3 | [政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly](https://www.youtube.com/watch?v=wlYa8NV5k-U) | Hacker News | AI |
-| 4 | [将 PyTorch Monarch 引入 AMD GPU / Bringing PyTorch Monarch to AMD GPUs](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm) | Hacker News | 其他 |
-| 5 | [开放式AI正迎来它的“Kubernetes时刻”。让我们别把它搞砸了 / Open-weight AI is having its Kubernetes moment. Let's not ruin it](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment) | Hacker News | AI |
+| 2 | [适用于 Mac 和 Windows 的第二大脑 / Second Brain for Mac and Windows](https://www.producthunt.com/products/second-brain-cloudflare) | producthunt | 其他 |
+| 3 | [ChatGPT 中的健康状况 / Health in ChatGPT](https://www.producthunt.com/products/openai) | producthunt | AI |
+| 4 | [维斯普基 / Wisprkey](https://www.producthunt.com/products/wisprkey-mac-ai-assistant) | producthunt | 其他 |
+| 5 | [壳友 / ShellMate](https://www.producthunt.com/products/shellmate-2) | producthunt | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -42,9 +42,9 @@
 | 2 | [由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m) | TechCrunch | AI |
 | 3 | [由 Reid Hoffman 和 Marc Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m) | TechCrunch | AI |
 | 4 | [Cognition为何收购Poke：AI个性正在成为竞争优势 / Why Cognition bought Poke: AI personality is becoming a competitive advantage](https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage) | TechCrunch | AI |
-| 5 | [Anthropic 推出 Opus 5 / Anthropic launches Opus 5](https://techcrunch.com/2026/07/24/anthropic-launches-opus-5) | TechCrunch | AI |
+| 5 | [Claude Opus 5 在编码方面与 Fable 相媲美，但价格却只有一半，Anthropic 表示，这是迄今为止发布的最一致的型号 / Claude Opus 5 matches Fable on coding at half the price, and Anthropic says it is the most aligned model it has ever shipped](https://thenextweb.com/news/anthropic-claude-opus-5-launch-frontier-bench-coding) | The Next Web | AI |
 
-> 共 62 条，以上为 TOP 5。
+> 共 66 条，以上为 TOP 5。
 
 ---
 
@@ -61,13 +61,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [我找到了一家待售企业，并将其重建为月收入2万美元的业务](https://finance.yahoo.com/video/found-business-sale-rebuilt-20k-180029969.html) | finance.yahoo.com | 变现 |
-| 2 | [他靠两份工作年收入12.4万美元，却依然买不起房。他将责任归咎于父母和婴儿潮一代。“我该怎么做才能不再这么愤怒？”](https://finance.yahoo.com/real-estate/articles/makes-124k-across-2-jobs-170013130.html) | finance.yahoo.com | 变现 |
-| 3 | [25,000美元的Realty Income投资如何通过复利效应转化为真正的退休收入](https://finance.yahoo.com/real-estate/articles/25-000-realty-income-investment-175000511.html) | finance.yahoo.com | 变现 |
-| 4 | [谁通过使用/利用人工智能来赚钱？](https://news.ycombinator.com/item?id=49047714) | news.ycombinator.com | AI/变现 |
-| 5 | [[独立开发者 👨‍💻] 独立开发者（opc）收款的问题](https://www.v2ex.com/t/1229785) | V2EX (创意工作者社区) | 变现 |
-
-> 共 8 条，以上为 TOP 5。
+| 1 | [谁通过使用/利用人工智能来赚钱？](https://news.ycombinator.com/item?id=49047714) | news.ycombinator.com | AI/变现 |
+| 2 | [[独立开发者 👨‍💻] 独立开发者（opc）收款的问题](https://www.v2ex.com/t/1229785) | V2EX (创意工作者社区) | 变现 |
+| 3 | [罕见的蓝色光学瞬变现象暗示可能存在一种新型宇宙爆炸](https://phys.org/news/2026-07-rare-blue-optical-transient-class.html) | phys.org | 变现 |
+| 4 | [到2032年，英国可能有超过60万高收入者陷入养老金陷阱](https://www.ft.com/content/bfe34895-6383-4906-96b9-c622d10e32da?syn-25a6b1a6=1) | www.ft.com | 变现 |
+| 5 | [2025年我国数字产业收入39.6万亿元](https://36kr.com/newsflashes/3910502774101383?f=rss) | 36氪 (36Kr) | 变现 |
 
 ---
 
@@ -79,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-25T18:44:47.371Z
-- **总资讯数**：4175 条原始 → 557 条筛选后
+- **聚合时间**：2026-07-25T20:38:04.231Z
+- **总资讯数**：4206 条原始 → 566 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
