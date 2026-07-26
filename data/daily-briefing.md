@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-07-25（周六）
+# 素心拾穗 · 每日情报 · 2026-07-26（周日）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [让 AI 快速「读懂」你的代码仓：Joy-Code-Graph 云端图谱服务的三次进化](https://juejin.cn/post/7665156847578169394) | juejin | AI |
-| 2 | [我让AI改一个bug——它偷偷动了5个我没让它碰的地方](https://juejin.cn/post/7664967296295354414) | juejin | AI |
-| 3 | [决定一个人发展高度的，不是专业能力，而是底层能力（第二期）](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ%3D%3D&mid=2651981394&idx=1&sn=705f7afd87267790678f5a7670be8dc6) | 架构师之路 | 其他 |
-| 4 | [御三家都在押注的LoopS，代码怎么还是垃圾？](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665104&idx=1&sn=41421b923fae378e52ab1d6776bfb8ac) | AI前线 | AI |
-| 5 | [全球首款2nmGPU炸场，OpenAl、Meta、微软站台！AMD要拆掉英伟...](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665097&idx=1&sn=c4db09ae663b11188b4415c0d9a570e0) | AI前线 | AI |
+| 1 | [从0开发一个 Coding Agent（一）：前言](https://juejin.cn/post/7665215351420534810) | juejin | AI |
+| 2 | [让 AI 快速「读懂」你的代码仓：Joy-Code-Graph 云端图谱服务的三次进化](https://juejin.cn/post/7665156847578169394) | juejin | AI |
+| 3 | [我让AI改一个bug——它偷偷动了5个我没让它碰的地方](https://juejin.cn/post/7664967296295354414) | juejin | AI |
+| 4 | [重写手机AI安全边界！首个MoAI攻防SoK，系统梳理三大安全支柱](https://aiera.com.cn/2026/07/26/other/admin/105971/%e9%87%8d%e5%86%99%e6%89%8b%e6%9c%baai%e5%ae%89%e5%85%a8%e8%be%b9%e7%95%8c%ef%bc%81%e9%a6%96%e4%b8%aamoai%e6%94%bb%e9%98%b2sok%ef%bc%8c%e7%b3%bb%e7%bb%9f%e6%a2%b3%e7%90%86%e4%b8%89%e5%a4%a7%e5%ae%89) | 新智元 | AI |
+| 5 | [深度｜开源大战全面开打：老黄+小扎 vs 奥特曼+达里奥](https://aiera.com.cn/2026/07/26/other/admin/105899/%e6%b7%b1%e5%ba%a6%ef%bd%9c%e5%bc%80%e6%ba%90%e5%a4%a7%e6%88%98%e5%85%a8%e9%9d%a2%e5%bc%80%e6%89%93%ef%bc%9a%e8%80%81%e9%bb%84%e5%b0%8f%e6%89%8e-vs-%e5%a5%a5%e7%89%b9%e6%9b%bc%e8%be%be%e9%87%8c) | 新智元 | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,11 +24,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [大厂疯抢AI人才，产品起薪30K！O经验如何快速入行?](https://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA%3D%3D&mid=2651929502&idx=3&sn=916b4fd87d4cd9b47dbc3392065fb511) | 人人都是产品经理 | AI |
-| 2 | [AI越用越贵，六个技巧让你成本骤降](https://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA%3D%3D&mid=2651929502&idx=3&sn=916b4fd87d4cd9b47dbc3392065fb511) | 人人都是产品经理 | AI |
-| 3 | [AI 写代码总翻车？试试"先画图再砌墙"的 Vibe Coding 三步法](https://juejin.cn/post/7665616004353261619) | juejin | AI |
-| 4 | [一根倒下的电线暴露了人工智能数据中心日益严重的问题。以下是修复方法。 / One fallen power line exposed a growing AI data center problem. Here’s how to fix it.](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it) | TechCrunch | AI |
-| 5 | [我尝试了 OpenAI 的新 AI 键盘——这对一些程序员来说会很有趣，但对其他人来说有点神秘 / I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else) | TechCrunch | AI |
+| 1 | [一根倒下的电线暴露了人工智能数据中心日益严重的问题。以下是修复方法。 / One fallen power line exposed a growing AI data center problem. Here’s how to fix it.](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it) | TechCrunch | AI |
+| 2 | [我尝试了 OpenAI 的新 AI 键盘——这对一些程序员来说会很有趣，但对其他人来说有点神秘 / I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else) | TechCrunch | AI |
+| 3 | [使用此限时 Hostinger 优惠，利用 AI 构建完整的网站 / Build a complete website with AI using this limited-time Hostinger deal](https://mashable.com/tech/july-25-hostinger-ai-website-builder-deal) | Mashable | AI |
+| 4 | [2026 年人工智能可见性和链接建设的 10 个平台 / 10 Platforms for AI Visibility and Link Building in 2026](https://thenextweb.com/news/10-platforms-ai-visibility-link-building-2026) | The Next Web | AI |
+| 5 | [谁赋予了AI企业构建未来的权利？ / Who gave AI companies the right to build the future?](https://www.vox.com/future-perfect/492902/artificial-intelligence-ai-anthropic-jack-clark-oppenheimer-trump) | Recode | AI |
 
 > 共 13 条，以上为 TOP 5。
 
@@ -39,12 +39,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [给公司做了个AI客服Agent，用的Spring AI 1.0，3天上线领导拍板了](https://juejin.cn/post/7664976793314246665) | juejin | AI |
-| 2 | [神话下放，Claude Opus 5 发布！](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247618871&idx=1&sn=58f8d62e7321e3400082d46395366c87) | 夕小瑶科技说 | AI |
-| 3 | [“我一行代码都没读就发布了”，被OpenAI收购后，uv工具创始人开始反思AI编程](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665104&idx=2&sn=47ed57ecaeaef362167a4fa8def55f06) | AI前线 | AI |
-| 4 | [大模型不再稀缺，Kimi上市也难有智谱暴涨的命|巴伦IPO](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA%3D%3D&mid=2661076391&idx=2&sn=8f314fe0e5df7e9ee374a190e9f37ff4) | 钛媒体 | AI |
-| 5 | [黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代...](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA%3D%3D&mid=2247644634&idx=3&sn=40c395802b63e8284e0bc53123ddff88) | 华尔街见闻 | AI |
+| 2 | [Claude Opus 5震撼发布！半价超越Fable 5，内部觉醒「自我保护」意识](https://aiera.com.cn/2026/07/26/other/admin/105934/claude-opus-5%e9%9c%87%e6%92%bc%e5%8f%91%e5%b8%83%ef%bc%81%e5%8d%8a%e4%bb%b7%e8%b6%85%e8%b6%8afable-5%ef%bc%8c%e5%86%85%e9%83%a8%e8%a7%89%e9%86%92%e3%80%8c%e8%87%aa%e6%88%91%e4%bf%9d%e6%8a%a4%e3%80%8d) | 新智元 | AI |
+| 3 | [OpenAI下一代模型，被曝8月提前上线](https://aiera.com.cn/2026/07/26/other/admin/105868/openai%e4%b8%8b%e4%b8%80%e4%bb%a3%e6%a8%a1%e5%9e%8b%ef%bc%8c%e8%a2%ab%e6%9b%9d8%e6%9c%88%e6%8f%90%e5%89%8d%e4%b8%8a%e7%ba%bf) | 新智元 | AI |
+| 4 | [神话下放，Claude Opus 5 发布！](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247618871&idx=1&sn=58f8d62e7321e3400082d46395366c87) | 夕小瑶科技说 | AI |
+| 5 | [“我一行代码都没读就发布了”，被OpenAI收购后，uv工具创始人开始反思AI编程](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665104&idx=2&sn=47ed57ecaeaef362167a4fa8def55f06) | AI前线 | AI |
 
-> 共 69 条，以上为 TOP 5。
+> 共 70 条，以上为 TOP 5。
 
 ---
 
@@ -61,7 +61,7 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [一位67岁老人如何通过SCHD、JEPQ和O实现每月4,800美元的收入](https://finance.yahoo.com/markets/stocks/articles/67-old-built-4-800-214529574.html) | finance.yahoo.com | 变现 |
+| 1 | [[程序员] 从零开始卖课，多久能变现？](https://www.v2ex.com/t/1229829) | V2EX (创意工作者社区) | 变现 |
 | 2 | [[独立开发者 👨‍💻] 独立开发者（opc）收款的问题](https://www.v2ex.com/t/1229785) | V2EX (创意工作者社区) | 变现 |
 | 3 | [罕见的蓝色光学瞬变现象暗示可能存在一种新型宇宙爆炸](https://phys.org/news/2026-07-rare-blue-optical-transient-class.html) | phys.org | 变现 |
 | 4 | [到2032年，英国可能有超过60万高收入者陷入养老金陷阱](https://www.ft.com/content/bfe34895-6383-4906-96b9-c622d10e32da?syn-25a6b1a6=1) | www.ft.com | 变现 |
@@ -77,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-25T22:40:54.128Z
-- **总资讯数**：4146 条原始 → 565 条筛选后
+- **聚合时间**：2026-07-26T01:21:50.555Z
+- **总资讯数**：4200 条原始 → 573 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
