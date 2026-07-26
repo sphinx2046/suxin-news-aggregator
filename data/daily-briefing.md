@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [😁 LLM 不知道的事它不会说"不知道"，而是会"编"——RAG 就是让它闭嘴先查资料](https://juejin.cn/post/7665396549985386530) | juejin | AI |
-| 2 | [Show HN: Boffin——面向AI编码代理的资深工程师层 / Show HN: Boffin – Staff-engineer layer for AI coding agents](https://github.com/MicSm/boffin) | Hacker News | AI |
-| 3 | [如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now](https://www.agrillo.it/EvasionEn.html) | Hacker News | AI |
-| 4 | [今年 7 月，我被 Simple AI（一家 Deeply YC 公司）解雇了 / This July I Was Fired from Simple AI (A Deeply YC Company)](https://andys.blog/this-july-i-was-fired-from-simple-ai) | Hacker News | AI |
-| 5 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 1 | [从零开发一个Coding Agent：monorepo项目搭建](https://juejin.cn/post/7665544212502904878) | juejin | AI |
+| 2 | [😁 LLM 不知道的事它不会说"不知道"，而是会"编"——RAG 就是让它闭嘴先查资料](https://juejin.cn/post/7665396549985386530) | juejin | AI |
+| 3 | [卡帕西入职Anthropic仅两月疑离职；日媒拆解宇树G1后认输：短期内赶不...](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665123&idx=1&sn=cc6b7ed522c17d02c1aef904d799cafa) | AI前线 | AI |
+| 4 | [中国消费换轨：从买商品转向买服务](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ%3D%3D&mid=2653727701&idx=1&sn=1a6f885e977fd29d96bc4a40389adb68) | 财经杂志 | 其他 |
+| 5 | [《财经》APEC观察|《成都声明》发布，亚太数智合作确立行动框架](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ%3D%3D&mid=2653727701&idx=2&sn=2f67c1767f253a6ef6ee515f5ab0fcca) | 财经杂志 | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -30,7 +30,7 @@
 | 4 | [谁赋予了AI企业构建未来的权利？ / Who gave AI companies the right to build the future?](https://www.vox.com/future-perfect/492902/artificial-intelligence-ai-anthropic-jack-clark-oppenheimer-trump) | Recode | AI |
 | 5 | [中国通过广泛提供开放模型并培训发展中国家的人们使用它们来建立人工智能领域的替代性全球秩序（金融时报） / A look at China's bid to build an alternative global order in AI by making open models widely available and training people in developing countries to use them (Financial Times)](https://www.techmeme.com/260725/p17) | Techmeme | AI |
 
-> 共 19 条，以上为 TOP 5。
+> 共 18 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Show HN: 一种操作系统，其中难题会自动升级到更强大的模型中 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](https://github.com/hertz-ai/HARTOS) | Hacker News | AI |
-| 2 | [Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司 / Monday.com is the latest tech company to blame AI for layoffs — here are 20 others](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai) | TechCrunch | AI |
-| 3 | [由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m) | TechCrunch | AI |
-| 4 | [由 Reid Hoffman 和 Marc Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元 / Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m) | TechCrunch | AI |
-| 5 | [在创始人泄露的投资者评论疯传后，DeepSeek 暂停了第二轮融资 / DeepSeek pauses its second fundraising round after founder’s leaked investor comments go viral](https://thenextweb.com/news/deepseek-funding-pause-viral-posts-liang-wenfeng) | The Next Web | AI |
+| 1 | [Google 开源 Agent Substrate：用 8 个 Pod 跑 250 个有状态 Agent，怎么做到的？](https://juejin.cn/post/7665539527542636595) | juejin | AI |
+| 2 | [腾讯云发布首个“流程原生”研发智能体CodeBuddy NPC](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665121&idx=2&sn=9c65635d2d4277225a819affec23e841) | AI前线 | AI |
+| 3 | [腾讯开源三大具身基座模型，首席科学家张正友详解“三层脑”如何破解机器人..](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA%3D%3D&mid=2651289475&idx=2&sn=d82f5dfa31bcbf1d9ad578643fe701f9) | InfoQ | AI |
+| 4 | [OpenAI发布新产品，亲自下场搅动干亿市场](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652714880&idx=2&sn=12a21de712d1f9ca7f91bec3a90cf544) | 新智元 | AI |
+| 5 | [当「变大」不再是唯一的路，又一国产模型开源了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046710&idx=1&sn=b88efc2e6d63b754368c20d849b9cc71) | 机器之心 | AI |
 
-> 共 71 条，以上为 TOP 5。
+> 共 57 条，以上为 TOP 5。
 
 ---
 
@@ -54,7 +54,6 @@
 |---|------|------|------|
 | 1 | [快手入局AI互动内容赛道，开放首批创作者招募](https://www.aibase.com/news/29872) | AIbase | AI/IP |
 | 2 | [《Padam Padam》将爱玩的人与宅家族区分开来——凯莉·米洛这首2023年的热门单曲属于那种节奏扎实、适合跳舞的流行音乐，但几乎无法打动那些自诩为“三十多岁老家伙”的人的耳朵。](https://www.newyorker.com/culture/songs-of-summer/padam-padam-separates-the-party-people-from-the-homebodies) | www.newyorker.com | 回乡 |
-| 3 | [贾跃亭，接住了梅西的最后一波流量](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw%3D%3D&mid=2248896765&idx=1&sn=09cd19149249c783819d41b571b8d950) | 36氪 | IP |
 
 ---
 
@@ -62,7 +61,7 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [一个价值55万美元的投资组合，在社会保障金开始发放之前，每月默默地为一位62岁的老人提供3,400美元的收入](https://finance.yahoo.com/markets/stocks/articles/550-000-portfolio-quietly-pays-195234765.html) | finance.yahoo.com | 变现 |
+| 1 | [赚钱是个拼图游戏](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ%3D%3D&mid=2656189515&idx=3&sn=0177440d0b53e65d86c1d3f413cdbb0f) | 虎嗅App | 变现 |
 | 2 | [数百个城市曾尝试实施基本收入。多年后，这一举措是否奏效了？](https://www.businessinsider.com/years-after-basic-income-participants-share-the-pros-and-cons-2026-7) | www.businessinsider.com | 变现 |
 
 ---
@@ -75,8 +74,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-26T20:42:54.757Z
-- **总资讯数**：4177 条原始 → 546 条筛选后
+- **聚合时间**：2026-07-26T22:45:46.803Z
+- **总资讯数**：4128 条原始 → 524 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
