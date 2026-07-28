@@ -12,9 +12,9 @@
 |---|------|------|------|
 | 1 | [AI驱动的Flutter工程：如何让AI生成代码不跑偏](https://juejin.cn/post/7666102855688650793) | juejin | AI |
 | 2 | [别再"学工具"了，先搭你的 AI 工作流](https://juejin.cn/post/7666014608419323955) | juejin | AI |
-| 3 | [与 Claude 一起发现加密货币的弱点 / Discovering Cryptographic Weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) | Hacker News | AI |
-| 4 | [代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI](https://openai.com/index/scientific-computing-agentic-ai) | Hacker News | AI |
-| 5 | [你本可以想出“基米·德尔塔”这个噱头的 / You Could Have Come Up with Kimi Delta Attention](https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention) | Hacker News | 其他 |
+| 3 | [解剖 Claude Code：逆向工程视角下的入口架构分析](https://juejin.cn/post/7667096004731846682) | juejin | AI |
+| 4 | [Vue 弹窗新范式——代码减少、复用翻倍与 AI 时代的前端基建](https://juejin.cn/post/7666771393113767982) | juejin | AI |
+| 5 | [AI不是万能的，大家要专注实践！](https://juejin.cn/post/7666700111079292943) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [谁给了AI公司建设未来的权利？ / Who gave AI companies the right to build the future?](https://www.vox.com/future-perfect/492902/artificial-intelligence-ai-anthropic-jack-clark-oppenheimer-trump) | Recode | AI |
-| 2 | [总部位于纽约的人工智能初创公司 Runlayer 起诉 Rippling，指控其窃取商业机密，以“构建实质上克隆”的 Runlayer 安全和治理产品（Taylor Herzlich/纽约邮报） / NYC-based AI startup Runlayer sues Rippling for allegedly stealing trade secrets to "build essentially a clone" of Runlayer's safety and governance product (Taylor Herzlich/New York Post)](https://www.techmeme.com/260728/p35) | Techmeme | AI |
-| 3 | [影子 AI 实际上是症状：以下是治疗方法 / Shadow AI is actually the symptom: here's how to treat the cause](https://www.techradar.com/pro/shadow-ai-is-actually-the-symptom-heres-how-to-treat-the-cause) | TechRadar | AI |
-| 4 | [数据中心、电力以及如何成为人工智能热潮中的赢家 / Data centers, power and how to be a winner in the AI Boom](https://www.techradar.com/pro/data-centers-power-and-how-to-be-a-winner-in-the-ai-boom) | TechRadar | AI |
-| 5 | [一位人工智能高管因工作量和压力而辞职。以下是 10 位商界领袖如何避免倦怠的方法。 / An AI exec is stepping down, citing workload and stress. Here's how 10 business leaders stave off burnout.](https://www.businessinsider.com/how-business-leaders-avoid-burnout-work-life-balance-lilian-weng-2026-7) | Business Insider | AI |
+| 1 | [给 AI 的 Agent 实现指南，可控 Agent 的关键](https://juejin.cn/post/7667103725047431174) | juejin | AI |
+| 2 | [AI 生成的代码又乱又爱编？试试这套“先规划，再胶水”的三步法](https://juejin.cn/post/7666289945599246351) | juejin | AI |
+| 3 | [我用了三周Claude Code Skills——总结出5条铁律，第3条最反直觉](https://juejin.cn/post/7666360723081101355) | juejin | AI |
+| 4 | [谁赋予了AI企业构建未来的权利？ / Who gave AI companies the right to build the future?](https://www.vox.com/future-perfect/492902/artificial-intelligence-ai-anthropic-jack-clark-oppenheimer-trump) | Recode | AI |
+| 5 | [资料来源：OpenAI、Anthropic 和 DeepMind 员工正在分享一封信，要求美国政府“审慎地加快自动化人工智能开发的前沿”（彭博社） / Sources: OpenAI, Anthropic, and DeepMind staffers are sharing a letter asking the US government to "deliberately pace the frontier of automated AI development" (Bloomberg)](https://www.techmeme.com/260728/p39) | Techmeme | AI |
 
-> 共 16 条，以上为 TOP 5。
+> 共 12 条，以上为 TOP 5。
 
 ---
 
@@ -40,9 +40,9 @@
 |---|------|------|------|
 | 1 | [大量人们的克劳德聊天和创作在谷歌上曝光 / Tons of Peoples' Claude Chats and Creations Are Exposed On Google](https://yro.slashdot.org/story/26/07/28/0052221/tons-of-peoples-claude-chats-and-creations-are-exposed-on-google) | Slashdot | AI |
 | 2 | [Nvidia 与科技巨头发起人工智能安全计划 / Nvidia, Tech Giants Launch AI Safety Initiative](https://it.slashdot.org/story/26/07/27/195206/nvidia-tech-giants-launch-ai-safety-initiative) | Slashdot | AI |
-| 3 | [Fish Audio 筹集了 5000 万美元种子资金，为创作者和企业构建 AI 语音模型 / Fish Audio raises $50M seed to build AI voice models for creators and enterprises](https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises) | TechCrunch | AI |
-| 4 | [四分之一的标准普尔公司现在声称人工智能带来了可衡量的好处。去年是14% / A quarter of the S&P now claims measurable AI benefits. Last year it was 14%](https://thenextweb.com/news/morgan-stanley-ai-adopters-rotation-sp500-measurable-benefits) | The Next Web | AI |
-| 5 | [Nvidia 宣布了 7500 亿美元的人工智能交易。它自己的信贷市场退缩了。 / Nvidia announced $750bn of AI deals. Its own credit market flinched.](https://thenextweb.com/news/nvidia-announced-750bn-of-ai-deals-its-own-credit-market-flinched) | The Next Web | AI |
+| 3 | [人工智能终于昂贵到让华尔街感到紧张 / AI’s finally expensive enough to make Wall Street nervous](https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex) | The Verge | AI |
+| 4 | [Fish Audio 筹集了 5000 万美元种子资金，为创作者和企业构建 AI 语音模型 / Fish Audio raises $50M seed to build AI voice models for creators and enterprises](https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises) | TechCrunch | AI |
+| 5 | [标准普尔有四分之一的公司现在声称人工智能带来了可衡量的好处。去年是14% / A quarter of the S&P now claims measurable AI benefits. Last year it was 14%](https://thenextweb.com/news/morgan-stanley-ai-adopters-rotation-sp500-measurable-benefits) | The Next Web | AI |
 
 > 共 65 条，以上为 TOP 5。
 
@@ -53,6 +53,8 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [在 Nacos 点了下线，为什么流量还是打到了停机的机器上？](https://juejin.cn/post/7666245761521647631) | juejin | IP |
+| 2 | [一名在Wildberries上经营、拥有130万Instagram粉丝的卖家，在遭遇乌克兰空袭后向俄罗斯当局求助 - Meduza](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUkd2YU1RWEkxcm0zeTBRT1RsYXg2djFWMDIyZXQ0a2JDTVlveS1hSTFBejZNMnpPVmNlVzVQUUN6elEwRGVNRE5XNnVoOHZEX1psSzBfeUlUdWJEcHczd0djUE9wWkpDMHZYVW5RWTFFRFpsVTNpOGY0NVBxc1o0WkV6c1JvOFF2NERMeDd3LWJxMk4wanFGNzNlVTBYUE1rdWs4VGp6LVVPcEV5MDVXWTBmU0F5OUR2bVpDcU03ZGVOeWEtS3lRd3VmWXUxcnQ2T3Z5R05yTlJsR2FKRzhVdGN5cXhDd3dCT2dnNkx30gHzAUFVX3lxTE9sYW5oUUNEU2F3SHhPRmM4a2VrZ2xBT1VKdjVOWGc3amgzYmo0d3ZEMUVBSHI1RjFYQU8tS3E2dHJYREEyckN5RjRHa2VwTUhDdi0wT3hJd2g1NXRBNnVyd0J3YllCT2hobTVPaUxNUlZiQ1NNTW5TWEk0eEZyVFFwcjdudnpzdWhpY1F3T3BCYXhMVzVERkJQLUJBUUFyM2taWDU2NjhLZlhjZ2RoTnZQeDRPekVVcFhfZkVGeUJtWFFkNVdGWERIRnIyX1IxdXNiaVRaQUdOaW83bW42VG1XdWlGWG9mOVVFRUdNT183NmZQRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
+| 3 | [一名在Wildberries上拥有130万Instagram粉丝的卖家，在遭遇乌克兰空袭后向俄罗斯当局求助 - Meduza](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUkd2YU1RWEkxcm0zeTBRT1RsYXg2djFWMDIyZXQ0a2JDTVlveS1hSTFBejZNMnpPVmNlVzVQUUN6elEwRGVNRE5XNnVoOHZEX1psSzBfeUlUdWJEcHczd0djUE9wWkpDMHZYVW5RWTFFRFpsVTNpOGY0NVBxc1o0WkV6c1JvOFF2NERMeDd3LWJxMk4wanFGNzNlVTBYUE1rdWs4VGp6LVVPcEV5MDVXWTBmU0F5OUR2bVpDcU03ZGVOeWEtS3lRd3VmWXUxcnQ2T3Z5R05yTlJsR2FKRzhVdGN5cXhDd3dCT2dnNkx30gHzAUFVX3lxTE9sYW5oUUNEU2F3SHhPRmM4a2VrZ2xBT1VKdjVOWGc3amgzYmo0d3ZEMUVBSHI1RjFYQU8tS3E2dHJYREEyckN5RjRHa2VwTUhDdi0wT3hJd2g1NXRBNnVyd0J3YllCT2hobTVPaUxNUlZiQ1NNTW5TWEk0eEZyVFFwcjdudnpzdWhpY1F3T3BCYXhMVzVERkJQLUJBUUFyM2taWDU2NjhLZlhjZ2RoTnZQeDRPekVVcFhfZkVGeUJtWFFkNVdGWERIRnIyX1IxdXNiaVRaQUdOaW83bW42VG1XdWlGWG9mOVVFRUdNT183NmZQRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
 
 ---
 
@@ -60,11 +62,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [如果我在罗斯个人退休账户（Roth IRA）里有71.5万美元，每月收入3,400美元，64岁时能退休吗？](https://finance.yahoo.com/markets/articles/715k-roth-ira-3-400-160518032.html) | finance.yahoo.com | 变现 |
-| 2 | [Hardbook - 为您自动签订合同的自由职业者预约链接](https://www.producthunt.com/r/BFSS4PCCKOXJ56) | www.producthunt.com | 变现 |
-| 3 | [[囧] 男人的自由一个月值 2w 这个样子,努力赚钱赎身](https://www.v2ex.com/t/1230536) | V2EX (创意工作者社区) | 变现 |
-| 4 | [人工智能领域的收入正在快速增长，但增速仍显不足](https://bit.ly/4x3WiZ3) | bit.ly | AI/变现 |
-| 5 | [2026年，为什么资本更青睐「会赚钱」的AI应用?](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw%3D%3D&mid=2248896978&idx=3&sn=52f1b723264f6126694b88267abb584b) | 36氪 | AI/变现 |
+| 1 | [全球南北之间的收入差距已大幅扩大](https://phys.org/news/2026-07-global-north-south-income-gap.html) | phys.org | 变现 |
+| 2 | [Alphabet收购YouTube的明智之举：这笔16.5亿美元的收购如今已带来110亿美元的季度广告收入](https://finance.yahoo.com/media-advertising/articles/alphabets-youtube-steal-1-65-104519392.html) | finance.yahoo.com | 变现 |
+| 3 | [Ask HN: 科技行业之后有哪些收入尚可的职业？](https://news.ycombinator.com/item?id=49088879) | news.ycombinator.com | 变现 |
+| 4 | [Hardbook - 为您自动签订合同的自由职业者预约链接](https://www.producthunt.com/r/BFSS4PCCKOXJ56) | www.producthunt.com | 变现 |
+| 5 | [[囧] 男人的自由一个月值 2w 这个样子,努力赚钱赎身](https://www.v2ex.com/t/1230536) | V2EX (创意工作者社区) | 变现 |
+
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -76,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-28T19:00:59.137Z
-- **总资讯数**：4394 条原始 → 636 条筛选后
+- **聚合时间**：2026-07-28T20:54:58.844Z
+- **总资讯数**：4388 条原始 → 630 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
