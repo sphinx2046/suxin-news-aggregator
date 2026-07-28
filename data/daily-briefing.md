@@ -12,9 +12,9 @@
 |---|------|------|------|
 | 1 | [AI驱动的Flutter工程：如何让AI生成代码不跑偏](https://juejin.cn/post/7666102855688650793) | juejin | AI |
 | 2 | [别再"学工具"了，先搭你的 AI 工作流](https://juejin.cn/post/7666014608419323955) | juejin | AI |
-| 3 | [显示 HN：Ctrlb-分解：在发送到 LLM 之前从日志中去除噪音 / Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs](https://github.com/ctrlb-hq/ctrlb-decompose) | Hacker News | AI |
-| 4 | [人工智能开发人员可以从 Charles Bukowski 身上学到什么？ / What AI developers could learn from Charles Bukowski?](https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski) | Hacker News | AI |
-| 5 | [Show HN: Segue – 在一个 AI 中保存上下文，通过短句柄将其加载到另一个 AI 中 / Show HN: Segue – Save context in one AI, load it in another by a short handle](https://segue.ai/) | Hacker News | AI |
+| 3 | [你可以想出 Kimi Delta 的注意力 / You Could Have Come Up with Kimi Delta Attention](https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention) | Hacker News | 其他 |
+| 4 | [Show HN: XY——采用Rust语言编写，快速、可组合且支持GPU加速的图表工具 / Show HN: XY – Fast, composable, GPU-accelerated charts, written in Rust](https://github.com/reflex-dev/xy) | Hacker News | 其他 |
+| 5 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -25,7 +25,7 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [Meta 和 BlackRock 成立 140 亿美元合资企业，建设埃尔帕索人工智能数据中心 / Meta and BlackRock form a $14bn venture to build an El Paso AI data centre](https://thenextweb.com/news/meta-blackrock-el-paso-data-centre-14bn) | The Next Web | AI |
-| 2 | [谁给了AI公司建设未来的权利？ / Who gave AI companies the right to build the future?](https://www.vox.com/future-perfect/492902/artificial-intelligence-ai-anthropic-jack-clark-oppenheimer-trump) | Recode | AI |
+| 2 | [谁赋予了AI企业构建未来的权利？ / Who gave AI companies the right to build the future?](https://www.vox.com/future-perfect/492902/artificial-intelligence-ai-anthropic-jack-clark-oppenheimer-trump) | Recode | AI |
 | 3 | [影子 AI 实际上是症状：以下是治疗方法 / Shadow AI is actually the symptom: here's how to treat the cause](https://www.techradar.com/pro/shadow-ai-is-actually-the-symptom-heres-how-to-treat-the-cause) | TechRadar | AI |
 | 4 | [数据中心、电力以及如何成为人工智能热潮中的赢家 / Data centers, power and how to be a winner in the AI Boom](https://www.techradar.com/pro/data-centers-power-and-how-to-be-a-winner-in-the-ai-boom) | TechRadar | AI |
 | 5 | [如何投资仿人机器人，这个科幻小说中的 5 万亿美元潜在市场 / How to invest in humanoid robotics, the potential $5 trillion market that’s straight out of science fiction](https://www.businessinsider.com/humanoid-robotics-stocks-etfs-how-to-invest-koid-labor-manufacturing-2026-7) | Business Insider | AI |
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [显示 HN：正式验证的 3D CSG：信任 93 行规范，而不是 1000 行 AI 代码 / Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](https://github.com/schildep/verified-3d-mesh-intersection) | Hacker News | AI |
-| 2 | [大量人们的克劳德聊天和创作在谷歌上曝光 / Tons of Peoples' Claude Chats and Creations Are Exposed On Google](https://yro.slashdot.org/story/26/07/28/0052221/tons-of-peoples-claude-chats-and-creations-are-exposed-on-google) | Slashdot | AI |
-| 3 | [Nvidia 与科技巨头发起人工智能安全计划 / Nvidia, Tech Giants Launch AI Safety Initiative](https://it.slashdot.org/story/26/07/27/195206/nvidia-tech-giants-launch-ai-safety-initiative) | Slashdot | AI |
-| 4 | [Nvidia 正在与 OpenAI 洽谈，为数据中心提供 2500 亿美元融资 / Nvidia In Talks With OpenAI To Guarantee $250 Billion Financing For Data Center](https://news.slashdot.org/story/26/07/27/0517233/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center) | Slashdot | AI |
-| 5 | [Nvidia、微软推出开放人工智能安全联盟——没有 OpenAI、Google 或 Anthropic / Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic](https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity) | The Verge | AI |
+| 1 | [大量人们的克劳德聊天和创作在谷歌上曝光 / Tons of Peoples' Claude Chats and Creations Are Exposed On Google](https://yro.slashdot.org/story/26/07/28/0052221/tons-of-peoples-claude-chats-and-creations-are-exposed-on-google) | Slashdot | AI |
+| 2 | [Nvidia 与科技巨头发起人工智能安全计划 / Nvidia, Tech Giants Launch AI Safety Initiative](https://it.slashdot.org/story/26/07/27/195206/nvidia-tech-giants-launch-ai-safety-initiative) | Slashdot | AI |
+| 3 | [Nvidia 正在与 OpenAI 洽谈，为数据中心提供 2500 亿美元融资 / Nvidia In Talks With OpenAI To Guarantee $250 Billion Financing For Data Center](https://news.slashdot.org/story/26/07/27/0517233/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center) | Slashdot | AI |
+| 4 | [Nvidia、微软推出开放人工智能安全联盟——没有 OpenAI、Google 或 Anthropic / Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic](https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity) | The Verge | AI |
+| 5 | [Fish Audio 筹集了 5000 万美元种子资金，为创作者和企业构建 AI 语音模型 / Fish Audio raises $50M seed to build AI voice models for creators and enterprises](https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises) | TechCrunch | AI |
 
-> 共 70 条，以上为 TOP 5。
+> 共 64 条，以上为 TOP 5。
 
 ---
 
@@ -53,9 +53,6 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [在 Nacos 点了下线，为什么流量还是打到了停机的机器上？](https://juejin.cn/post/7666245761521647631) | juejin | IP |
-| 2 | [小红书的夏天：世界杯的流量豪赌与被狙击的IPO](https://www.huxiu.com/article/4878879.html?f=rss) | 虎嗅 (Huxiu) | IP |
-| 3 | [峰哥是“爱女博主”吗？](https://www.huxiu.com/article/4878658.html?f=rss) | 虎嗅 (Huxiu) | IP |
-| 4 | [可口可乐的冰露斗不过县城1元水，他们正在抢每个饮料企业的生意](https://www.huxiu.com/article/4878642.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
 
 ---
 
@@ -78,8 +75,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-28T15:56:44.401Z
-- **总资讯数**：4546 条原始 → 673 条筛选后
+- **聚合时间**：2026-07-28T17:19:00.957Z
+- **总资讯数**：4377 条原始 → 640 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
