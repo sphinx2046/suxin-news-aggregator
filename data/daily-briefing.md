@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [别再让AI一键生成PPT了：我用AI重做了一份晋升汇报](https://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA%3D%3D&mid=2651929510&idx=3&sn=88c1fd8991a867222684d8a88f0f0d67) | 人人都是产品经理 | AI |
-| 2 | [分享了克劳德的对话？谷歌可能已经看到了。 / Shared a Claude conversation? Google may have seen it.](https://mashable.com/tech/shared-claude-chats-found-in-google-search) | Mashable | AI |
-| 3 | [谁赋予了AI企业构建未来的权利？ / Who gave AI companies the right to build the future?](https://www.vox.com/future-perfect/492902/artificial-intelligence-ai-anthropic-jack-clark-oppenheimer-trump) | Recode | AI |
-| 4 | [找不到您想要的 Chrome 扩展程序？我用克劳德给我做了两个个性化的——它们工作得完美无缺 / Can’t find the Chrome extension you want? I used Claude to make me two personalized ones — and they’re working flawlessly](https://www.techradar.com/ai-platforms-assistants/cant-find-the-chrome-extension-you-want-i-used-claude-to-make-me-two-personalized-ones-and-theyre-working-flawlessly) | TechRadar | AI |
-| 5 | [Anthropic高管分享她如何利用人工智能协助管理团队 / Anthropic exec shares how she uses AI to help manage her team](https://www.businessinsider.com/anthropic-product-lead-uses-ai-to-help-manage-her-team-2026-7) | Business Insider | AI |
+| 1 | [Who gave AI companies the right to build the future?](https://www.vox.com/future-perfect/492902/artificial-intelligence-ai-anthropic-jack-clark-oppenheimer-trump) | Recode | AI |
+| 2 | [Anthropic高管分享她如何利用人工智能协助管理团队 / Anthropic exec shares how she uses AI to help manage her team](https://www.businessinsider.com/anthropic-product-lead-uses-ai-to-help-manage-her-team-2026-7) | Business Insider | AI |
+| 3 | [这么近，那么美，周末到河北！我用蓝耘 MaaS × 魔珐星云，打造了一位河北专属 3D 导游「冀小美」](https://juejin.cn/post/7665366339244425250) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [不想每次都从头解释：我用 Doubao-Seed-Evolving 做了一个「稿件接力站」](https://juejin.cn/post/7665168262497878051) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [An opinionated guide to which AI to use to do stuff](https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff) | Readhub · AI | AI |
 
-> 共 19 条，以上为 TOP 5。
+> 共 16 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Open Wot 1.0.5 发布：让 AI 接入 wot-ui，只需要两条命令](https://juejin.cn/post/7665699924324892724) | juejin | AI |
-| 2 | [黄仁勋最新长谈：回应首条推文背后的“Linux时刻”，曝物理AI营收已破百...](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665139&idx=1&sn=823eb9c86b8fa91cb43489636e5bfc39) | AI前线 | AI |
-| 3 | [人大系团队、天使轮数千万元融资，境瞳科技给人类社会建一个「世界模型」](https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw%3D%3D&mid=2247525403&idx=1&sn=d42f3cdd9e205e45b46741d1ce6048a8) | FounderPark | AI |
-| 4 | [Nvidia 与科技巨头发起人工智能安全计划 / Nvidia, Tech Giants Launch AI Safety Initiative](https://it.slashdot.org/story/26/07/27/195206/nvidia-tech-giants-launch-ai-safety-initiative) | Slashdot | AI |
-| 5 | [Nvidia 正在与 OpenAI 洽谈，为数据中心提供 2500 亿美元融资 / Nvidia In Talks With OpenAI To Guarantee $250 Billion Financing For Data Center](https://news.slashdot.org/story/26/07/27/0517233/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center) | Slashdot | AI |
+| 1 | [Being-H0.8全新发布，智在无界开创隐式触觉世界动作模型新范式](https://aiera.com.cn/2026/07/28/other/admin/106227/being-h0-8%e5%85%a8%e6%96%b0%e5%8f%91%e5%b8%83%ef%bc%8c%e6%99%ba%e5%9c%a8%e6%97%a0%e7%95%8c%e5%bc%80%e5%88%9b%e9%9a%90%e5%bc%8f%e8%a7%a6%e8%a7%89%e4%b8%96%e7%95%8c%e5%8a%a8%e4%bd%9c%e6%a8%a1%e5%9e%8b) | 新智元 | AI |
+| 2 | [Open Wot 1.0.5 发布：让 AI 接入 wot-ui，只需要两条命令](https://juejin.cn/post/7665699924324892724) | juejin | AI |
+| 3 | [Nvidia, Tech Giants Launch AI Safety Initiative](https://it.slashdot.org/story/26/07/27/195206/nvidia-tech-giants-launch-ai-safety-initiative) | Slashdot | AI |
+| 4 | [Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic](https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity) | The Verge | AI |
+| 5 | [Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system](https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system) | TechCrunch | AI |
 
-> 共 63 条，以上为 TOP 5。
+> 共 57 条，以上为 TOP 5。
 
 ---
 
@@ -52,7 +52,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [“死亡博士”、《人体世界》创作者冈瑟·冯·哈根斯去世，享年81岁](https://www.bbc.co.uk/news/articles/czjlnrn47lwo?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | IP |
+| 1 | [[推广] 无套路 注册就送 500mb 住宅流量 静态住宅等于 2 刀/月 美国机房 1 刀/月起](https://www.v2ex.com/t/1230376) | V2EX (创意工作者社区) | IP |
+| 2 | [峰哥是“爱女博主”吗？](https://www.huxiu.com/article/4878658.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 3 | [可口可乐的冰露斗不过县城1元水，他们正在抢每个饮料企业的生意](https://www.huxiu.com/article/4878642.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 4 | [“死亡博士”、《人体世界》创作者冈瑟·冯·哈根斯去世，享年81岁](https://www.bbc.co.uk/news/articles/czjlnrn47lwo?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | IP |
 
 ---
 
@@ -60,9 +63,8 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [优衣库一边关店，一边赚钱](https://www.36kr.com/p/3913266058826880) | 36氪 · 24小时热榜 | 变现 |
-| 2 | [2026年，为什么资本更青睐「会赚钱」的AI应用?](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw%3D%3D&mid=2248896978&idx=3&sn=52f1b723264f6126694b88267abb584b) | 36氪 | AI/变现 |
-| 3 | [汤姆·霍兰德是如何成为全球票房收入最高的年轻演员的](https://bit.ly/4b9vMoQ) | bit.ly | 变现 |
+| 1 | [2026年，为什么资本更青睐「会赚钱」的AI应用?](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw%3D%3D&mid=2248896978&idx=3&sn=52f1b723264f6126694b88267abb584b) | 36氪 | AI/变现 |
+| 2 | [汤姆·霍兰德是如何成为全球票房收入最高的年轻演员的](https://bit.ly/4b9vMoQ) | bit.ly | 变现 |
 
 ---
 
@@ -74,8 +76,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-28T01:14:00.838Z
-- **总资讯数**：4433 条原始 → 653 条筛选后
+- **聚合时间**：2026-07-28T04:50:03.445Z
+- **总资讯数**：4485 条原始 → 673 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
