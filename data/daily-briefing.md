@@ -12,9 +12,9 @@
 |---|------|------|------|
 | 1 | [AI驱动的Flutter工程：如何让AI生成代码不跑偏](https://juejin.cn/post/7666102855688650793) | juejin | AI |
 | 2 | [别再"学工具"了，先搭你的 AI 工作流](https://juejin.cn/post/7666014608419323955) | juejin | AI |
-| 3 | [解剖 Claude Code：逆向工程视角下的入口架构分析](https://juejin.cn/post/7667096004731846682) | juejin | AI |
-| 4 | [Vue 弹窗新范式——代码减少、复用翻倍与 AI 时代的前端基建](https://juejin.cn/post/7666771393113767982) | juejin | AI |
-| 5 | [AI不是万能的，大家要专注实践！](https://juejin.cn/post/7666700111079292943) | juejin | AI |
+| 3 | [需求爆兵：互联网传统业务不可能实现的目标](https://mp.weixin.qq.com/s?__biz=MzAwMzc4MTQxNA%3D%3D&mid=2247488724&idx=1&sn=e32f35bb6502c1100b268afb2ec975fa) | 产品犬舍 | 其他 |
+| 4 | [苏格兰旅行：爱丁堡 TOP10景点评价与高地旅行团选团攻略](https://mp.weixin.qq.com/s?__biz=MzAwMzc4MTQxNA%3D%3D&mid=2247488665&idx=1&sn=5a26ccf95f70b7773d0a114b4863d9a4) | 产品犬舍 | 其他 |
+| 5 | [5 月札记(下)：古法与思考一起菱缩](https://mp.weixin.qq.com/s?__biz=MzAwMzc4MTQxNA%3D%3D&mid=2247488611&idx=1&sn=cf3282410a3d8f6146aa9c422f0975d3) | 产品犬舍 | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [给 AI 的 Agent 实现指南，可控 Agent 的关键](https://juejin.cn/post/7667103725047431174) | juejin | AI |
-| 2 | [AI 生成的代码又乱又爱编？试试这套“先规划，再胶水”的三步法](https://juejin.cn/post/7666289945599246351) | juejin | AI |
-| 3 | [我用了三周Claude Code Skills——总结出5条铁律，第3条最反直觉](https://juejin.cn/post/7666360723081101355) | juejin | AI |
+| 1 | [AI产品经理转型正确方法：做对这4点，涨薪30%不难！](https://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA%3D%3D&mid=2651929567&idx=2&sn=0389b3d68ea8e7ce1e756b3cd96667a8) | 人人都是产品经理 | AI |
+| 2 | [马斯克承认：AI已经进入一个没人能叫停的时代|【经纬低调分享】](https://mp.weixin.qq.com/s?__biz=MzA3ODk5OTEzOA%3D%3D&mid=2962188260&idx=1&sn=7c13b8d08bfcf726eb35489832c0bbc3) | 经纬创投 | AI |
+| 3 | [JFrog 试图将其应用程序的 OpenAI 0day 漏洞转化为成功案例 / JFrog tries to spin OpenAI 0-day exploit of its app into a success story](https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story) | Ars Technica | AI |
 | 4 | [谁赋予了AI企业构建未来的权利？ / Who gave AI companies the right to build the future?](https://www.vox.com/future-perfect/492902/artificial-intelligence-ai-anthropic-jack-clark-oppenheimer-trump) | Recode | AI |
 | 5 | [资料来源：OpenAI、Anthropic 和 DeepMind 员工正在分享一封信，要求美国政府“审慎地加快自动化人工智能开发的前沿”（彭博社） / Sources: OpenAI, Anthropic, and DeepMind staffers are sharing a letter asking the US government to "deliberately pace the frontier of automated AI development" (Bloomberg)](https://www.techmeme.com/260728/p39) | Techmeme | AI |
 
-> 共 12 条，以上为 TOP 5。
+> 共 15 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [大量人们的克劳德聊天和创作在谷歌上曝光 / Tons of Peoples' Claude Chats and Creations Are Exposed On Google](https://yro.slashdot.org/story/26/07/28/0052221/tons-of-peoples-claude-chats-and-creations-are-exposed-on-google) | Slashdot | AI |
-| 2 | [Nvidia 与科技巨头发起人工智能安全计划 / Nvidia, Tech Giants Launch AI Safety Initiative](https://it.slashdot.org/story/26/07/27/195206/nvidia-tech-giants-launch-ai-safety-initiative) | Slashdot | AI |
-| 3 | [人工智能终于昂贵到让华尔街感到紧张 / AI’s finally expensive enough to make Wall Street nervous](https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex) | The Verge | AI |
-| 4 | [Fish Audio 筹集了 5000 万美元种子资金，为创作者和企业构建 AI 语音模型 / Fish Audio raises $50M seed to build AI voice models for creators and enterprises](https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises) | TechCrunch | AI |
-| 5 | [标准普尔有四分之一的公司现在声称人工智能带来了可衡量的好处。去年是14% / A quarter of the S&P now claims measurable AI benefits. Last year it was 14%](https://thenextweb.com/news/morgan-stanley-ai-adopters-rotation-sp500-measurable-benefits) | The Next Web | AI |
+| 1 | [Cloudera CTO：技术自主，始于开源架构](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665156&idx=2&sn=4adca405fb2868d0e90077761b4788a7) | AI前线 | AI |
+| 2 | [创业板指收盘跌7.35%；月之暗面开源KimiK3模型|科股快报](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA%3D%3D&mid=2661076466&idx=3&sn=41a6ea247f2214d1886799c9f7a33a17) | 钛媒体 | AI |
+| 3 | [月之暗面开源Kimi K3 模型，2.8万亿参数；英伟达牵头成立开放安全AI联盟...](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653111265&idx=1&sn=71691bfcd89d6383b62ee784ed56a42a) | 极客公园 | AI |
+| 4 | [普通人跑不起 K3！Kimi 开源，Anthropic微妙表态：从未主张禁止开放权重模型](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA%3D%3D&mid=2651289582&idx=1&sn=6fd20a0e60e38331404b2907990bb97d) | InfoQ | AI |
+| 5 | [老黄首推引l爆开源论战：Anthropic员工催CUDA开源，吴恩达反击：你可以...](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA%3D%3D&mid=2651289545&idx=1&sn=46fccfe9218eb96dad04a81fd49c9d21) | InfoQ | AI |
 
-> 共 65 条，以上为 TOP 5。
+> 共 75 条，以上为 TOP 5。
 
 ---
 
@@ -53,8 +53,9 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [在 Nacos 点了下线，为什么流量还是打到了停机的机器上？](https://juejin.cn/post/7666245761521647631) | juejin | IP |
-| 2 | [一名在Wildberries上经营、拥有130万Instagram粉丝的卖家，在遭遇乌克兰空袭后向俄罗斯当局求助 - Meduza](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUkd2YU1RWEkxcm0zeTBRT1RsYXg2djFWMDIyZXQ0a2JDTVlveS1hSTFBejZNMnpPVmNlVzVQUUN6elEwRGVNRE5XNnVoOHZEX1psSzBfeUlUdWJEcHczd0djUE9wWkpDMHZYVW5RWTFFRFpsVTNpOGY0NVBxc1o0WkV6c1JvOFF2NERMeDd3LWJxMk4wanFGNzNlVTBYUE1rdWs4VGp6LVVPcEV5MDVXWTBmU0F5OUR2bVpDcU03ZGVOeWEtS3lRd3VmWXUxcnQ2T3Z5R05yTlJsR2FKRzhVdGN5cXhDd3dCT2dnNkx30gHzAUFVX3lxTE9sYW5oUUNEU2F3SHhPRmM4a2VrZ2xBT1VKdjVOWGc3amgzYmo0d3ZEMUVBSHI1RjFYQU8tS3E2dHJYREEyckN5RjRHa2VwTUhDdi0wT3hJd2g1NXRBNnVyd0J3YllCT2hobTVPaUxNUlZiQ1NNTW5TWEk0eEZyVFFwcjdudnpzdWhpY1F3T3BCYXhMVzVERkJQLUJBUUFyM2taWDU2NjhLZlhjZ2RoTnZQeDRPekVVcFhfZkVGeUJtWFFkNVdGWERIRnIyX1IxdXNiaVRaQUdOaW83bW42VG1XdWlGWG9mOVVFRUdNT183NmZQRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 3 | [一名在Wildberries上拥有130万Instagram粉丝的卖家，在遭遇乌克兰空袭后向俄罗斯当局求助 - Meduza](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUkd2YU1RWEkxcm0zeTBRT1RsYXg2djFWMDIyZXQ0a2JDTVlveS1hSTFBejZNMnpPVmNlVzVQUUN6elEwRGVNRE5XNnVoOHZEX1psSzBfeUlUdWJEcHczd0djUE9wWkpDMHZYVW5RWTFFRFpsVTNpOGY0NVBxc1o0WkV6c1JvOFF2NERMeDd3LWJxMk4wanFGNzNlVTBYUE1rdWs4VGp6LVVPcEV5MDVXWTBmU0F5OUR2bVpDcU03ZGVOeWEtS3lRd3VmWXUxcnQ2T3Z5R05yTlJsR2FKRzhVdGN5cXhDd3dCT2dnNkx30gHzAUFVX3lxTE9sYW5oUUNEU2F3SHhPRmM4a2VrZ2xBT1VKdjVOWGc3amgzYmo0d3ZEMUVBSHI1RjFYQU8tS3E2dHJYREEyckN5RjRHa2VwTUhDdi0wT3hJd2g1NXRBNnVyd0J3YllCT2hobTVPaUxNUlZiQ1NNTW5TWEk0eEZyVFFwcjdudnpzdWhpY1F3T3BCYXhMVzVERkJQLUJBUUFyM2taWDU2NjhLZlhjZ2RoTnZQeDRPekVVcFhfZkVGeUJtWFFkNVdGWERIRnIyX1IxdXNiaVRaQUdOaW83bW42VG1XdWlGWG9mOVVFRUdNT183NmZQRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
+| 2 | [昆仑万维押注世界模型的两大产业路径：内容创作实时、可交互，机器人先“预...](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA%3D%3D&mid=2651289582&idx=3&sn=e57cb685198719416b3a6e90d2635c79) | InfoQ | AI/IP |
+| 3 | [一名在Wildberries上经营、拥有130万Instagram粉丝的卖家，在遭遇乌克兰空袭后向俄罗斯当局求助 - Meduza](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUkd2YU1RWEkxcm0zeTBRT1RsYXg2djFWMDIyZXQ0a2JDTVlveS1hSTFBejZNMnpPVmNlVzVQUUN6elEwRGVNRE5XNnVoOHZEX1psSzBfeUlUdWJEcHczd0djUE9wWkpDMHZYVW5RWTFFRFpsVTNpOGY0NVBxc1o0WkV6c1JvOFF2NERMeDd3LWJxMk4wanFGNzNlVTBYUE1rdWs4VGp6LVVPcEV5MDVXWTBmU0F5OUR2bVpDcU03ZGVOeWEtS3lRd3VmWXUxcnQ2T3Z5R05yTlJsR2FKRzhVdGN5cXhDd3dCT2dnNkx30gHzAUFVX3lxTE9sYW5oUUNEU2F3SHhPRmM4a2VrZ2xBT1VKdjVOWGc3amgzYmo0d3ZEMUVBSHI1RjFYQU8tS3E2dHJYREEyckN5RjRHa2VwTUhDdi0wT3hJd2g1NXRBNnVyd0J3YllCT2hobTVPaUxNUlZiQ1NNTW5TWEk0eEZyVFFwcjdudnpzdWhpY1F3T3BCYXhMVzVERkJQLUJBUUFyM2taWDU2NjhLZlhjZ2RoTnZQeDRPekVVcFhfZkVGeUJtWFFkNVdGWERIRnIyX1IxdXNiaVRaQUdOaW83bW42VG1XdWlGWG9mOVVFRUdNT183NmZQRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
+| 4 | [一名在Wildberries上拥有130万Instagram粉丝的卖家，在遭遇乌克兰空袭后向俄罗斯当局求助 - Meduza](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUkd2YU1RWEkxcm0zeTBRT1RsYXg2djFWMDIyZXQ0a2JDTVlveS1hSTFBejZNMnpPVmNlVzVQUUN6elEwRGVNRE5XNnVoOHZEX1psSzBfeUlUdWJEcHczd0djUE9wWkpDMHZYVW5RWTFFRFpsVTNpOGY0NVBxc1o0WkV6c1JvOFF2NERMeDd3LWJxMk4wanFGNzNlVTBYUE1rdWs4VGp6LVVPcEV5MDVXWTBmU0F5OUR2bVpDcU03ZGVOeWEtS3lRd3VmWXUxcnQ2T3Z5R05yTlJsR2FKRzhVdGN5cXhDd3dCT2dnNkx30gHzAUFVX3lxTE9sYW5oUUNEU2F3SHhPRmM4a2VrZ2xBT1VKdjVOWGc3amgzYmo0d3ZEMUVBSHI1RjFYQU8tS3E2dHJYREEyckN5RjRHa2VwTUhDdi0wT3hJd2g1NXRBNnVyd0J3YllCT2hobTVPaUxNUlZiQ1NNTW5TWEk0eEZyVFFwcjdudnpzdWhpY1F3T3BCYXhMVzVERkJQLUJBUUFyM2taWDU2NjhLZlhjZ2RoTnZQeDRPekVVcFhfZkVGeUJtWFFkNVdGWERIRnIyX1IxdXNiaVRaQUdOaW83bW42VG1XdWlGWG9mOVVFRUdNT183NmZQRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
 
 ---
 
@@ -62,13 +63,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [全球南北之间的收入差距已大幅扩大](https://phys.org/news/2026-07-global-north-south-income-gap.html) | phys.org | 变现 |
-| 2 | [Alphabet收购YouTube的明智之举：这笔16.5亿美元的收购如今已带来110亿美元的季度广告收入](https://finance.yahoo.com/media-advertising/articles/alphabets-youtube-steal-1-65-104519392.html) | finance.yahoo.com | 变现 |
+| 1 | [坐在办公室里，是想不出赚钱办法的](https://mp.weixin.qq.com/s?__biz=MjM5NjM5MjQ4MQ%3D%3D&mid=2651785984&idx=1&sn=054f2ead810005ed8a9de29587d1a591) | 刘润 | 变现 |
+| 2 | [全球南北之间的收入差距已大幅扩大](https://phys.org/news/2026-07-global-north-south-income-gap.html) | phys.org | 变现 |
 | 3 | [Ask HN: 科技行业之后有哪些收入尚可的职业？](https://news.ycombinator.com/item?id=49088879) | news.ycombinator.com | 变现 |
 | 4 | [Hardbook - 为您自动签订合同的自由职业者预约链接](https://www.producthunt.com/r/BFSS4PCCKOXJ56) | www.producthunt.com | 变现 |
 | 5 | [[囧] 男人的自由一个月值 2w 这个样子,努力赚钱赎身](https://www.v2ex.com/t/1230536) | V2EX (创意工作者社区) | 变现 |
 
-> 共 7 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -80,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-28T20:54:58.844Z
-- **总资讯数**：4388 条原始 → 630 条筛选后
+- **聚合时间**：2026-07-28T22:47:04.769Z
+- **总资讯数**：4342 条原始 → 639 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
