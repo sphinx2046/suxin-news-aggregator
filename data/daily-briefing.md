@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [菲尔兹奖得主预警：AI可能杀死数学！](https://aiera.com.cn/2026/07/29/other/admin/106392/%e8%8f%b2%e5%b0%94%e5%85%b9%e5%a5%96%e5%be%97%e4%b8%bb%e9%a2%84%e8%ad%a6%ef%bc%9aai%e5%8f%af%e8%83%bd%e6%9d%80%e6%ad%bb%e6%95%b0%e5%ad%a6%ef%bc%81) | 新智元 | AI |
-| 2 | [LeCun连续转发！新作VISReg攻克JEPA世界模型「表征坍塌」核心难题](https://aiera.com.cn/2026/07/29/other/admin/106309/lecun%e8%bf%9e%e7%bb%ad%e8%bd%ac%e5%8f%91%ef%bc%81%e6%96%b0%e4%bd%9cvisreg%e6%94%bb%e5%85%8bjepa%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%e3%80%8c%e8%a1%a8%e5%be%81%e5%9d%8d%e5%a1%8c%e3%80%8d%e6%a0%b8) | 新智元 | AI |
-| 3 | [老黄人生第二条推文！只有Anthropic还在死扛](https://aiera.com.cn/2026/07/29/other/admin/106278/%e8%80%81%e9%bb%84%e4%ba%ba%e7%94%9f%e7%ac%ac%e4%ba%8c%e6%9d%a1%e6%8e%a8%e6%96%87%ef%bc%81%e5%8f%aa%e6%9c%89anthropic%e8%bf%98%e5%9c%a8%e6%ad%bb%e6%89%9b) | 新智元 | AI |
-| 4 | [别再"学工具"了，先搭你的 AI 工作流](https://juejin.cn/post/7666014608419323955) | juejin | AI |
-| 5 | [Transformer Transformer：运动条件机器人协同设计的统一模型 / Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/) | Hacker News | AI |
+| 1 | [原来 AI Agent 的核心循环这么简单：手搓一个 Agent Loop](https://juejin.cn/post/7666403249923473459) | juejin | AI |
+| 2 | [Transformer Transformer：运动条件机器人协同设计的统一模型 / Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/) | Hacker News | AI |
+| 3 | [Show HN: 基于 Google Zanzibar 的 Lean4 数据日志 DSL，适用于人工智能项目 / Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects](https://github.com/jagg-ix/zil-lean) | Hacker News | AI |
+| 4 | [通过 WebGPU 在浏览器中显示 HN: Manim（3Blue1Brown 的动画引擎） / Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU](https://studio.academa.ai/) | Hacker News | 其他 |
+| 5 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -25,12 +25,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [我用了三周Claude Code Skills——总结出5条铁律，第3条最反直觉](https://juejin.cn/post/7666360723081101355) | juejin | AI |
-| 2 | [LearnVector – 吴恩达的人工智能公司打造一对一的学习体验 / LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/) | Hacker News | AI |
+| 2 | [LearnVector——吴恩达创立的人工智能公司，致力于打造一对一的学习体验 / LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/) | Hacker News | AI |
 | 3 | [1,134 名人工智能内部人士刚刚向华盛顿寻求减缓人工智能速度的方法 / 1,134 AI insiders just asked Washington for a way to slow AI down](https://thenextweb.com/news/pacing-the-frontier-ai-employees-letter-us-government) | The Next Web | AI |
 | 4 | [谁赋予了AI企业构建未来的权利？ / Who gave AI companies the right to build the future?](https://www.vox.com/future-perfect/492902/artificial-intelligence-ai-anthropic-jack-clark-oppenheimer-trump) | Recode | AI |
-| 5 | [美国联邦通信委员会禁止进口中国人形机器人和电源逆变器，以保护美国人工智能建设免受国家安全威胁并回流关键行业（路透社） / The US FCC bans importing Chinese humanoid robots and power inverters to protect the US AI buildout from national security threats and to reshore key industries (Reuters)](https://www.techmeme.com/260728/p41) | Techmeme | AI |
+| 5 | [这么近，那么美，周末到河北！我用蓝耘 MaaS × 魔珐星云，打造了一位河北专属 3D 导游「冀小美」](https://juejin.cn/post/7665366339244425250) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 12 条，以上为 TOP 5。
+> 共 18 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [刚刚，Kimi K3开源！3万亿模型权重全球开放](https://aiera.com.cn/2026/07/29/other/admin/106375/%e5%88%9a%e5%88%9a%ef%bc%8ckimi-k3%e5%bc%80%e6%ba%90%ef%bc%813%e4%b8%87%e4%ba%bf%e6%a8%a1%e5%9e%8b%e6%9d%83%e9%87%8d%e5%85%a8%e7%90%83%e5%bc%80%e6%94%be) | 新智元 | AI |
-| 2 | [中国医疗AI拿下全球第一！14亿人的微信「私人医生」重磅升级](https://aiera.com.cn/2026/07/29/other/admin/106329/%e4%b8%ad%e5%9b%bd%e5%8c%bb%e7%96%97ai%e6%8b%bf%e4%b8%8b%e5%85%a8%e7%90%83%e7%ac%ac%e4%b8%80%ef%bc%8114%e4%ba%bf%e4%ba%ba%e7%9a%84%e5%be%ae%e4%bf%a1%e3%80%8c%e7%a7%81%e4%ba%ba%e5%8c%bb%e7%94%9f) | 新智元 | AI |
-| 3 | [老黄版「曼哈顿计划」来了！砸50亿给Ilya，又批2500亿天价担保OpenAI](https://aiera.com.cn/2026/07/29/other/admin/106265/%e8%80%81%e9%bb%84%e7%89%88%e3%80%8c%e6%9b%bc%e5%93%88%e9%a1%bf%e8%ae%a1%e5%88%92%e3%80%8d%e6%9d%a5%e4%ba%86%ef%bc%81%e7%a0%b850%e4%ba%bf%e7%bb%99ilya%ef%bc%8c%e5%8f%88%e6%89%b92500%e4%ba%bf%e5%a4%a9) | 新智元 | AI |
-| 4 | [133家联名挺开源，独缺Anthropic！达里奥：从没想过禁开源](https://aiera.com.cn/2026/07/29/other/admin/106246/133%e5%ae%b6%e8%81%94%e5%90%8d%e6%8c%ba%e5%bc%80%e6%ba%90%ef%bc%8c%e7%8b%ac%e7%bc%baanthropic%ef%bc%81%e8%be%be%e9%87%8c%e5%a5%a5%ef%bc%9a%e4%bb%8e%e6%b2%a1%e6%83%b3%e8%bf%87%e7%a6%81%e5%bc%80) | 新智元 | AI |
-| 5 | [Hubbele：适合您和您的代理的开源笔记应用程序 / Hubbele: Open-source notetaking app for you and your agents](https://www.hubble.md/) | Hacker News | AI |
+| 1 | [Hubbele：适合您和您的代理的开源笔记应用程序 / Hubbele: Open-source notetaking app for you and your agents](https://www.hubble.md/) | Hacker News | AI |
+| 2 | [大量人们的克劳德聊天和创作在谷歌上曝光 / Tons of Peoples' Claude Chats and Creations Are Exposed On Google](https://yro.slashdot.org/story/26/07/28/0052221/tons-of-peoples-claude-chats-and-creations-are-exposed-on-google) | Slashdot | AI |
+| 3 | [人工智能终于昂贵到让华尔街感到紧张 / AI’s finally expensive enough to make Wall Street nervous](https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex) | The Verge | AI |
+| 4 | [Cyera 同意以 10 亿美元收购 Oasis Security，以保护不断扩散的人工智能代理 / Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents](https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents) | TechCrunch | AI |
+| 5 | [微软推出了一系列人工智能安全工具，称其性能优于竞争对手的平台 / Microsoft unveils AI security tools it says outperform competing platforms](https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms) | Ars Technica | AI |
 
-> 共 89 条，以上为 TOP 5。
+> 共 83 条，以上为 TOP 5。
 
 ---
 
@@ -53,9 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [在 Nacos 点了下线，为什么流量还是打到了停机的机器上？](https://juejin.cn/post/7666245761521647631) | juejin | IP |
-| 2 | [乡村日记：在诗人约翰·克莱尔的花园里，我思念着也曾在此生活的祖先 尼克·威尔逊](https://www.theguardian.com/environment/2026/jul/29/country-diary-in-poet-john-clares-garden-i-contemplate-my-ancestor-who-lived-here-too) | www.theguardian.com | 回乡 |
-| 3 | [[分享创造] Vibe 了一个微信视频号下载器](https://www.v2ex.com/t/1230640) | V2EX (创意工作者社区) | IP |
-| 4 | [昆仑万维押注世界模型的两大产业路径：内容创作实时、可交互，机器人先“预...](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA%3D%3D&mid=2651289582&idx=3&sn=e57cb685198719416b3a6e90d2635c79) | InfoQ | AI/IP |
+| 2 | [[问与答] 一个人，在有房单身未婚无娃，房在 4/5 线小县城，低欲望的情况下， 120 个（或多一点或少一点）到底能不能活完下半辈子？](https://www.v2ex.com/t/1230755) | V2EX (创意工作者社区) | 回乡 |
+| 3 | [eBay就骚扰案与博主们达成5600万美元和解协议 - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE10OWhudTFQSnkwaDRrQzhVYVRWNTkyenR6b1pEM1lSSlUxUFd1UkM0S1lUWElWcUJlSXlUTzh4N2pCN2ZOa3MyQmtfTkdOM2xKQ19XZWE4U3h5UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
+| 4 | [[推广] 继续免费赠送住宅 IP, 流量不限](https://www.v2ex.com/t/1230735) | V2EX (创意工作者社区) | IP |
+| 5 | [[推广] 双 isp 独享住宅 IP 流量免费送，跨境采集爬虫适用](https://www.v2ex.com/t/1230715) | V2EX (创意工作者社区) | IP |
+
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -63,11 +66,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [得益于贷款收入的回升，凯克萨银行第二季度净利润增长10%](https://www.reuters.com/business/finance/caixabanks-q2-net-profit-rises-10-same-period-2025-2026-07-29) | www.reuters.com | 变现 |
-| 2 | [坐在办公室里，是想不出赚钱办法的](https://mp.weixin.qq.com/s?__biz=MjM5NjM5MjQ4MQ%3D%3D&mid=2651785984&idx=1&sn=054f2ead810005ed8a9de29587d1a591) | 刘润 | 变现 |
-| 3 | [Ask HN: 科技行业之后有哪些收入尚可的职业？](https://news.ycombinator.com/item?id=49088879) | news.ycombinator.com | 变现 |
-| 4 | [Hardbook - 为您自动签订合同的自由职业者预约链接](https://www.producthunt.com/r/BFSS4PCCKOXJ56) | www.producthunt.com | 变现 |
-| 5 | [人工智能领域的收入正在快速增长，但增速仍显不足](https://bit.ly/4x3WiZ3) | bit.ly | AI/变现 |
+| 1 | [消息称微软 XBOX Series X｜S 涨价难抵硬件亏损，下一代主机“Project Helix”面临商业模式抉择](https://www.ithome.com/0/983/112.htm) | IT之家 (ITHome) | 变现 |
+| 2 | [保时捷 2026 年上半年销售收入 172.29 亿欧元同比下降 5.11%，中国市场交付量大降 31.93%](https://www.ithome.com/0/983/110.htm) | IT之家 (ITHome) | 变现 |
+| 3 | [国家邮政局：目标到 2030 年，邮政行业寄递业务量达 2900 亿件、快递业务收入达 2 万亿元](https://www.ithome.com/0/983/109.htm) | IT之家 (ITHome) | 变现 |
+| 4 | [海力士史上最赚钱的季度，为何仍“不及预期”？](https://www.huxiu.com/article/4878988.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 5 | [坐在办公室里，是想不出赚钱办法的](https://mp.weixin.qq.com/s?__biz=MjM5NjM5MjQ4MQ%3D%3D&mid=2651785984&idx=1&sn=054f2ead810005ed8a9de29587d1a591) | 刘润 | 变现 |
+
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -79,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-29T04:54:56.377Z
-- **总资讯数**：4446 条原始 → 682 条筛选后
+- **聚合时间**：2026-07-29T08:13:23.855Z
+- **总资讯数**：4460 条原始 → 675 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
