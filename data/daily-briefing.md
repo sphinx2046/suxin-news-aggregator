@@ -11,10 +11,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [原来 AI Agent 的核心循环这么简单：手搓一个 Agent Loop](https://juejin.cn/post/7666403249923473459) | juejin | AI |
-| 2 | [Show HN: Kedge——支持可分叉虚拟机快照和全局 SQLite 的全栈云平台 / Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite](https://kedge.dev/) | Hacker News | 其他 |
-| 3 | [Cesium DevCon 2026 演讲已经开始，其中包括 SQLite 创建者的主题演讲 / Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator](https://cesium.com/events/cesium-developer-conference/2026) | Hacker News | 其他 |
-| 4 | [拥抱面孔：前沿实验室特工入侵剖析 / Hugging Face: Anatomy of a frontier-lab agent intrusion](https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html) | Hacker News | AI |
-| 5 | [GPT-5.6 与物理 AI 的克劳德寓言 5，哪个表现最好？ / GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?](https://juliahub.com/blog/frontier-models-physical-ai-evaluation) | Hacker News | AI |
+| 2 | [具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……](https://sspai.com/post/112430) | sspai | AI |
+| 3 | [代理应用程序的基础设施模式 / Infrastructure Patterns for Agentic Applications](https://render.com/blog/infrastructure-patterns-for-agentic-applications) | Hacker News | AI |
+| 4 | [关于Anthropic最新研究成果的一些说明 / Some thoughts about Anthropic's new cryptanalysis results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results) | Hacker News | AI |
+| 5 | [Show HN: Kedge——支持可分叉虚拟机快照和全局 SQLite 的全栈云平台 / Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite](https://kedge.dev/) | Hacker News | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -52,7 +52,7 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [英国著名债券投资者、博主吉姆·莱维斯去世，享年55岁](https://www.bloomberg.com/news/articles/2026-07-29/jim-leaviss-renowned-british-bond-investor-blogger-dies-at-55) | www.bloomberg.com | IP |
+| 1 | [巴西央行表示，截至7月24日，巴西7月份外汇流量为负8.76亿美元](https://www.reuters.com/pt/negocio/OHVJK4D7QBK5DDDV33VL2LLTFQ-2026-07-29) | www.reuters.com | IP |
 | 2 | [西班牙数千人返乡，但新一轮热浪引发山火担忧 - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE56VVpxZ0o2Szg4YUNBUHl6WXBFc21oQzZhcU80OHBzSVBfZnExRGcxNV83RUw0cFJLUUZQZVR5ZDJtM3ZiN3ZoOUh5dkNVQWVReUg0ODhkc1A3UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 回乡 |
 | 3 | [西班牙数千人返乡，但新一轮热浪引发山火担忧](https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | 回乡 |
 | 4 | [美国农村地区的孕产妇健康危机即将急剧恶化](https://www.theatlantic.com/ideas/2026/07/giving-birth-rural-hospitals-danger-mortality/688091) | www.theatlantic.com | 回乡 |
@@ -77,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-29T17:00:40.309Z
-- **总资讯数**：4427 条原始 → 658 条筛选后
+- **聚合时间**：2026-07-29T18:47:07.337Z
+- **总资讯数**：4426 条原始 → 657 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
