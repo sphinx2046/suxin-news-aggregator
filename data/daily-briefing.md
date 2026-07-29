@@ -11,10 +11,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [原来 AI Agent 的核心循环这么简单：手搓一个 Agent Loop](https://juejin.cn/post/7666403249923473459) | juejin | AI |
-| 2 | [具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……](https://sspai.com/post/112430) | sspai | AI |
-| 3 | [代理应用程序的基础设施模式 / Infrastructure Patterns for Agentic Applications](https://render.com/blog/infrastructure-patterns-for-agentic-applications) | Hacker News | AI |
-| 4 | [关于Anthropic最新研究成果的一些说明 / Some thoughts about Anthropic's new cryptanalysis results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results) | Hacker News | AI |
-| 5 | [Show HN: Kedge——支持可分叉虚拟机快照和全局 SQLite 的全栈云平台 / Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite](https://kedge.dev/) | Hacker News | 其他 |
+| 2 | [解剖 Claude Code：逆向工程视角下的入口架构分析](https://juejin.cn/post/7667096004731846682) | juejin | AI |
+| 3 | [携程员工：在携程4年，月薪3万左右，基本没涨薪了。不过挺满足的，毕竟稳定，福利也不错（附Agent面试题）](https://juejin.cn/post/7667495083470471177) | juejin | AI |
+| 4 | [Vue 弹窗新范式——代码减少、复用翻倍与 AI 时代的前端基建](https://juejin.cn/post/7666771393113767982) | juejin | AI |
+| 5 | [AI不是万能的，大家要专注实践！](https://juejin.cn/post/7666700111079292943) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -25,12 +25,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [我用了三周Claude Code Skills——总结出5条铁律，第3条最反直觉](https://juejin.cn/post/7666360723081101355) | juejin | AI |
-| 2 | [谁赋予了AI企业构建未来的权利？ / Who gave AI companies the right to build the future?](https://www.vox.com/future-perfect/492902/artificial-intelligence-ai-anthropic-jack-clark-oppenheimer-trump) | Recode | AI |
-| 3 | [给 AI 的 Agent 实现指南，可控 Agent 的关键](https://juejin.cn/post/7667103725047431174) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [这么近，那么美，周末到河北！我用蓝耘 MaaS × 魔珐星云，打造了一位河北专属 3D 导游「冀小美」](https://juejin.cn/post/7665366339244425250) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [🔥 AI 写代码总翻车？这套实战方法论救了我](https://juejin.cn/post/7665893501925589019) | 掘金 · 人工智能本周最热 | AI |
+| 2 | [给 AI 的 Agent 实现指南，可控 Agent 的关键](https://juejin.cn/post/7667103725047431174) | juejin | AI |
+| 3 | [OpenAI 总裁表示正在为其人工智能聊天机器人“打造一系列设备” / OpenAI president says it’s ‘building a family of devices’ for its AI chatbots](https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview) | The Verge | AI |
+| 4 | [以下是如何在不丢失任何信息的情况下从 ChatGPT 切换到 Claude / Here's how to switch from ChatGPT to Claude without losing any information](https://www.engadget.com/2222018/how-to-switch-from-chatgpt-to-claude-without-losing-information) | Engadget | AI |
+| 5 | [谁给了AI公司建设未来的权利？ / Who gave AI companies the right to build the future?](https://www.vox.com/future-perfect/492902/artificial-intelligence-ai-anthropic-jack-clark-oppenheimer-trump) | Recode | AI |
 
-> 共 17 条，以上为 TOP 5。
+> 共 19 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [大量人们的克劳德聊天和创作在谷歌上曝光 / Tons of Peoples' Claude Chats and Creations Are Exposed On Google](https://yro.slashdot.org/story/26/07/28/0052221/tons-of-peoples-claude-chats-and-creations-are-exposed-on-google) | Slashdot | AI |
-| 2 | [曾在 Comet 工作的 Perplexity 员工推出一款针对知识工作的 AI 浏览器 / Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work](https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work) | TechCrunch | AI |
-| 3 | [Encore AI 融资 3000 万美元，用于构建能够从客户呼叫中学习的人工智能代理 / Encore AI raises $30M to build AI agents that learn from customer calls](https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls) | TechCrunch | AI |
-| 4 | [随着人工智能内容充斥互联网，Pangram 筹集了 900 万美元来检测它 / As AI content floods the internet, Pangram raises $9M to detect it](https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it) | TechCrunch | AI |
-| 5 | [Cyera 同意以 10 亿美元收购 Oasis Security，以保护不断扩散的人工智能代理 / Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents](https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents) | TechCrunch | AI |
+| 1 | [曾在 Comet 工作的 Perplexity 员工推出一款针对知识工作的 AI 浏览器 / Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work](https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work) | TechCrunch | AI |
+| 2 | [Encore AI 融资 3000 万美元，用于构建能够从客户呼叫中学习的人工智能代理 / Encore AI raises $30M to build AI agents that learn from customer calls](https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls) | TechCrunch | AI |
+| 3 | [随着人工智能内容充斥互联网，Pangram 筹集了 900 万美元来检测它 / As AI content floods the internet, Pangram raises $9M to detect it](https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it) | TechCrunch | AI |
+| 4 | [OpenAI“开源”了其人工智能安全扫描仪。扫描仪仍处于锁定状态。 / OpenAI ‘open-sourced’ its AI security scanner. The scanner is still locked up.](https://thenextweb.com/news/openai-codex-security-cli-open-source-appsec-anthropic) | The Next Web | AI |
+| 5 | [HBO Max 刚刚推出了 TikTok 风格的短片和人工智能搜索，这是一场剧透噩梦 / HBO Max just launched TikTok-style shorts and AI search that's a spoiler nightmare](https://www.makeuseof.com/hbo-max-launches-new-ai-shorts-because-why-not) | MakeUseOf | AI |
 
-> 共 83 条，以上为 TOP 5。
+> 共 82 条，以上为 TOP 5。
 
 ---
 
@@ -77,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-29T18:47:07.337Z
-- **总资讯数**：4426 条原始 → 657 条筛选后
+- **聚合时间**：2026-07-29T20:40:55.816Z
+- **总资讯数**：4420 条原始 → 656 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
