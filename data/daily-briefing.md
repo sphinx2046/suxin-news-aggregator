@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [解剖 Claude Code：逆向工程视角下的入口架构分析](https://juejin.cn/post/7667096004731846682) | juejin | AI |
-| 2 | [携程员工：在携程4年，月薪3万左右，基本没涨薪了。不过挺满足的，毕竟稳定，福利也不错（附Agent面试题）](https://juejin.cn/post/7667495083470471177) | juejin | AI |
-| 3 | [2026 了，前端转 AI 全栈我是这么学的 😍😍😍](https://juejin.cn/post/7667503991685857290) | juejin | AI |
-| 4 | [花了一周，3亿tokens，我开源了一款 Word 文档智能审查平台，文稿自动质检+可视化分析，告别低效人工审核](https://juejin.cn/post/7667013663632080896) | juejin | 其他 |
-| 5 | [OpenAI 把 Hugging Face 打穿了，然后 GLM 5.2 当了救火队长？](https://juejin.cn/post/7667141723678572578) | juejin | AI |
+| 1 | [具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……](https://sspai.com/post/112430) | sspai | AI |
+| 2 | [Mbodi AI (YC P25) 正在招聘机器人/研究工程师 / Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers](https://www.ycombinator.com/companies/mbodi-ai/jobs) | Hacker News | AI |
+| 3 | [ChatGPT、Roblox 将受到欧盟最严格平台规则的约束 / ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms](https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms) | Hacker News | AI |
+| 4 | [谷歌将在全球范围内扩大 Android 年龄检查范围直至今年年底 / Google will expand age checks on Android worldwide till the end of the year](https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html) | Hacker News | 其他 |
+| 5 | [Agent-Manager：用于运行 Claude Code、Codex 和 OpenCode 的 Tmux TUI / Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode](https://github.com/YoanWai/agent-manager) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,11 +24,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [我用 AI Agent 重构了日常开发工作流，效果出乎意料](https://juejin.cn/post/7666650921673424959) | juejin | AI |
-| 2 | [给 AI 的 Agent 实现指南，可控 Agent 的关键](https://juejin.cn/post/7667103725047431174) | juejin | AI |
-| 3 | [人工智能诈骗者比人类更擅长建立信任 / AI Scammers Are Better at Building Trust Than Humans](https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans) | Wired | AI |
-| 4 | [OpenAI 总裁表示正在为其人工智能聊天机器人“打造一系列设备” / OpenAI president says it’s ‘building a family of devices’ for its AI chatbots](https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview) | The Verge | AI |
-| 5 | [以下是如何在不丢失任何信息的情况下从 ChatGPT 切换到 Claude / Here's how to switch from ChatGPT to Claude without losing any information](https://www.engadget.com/2222018/how-to-switch-from-chatgpt-to-claude-without-losing-information) | Engadget | AI |
+| 1 | [人工智能诈骗者比人类更擅长建立信任 / AI Scammers Are Better at Building Trust Than Humans](https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans) | Wired | AI |
+| 2 | [OpenAI 总裁表示正在为其人工智能聊天机器人“打造一系列设备” / OpenAI president says it’s ‘building a family of devices’ for its AI chatbots](https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview) | The Verge | AI |
+| 3 | [以下是如何在不丢失任何信息的情况下从 ChatGPT 切换到 Claude / Here's how to switch from ChatGPT to Claude without losing any information](https://www.engadget.com/2222018/how-to-switch-from-chatgpt-to-claude-without-losing-information) | Engadget | AI |
+| 4 | [每个人都在构建“细胞 GPT”。Relation 的赌注是制造数据来训练它。 / Everyone’s building a ‘GPT for cells.’ Relation’s bet is manufacturing the data to train it.](https://thenextweb.com/news/relation-morgan-cell-foundation-model-gsk-110-million) | The Next Web | AI |
+| 5 | [Greg Brockman 证实 OpenAI 正在构建“一系列设备” / OpenAI is building ‘a family of devices,’ Greg Brockman confirms](https://thenextweb.com/news/openai-family-of-devices-brockman) | The Next Web | AI |
 
 > 共 12 条，以上为 TOP 5。
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://juejin.cn/post/7667140623372697610) | juejin | AI |
-| 2 | [微软 Azure 的年销售额刚刚突破 1000 亿美元，人工智能的赌注大部分得到了回报 / Microsoft’s Azure just crossed $100bn a year, and the AI bet mostly paid off](https://thenextweb.com/news/microsoft-q4-fy2026-azure-100-billion-ai-spending) | The Next Web | AI |
-| 3 | [HBO Max just launched TikTok-style shorts and AI search that's a spoiler nightmare](https://www.makeuseof.com/hbo-max-launches-new-ai-shorts-because-why-not) | MakeUseOf | AI |
-| 4 | [The EU formally launches a bidding process to develop AI Gigafactories, expecting to unlock ~€30B of investment, closing on November 12 with awards in July 2027 (Edith Hancock/Wall Street Journal)](https://www.techmeme.com/260730/p12) | Techmeme | AI |
-| 5 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
+| 1 | [GCC指导委员会宣布人工智能政策 / GCC steering committee announces AI policy](https://lwn.net/Articles/1086041) | Hacker News | AI |
+| 2 | [人工智能代理即将管理企业。 Onyx 筹集了 1.13 亿美元来让人类了解情况。 / AI agents are about to run the enterprise. Onyx raised $113M to keep a human in the loop.](https://thenextweb.com/news/onyx-security-113m-series-b-ai-agent-control-plane) | The Next Web | AI |
+| 3 | [HBO Max 刚刚推出了 TikTok 风格的短片和人工智能搜索，这是一场剧透噩梦 / HBO Max just launched TikTok-style shorts and AI search that's a spoiler nightmare](https://www.makeuseof.com/hbo-max-launches-new-ai-shorts-because-why-not) | MakeUseOf | AI |
+| 4 | [谷歌终于为 Gemini 提供了一个更便宜、实际上优于竞争对手的人工智能模型 / Google finally gives Gemini a cheaper AI model that actually outperforms competitors](https://www.makeuseof.com/googles-3-new-gemini-models-are-designed-to-save-you-money) | MakeUseOf | AI |
+| 5 | [The EU formally launches a bidding process to develop AI Gigafactories, expecting to unlock ~€30B of investment, closing on November 12 with awards in July 2027 (Edith Hancock/Wall Street Journal)](https://www.techmeme.com/260730/p12) | Techmeme | AI |
 
-> 共 55 条，以上为 TOP 5。
+> 共 56 条，以上为 TOP 5。
 
 ---
 
@@ -58,7 +58,7 @@
 | 4 | [引发争议的“人体世界”展览创作者冈瑟·冯·哈根斯去世，享年81岁](https://nyti.ms/3S0FByU) | nyti.ms | IP |
 | 5 | [河轮游虽然无聊，但粉丝们却乐在其中](https://on.wsj.com/45eM9x3) | on.wsj.com | IP |
 
-> 共 7 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -68,11 +68,11 @@
 |---|------|------|------|
 | 1 | [工信部：2026 年上半年我国软件业务收入 77182 亿元，同比增长 9.5%](https://www.ithome.com/0/983/822.htm) | IT之家 (ITHome) | 变现 |
 | 2 | [[问与答] 同样是程序员，聊聊大家的副业，怎么实现睡后收入的](https://www.v2ex.com/t/1231056) | V2EX (创意工作者社区) | 变现 |
-| 3 | [工信部：上半年我国软件业务收入77182亿元，同比增长9.5%](https://36kr.com/newsflashes/3917994631736711?f=rss) | 36氪 (36Kr) | 变现 |
-| 4 | [空客上半年收入同比增长12%，新获886架民用飞机订单](https://36kr.com/newsflashes/3917987027004804?f=rss) | 36氪 (36Kr) | 变现 |
-| 5 | [游戏工委：上半年国内游戏市场销售收入 1884.5 亿同比增长 12.17%，用户规模 6.84 亿](https://www.ithome.com/0/983/773.htm) | IT之家 (ITHome) | 变现 |
+| 3 | [Ask HN: 开发人员正在寻找自由职业或合同工作](https://news.ycombinator.com/item?id=49106679) | news.ycombinator.com | 变现 |
+| 4 | [你最喜欢哪些副业？](https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most) | lobste.rs | 变现 |
+| 5 | [Show HN: IncomeOS——来自众多小额收入来源的收益，一屏尽览，并配有MCP](https://github.com/Perufitlife/incomeos) | github.com | 变现 |
 
-> 共 9 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-30T11:43:41.251Z
-- **总资讯数**：4495 条原始 → 699 条筛选后
+- **聚合时间**：2026-07-30T13:19:58.690Z
+- **总资讯数**：4482 条原始 → 690 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
