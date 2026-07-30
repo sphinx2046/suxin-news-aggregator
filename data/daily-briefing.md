@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Show HN：将 DeepSeek 提炼为 GPT-OSS 并不会转移审查制度。尝试一下 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it](https://www.ctgt.ai/research/distillation-censorship-transfer) | Hacker News | AI |
-| 2 | [Show HN：Noisegate – 不受信任的 AI 代理的差分隐私网关 / Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](https://github.com/yashmahajan10/llm-differential-privacy-gateway) | Hacker News | AI |
-| 3 | [我们给GPT 5.6 Sol安排了一项真实的商业任务。它撒谎、发送垃圾信息，还亏损了447美元。 / We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447](https://www.bottlenecklabs.com/blog/autonomously-run-businesses) | Hacker News | AI |
-| 4 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
-| 5 | [众议院通过预算法案，莫名其妙地禁止国家人工智能法规十年 / House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
+| 1 | [其实，我不想活在一个「人与Agent 协作」的新时代](https://mp.weixin.qq.com/s?__biz=MzAwMzc4MTQxNA%3D%3D&mid=2247488726&idx=1&sn=0fe8f8f301572a3cea679892a8c8022a) | 产品犬舍 | AI |
+| 2 | [苏格兰旅行：爱丁堡TOP10景点评价与高地旅行团选团攻略](https://mp.weixin.qq.com/s?__biz=MzAwMzc4MTQxNA%3D%3D&mid=2247488665&idx=1&sn=5a26ccf95f70b7773d0a114b4863d9a4) | 产品犬舍 | 其他 |
+| 3 | [微软、Meta同日交财报：小扎把现金流烧到只剩7.84亿美刀，纳德拉靠 Azure...](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665271&idx=1&sn=4ecee5e1819fcb614d845e6a80b62b18) | AI前线 | AI |
+| 4 | [翁荔被爆重返OpenAI！24小时前，刚因身体原因从 Thinking Machines Lab离职](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665237&idx=1&sn=ff7474d8d90f96c35c96c6fb405fa316) | AI前线 | AI |
+| 5 | [AGI 大会完整攻略！两天时间，怎么链接全场投资人、创业者?](https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw%3D%3D&mid=2247525459&idx=1&sn=fe9d994019d355133313c512d7390603) | FounderPark | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [我用 AI Agent 重构了日常开发工作流，效果出乎意料](https://juejin.cn/post/7666650921673424959) | juejin | AI |
-| 2 | [前 Anduril 创始人筹集 3000 万美元，打造欧洲国防人工智能合成战场 / Ex-Anduril founders raise $30mn to build Europe’s synthetic battlefield for defence AI](https://thenextweb.com/news/agon-30m-seed-european-defence-ai-training-infrastructure) | The Next Web | AI |
-| 3 | [消息来源：一组银行正在洽谈向 Nexus 提供 15B 美元贷款，用于建设德克萨斯州数据中心； Anthropic 将租赁它，谷歌提供了财务担保（Anissa Gardizy/华尔街日报） / Sources: a group of banks is in talks to lend $15B to Nexus to build a Texas data center; Anthropic will lease it and Google has provided financial guarantees (Anissa Gardizy/Wall Street Journal)](https://www.techmeme.com/260730/p41) | Techmeme | AI |
-| 4 | [给 AI 的 Agent 实现指南，可控 Agent 的关键](https://juejin.cn/post/7667103725047431174) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [🔥 AI 写代码总翻车？这套实战方法论救了我](https://juejin.cn/post/7665893501925589019) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [AI第一次越狱成功！奥特曼：我第一次感到恐惧|【经纬低调分享】](https://mp.weixin.qq.com/s?__biz=MzA3ODk5OTEzOA%3D%3D&mid=2962188281&idx=1&sn=52af5caa3fbe276f87c8b0a8965cbeaa) | 经纬创投 | AI |
+| 2 | [我用 AI Agent 重构了日常开发工作流，效果出乎意料](https://juejin.cn/post/7666650921673424959) | juejin | AI |
+| 3 | [前 Anduril 创始人筹集 3000 万美元，打造欧洲国防人工智能合成战场 / Ex-Anduril founders raise $30mn to build Europe’s synthetic battlefield for defence AI](https://thenextweb.com/news/agon-30m-seed-european-defence-ai-training-infrastructure) | The Next Web | AI |
+| 4 | [Sources: DeepSeek plans to build a 1 GW data center in Inner Mongolia and aims to bring at least part of its capacity online by the end of 2027 or early 2028 (Bloomberg)](https://www.techmeme.com/260730/p47) | Techmeme | AI |
+| 5 | [Sources: a group of banks is in talks to lend $15B to Nexus to build a Texas data center; Anthropic will lease it and Google has provided financial guarantees (Anissa Gardizy/Wall Street Journal)](https://www.techmeme.com/260730/p41) | Techmeme | AI |
 
-> 共 10 条，以上为 TOP 5。
+> 共 13 条，以上为 TOP 5。
 
 ---
 
@@ -38,11 +38,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [借助 GPT‑5.6 突破性价比新高度 / Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6) | Hacker News | AI |
-| 2 | [Nvidia 开源联盟冷落 OpenAI 和 Anthropic / Nvidia’s Open Source Alliance Snubs OpenAI and Anthropic](https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic) | Wired | AI |
-| 3 | [Friend 重新推出人工智能吊坠，带有能与你说话的扬声器，价格是原来的两倍 / Friend re-launches its AI pendant with a speaker that talks to you, for twice the price](https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price) | The Verge | AI |
-| 4 | [Okta 收购人工智能安全初创公司 Permiso；消息人士称，价格约为 2 亿美元 / Okta buys AI security startup Permiso; source says for about $200M](https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m) | TechCrunch | AI |
-| 5 | [Meta 表示，人工智能正在使构建新应用程序变得更加容易，而且更多应用程序即将推出 / Meta says AI is making it easier to build new apps — and more are coming](https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming) | TechCrunch | AI |
+| 1 | [OpenAI官方回应GPT-5.6Sol一路“杀进”生产系统：AI自主攻击时代真的来了](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665237&idx=2&sn=bf4de8ba96d8b1a610c9336214af2faf) | AI前线 | AI |
+| 2 | [半年上线22万部AI漫剧，为什么赚到钱的不到1%?](https://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA%3D%3D&mid=2651929649&idx=1&sn=2c70e3ed9fa7c89cf06de4bb8926b1c1) | 人人都是产品经理 | AI |
+| 3 | [【代码开源】MASt3R-Fusion：融合前馈视觉模型与IMU、GNSS的高功能SL...](https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA%3D%3D&mid=2247623822&idx=1&sn=d529cf08464b7063cfa93d3d2eaab5ad) | 计算机视觉life | AI |
+| 4 | [最新！Kimi K3上线阿里千问AI平台](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA%3D%3D&mid=2247561792&idx=1&sn=45ffc0171cf9ef44b5790f711ecba375) | 阿里云开发者 | AI |
+| 5 | [微软最新投资季度收益：A社负责暴涨，OpenAI负责送股东进ICU](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247908302&idx=2&sn=f6411ab645c82c8d4745a1741fbe3206) | 量子位 | AI |
 
 > 共 67 条，以上为 TOP 5。
 
@@ -53,9 +53,7 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [张雅琪“打卡式干活”惹争议，学霸人设从流量密码走向高风险赌局](https://www.huxiu.com/article/4879556.html?f=rss) | 虎嗅 (Huxiu) | IP |
-| 2 | [引发争议的“人体世界”展览创作者冈瑟·冯·哈根斯去世，享年81岁](https://nyti.ms/3S0FByU) | nyti.ms | IP |
-| 3 | [河轮游虽然无聊，但粉丝们却乐在其中](https://on.wsj.com/45eM9x3) | on.wsj.com | IP |
-| 4 | [从2984家商业航天企业看：造火箭这件事，是怎么轮到小城市的](https://mp.weixin.qq.com/s?__biz=MjM5NDAzMjk2MA%3D%3D&mid=2653627907&idx=1&sn=64a0279e4915dd1c3191e704034fb99b) | 第一财经YiMagazine | 回乡 |
+| 2 | [河轮游虽然无聊，但粉丝们却乐在其中](https://on.wsj.com/45eM9x3) | on.wsj.com | IP |
 
 ---
 
@@ -63,13 +61,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [自用还是出售赚钱？科技巨头面临 AI 算力分配难题](https://www.ithome.com/0/983/906.htm) | IT之家 (ITHome) | AI/变现 |
-| 2 | [氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台](https://36kr.com/p/3917972674735747?f=rss) | 36氪 (36Kr) | AI/变现 |
-| 3 | [各州按其联邦所得税中有多少比例由前1%的高收入群体缴纳的情况进行排名](https://www.businessinsider.com/states-ranked-share-of-taxes-paid-by-top-1-percent) | www.businessinsider.com | 变现 |
-| 4 | [我靠做洗衣副业每月能赚到1,000美元。最大的挑战是避免精疲力竭。](https://www.businessinsider.com/mom-laundry-side-hustle-poplin-flexibility-take-care-autistic-son-2026-7) | www.businessinsider.com | 变现 |
-| 5 | [工信部：2026 年上半年我国软件业务收入 77182 亿元，同比增长 9.5%](https://www.ithome.com/0/983/822.htm) | IT之家 (ITHome) | 变现 |
+| 1 | [硅片战争：为什么国产替代越深入，反而越难赚钱?](https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247537786&idx=1&sn=337e00f75e1143e0f36c8751977599ba) | 晚点LatePost | 变现 |
+| 2 | [伯纳姆将从2028年起向各市市长分配所得税收入份额](https://www.ft.com/content/160a686b-6573-4192-9281-7cf28912f1ed?syn-25a6b1a6=1) | www.ft.com | 变现 |
+| 3 | [苹果 2026 财年第三财季归母净利润 297.89 亿美元同比增长 27.12%，大中华区收入 153.69 亿美元增长 22%](https://www.ithome.com/0/983/910.htm) | IT之家 (ITHome) | 变现 |
+| 4 | [自用还是出售赚钱？科技巨头面临 AI 算力分配难题](https://www.ithome.com/0/983/906.htm) | IT之家 (ITHome) | AI/变现 |
+| 5 | [氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台](https://36kr.com/p/3917972674735747?f=rss) | 36氪 (36Kr) | AI/变现 |
 
-> 共 8 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -81,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-30T20:52:35.591Z
-- **总资讯数**：4441 条原始 → 658 条筛选后
+- **聚合时间**：2026-07-30T22:53:42.171Z
+- **总资讯数**：4403 条原始 → 659 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
