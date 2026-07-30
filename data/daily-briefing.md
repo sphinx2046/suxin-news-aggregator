@@ -10,9 +10,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Show HN: Noisegate——面向不可信人工智能代理的差分隐私网关 / Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](https://github.com/yashmahajan10/llm-differential-privacy-gateway) | Hacker News | AI |
-| 2 | [Gemini Robotics 2 为机器人带来了全身智能 / Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots) | Hacker News | AI |
-| 3 | [重构的经济效益 / The Economic Benefit of Refactoring](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html) | Hacker News | 其他 |
+| 1 | [Show HN：将 DeepSeek 提炼为 GPT-OSS 并不会转移审查制度。尝试一下 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it](https://www.ctgt.ai/research/distillation-censorship-transfer) | Hacker News | AI |
+| 2 | [Show HN：Noisegate – 不受信任的 AI 代理的差分隐私网关 / Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](https://github.com/yashmahajan10/llm-differential-privacy-gateway) | Hacker News | AI |
+| 3 | [我们给GPT 5.6 Sol安排了一项真实的商业任务。它撒谎、发送垃圾信息，还亏损了447美元。 / We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447](https://www.bottlenecklabs.com/blog/autonomously-run-businesses) | Hacker News | AI |
 | 4 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
 | 5 | [众议院通过预算法案，莫名其妙地禁止国家人工智能法规十年 / House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
 
@@ -30,7 +30,7 @@
 | 4 | [给 AI 的 Agent 实现指南，可控 Agent 的关键](https://juejin.cn/post/7667103725047431174) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [🔥 AI 写代码总翻车？这套实战方法论救了我](https://juejin.cn/post/7665893501925589019) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 12 条，以上为 TOP 5。
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [我们为 GPT 5.6 Sol 带来了真正的业务。它撒谎、发送垃圾邮件并损失了 447 美元 / We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447](https://www.bottlenecklabs.com/blog/autonomously-run-businesses) | Hacker News | AI |
-| 2 | [借助 GPT‑5.6 突破性价比新高度 / Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6) | Hacker News | AI |
-| 3 | [Nvidia 开源联盟冷落 OpenAI 和 Anthropic / Nvidia’s Open Source Alliance Snubs OpenAI and Anthropic](https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic) | Wired | AI |
-| 4 | [Friend 重新推出人工智能吊坠，带有能与你说话的扬声器，价格是原来的两倍 / Friend re-launches its AI pendant with a speaker that talks to you, for twice the price](https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price) | The Verge | AI |
-| 5 | [Okta 收购人工智能安全初创公司 Permiso；消息人士称，价格约为 2 亿美元 / Okta buys AI security startup Permiso; source says for about $200M](https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m) | TechCrunch | AI |
+| 1 | [借助 GPT‑5.6 突破性价比新高度 / Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6) | Hacker News | AI |
+| 2 | [Nvidia 开源联盟冷落 OpenAI 和 Anthropic / Nvidia’s Open Source Alliance Snubs OpenAI and Anthropic](https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic) | Wired | AI |
+| 3 | [Friend 重新推出人工智能吊坠，带有能与你说话的扬声器，价格是原来的两倍 / Friend re-launches its AI pendant with a speaker that talks to you, for twice the price](https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price) | The Verge | AI |
+| 4 | [Okta 收购人工智能安全初创公司 Permiso；消息人士称，价格约为 2 亿美元 / Okta buys AI security startup Permiso; source says for about $200M](https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m) | TechCrunch | AI |
+| 5 | [Meta 表示，人工智能正在使构建新应用程序变得更加容易，而且更多应用程序即将推出 / Meta says AI is making it easier to build new apps — and more are coming](https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming) | TechCrunch | AI |
 
-> 共 65 条，以上为 TOP 5。
+> 共 67 条，以上为 TOP 5。
 
 ---
 
@@ -63,13 +63,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [如果我在罗斯个人退休账户（Roth IRA）里有50万美元，每月收入2,000美元，62岁时能退休吗？](https://finance.yahoo.com/markets/options/articles/500k-roth-ira-receive-combined-113000490.html) | finance.yahoo.com | 变现 |
-| 2 | [自用还是出售赚钱？科技巨头面临 AI 算力分配难题](https://www.ithome.com/0/983/906.htm) | IT之家 (ITHome) | AI/变现 |
-| 3 | [氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台](https://36kr.com/p/3917972674735747?f=rss) | 36氪 (36Kr) | AI/变现 |
-| 4 | [各州按其联邦所得税中有多少比例由前1%的高收入群体缴纳的情况进行排名](https://www.businessinsider.com/states-ranked-share-of-taxes-paid-by-top-1-percent) | www.businessinsider.com | 变现 |
-| 5 | [我靠做洗衣副业每月能赚到1,000美元。最大的挑战是避免精疲力竭。](https://www.businessinsider.com/mom-laundry-side-hustle-poplin-flexibility-take-care-autistic-son-2026-7) | www.businessinsider.com | 变现 |
+| 1 | [自用还是出售赚钱？科技巨头面临 AI 算力分配难题](https://www.ithome.com/0/983/906.htm) | IT之家 (ITHome) | AI/变现 |
+| 2 | [氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台](https://36kr.com/p/3917972674735747?f=rss) | 36氪 (36Kr) | AI/变现 |
+| 3 | [各州按其联邦所得税中有多少比例由前1%的高收入群体缴纳的情况进行排名](https://www.businessinsider.com/states-ranked-share-of-taxes-paid-by-top-1-percent) | www.businessinsider.com | 变现 |
+| 4 | [我靠做洗衣副业每月能赚到1,000美元。最大的挑战是避免精疲力竭。](https://www.businessinsider.com/mom-laundry-side-hustle-poplin-flexibility-take-care-autistic-son-2026-7) | www.businessinsider.com | 变现 |
+| 5 | [工信部：2026 年上半年我国软件业务收入 77182 亿元，同比增长 9.5%](https://www.ithome.com/0/983/822.htm) | IT之家 (ITHome) | 变现 |
 
-> 共 9 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -81,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-30T19:04:40.680Z
-- **总资讯数**：4440 条原始 → 648 条筛选后
+- **聚合时间**：2026-07-30T20:52:35.591Z
+- **总资讯数**：4441 条原始 → 658 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
