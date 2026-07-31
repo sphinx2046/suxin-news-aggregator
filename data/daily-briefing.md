@@ -13,8 +13,8 @@
 | 1 | [OpenAI 把 Hugging Face 打穿了，然后 GLM 5.2 当了救火队长？](https://juejin.cn/post/7667141723678572578) | juejin | AI |
 | 2 | [Vue+Three.js实现PCB电路板3D交互：元器件点击高亮、部件显隐、模型自动旋转](https://juejin.cn/post/7667105307927494708) | juejin | AI |
 | 3 | [解剖 Claude Code：逆向工程视角下的入口架构分析](https://juejin.cn/post/7667096004731846682) | juejin | AI |
-| 4 | [2026 了，前端转 AI 全栈我是这么学的 😍😍😍](https://juejin.cn/post/7667503991685857290) | juejin | AI |
-| 5 | [AI 短剧出海，门槛已经低到离谱了](https://juejin.cn/post/7667552613815959598) | juejin | AI |
+| 4 | [DeepSeek V4 Flash 0731 情报、性能和价格分析 / DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga) | Hacker News | AI |
+| 5 | [得益于人工智能，谷歌在6月份修复的Chrome漏洞数量超过了过去两年的总和 / Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [前 Anduril 创始人筹集 3000 万美元，打造欧洲国防人工智能合成战场 / Ex-Anduril founders raise $30mn to build Europe’s synthetic battlefield for defence AI](https://thenextweb.com/news/agon-30m-seed-european-defence-ai-training-infrastructure) | The Next Web | AI |
-| 2 | [给 AI 的 Agent 实现指南，可控 Agent 的关键](https://juejin.cn/post/7667103725047431174) | 掘金 · 人工智能本周最热 | AI |
-| 3 | [🔥 AI 写代码总翻车？这套实战方法论救了我](https://juejin.cn/post/7665893501925589019) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [AI 生成的代码又乱又爱编？试试这套“先规划，再胶水”的三步法](https://juejin.cn/post/7666289945599246351) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [我用 AI Agent 重构了日常开发工作流，效果出乎意料](https://juejin.cn/post/7666650921673424959) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [只需 14 美元即可了解如何像专业人士一样使用 Claude / Learn how to use Claude like a pro for just $14](https://mashable.com/tech/july-31-claude-ai-professional-e-degree) | Mashable | AI |
+| 2 | [Chinese state media: Xi Jinping called for more defense applications using autonomous and AI technologies, as he pushes to build an advanced fighting force (Josh Xiao/Bloomberg)](https://www.techmeme.com/260731/p12) | Techmeme | AI |
+| 3 | [The UK wants to lead on AI, but who is going to build it?](https://www.techradar.com/pro/the-uk-wants-to-lead-on-ai-but-who-is-going-to-build-it) | TechRadar | AI |
+| 4 | [给 AI 的 Agent 实现指南，可控 Agent 的关键](https://juejin.cn/post/7667103725047431174) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [🔥 AI 写代码总翻车？这套实战方法论救了我](https://juejin.cn/post/7665893501925589019) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 12 条，以上为 TOP 5。
+> 共 20 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [昆腾动力完成超亿元种子轮融资，从物流出发，定义部署驱动的Physical AI平台](https://aiera.com.cn/2026/07/31/other/admin/106656/%e6%98%86%e8%85%be%e5%8a%a8%e5%8a%9b%e5%ae%8c%e6%88%90%e8%b6%85%e4%ba%bf%e5%85%83%e7%a7%8d%e5%ad%90%e8%bd%ae%e8%9e%8d%e8%b5%84%ef%bc%8c%e4%bb%8e%e7%89%a9%e6%b5%81%e5%87%ba%e5%8f%91%ef%bc%8c%e5%ae%9a) | 新智元 | AI |
-| 2 | [KotlinLLM 开源 ，一个可以在运行时自己生成永久 Kotlin 代码的 Agent 库](https://juejin.cn/post/7667863898348126271) | juejin | AI |
-| 3 | [Nvidia 开源联盟冷落 OpenAI 和 Anthropic / Nvidia’s Open Source Alliance Snubs OpenAI and Anthropic](https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic) | Wired | AI |
-| 4 | [蒂姆·库克 (Tim Cook) 暗示为 AI 高级用户推出 iCloud Plus 层级 / Tim Cook hints at iCloud Plus tier for AI power users](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai) | The Verge | AI |
-| 5 | [Friend 重新推出人工智能吊坠，带有能与你说话的扬声器，价格是原来的两倍 / Friend re-launches its AI pendant with a speaker that talks to you, for twice the price](https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price) | The Verge | AI |
+| 1 | [Nvidia 开源联盟冷落 OpenAI 和 Anthropic / Nvidia’s Open Source Alliance Snubs OpenAI and Anthropic](https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic) | Wired | AI |
+| 2 | [蒂姆·库克 (Tim Cook) 暗示为 AI 高级用户推出 iCloud Plus 层级 / Tim Cook hints at iCloud Plus tier for AI power users](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai) | The Verge | AI |
+| 3 | [Friend 重新推出人工智能吊坠，带有能与你说话的扬声器，价格是原来的两倍 / Friend re-launches its AI pendant with a speaker that talks to you, for twice the price](https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price) | The Verge | AI |
+| 4 | [Okta 收购人工智能安全初创公司 Permiso；消息人士称，价格约为 2 亿美元 / Okta buys AI security startup Permiso; source says for about $200M](https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m) | TechCrunch | AI |
+| 5 | [苹果计划为重度 AI 用户提供付费 iCloud+ 升级 / Apple Plans Paid iCloud+ Upgrades for Heavy AI Users](https://www.macrumors.com/2026/07/30/apple-icloud-upgrade-ai) | Mac Rumors | AI |
 
-> 共 73 条，以上为 TOP 5。
+> 共 66 条，以上为 TOP 5。
 
 ---
 
@@ -52,11 +52,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [[问与答] 求一个按流量付费的稳定梯子，月付的不考虑](https://www.v2ex.com/t/1231259) | V2EX (创意工作者社区) | IP |
-| 2 | [[推广] 邮箱注册就送 500mb 住宅流量 静态住宅等于 2 刀/月 美国机房 1 刀/月起](https://www.v2ex.com/t/1231234) | V2EX (创意工作者社区) | IP |
-| 3 | [英国一名YouTube博主兼说唱歌手被判定强奸女性罪名不成立](https://news.sky.com/story/british-youtuber-and-rapper-yung-filly-found-not-guilty-of-raping-woman-in-australia-13568299) | news.sky.com | IP |
-| 4 | [乡村日记：关于萤火虫的传闻让我踏上了黄昏散步之旅 安妮塔·罗伊](https://www.theguardian.com/environment/2026/jul/31/country-diary-rumours-of-glowworms-set-me-off-on-a-twilight-stroll) | www.theguardian.com | 回乡 |
-| 5 | [Show HN: Reclip – AI 视频剪辑、配音和内容创作工具](https://www.reclip.io/) | www.reclip.io | AI/IP |
+| 1 | [任天堂粉丝根据新款 amiibo 推断《塞尔达传说：时之笛》重制版 11 月 11 日发售，直面一周后的《GTA6》竞争](https://www.ithome.com/0/984/341.htm) | IT之家 (ITHome) | IP |
+| 2 | [流量红利之后，半亩花田走向资本市场还有两道坎](https://www.huxiu.com/article/4879790.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 3 | [微信公众号上“复更”的大V们，为什么又“停更”了？](https://www.huxiu.com/article/4879782.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 4 | [随着AI生成的答案取代链接，出版商正流失来自谷歌的流量](https://www.axios.com/2026/07/31/google-search-publishers-seo-geo-llms-ai) | www.axios.com | AI/IP |
+| 5 | [英国一名YouTube博主兼说唱歌手被判定强奸女性罪名不成立](https://news.sky.com/story/british-youtuber-and-rapper-yung-filly-found-not-guilty-of-raping-woman-in-australia-13568299) | news.sky.com | IP |
 
 > 共 8 条，以上为 TOP 5。
 
@@ -66,13 +66,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Unicaja预计2026年利润和贷款收入将实现增长](https://www.reuters.com/es/negocio/AK2DBMWMANPRPFYWEF4UJXCOEM-2026-07-31) | www.reuters.com | 变现 |
-| 2 | [滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利](https://36kr.com/p/3919137999957382?f=rss) | 36氪 (36Kr) | AI/变现 |
-| 3 | [我们已经从“收入世界”迈入了“财富世界”](https://www.ft.com/content/6a35508c-c0bd-4000-81b3-7c7383fb24fd?syn-25a6b1a6=1) | www.ft.com | 变现 |
-| 4 | [硅片战争：为什么国产替代越深入，反而越难赚钱?](https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng%3D%3D&mid=2247537786&idx=1&sn=337e00f75e1143e0f36c8751977599ba) | 晚点LatePost | 变现 |
-| 5 | [氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台](https://36kr.com/p/3917972674735747?f=rss) | 36氪 (36Kr) | AI/变现 |
+| 1 | [上海市委网信办联合多部门对汽车类“自媒体”开展合规指导：不得误导消费者、恶意引流变现等](https://www.ithome.com/0/984/362.htm) | IT之家 (ITHome) | IP/变现 |
+| 2 | [2026 上半年中国电竞产业收入 131.15 亿元同比增长 2.78%：用户规模达 4.95 亿](https://www.ithome.com/0/984/339.htm) | IT之家 (ITHome) | 变现 |
+| 3 | [自由职业最大的谎言，就是所有人相信了“自由”两个字](https://www.huxiu.com/article/4879761.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 4 | [2026 年我国上半年电信业务收入 8873 亿元：5G 用户 12.88 亿户、5G 基站 510.2 万个、DOU 达 23.57GB，千兆宽带渗透率 36.8%](https://www.ithome.com/0/984/299.htm) | IT之家 (ITHome) | 变现 |
+| 5 | [滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利](https://36kr.com/p/3919137999957382?f=rss) | 36氪 (36Kr) | AI/变现 |
 
-> 共 6 条，以上为 TOP 5。
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-31T08:26:13.273Z
-- **总资讯数**：4483 条原始 → 697 条筛选后
+- **聚合时间**：2026-07-31T11:50:40.277Z
+- **总资讯数**：4542 条原始 → 715 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
