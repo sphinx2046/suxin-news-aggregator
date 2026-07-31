@@ -13,8 +13,8 @@
 | 1 | [OpenAI 把 Hugging Face 打穿了，然后 GLM 5.2 当了救火队长？](https://juejin.cn/post/7667141723678572578) | juejin | AI |
 | 2 | [Vue+Three.js实现PCB电路板3D交互：元器件点击高亮、部件显隐、模型自动旋转](https://juejin.cn/post/7667105307927494708) | juejin | AI |
 | 3 | [解剖 Claude Code：逆向工程视角下的入口架构分析](https://juejin.cn/post/7667096004731846682) | juejin | AI |
-| 4 | [显示 HN：Claude 和 ChatGPT 通过 MCP 的共享内存图 / Show HN: Shared memory graph for Claude and ChatGPT, over MCP](https://uml.gpmai.workers.dev/) | Hacker News | AI |
-| 5 | [谢尔盖·布林 (Sergey Brin) 表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 4 | [我的旅行攻略终于进化到了CodeX时代](https://mp.weixin.qq.com/s?__biz=MzAwMzc4MTQxNA%3D%3D&mid=2247488727&idx=1&sn=3b3d385453fc3a1e2fa9ce246de3866e) | 产品犬舍 | 其他 |
+| 5 | [苏格兰旅行：爱丁堡 TOP10景点评价与高地旅行团选团攻略](https://mp.weixin.qq.com/s?__biz=MzAwMzc4MTQxNA%3D%3D&mid=2247488665&idx=1&sn=5a26ccf95f70b7773d0a114b4863d9a4) | 产品犬舍 | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [每个人都在构建 LLM 路由器，我们弃用了我们的路由器 / Everyone is building LLM routers, we deprecated ours](https://manifest.build/blog/why-we-deprecated-our-llm-router) | Hacker News | AI |
-| 2 | [我将 Gemini 连接到 Google Keep 和 Tasks；它终于解决了我混乱的工作流程 / I connected Gemini to Google Keep and Tasks; it finally fixed my chaotic workflow](https://www.androidpolice.com/connected-gemini-google-keep-tasks-fixed-chaotic-workflow) | Android Police | AI |
-| 3 | [在建立信任方面，AI诈骗者比人类更胜一筹 / AI scammers outperform humans when it comes to building trust](https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust) | Ars Technica | AI |
-| 4 | [给 AI 的 Agent 实现指南，可控 Agent 的关键](https://juejin.cn/post/7667103725047431174) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [🔥 AI 写代码总翻车？这套实战方法论救了我](https://juejin.cn/post/7665893501925589019) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [起薪3OK的高薪AI产品经理，O经验如何快速转型入行?](https://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA%3D%3D&mid=2651929690&idx=2&sn=cb0a3e263fc9ae15eeaa9f6ae7c57961) | 人人都是产品经理 | AI |
+| 2 | [不同AI场景，怎么落地？—方法论](https://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA%3D%3D&mid=2651929690&idx=3&sn=91e0d581947111e3facc6401ac38bdba) | 人人都是产品经理 | AI |
+| 3 | [arXiv：世界模型架构、方法、推理范式与应用全景综述](https://mp.weixin.qq.com/s?__biz=MzIzMjQyNzQ5MA%3D%3D&mid=2247734678&idx=1&sn=8857d36070172662c3e2090d870cf582) | 集智俱乐部 | AI |
+| 4 | [豆包Agent上手指南：最适合电脑小白的AI，也许还是豆包](https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA%3D%3D&mid=2652459510&idx=1&sn=a1f28c7781911f6d1397ca99cc781589) | 爱范儿 | AI |
+| 5 | [马斯克要用AI打造《奥德赛》电影，我用小云雀Seedance 2.5 提前实现了](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651099262&idx=1&sn=691f44aab362aae11415b7d7f9bb2446) | APPSO | AI |
 
-> 共 21 条，以上为 TOP 5。
+> 共 24 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [LinkedIn 推出“看起来像 AI Slop”按钮 / LinkedIn Introduces a 'Seems Like AI Slop' Button](https://tech.slashdot.org/story/26/07/31/0540241/linkedin-introduces-a-seems-like-ai-slop-button) | Slashdot | AI |
-| 2 | [蒂姆·库克 (Tim Cook) 暗示为 AI 高级用户推出 iCloud Plus 层级 / Tim Cook hints at iCloud Plus tier for AI power users](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai) | The Verge | AI |
-| 3 | [谷歌在推出一天后取消了其地球人工智能功能，因批评该功能会传播错误信息 / Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation](https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation) | TechCrunch | AI |
-| 4 | [Smallest.ai 融资 1300 万美元，用于构建听起来像人类的超快语音 AI / Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human](https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human) | TechCrunch | AI |
-| 5 | [Repeat 创始人 Ryan Williams 为一家面向私人信贷经理的人工智能初创公司筹集了 1000 万美元种子资金 / Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers](https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers) | TechCrunch | AI |
+| 1 | [刚刚，Deepseek-V4-Flash正式版上线！](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247619028&idx=1&sn=5bc35f212837e4c156282a1ea4292023) | 夕小瑶科技说 | AI |
+| 2 | [OpenAl突然大降价：GPT-5.6Luna便宜80%](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247619017&idx=1&sn=70b9c60fea6cbeb0d2b9591418e7aaa9) | 夕小瑶科技说 | AI |
+| 3 | [MiniMaxH3发布：多模态生成模型、即将开源，视频编辑能力全球第一](https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw%3D%3D&mid=2247525462&idx=1&sn=2da58311ae1fc929fcda994ff0d702cc) | FounderPark | AI |
+| 4 | [奖金 400,000的AI比赛，来了！](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ%3D%3D&mid=2457994999&idx=1&sn=723f486f9583de52805a60f394a503e9) | GitHubDaily | AI |
+| 5 | [AI吸金275亿元，硬件融资笔数领跑创投周报](https://mp.weixin.qq.com/s?__biz=MzUxOTA3MzMzOQ%3D%3D&mid=2247767348&idx=1&sn=29fc17c825b23e2da0ea0a38300148dd) | 36氪Pro | AI |
 
-> 共 75 条，以上为 TOP 5。
+> 共 81 条，以上为 TOP 5。
 
 ---
 
@@ -52,7 +52,7 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [欧洲河流流量减少，导致发电量、运输量和企业利润受到影响](https://reut.rs/4yNr9uE) | reut.rs | IP |
+| 1 | [不追风，只造浪：劲仔如何驾驭代言人官宣的「快流量」?](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw%3D%3D&mid=2248897617&idx=2&sn=a890f559e572d95e80435a306c4e8005) | 36氪 | IP |
 | 2 | [阿丽亚娜·格兰德：《Petal》专辑乐评——对前任、粉丝和媒体表现出的冷静而克制的愤怒](https://www.theguardian.com/music/2026/jul/31/ariana-grande-petal-album-review) | www.theguardian.com | IP |
 | 3 | [任天堂粉丝根据新款 amiibo 推断《塞尔达传说：时之笛》重制版 11 月 11 日发售，直面一周后的《GTA6》竞争](https://www.ithome.com/0/984/341.htm) | IT之家 (ITHome) | IP |
 | 4 | [随着AI生成的答案取代链接，出版商正流失来自谷歌的流量](https://www.axios.com/2026/07/31/google-search-publishers-seo-geo-llms-ai) | www.axios.com | AI/IP |
@@ -64,13 +64,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Meta宣称其广告收入增长领跑业界，但人们对人工智能的担忧日益加剧](https://finance.yahoo.com/media-advertising/articles/meta-touts-industry-leading-ad-104800881.html) | finance.yahoo.com | AI/变现 |
-| 2 | [加文·纽森在公布的纳税申报表中披露，其个人收入为170万至200万美元](https://www.theguardian.com/us-news/2026/jul/31/gavin-newsom-california-tax-release) | www.theguardian.com | 变现 |
-| 3 | [纳税申报表显示，加文·纽森及其妻子在2024年的收入为140万美元](https://nyti.ms/4h8bq38) | nyti.ms | 变现 |
-| 4 | [上半年上海智能车载设备、机器人销售收入同比增长61.5%和17.5%](https://36kr.com/newsflashes/3919510952291713?f=rss) | 36氪 (36Kr) | 变现 |
-| 5 | [上海市委网信办联合多部门对汽车类“自媒体”开展合规指导：不得误导消费者、恶意引流变现等](https://www.ithome.com/0/984/362.htm) | IT之家 (ITHome) | IP/变现 |
+| 1 | [29.99万，小米澎程N90Max综合续航1705km/苹果iPhone、Mac收入创新...](https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA%3D%3D&mid=2652459505&idx=1&sn=dd062f0d11d851de693fb7571131cbbc) | 爱范儿 | 变现 |
+| 2 | [Anthropic年化收入将达到4000亿美元？](https://mp.weixin.qq.com/s?__biz=MzIxMDgyMTM0NQ%3D%3D&mid=2247502361&idx=2&sn=36899d46c73fc4764c43c63fcd8a61e4) | 互联网怪盗团 | AI/变现 |
+| 3 | [「0人公司」能赚钱吗？他们让GPT自己经营，24小时亏损447美元](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047571&idx=2&sn=9ae40b52aec4acbe4566b3262b6d6a83) | 机器之心 | AI/变现 |
+| 4 | [VSee Health 就收购一家年收入超过3500万美元的医疗健康平台目标公司签署了意向书](https://finance.yahoo.com/healthcare/articles/vsee-health-signs-loi-healthcare-151043815.html) | finance.yahoo.com | 变现 |
+| 5 | [监管机构提议对规范银行向中低收入群体提供贷款的法律进行全面修订 - AP News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVmZSX2JiTmZtZlF5RXJ5ZFBWWVlwYkVxUFVrS2FsVUxSb1MwdlphWm56Y3VIOExDNFJXdzVWeTh3M0FxVzJXdTQ4TWlBSmNtcEU2X0NkaWlJX0VCRXB3a25MaWNIZGZuU3gtM0U4WUhFdjNCT3czS09zOUtWWlBFTmJSX2FyYWNLVmVKSENscHkwbDUyREJLeVRuR3JOSDR1QzlqRW1sVngxZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
 
-> 共 9 条，以上为 TOP 5。
+> 共 13 条，以上为 TOP 5。
 
 ---
 
@@ -82,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-07-31T20:49:05.250Z
-- **总资讯数**：4311 条原始 → 668 条筛选后
+- **聚合时间**：2026-07-31T22:46:56.409Z
+- **总资讯数**：4343 条原始 → 684 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
