@@ -30,7 +30,7 @@
 | 4 | [给 AI 的 Agent 实现指南，可控 Agent 的关键](https://juejin.cn/post/7667103725047431174) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [🔥 AI 写代码总翻车？这套实战方法论救了我](https://juejin.cn/post/7665893501925589019) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 19 条，以上为 TOP 5。
+> 共 17 条，以上为 TOP 5。
 
 ---
 
@@ -40,11 +40,11 @@
 |---|------|------|------|
 | 1 | [刚刚，DeepSeek V4正式版来了！](https://aiera.com.cn/2026/08/01/other/admin/106712/%e5%88%9a%e5%88%9a%ef%bc%8cdeepseek-v4%e6%ad%a3%e5%bc%8f%e7%89%88%e6%9d%a5%e4%ba%86%ef%bc%81) | 新智元 | AI |
 | 2 | [AI能接管实验室了？中国科大最新研究给出真实物理世界的压力测试](https://aiera.com.cn/2026/08/01/other/admin/106667/ai%e8%83%bd%e6%8e%a5%e7%ae%a1%e5%ae%9e%e9%aa%8c%e5%ae%a4%e4%ba%86%ef%bc%9f%e4%b8%ad%e5%9b%bd%e7%a7%91%e5%a4%a7%e6%9c%80%e6%96%b0%e7%a0%94%e7%a9%b6%e7%bb%99%e5%87%ba%e7%9c%9f%e5%ae%9e%e7%89%a9%e7%90%86) | 新智元 | AI |
-| 3 | [LinkedIn 推出“看起来像 AI Slop”按钮 / LinkedIn Introduces a 'Seems Like AI Slop' Button](https://tech.slashdot.org/story/26/07/31/0540241/linkedin-introduces-a-seems-like-ai-slop-button) | Slashdot | AI |
-| 4 | [蒂姆·库克 (Tim Cook) 暗示为 AI 高级用户推出 iCloud Plus 层级 / Tim Cook hints at iCloud Plus tier for AI power users](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai) | The Verge | AI |
-| 5 | [谷歌在推出一天后取消了其地球人工智能功能，因批评该功能会传播错误信息 / Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation](https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation) | TechCrunch | AI |
+| 3 | [KotlinLLM 开源 ，一个可以在运行时自己生成永久 Kotlin 代码的 Agent 库](https://juejin.cn/post/7667863898348126271) | juejin | AI |
+| 4 | [当客户说「用AI帮我写个和Notion一模一样的，预算5000，三天上线」时，我在想什么](https://juejin.cn/post/7667802262673227830) | juejin | AI |
+| 5 | [LinkedIn 推出“看起来像 AI Slop”按钮 / LinkedIn Introduces a 'Seems Like AI Slop' Button](https://tech.slashdot.org/story/26/07/31/0540241/linkedin-introduces-a-seems-like-ai-slop-button) | Slashdot | AI |
 
-> 共 75 条，以上为 TOP 5。
+> 共 74 条，以上为 TOP 5。
 
 ---
 
@@ -52,13 +52,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [互联网流量，崩塌了](https://www.huxiu.com/article/4879924.html?f=rss) | 虎嗅 (Huxiu) | IP |
-| 2 | [当城市规则撞上农村传统的裂缝时，你还忍心骂房主任吗？](https://www.huxiu.com/article/4879909.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
-| 3 | [[分享发现] 无语，县城的健身房早上九点就爆满。真服了](https://www.v2ex.com/t/1231388) | V2EX (创意工作者社区) | 回乡 |
-| 4 | [[宽带症候群] 7.31 日晚间三大运营商集体公告：低价大流量卡全面退场， 8 月 1 日生效！](https://www.v2ex.com/t/1231369) | V2EX (创意工作者社区) | IP |
-| 5 | [不追风，只造浪：劲仔如何驾驭代言人官宣的「快流量」?](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw%3D%3D&mid=2248897617&idx=2&sn=a890f559e572d95e80435a306c4e8005) | 36氪 | IP |
+| 1 | [Kimi K3竟是GPT-2的22580倍，博主「肝」48小时发现：七年进化大模型不只是参数暴涨](https://juejin.cn/post/7667842166609805358) | juejin | AI/IP |
+| 2 | [几十元每月上百G，大流量卡“大撤退”，不少人连夜抢购，谁在为“增量不增收”买单？](https://www.huxiu.com/article/4879952.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 3 | [英国一博主用 Meta 智能眼镜在公共场合“偷拍”路人，遭警方调查](https://www.ithome.com/0/984/516.htm) | IT之家 (ITHome) | IP |
+| 4 | [[宽带症候群] 哪里还能办到大流量卡](https://www.v2ex.com/t/1231429) | V2EX (创意工作者社区) | IP |
+| 5 | [互联网流量，崩塌了](https://www.huxiu.com/article/4879924.html?f=rss) | 虎嗅 (Huxiu) | IP |
 
-> 共 6 条，以上为 TOP 5。
+> 共 9 条，以上为 TOP 5。
 
 ---
 
@@ -66,13 +66,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [29.99万，小米澎程N90Max综合续航1705km/苹果iPhone、Mac收入创新...](https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA%3D%3D&mid=2652459505&idx=1&sn=dd062f0d11d851de693fb7571131cbbc) | 爱范儿 | 变现 |
-| 2 | [Anthropic年化收入将达到4000亿美元？](https://mp.weixin.qq.com/s?__biz=MzIxMDgyMTM0NQ%3D%3D&mid=2247502361&idx=2&sn=36899d46c73fc4764c43c63fcd8a61e4) | 互联网怪盗团 | AI/变现 |
-| 3 | [「0人公司」能赚钱吗？他们让GPT自己经营，24小时亏损447美元](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047571&idx=2&sn=9ae40b52aec4acbe4566b3262b6d6a83) | 机器之心 | AI/变现 |
-| 4 | [加文·纽森在公布的纳税申报表中披露，其个人收入为170万至200万美元](https://www.theguardian.com/us-news/2026/jul/31/gavin-newsom-california-tax-release) | www.theguardian.com | 变现 |
-| 5 | [纳税申报表显示，加文·纽森及其妻子在2024年的收入为140万美元](https://nyti.ms/4h8bq38) | nyti.ms | 变现 |
+| 1 | [如何将你对学习的热爱转化为一人公司](https://www.36kr.com/p/3882803691171841) | 36氪 · 24小时热榜 | 变现 |
+| 2 | [Show HN: TikTok 币计算器——观众成本与创作者收入对比](https://coinvaluecalc.com/) | coinvaluecalc.com | IP/变现 |
+| 3 | [受台风和世界杯影响，澳门博彩收入再次下滑](https://www.bloomberg.com/news/articles/2026-08-01/macau-gaming-revenue-falls-again-on-typhoon-world-cup) | www.bloomberg.com | 变现 |
+| 4 | [高收入群体被提醒注意养老金“缩减”带来的税务陷阱](https://www.ft.com/content/f7b1e230-72a4-49b7-8339-2f693d7ebef5?syn-25a6b1a6=1) | www.ft.com | 变现 |
+| 5 | [29.99万，小米澎程N90Max综合续航1705km/苹果iPhone、Mac收入创新...](https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA%3D%3D&mid=2652459505&idx=1&sn=dd062f0d11d851de693fb7571131cbbc) | 爱范儿 | 变现 |
 
-> 共 6 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-01T05:13:00.849Z
-- **总资讯数**：4390 条原始 → 659 条筛选后
+- **聚合时间**：2026-08-01T07:55:53.435Z
+- **总资讯数**：4417 条原始 → 647 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
