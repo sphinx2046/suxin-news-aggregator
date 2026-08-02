@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Claude黑进三家真公司！Anthropic吓坏了](https://aiera.com.cn/2026/08/02/other/admin/106930/claude%e9%bb%91%e8%bf%9b%e4%b8%89%e5%ae%b6%e7%9c%9f%e5%85%ac%e5%8f%b8%ef%bc%81anthropic%e5%90%93%e5%9d%8f%e4%ba%86) | 新智元 | AI |
-| 2 | [奥特曼承认：高估了AI抢饭碗！黄仁勋：失业论完全搞反了](https://aiera.com.cn/2026/08/02/other/admin/106893/%e5%a5%a5%e7%89%b9%e6%9b%bc%e6%89%bf%e8%ae%a4%ef%bc%9a%e9%ab%98%e4%bc%b0%e4%ba%86ai%e6%8a%a2%e9%a5%ad%e7%a2%97%ef%bc%81%e9%bb%84%e4%bb%81%e5%8b%8b%ef%bc%9a%e5%a4%b1%e4%b8%9a%e8%ae%ba%e5%ae%8c%e5%85%a8) | 新智元 | AI |
-| 3 | [超过1B参数都是浪费？多模态情感模型进入「小」时代 | ACM MM&#8217;26](https://aiera.com.cn/2026/08/02/other/admin/106846/%e8%b6%85%e8%bf%871b%e5%8f%82%e6%95%b0%e9%83%bd%e6%98%af%e6%b5%aa%e8%b4%b9%ef%bc%9f%e5%a4%9a%e6%a8%a1%e6%80%81%e6%83%85%e6%84%9f%e6%a8%a1%e5%9e%8b%e8%bf%9b%e5%85%a5%e3%80%8c%e5%b0%8f%e3%80%8d%e6%97%b6) | 新智元 | AI |
-| 4 | [哈佛华人教授尹希，首谈GPT-5.6](https://aiera.com.cn/2026/08/02/other/admin/106835/%e5%93%88%e4%bd%9b%e5%8d%8e%e4%ba%ba%e6%95%99%e6%8e%88%e5%b0%b9%e5%b8%8c%ef%bc%8c%e9%a6%96%e8%b0%88gpt-5-6) | 新智元 | AI |
-| 5 | [一夜之间，Anthropic内部都在搞「智能体图」！](https://aiera.com.cn/2026/08/02/other/admin/106789/%e4%b8%80%e5%a4%9c%e4%b9%8b%e9%97%b4%ef%bc%8canthropic%e5%86%85%e9%83%a8%e9%83%bd%e5%9c%a8%e6%90%9e%e3%80%8c%e6%99%ba%e8%83%bd%e4%bd%93%e5%9b%be%e3%80%8d%ef%bc%81) | 新智元 | AI |
+| 1 | [具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……](https://sspai.com/post/112430) | sspai | AI |
+| 2 | [在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x) | Hacker News | 其他 |
+| 3 | [不要相信LLM / Don't credit the LLM](https://isaacsu.com/2026/08/dont-credit-the-llm) | Hacker News | AI |
+| 4 | [Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators](https://costperprompt.com/) | Hacker News | AI |
+| 5 | [谢尔盖·布林 (Sergey Brin) 表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [我用AI写了半年代码——回头看，这5个能力正在退化](https://juejin.cn/post/7668535450420019236) | juejin | AI |
-| 2 | [Uber 正在打造一个自动驾驶汽车帝国，以下是它所使用的每家公司 / Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it](https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker) | TechCrunch | AI |
-| 3 | [通用汽车正在打造自己的车载人工智能助手，因为谷歌的 Gemini 无法访问汽车所知道的信息 / GM is building its own in-vehicle AI assistant because Google’s Gemini cannot access what the car knows](https://thenextweb.com/news/gm-in-vehicle-ai-assistant-beyond-gemini) | The Next Web | AI |
-| 4 | [价值 100 亿美元的初创公司获得 SK 海力士的支持，打造一款只做一件事但性能极其出色的变压器 / $10 billion startup gets SK Hynix backing to build a transformer that does just one thing but exceedingly well](https://www.techradar.com/pro/usd10b-startup-gets-sk-hynix-backing-to-build-a-transformer-that-does-just-one-thing-but-exceedingly-well) | TechRadar | AI |
-| 5 | [给 AI 的 Agent 实现指南，可控 Agent 的关键](https://juejin.cn/post/7667103725047431174) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [Uber 正在打造一个自动驾驶汽车帝国，以下是它所使用的每家公司 / Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it](https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker) | TechCrunch | AI |
+| 2 | [通用汽车正在打造自己的车载人工智能助手，因为谷歌的 Gemini 无法访问汽车所知道的信息 / GM is building its own in-vehicle AI assistant because Google’s Gemini cannot access what the car knows](https://thenextweb.com/news/gm-in-vehicle-ai-assistant-beyond-gemini) | The Next Web | AI |
+| 3 | [价值 100 亿美元的初创公司获得 SK 海力士的支持，打造一款只做一件事但性能极其出色的变压器 / $10 billion startup gets SK Hynix backing to build a transformer that does just one thing but exceedingly well](https://www.techradar.com/pro/usd10b-startup-gets-sk-hynix-backing-to-build-a-transformer-that-does-just-one-thing-but-exceedingly-well) | TechRadar | AI |
+| 4 | [给 AI 的 Agent 实现指南，可控 Agent 的关键](https://juejin.cn/post/7667103725047431174) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [AI 生成的代码又乱又爱编？试试这套“先规划，再胶水”的三步法](https://juejin.cn/post/7666289945599246351) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 15 条，以上为 TOP 5。
+> 共 17 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [硅谷百亿美金押注「AI造AI」，清华系创业团队反手把模型开源了！](https://aiera.com.cn/2026/08/02/other/admin/106883/%e7%a1%85%e8%b0%b7%e7%99%be%e4%ba%bf%e7%be%8e%e9%87%91%e6%8a%bc%e6%b3%a8%e3%80%8cai%e9%80%a0ai%e3%80%8d%ef%bc%8c%e6%b8%85%e5%8d%8e%e7%b3%bb%e5%88%9b%e4%b8%9a%e5%9b%a2%e9%98%9f%e5%8f%8d%e6%89%8b) | 新智元 | AI |
-| 2 | [OpenAI全球用户破10亿！全新模型Astra曝光，疑似GPT-6](https://aiera.com.cn/2026/08/02/other/admin/106867/openai%e5%85%a8%e7%90%83%e7%94%a8%e6%88%b7%e7%a0%b410%e4%ba%bf%ef%bc%81%e5%85%a8%e6%96%b0%e6%a8%a1%e5%9e%8bastra%e6%9b%9d%e5%85%89%ef%bc%8c%e7%96%91%e4%bc%bcgpt-6) | 新智元 | AI |
-| 3 | [KotlinLLM 开源 ，一个可以在运行时自己生成永久 Kotlin 代码的 Agent 库](https://juejin.cn/post/7667863898348126271) | juejin | AI |
-| 4 | [DeepSeek-V4-Flash 正式版来了！这次提升有点夸张。](https://juejin.cn/post/7668634785267695625) | juejin | AI |
-| 5 | [DeepSeek V4-Flash 正式版深度解读：一行 changelog 里的暗涌与野心](https://juejin.cn/post/7668608790367682595) | juejin | AI |
+| 1 | [KotlinLLM 开源 ，一个可以在运行时自己生成永久 Kotlin 代码的 Agent 库](https://juejin.cn/post/7667863898348126271) | juejin | AI |
+| 2 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
+| 3 | [谷歌在推出一天后取消了其地球人工智能功能，因批评该功能会传播错误信息 / Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation](https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation) | TechCrunch | AI |
+| 4 | [谷歌在发布一天后就取消了谷歌地球的人工智能功能 / Google rolls back AI Google Earth feature a day after launch](https://mashable.com/tech/google-rolls-back-ai-google-earth-feature) | Mashable | AI |
+| 5 | [其他人都在缩小卫星尺寸。 K2 筹集了 5 亿美元来建造巨型卫星，并将人工智能送入轨道。 / Everyone else is shrinking satellites. K2 raised $500m to build giant ones, and put AI in orbit.](https://thenextweb.com/news/k2-space-500-million-series-d-6-8-billion-large-satellites) | The Next Web | AI |
 
-> 共 70 条，以上为 TOP 5。
+> 共 63 条，以上为 TOP 5。
 
 ---
 
@@ -52,10 +52,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [“宝可梦的语言是通用的”：为何30年过去了，粉丝们仍在努力“集齐所有宝可梦”](https://www.theguardian.com/games/2026/aug/02/the-language-of-pokemon-is-universal-why-fans-are-still-catching-em-all-after-30-years) | www.theguardian.com | IP |
-| 2 | [一所互联网三无大学，正在批量生产流量机器](https://www.huxiu.com/article/4878839.html?f=rss) | 虎嗅 (Huxiu) | IP |
-| 3 | [为什么2026年的离职博主做不下去了](https://www.huxiu.com/article/4880028.html?f=rss) | 虎嗅 (Huxiu) | IP |
-| 4 | [互联网流量，崩塌了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653111422&idx=1&sn=60656f050101cc1504ac8bc59490948f) | 极客公园 | IP |
+| 1 | [我卖掉了在迈阿密的房子，搬到了佛罗里达州北部的乡村。我的生活成本和压力都降低了，工作效率却提高了。](https://www.businessinsider.com/moved-miami-north-florida-slower-life-more-productive-2026-8) | www.businessinsider.com | 回乡 |
+| 2 | [“宝可梦的语言是通用的”：为何30年过去了，粉丝们仍在努力“集齐所有宝可梦”](https://www.theguardian.com/games/2026/aug/02/the-language-of-pokemon-is-universal-why-fans-are-still-catching-em-all-after-30-years) | www.theguardian.com | IP |
+| 3 | [一所互联网三无大学，正在批量生产流量机器](https://www.huxiu.com/article/4878839.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 4 | [为什么2026年的离职博主做不下去了](https://www.huxiu.com/article/4880028.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 5 | [互联网流量，崩塌了](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653111422&idx=1&sn=60656f050101cc1504ac8bc59490948f) | 极客公园 | IP |
 
 ---
 
@@ -78,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-02T07:57:49.754Z
-- **总资讯数**：4230 条原始 → 578 条筛选后
+- **聚合时间**：2026-08-02T09:50:55.874Z
+- **总资讯数**：4229 条原始 → 568 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
