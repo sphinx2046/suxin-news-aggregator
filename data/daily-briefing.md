@@ -12,9 +12,9 @@
 |---|------|------|------|
 | 1 | [内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems](https://twitter.com/polynoamial/status/2083467194663571701) | Hacker News | AI |
 | 2 | [只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers](https://website-auditor.io/ai-visibility-index) | Hacker News | AI |
-| 3 | [法学硕士发现 P=NP（漫画） / LLMs Discover P=NP (Comic)](https://chatgpt.com/s/m_6a6f252612a08191b4081f60a92bceba) | Hacker News | AI |
-| 4 | [生成式人工智能淹没并稀释了图书市场 / Generative AI floods and dilutes the market for books](https://arxiv.org/abs/2607.20349) | Hacker News | AI |
-| 5 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 3 | [谢尔盖·布林 (Sergey Brin) 表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 4 | [众议院通过预算法案，莫名其妙地禁止国家人工智能法规十年 / House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
+| 5 | [欧洲人即将发现人工智能在他们的日常生活中的根深蒂固程度 / Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives) | Wired | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -30,7 +30,7 @@
 | 4 | [我用 AI Agent 重构了日常开发工作流，效果出乎意料](https://juejin.cn/post/7666650921673424959) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [AI 生成的代码又乱又爱编？试试这套“先规划，再胶水”的三步法](https://juejin.cn/post/7666289945599246351) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 17 条，以上为 TOP 5。
+> 共 18 条，以上为 TOP 5。
 
 ---
 
@@ -39,12 +39,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [KotlinLLM 开源 ，一个可以在运行时自己生成永久 Kotlin 代码的 Agent 库](https://juejin.cn/post/7667863898348126271) | juejin | AI |
-| 2 | [谷歌在推出一天后取消了其地球人工智能功能，因批评该功能会传播错误信息 / Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation](https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation) | TechCrunch | AI |
-| 3 | [其他人都在缩小卫星尺寸。 K2 筹集了 5 亿美元来建造巨型卫星，并将人工智能送入轨道。 / Everyone else is shrinking satellites. K2 raised $500m to build giant ones, and put AI in orbit.](https://thenextweb.com/news/k2-space-500-million-series-d-6-8-billion-large-satellites) | The Next Web | AI |
-| 4 | [AI 代理实际上需要的不吸引人的层：DataBahn 筹集了 4000 万美元来出售它 / The unsexy layer AI agents actually need: DataBahn raises $40m to sell it](https://thenextweb.com/news/databahn-40-million-series-b-agentic-data-control-plane) | The Next Web | AI |
-| 5 | [HBO Max 刚刚推出了 TikTok 风格的短片和人工智能搜索，这是一场剧透噩梦 / HBO Max just launched TikTok-style shorts and AI search that's a spoiler nightmare](https://www.makeuseof.com/hbo-max-launches-new-ai-shorts-because-why-not) | MakeUseOf | AI |
+| 2 | [其他人都在缩小卫星尺寸。 K2 筹集了 5 亿美元来建造巨型卫星，并将人工智能送入轨道。 / Everyone else is shrinking satellites. K2 raised $500m to build giant ones, and put AI in orbit.](https://thenextweb.com/news/k2-space-500-million-series-d-6-8-billion-large-satellites) | The Next Web | AI |
+| 3 | [AI 代理实际上需要的不吸引人的层：DataBahn 筹集了 4000 万美元来出售它 / The unsexy layer AI agents actually need: DataBahn raises $40m to sell it](https://thenextweb.com/news/databahn-40-million-series-b-agentic-data-control-plane) | The Next Web | AI |
+| 4 | [HBO Max 刚刚推出了 TikTok 风格的短片和人工智能搜索，这是一场剧透噩梦 / HBO Max just launched TikTok-style shorts and AI search that's a spoiler nightmare](https://www.makeuseof.com/hbo-max-launches-new-ai-shorts-because-why-not) | MakeUseOf | AI |
+| 5 | [由于对中国科技、人工智能和机器人行业的热情重燃，中国风险投资公司在经历了三年创纪录低融资水平后，正急于筹集新资金（Eleanor Olcott/《金融时报》） / Chinese VC firms are rushing to raise new funds after three years of record-low fundraising, amid renewed enthusiasm for China's tech, AI, and robotics sectors (Eleanor Olcott/Financial Times)](https://www.techmeme.com/260802/p4) | Techmeme | AI |
 
-> 共 59 条，以上为 TOP 5。
+> 共 57 条，以上为 TOP 5。
 
 ---
 
@@ -66,8 +66,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [云计算三巨头财报B面：一边失血一边靠芯片赚钱](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA%3D%3D&mid=2661076593&idx=1&sn=c87ef23828f85d3b8ee49ed82291014c) | 钛媒体 | 变现 |
-| 2 | [GPT-5.6当老板：买假用户、被Chrome干崩3小时，烧掉3亿Token收入却为0](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA%3D%3D&mid=2651289862&idx=1&sn=41e196ea5e4382256fc47e2ac3bff7e2) | InfoQ | AI/变现 |
+| 1 | [随着云业务收入激增，现在是买入微软股票的好时机吗？](https://finance.yahoo.com/markets/stocks/articles/cloud-revenue-soars-time-buy-163500803.html) | finance.yahoo.com | 变现 |
+| 2 | [云计算三巨头财报B面：一边失血一边靠芯片赚钱](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA%3D%3D&mid=2661076593&idx=1&sn=c87ef23828f85d3b8ee49ed82291014c) | 钛媒体 | 变现 |
+| 3 | [GPT-5.6当老板：买假用户、被Chrome干崩3小时，烧掉3亿Token收入却为0](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA%3D%3D&mid=2651289862&idx=1&sn=41e196ea5e4382256fc47e2ac3bff7e2) | InfoQ | AI/变现 |
 
 ---
 
@@ -79,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-02T16:42:29.002Z
-- **总资讯数**：4206 条原始 → 546 条筛选后
+- **聚合时间**：2026-08-02T18:47:47.785Z
+- **总资讯数**：4211 条原始 → 551 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
