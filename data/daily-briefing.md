@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-08-02（周日）
+# 素心拾穗 · 每日情报 · 2026-08-03（周一）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [OpenAl、Anthropic超1100名员工联名，要求AI刹车](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247619005&idx=1&sn=c33489a64a00d71a004f6c07024c91e4) | 夕小瑶科技说 | AI |
-| 2 | [我们实测TRAE Work的这份攻略，被官方收进知识库了](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247618947&idx=1&sn=c18bb80a83de63f6218fa024a3633d5a) | 夕小瑶科技说 | 其他 |
-| 3 | [寒武纪给超8成员工发股票激励，人均160万；宇树员工掏2.7亿认购IPO，…..](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665375&idx=1&sn=2b7c4987ca350a8a9c2efa616f56c66e) | AI前线 | AI |
-| 4 | [92%工程师都在用AI后，Uber 开始给AI“限额”了](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665375&idx=2&sn=f19cbe30fe7dd3f08ab22fa4feda6112) | AI前线 | AI |
-| 5 | [GitHub Al Agent翻车：攻击者不用黑客技术，只写一句话就能窃取数据](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665358&idx=2&sn=0cdfdba3488b2e2d9567dafd96b64bdd) | AI前线 | AI |
+| 1 | [小扎炮轰AI末日论！超级智能要人人可用，少数人控制才危险](https://aiera.com.cn/2026/08/03/other/admin/107057/%e5%b0%8f%e6%89%8e%e7%82%ae%e8%bd%b0ai%e6%9c%ab%e6%97%a5%e8%ae%ba%ef%bc%81%e8%b6%85%e7%ba%a7%e6%99%ba%e8%83%bd%e8%a6%81%e4%ba%ba%e4%ba%ba%e5%8f%af%e7%94%a8%ef%bc%8c%e5%b0%91%e6%95%b0%e4%ba%ba%e6%8e%a7) | 新智元 | AI |
+| 2 | [突发！OpenAI下一代AI攻克10项菲尔兹奖级难题](https://aiera.com.cn/2026/08/03/other/admin/107046/%e7%aa%81%e5%8f%91%ef%bc%81openai%e4%b8%8b%e4%b8%80%e4%bb%a3ai%e6%94%bb%e5%85%8b10%e9%a1%b9%e8%8f%b2%e5%b0%94%e5%85%b9%e5%a5%96%e7%ba%a7%e9%9a%be%e9%a2%98) | 新智元 | AI |
+| 3 | [从11.9%飙到95.95%！微软屠榜网安基准，真正王牌不是大模型](https://aiera.com.cn/2026/08/03/other/admin/107013/%e4%bb%8e11-9%e9%a3%99%e5%88%b095-95%ef%bc%81%e5%be%ae%e8%bd%af%e5%b1%a0%e6%a6%9c%e7%bd%91%e5%ae%89%e5%9f%ba%e5%87%86%ef%bc%8c%e7%9c%9f%e6%ad%a3%e7%8e%8b%e7%89%8c%e4%b8%8d%e6%98%af%e5%a4%a7%e6%a8%a1) | 新智元 | AI |
+| 4 | [害怕AI灭绝人类，菲尔兹奖得主请假去了OpenAI！要用数学驯服AI](https://aiera.com.cn/2026/08/03/other/admin/106974/%e5%ae%b3%e6%80%95ai%e7%81%ad%e7%bb%9d%e4%ba%ba%e7%b1%bb%ef%bc%8c%e8%8f%b2%e5%b0%94%e5%85%b9%e5%a5%96%e5%be%97%e4%b8%bb%e8%af%b7%e5%81%87%e5%8e%bb%e4%ba%86openai%ef%bc%81%e8%a6%81%e7%94%a8%e6%95%b0) | 新智元 | AI |
+| 5 | [80亿参数记性不如U盘：他算出了大模型记忆天花板](https://aiera.com.cn/2026/08/03/other/admin/106963/80%e4%ba%bf%e5%8f%82%e6%95%b0%e8%ae%b0%e6%80%a7%e4%b8%8d%e5%a6%82u%e7%9b%98%ef%bc%9a%e4%bb%96%e7%ae%97%e5%87%ba%e4%ba%86%e5%a4%a7%e6%a8%a1%e5%9e%8b%e8%ae%b0%e5%bf%86%e5%a4%a9%e8%8a%b1%e6%9d%bf) | 新智元 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [面试被拒N次，O经验小白如何2个月拿到AI产品经理offer?](https://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA%3D%3D&mid=2651929721&idx=2&sn=fcca77e367f0183844770f4c4a3d275b) | 人人都是产品经理 | AI |
-| 2 | [Uber 正在打造一个自动驾驶汽车帝国，以下是它所使用的每家公司 / Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it](https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker) | TechCrunch | AI |
-| 3 | [通用汽车正在打造自己的车载人工智能助手，因为谷歌的 Gemini 无法访问汽车所知道的信息 / GM is building its own in-vehicle AI assistant because Google’s Gemini cannot access what the car knows](https://thenextweb.com/news/gm-in-vehicle-ai-assistant-beyond-gemini) | The Next Web | AI |
-| 4 | [给 AI 的 Agent 实现指南，可控 Agent 的关键](https://juejin.cn/post/7667103725047431174) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [Uber 正在打造一个自动驾驶汽车帝国，以下是它所使用的每家公司 / Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it](https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker) | TechCrunch | AI |
+| 2 | [通用汽车正在打造自己的车载人工智能助手，因为谷歌的 Gemini 无法访问汽车所知道的信息 / GM is building its own in-vehicle AI assistant because Google’s Gemini cannot access what the car knows](https://thenextweb.com/news/gm-in-vehicle-ai-assistant-beyond-gemini) | The Next Web | AI |
+| 3 | [给 AI 的 Agent 实现指南，可控 Agent 的关键](https://juejin.cn/post/7667103725047431174) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [「TRAE Work 实战帮」征文启动！你沉淀的经验，值得被看见！](https://juejin.cn/post/7668568406279274534) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [我用 AI Agent 重构了日常开发工作流，效果出乎意料](https://juejin.cn/post/7666650921673424959) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 20 条，以上为 TOP 5。
+> 共 17 条，以上为 TOP 5。
 
 ---
 
@@ -41,10 +41,10 @@
 | 1 | [KotlinLLM 开源 ，一个可以在运行时自己生成永久 Kotlin 代码的 Agent 库](https://juejin.cn/post/7667863898348126271) | juejin | AI |
 | 2 | [国产Al视频模型又卷起来了：Seedance2.5和MiniMax H3谁更值得用](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247619086&idx=1&sn=bb4db3d1ede64792deb33f492ac025ad) | 夕小瑶科技说 | AI |
 | 3 | [OpenAI突然大降价：GPT-5.6 Luna便宜80%](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247619017&idx=1&sn=70b9c60fea6cbeb0d2b9591418e7aaa9) | 夕小瑶科技说 | AI |
-| 4 | [实测 DeepSeekV4 正式版：3 块钱干完5件事，AI「智价比」之战开打了](https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA%3D%3D&mid=2652459574&idx=1&sn=4f1ec04a6f23978396c5c285f39d5a18) | 爱范儿 | AI |
-| 5 | [迪士尼物理AI版图曝光，它挑中了这两家公司](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649801767&idx=2&sn=901fb1e0f03eab1bd8e9d4b3ff360060) | DeepTech深科技 | AI |
+| 4 | [Snapchat 是反对人工智能滥用的最新平台 / Snapchat is the latest platform to turn against AI slop](https://mashable.com/life/snapchat-ai-slop-spotlight-videos) | Mashable | AI |
+| 5 | [其他人都在缩小卫星尺寸。 K2 筹集了 5 亿美元来建造巨型卫星，并将人工智能送入轨道。 / Everyone else is shrinking satellites. K2 raised $500m to build giant ones, and put AI in orbit.](https://thenextweb.com/news/k2-space-500-million-series-d-6-8-billion-large-satellites) | The Next Web | AI |
 
-> 共 60 条，以上为 TOP 5。
+> 共 50 条，以上为 TOP 5。
 
 ---
 
@@ -52,17 +52,21 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [一所互联网三无大学，正在批量生产流量机器](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ%3D%3D&mid=2656191104&idx=2&sn=b0e8821b0f3503019bca16fe48781bdf) | 虎嗅App | IP |
-| 2 | [据通讯社报道，遭乌克兰袭击的伊朗船只船员已返回家乡](https://reut.rs/3RG9t3x) | reut.rs | 回乡 |
-| 3 | [米哈游回应创作者被拖欠酬劳：已终止与云南昊曦的合作并拉黑，支持依法维权](https://www.ithome.com/0/984/796.htm) | IT之家 (ITHome) | IP |
-| 4 | [一场让我想起家乡的牛仔竞技表演](https://www.theatlantic.com/newsletters/2026/08/rodeo-phoenix-willie-nelson-culture-entretaintment-recs/688146) | www.theatlantic.com | 回乡 |
-| 5 | [我卖掉了在迈阿密的房子，搬到了佛罗里达州北部的乡村。我的生活成本和压力都降低了，工作效率却提高了。](https://www.businessinsider.com/moved-miami-north-florida-slower-life-more-productive-2026-8) | www.businessinsider.com | 回乡 |
+| 1 | [ABB收购Rotork的交易或将使这些流量控制类股票重新成为市场焦点](https://finance.yahoo.com/markets/stocks/articles/abb-rotork-deal-could-put-135000743.html) | finance.yahoo.com | IP |
+| 2 | [大学毕业后搬回老家？你的朋友们都在这么做。 - The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZEpYQURfRXE4TjR1TVFuVlVUZURlMFV2cEhFUVk3aEdMb05SSFZiM2tOWXNuZ1hJX1VnNnpUT0p6SVFZY1RBdi1JNVRFRjVFbW5BNUdVcURmeUxqNDRxVHNyRVNLLWg0ZXc2UnNENmJUblVPclkyMFNSaUF4VGIwOVNfdWZ1Tldp?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 回乡 |
+| 3 | [IT早报 0803：米哈游回应创作者被拖欠酬劳；哪吒汽车生产设备流拍后售价降至 4824.63 万元；官方回应喜羊羊新作擦边；华为鸿蒙 7 实装游戏秒启秒开特性...](https://www.ithome.com/0/984/834.htm) | IT之家 (ITHome) | IP |
+| 4 | [一所互联网三无大学，正在批量生产流量机器](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ%3D%3D&mid=2656191104&idx=2&sn=b0e8821b0f3503019bca16fe48781bdf) | 虎嗅App | IP |
+| 5 | [据通讯社报道，遭乌克兰袭击的伊朗船只船员已返回家乡](https://reut.rs/3RG9t3x) | reut.rs | 回乡 |
+
+> 共 7 条，以上为 TOP 5。
 
 ---
 
 ## 💰 变现雷达
 
-> 今日无优质信息源，待补充。
+| # | 标题 | 来源 | 分类 |
+|---|------|------|------|
+| 1 | [正在为退休后的股息收入做规划吗？无论身处哪个州，夫妻双方仍需储备这笔“养老金”](https://finance.yahoo.com/markets/stocks/articles/planning-dividend-income-retirement-nest-142941945.html) | finance.yahoo.com | 变现 |
 
 ---
 
@@ -74,8 +78,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-02T22:42:13.126Z
-- **总资讯数**：4117 条原始 → 547 条筛选后
+- **聚合时间**：2026-08-03T01:21:49.742Z
+- **总资讯数**：4168 条原始 → 552 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
