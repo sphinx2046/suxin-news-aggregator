@@ -11,10 +11,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [01｜什么是 Agent Harness？为什么 LLM 裸用跑不动](https://juejin.cn/post/7668568059226800168) | juejin | AI |
-| 2 | [具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……](https://sspai.com/post/112430) | sspai | AI |
-| 3 | [Show HN: cMCP，拒绝 AI 代理的工具调用并获取已签名的回执 / Show HN: cMCP, deny an AI agent's tool call and get a signed receipt](https://github.com/agentrust-io/cmcp) | Hacker News | AI |
-| 4 | [人工智能数据中心正在推高电费——这张地图显示了哪里 / AI Data Centers Are Driving Up Power Bills – This Map Shows Where](https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where) | Hacker News | AI |
-| 5 | [扭曲代理 CLI / The Warp Agent CLI](https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent) | Hacker News | AI |
+| 2 | [Show HN: cMCP，拒绝 AI 代理的工具调用并获取已签名的回执 / Show HN: cMCP, deny an AI agent's tool call and get a signed receipt](https://github.com/agentrust-io/cmcp) | Hacker News | AI |
+| 3 | [人工智能数据中心正在推高电费——这张地图显示了哪里 / AI Data Centers Are Driving Up Power Bills – This Map Shows Where](https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where) | Hacker News | AI |
+| 4 | [扭曲代理 CLI / The Warp Agent CLI](https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent) | Hacker News | AI |
+| 5 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,8 +24,8 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
-| 2 | [学生的“人工智能反抗”基本上是一个神话。商科学生只是想学习如何使用它。 / The student “AI revolt” is mostly a myth. Business students just want to be taught how to use it.](https://thenextweb.com/news/college-ai-use-spikes-kogod-survey-students) | The Next Web | AI |
+| 1 | [学生的“人工智能反抗”基本上是一个神话。商科学生只是想学习如何使用它。 / The student “AI revolt” is mostly a myth. Business students just want to be taught how to use it.](https://thenextweb.com/news/college-ai-use-spikes-kogod-survey-students) | The Next Web | AI |
+| 2 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
 | 3 | [「TRAE Work 实战帮」征文启动！你沉淀的经验，值得被看见！](https://juejin.cn/post/7668568406279274534) | 掘金 · 人工智能本周最热 | AI |
 | 4 | [AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency](https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions) | Readhub · AI | AI |
 | 5 | [与 AI 共造一件工具：我用 TraeWork 做出「群聊捕手 · AI 社群分析工具」的全过程](https://juejin.cn/post/7669257737558556715) | juejin | AI |
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
-| 2 | [推出 HN：EdotEnv (YC S26) – 量化交易 RL Envs 教授法学硕士研究 / Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research](https://edotenv.com/) | Hacker News | AI |
-| 3 | [OpenAI 将苹果诉讼告上舆论法庭并发布短信 / OpenAI takes Apple lawsuit to court of public opinion, posts texts](https://mashable.com/tech/openai-apple-lawsuit-court-public-opinion-texts) | Mashable | AI |
-| 4 | [随着特朗普紧张局势升级，人类任命全球事务负责人领导人工智能外交 / Anthropic names global affairs chief to lead AI diplomacy as Trump tensions escalate](https://thenextweb.com/news/anthropic-names-first-chief-global-affairs-officer) | The Next Web | AI |
-| 5 | [HBO Max 刚刚推出了 TikTok 风格的短片和人工智能搜索，这是一场剧透噩梦 / HBO Max just launched TikTok-style shorts and AI search that's a spoiler nightmare](https://www.makeuseof.com/hbo-max-launches-new-ai-shorts-because-why-not) | MakeUseOf | AI |
+| 1 | [推出 HN：EdotEnv (YC S26) – 量化交易 RL Envs 教授法学硕士研究 / Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research](https://edotenv.com/) | Hacker News | AI |
+| 2 | [OpenAI 将苹果诉讼告上舆论法庭并发布短信 / OpenAI takes Apple lawsuit to court of public opinion, posts texts](https://mashable.com/tech/openai-apple-lawsuit-court-public-opinion-texts) | Mashable | AI |
+| 3 | [随着特朗普紧张局势升级，人类任命全球事务负责人领导人工智能外交 / Anthropic names global affairs chief to lead AI diplomacy as Trump tensions escalate](https://thenextweb.com/news/anthropic-names-first-chief-global-affairs-officer) | The Next Web | AI |
+| 4 | [HBO Max 刚刚推出了 TikTok 风格的短片和人工智能搜索，这是一场剧透噩梦 / HBO Max just launched TikTok-style shorts and AI search that's a spoiler nightmare](https://www.makeuseof.com/hbo-max-launches-new-ai-shorts-because-why-not) | MakeUseOf | AI |
+| 5 | [谷歌终于为 Gemini 提供了一个更便宜、实际上优于竞争对手的人工智能模型 / Google finally gives Gemini a cheaper AI model that actually outperforms competitors](https://www.makeuseof.com/googles-3-new-gemini-models-are-designed-to-save-you-money) | MakeUseOf | AI |
 
-> 共 52 条，以上为 TOP 5。
+> 共 54 条，以上为 TOP 5。
 
 ---
 
@@ -82,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-04T19:14:44.818Z
-- **总资讯数**：4262 条原始 → 624 条筛选后
+- **聚合时间**：2026-08-04T20:59:11.149Z
+- **总资讯数**：4414 条原始 → 641 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
