@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [别让老本绑架你：AI时代转型的4个实操建议](https://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA%3D%3D&mid=2651929775&idx=3&sn=646c42ffa7c34b99d77d6431f787dd94) | 人人都是产品经理 | AI |
-| 2 | [我用AI写了半年代码——回头看，这5个能力正在退化](https://juejin.cn/post/7668535450420019236) | juejin | AI |
-| 3 | [给 AI Agent 加上语音交互：ASR + 流式 TTS 实战](https://juejin.cn/post/7669321508946919451) | juejin | AI |
-| 4 | [与 AI 共造一件工具：我用 TraeWork 做出「群聊捕手 · AI 社群分析工具」的全过程](https://juejin.cn/post/7669257737558556715) | juejin | AI |
-| 5 | [好莱坞在公开场合与人工智能作斗争，同时悄悄地将其融入电影中 / Hollywood Fights AI In Public While Quietly Building It Into Movies](https://entertainment.slashdot.org/story/26/08/03/0350223/hollywood-fights-ai-in-public-while-quietly-building-it-into-movies) | Slashdot | AI |
+| 1 | [我用AI写了半年代码——回头看，这5个能力正在退化](https://juejin.cn/post/7668535450420019236) | juejin | AI |
+| 2 | [好莱坞在公开场合与人工智能作斗争，同时悄悄地将其融入电影中 / Hollywood Fights AI In Public While Quietly Building It Into Movies](https://entertainment.slashdot.org/story/26/08/03/0350223/hollywood-fights-ai-in-public-while-quietly-building-it-into-movies) | Slashdot | AI |
+| 3 | [电影制片人詹姆斯·卡梅隆 (James Cameron) 关于人工智能的每日引述：“所有人类艺术和人类经验都被放入搅拌机中”——对人工智能在创意产业中的崛起不屑一顾 / Quote of the day by filmmaker James Cameron on AI: 'All of human art and human experience put into a blender' — dismissing the rise of AI in creative industries](https://www.techradar.com/pro/quote-of-the-day-by-filmmaker-james-cameron-on-ai-all-of-human-art-and-human-experience-put-into-a-blender-dismissing-the-rise-of-ai-in-creative-industries) | TechRadar | AI |
+| 4 | [Hugging Face首席执行官表示，中国正在人工智能竞赛中胜出，而美国则处于“各自为政”的状态 / Hugging Face CEO says China is winning the AI race while the US is building 'in silos'](https://www.businessinsider.com/hugging-face-ceo-open-weight-ai-models-china-2026-8) | Business Insider | AI |
+| 5 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
 
-> 共 20 条，以上为 TOP 5。
+> 共 15 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [阿里Qwen3.8正式发布：2.4T规模，自主编程 16 天搓出一个 Hermes Agent](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665430&idx=2&sn=b805fe4112d6a1547231732226499d6a) | AI前线 | AI |
-| 2 | [Genspark发布GenOffice：AI时代的Office，免费、开源，抢占办公人群...](https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw%3D%3D&mid=2247525491&idx=1&sn=245982c44e1f5e69ac893dc6e32f225d) | FounderPark | AI |
-| 3 | [DeepSeek-V4-Flash 正式版来了！这次提升有点夸张。](https://juejin.cn/post/7668634785267695625) | juejin | AI |
-| 4 | [DeepSeek V4-Flash 正式版深度解读：一行 changelog 里的暗涌与野心](https://juejin.cn/post/7668608790367682595) | juejin | AI |
-| 5 | [架构没变、规模没变，DeepSeek V4 Flash 正式版凭什么暴涨 47 分？](https://juejin.cn/post/7668933720747638834) | juejin | AI |
+| 1 | [随着人工智能威胁升级，Horizo​​n3 估值达 20 亿美元，E 轮融资 2.5 亿美元 / Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate](https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate) | TechCrunch | AI |
+| 2 | [欧盟宣布人工智能透明度新规则 / EU announces new rules on AI transparency](https://www.engadget.com/2228894/eu-announces-new-rules-on-ai-transparency) | Engadget | AI |
+| 3 | [人工智能热潮以金属为基础。一家成立两年的初创公司刚刚筹集了 3.1 亿美元，用于在美国土地上自主开采。 / The AI boom runs on metal. A two-year-old startup just raised $310m to mine it, autonomously, on US soil.](https://thenextweb.com/news/mariana-minerals-310m-series-b-autonomous-critical-minerals) | The Next Web | AI |
+| 4 | [危险不在于人工智能模型。这是代理自行行动，Zenity 筹集了 1.25 亿美元来观看它。 / The danger isn’t the AI model. It’s the agent acting on its own, and Zenity raised $125m to watch it.](https://thenextweb.com/news/zenity-125m-series-c-ai-agent-security) | The Next Web | AI |
+| 5 | [Visa 斥资 24 亿美元收购 BioCatch，因为人工智能诈骗现在每年给全球经济造成 1 万亿美元损失 / Visa is buying BioCatch for $2.4 billion because AI scams now cost the global economy $1 trillion a year](https://thenextweb.com/news/visa-biocatch-2-4-billion-acquisition-fraud-ai-scams) | The Next Web | AI |
 
-> 共 66 条，以上为 TOP 5。
+> 共 56 条，以上为 TOP 5。
 
 ---
 
@@ -52,11 +52,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [据称，某贩毒集团头目因一个令人恼火的平庸理由，在美妆博主直播期间下令将其暗杀 - Bored Panda](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdl9la2VteFRKV0ptamR2MEhoVFg4SzhSNlNsZGlpTU1ra293UHJvTVhrRkNRTENqRWxRWGh3enFVTW1GZHBWR0dZUlNZbkFwQ3pmZTFWOC1LRVZfT3ZEN2JublJXSDMtRzVCNnhEWVVNUHB1ZHJjNF9Wb3NjakJ6bEJicDBIVEdjWmhIc2x6WDZmSlVvZTlra3p6Y3l2MmR3QkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 2 | [据称，某贩毒集团头目因一个令人恼火的琐事，在直播期间下令暗杀了一位美妆博主 - Bored Panda](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdl9la2VteFRKV0ptamR2MEhoVFg4SzhSNlNsZGlpTU1ra293UHJvTVhrRkNRTENqRWxRWGh3enFVTW1GZHBWR0dZUlNZbkFwQ3pmZTFWOC1LRVZfT3ZEN2JublJXSDMtRzVCNnhEWVVNUHB1ZHJjNF9Wb3NjakJ6bEJicDBIVEdjWmhIc2x6WDZmSlVvZTlra3p6Y3l2MmR3QkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 3 | [苹果没告诉你的事：刷短视频突然「炸耳」？这套指令让你告别手动调音量](https://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ%3D%3D&mid=2247627024&idx=1&sn=b3443085baef99eaf5a8e7532742323e) | 少数派 | IP |
-| 4 | [机器人刷一段「短视频」，就能学会新技能？自变量 HOST技术「神器」来了](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651099377&idx=1&sn=68c426374fd2247dd6524f845e7a52bf) | APPSO | IP |
-| 5 | [爱好者借助《GTA 6》粉丝整理地图，在《城市：天际线 2》中还原罪恶都市](https://www.ithome.com/0/985/274.htm) | IT之家 (ITHome) | IP |
+| 1 | [[推广] 免实名 送 500mb 住宅流量 静态住宅等于 2 刀/月 美国机房 1 刀/月起](https://www.v2ex.com/t/1231952) | V2EX (创意工作者社区) | IP |
+| 2 | [受和平谈判前景不明影响，海湾主要水道上的航运流量变化不大](https://reut.rs/4xcAACe) | reut.rs | IP |
+| 3 | [移动联通电信三大运营商停止第三方网售号卡后，中国广电低价大流量卡热销](https://www.ithome.com/0/985/382.htm) | IT之家 (ITHome) | IP |
+| 4 | [据称，某贩毒集团头目因一个令人恼火的琐事，在直播期间下令暗杀了一位美妆博主 - Bored Panda](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdl9la2VteFRKV0ptamR2MEhoVFg4SzhSNlNsZGlpTU1ra293UHJvTVhrRkNRTENqRWxRWGh3enFVTW1GZHBWR0dZUlNZbkFwQ3pmZTFWOC1LRVZfT3ZEN2JublJXSDMtRzVCNnhEWVVNUHB1ZHJjNF9Wb3NjakJ6bEJicDBIVEdjWmhIc2x6WDZmSlVvZTlra3p6Y3l2MmR3QkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
+| 5 | [苹果没告诉你的事：刷短视频突然「炸耳」？这套指令让你告别手动调音量](https://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ%3D%3D&mid=2247627024&idx=1&sn=b3443085baef99eaf5a8e7532742323e) | 少数派 | IP |
 
 > 共 7 条，以上为 TOP 5。
 
@@ -66,11 +66,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [谷子店3年沉浮：风口过去，赚钱的人换了【经纬低调分享】](https://mp.weixin.qq.com/s?__biz=MzA3ODk5OTEzOA%3D%3D&mid=2962188294&idx=1&sn=dc77333f4dd49c4e4a294194a3fbeb40) | 经纬创投 | 变现 |
-| 2 | [3只固定收益ETF揭示了为何收益率只是收入故事的一部分](https://finance.yahoo.com/markets/options/articles/3-fixed-income-etfs-show-155000099.html) | finance.yahoo.com | 变现 |
-| 3 | [Palantir 公布 2026 年第二季度美国佣金收入同比增长 149%，总收入同比增长 93%；将 2026 财年收入指引上调至同比增长 82%，美国佣金收入指引上调至同比增长 134%，远超市场普遍预期 - businesswire.com](https://news.google.com/rss/articles/CBMi_gJBVV95cUxOWXNDVjhHenZKVVRTeXFvZ0NNNmx2QzZCYW1mbTA1V2FrMlM0MERsUjlKMmxzOEtINUhUUXV4VU4xTE1lSHI2eHhtSkVPS092RzBoWmEwNkxhT0ZtWWFJZWp2MnhCckpXREtMZjBEU2h0RUFwSlJZai14dnhSNHY4S2FvZ2ptbUhYdjYxckJzT2dWbEM0TzVMOTdzQnpoM3dEUnNjUlgyaE5IUFZlODROY2RTbFZjUjJmLVFvSFdiSFNqM21UbHlrcHQxSENrb25UZHdYUE5yNUpJN3dhM1I1YkQzTkNvaFprQWczaDRLZC1uY0psd3lJWld0Mm9rMzl1d2FldlZoTk11N1JHMGpjOUFwY2ZMUWhjRnZCRWpWUDV4Q2p0dGxKN1VjekNTbkU1Zl9zMVc0YWIxRUJTcWNzSkxEYmJoYk8xUl9KTTlQTHZHTjNLN1ZGejIxejc1cXJIcm1LeE5fLWlFVjBydU5aYWppZ0F1ZENwOFFkWk9R?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
-| 4 | [Ask HN: 自由职业者？正在寻找自由职业者？（2026年8月）](https://news.ycombinator.com/item?id=49157021) | news.ycombinator.com | 变现 |
-| 5 | [Appllama - 研究收入最高的 iOS 应用中的 25,000 多个界面](https://www.producthunt.com/r/JB22KSXJYEKFYA) | www.producthunt.com | 变现 |
+| 1 | [Claude和Kimi消耗60亿，价值2.6万，收入0蛋！](https://juejin.cn/post/7669612673382531082) | 掘金 · 人工智能本周最热 | AI/变现 |
+| 2 | [汇丰控股：上半年收入377.42亿美元，同比增11%](https://36kr.com/newsflashes/3924712384674184?f=rss) | 36氪 (36Kr) | 变现 |
+| 3 | [Sensor Tower：上半年全球合成手游收入突破21亿美元](https://36kr.com/newsflashes/3924619908905344?f=rss) | 36氪 (36Kr) | 变现 |
+| 4 | [谷子店3年沉浮：风口过去，赚钱的人换了【经纬低调分享】](https://mp.weixin.qq.com/s?__biz=MzA3ODk5OTEzOA%3D%3D&mid=2962188294&idx=1&sn=dc77333f4dd49c4e4a294194a3fbeb40) | 经纬创投 | 变现 |
+| 5 | [3只固定收益ETF揭示了为何收益率只是收入故事的一部分](https://finance.yahoo.com/markets/options/articles/3-fixed-income-etfs-show-155000099.html) | finance.yahoo.com | 变现 |
+
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -82,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-04T01:13:21.807Z
-- **总资讯数**：4410 条原始 → 631 条筛选后
+- **聚合时间**：2026-08-04T04:50:47.544Z
+- **总资讯数**：4458 条原始 → 629 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
