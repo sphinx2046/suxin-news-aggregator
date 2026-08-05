@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [与 AI 共造一件工具：我用 TraeWork 做出「群聊捕手 · AI 社群分析工具」的全过程](https://juejin.cn/post/7669257737558556715) | juejin | AI |
-| 2 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
-| 3 | [学生的“人工智能反抗”基本上是一个神话。商科学生只是想学习如何使用它。 / The student “AI revolt” is mostly a myth. Business students just want to be taught how to use it.](https://thenextweb.com/news/college-ai-use-spikes-kogod-survey-students) | The Next Web | AI |
-| 4 | ['Tools don't have independent values — their values are human values': Quote of the day by Stanford professor Fei-Fei Li on building ethical AI](https://www.techradar.com/pro/tools-dont-have-independent-values-their-values-are-human-values-quote-of-the-day-by-stanford-professor-fei-fei-li-on-building-ethical-ai) | TechRadar | AI |
+| 1 | [学生的“人工智能反抗”基本上是一个神话。商科学生只是想学习如何使用它。 / The student “AI revolt” is mostly a myth. Business students just want to be taught how to use it.](https://thenextweb.com/news/college-ai-use-spikes-kogod-survey-students) | The Next Web | AI |
+| 2 | [我在 Chrome 中尝试了 Gemini Spark，它是处理在线所有无聊内容的完美人工智能 / I tried Gemini Spark in Chrome and it's the perfect AI for handling all the boring bits online](https://www.techradar.com/ai-platforms-assistants/i-tried-gemini-spark-in-chrome-and-its-the-perfect-ai-for-handling-all-the-boring-bits-online) | TechRadar | AI |
+| 3 | [“工具没有独立的价值——它们的价值是人类的价值”：斯坦福大学教授李飞飞关于构建道德人工智能的每日名言 / 'Tools don't have independent values — their values are human values': Quote of the day by Stanford professor Fei-Fei Li on building ethical AI](https://www.techradar.com/pro/tools-dont-have-independent-values-their-values-are-human-values-quote-of-the-day-by-stanford-professor-fei-fei-li-on-building-ethical-ai) | TechRadar | AI |
+| 4 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
 | 5 | [「TRAE Work 实战帮」征文启动！你沉淀的经验，值得被看见！](https://juejin.cn/post/7668568406279274534) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 11 条，以上为 TOP 5。
+> 共 13 条，以上为 TOP 5。
 
 ---
 
@@ -40,11 +40,11 @@
 |---|------|------|------|
 | 1 | [全球首个！国产AI开源系统一周狂改百款软件，全程0人干预](https://aiera.com.cn/2026/08/05/other/admin/107329/%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aa%ef%bc%81%e5%9b%bd%e4%ba%a7ai%e5%bc%80%e6%ba%90%e7%b3%bb%e7%bb%9f%e4%b8%80%e5%91%a8%e7%8b%82%e6%94%b9%e7%99%be%e6%ac%be%e8%bd%af%e4%bb%b6%ef%bc%8c%e5%85%a8%e7%a8%8b) | 新智元 | AI |
 | 2 | [Agent成本暴降几十倍！LlamaFactory作者开源新工具：0.2元自动造Agent](https://aiera.com.cn/2026/08/05/other/admin/107259/agent%e6%88%90%e6%9c%ac%e6%9a%b4%e9%99%8d%e5%87%a0%e5%8d%81%e5%80%8d%ef%bc%81llamafactory%e4%bd%9c%e8%80%85%e5%bc%80%e6%ba%90%e6%96%b0%e5%b7%a5%e5%85%b7%ef%bc%9a0-2%e5%85%83%e8%87%aa%e5%8a%a8%e9%80%a0) | 新智元 | AI |
-| 3 | [我全程用 AI开发了一款微信小游戏，上线了](https://juejin.cn/post/7669058712007147539) | juejin | AI |
-| 4 | [架构没变、规模没变，DeepSeek V4 Flash 正式版凭什么暴涨 47 分？](https://juejin.cn/post/7668933720747638834) | juejin | AI |
-| 5 | [DeepSeek-V4-Flash 正式版上线了，但这 3 个坑我帮你提前踩了](https://juejin.cn/post/7669024144831168518) | juejin | AI |
+| 3 | [随着特朗普紧张局势升级，人类任命全球事务负责人领导人工智能外交 / Anthropic names global affairs chief to lead AI diplomacy as Trump tensions escalate](https://thenextweb.com/news/anthropic-names-first-chief-global-affairs-officer) | The Next Web | AI |
+| 4 | [HBO Max 刚刚推出了 TikTok 风格的短片和人工智能搜索，这是一场剧透噩梦 / HBO Max just launched TikTok-style shorts and AI search that's a spoiler nightmare](https://www.makeuseof.com/hbo-max-launches-new-ai-shorts-because-why-not) | MakeUseOf | AI |
+| 5 | [三星预览了 zHBM（将 HBM​​ 垂直堆叠在 AI 加速器之上）和 zNAND-O（基于 V-NAND），并推出了业界首款 V10 BV-NAND 架构（Yoolim Lee/彭博社） / Samsung previews zHBM, which vertically stacks HBM atop AI accelerators, and zNAND-O, built on V-NAND, and unveils the industry's first V10 BV-NAND architecture (Yoolim Lee/Bloomberg)](https://www.techmeme.com/260804/p40) | Techmeme | AI |
 
-> 共 59 条，以上为 TOP 5。
+> 共 63 条，以上为 TOP 5。
 
 ---
 
@@ -52,9 +52,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Show HN: 面向独立创作者的全能游戏开发工具包](https://reactorcoregames.github.io/) | reactorcoregames.github.io | IP |
-| 2 | [[问与答] 有什么好的大流量服务器推荐么](https://www.v2ex.com/t/1232139) | V2EX (创意工作者社区) | IP |
-| 3 | [博主实测 WoA 笔记本华硕 Zenbook A16 外接 RTX 4060 显卡跑游戏：优化尚不完善](https://www.ithome.com/0/985/727.htm) | IT之家 (ITHome) | IP |
+| 1 | [[推广] 直接送 送 500mb 住宅流量 静态住宅等于 2 刀/月 美国机房 1 刀/月起](https://www.v2ex.com/t/1232215) | V2EX (创意工作者社区) | IP |
+| 2 | [估值狂奔10亿欧元，HYROX小心被流量反噬](https://www.huxiu.com/article/4880688.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 3 | [Show HN: 面向独立创作者的全能游戏开发工具包](https://reactorcoregames.github.io/) | reactorcoregames.github.io | IP |
 | 4 | [粉丝们对高票价感到不满，于是艺人们推出了20美元的演唱会门票](https://on.wsj.com/4buxm4H) | on.wsj.com | IP |
 
 ---
@@ -64,12 +64,8 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [Claude和Kimi消耗60亿，价值2.6万，收入0蛋！](https://juejin.cn/post/7669612673382531082) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 2 | [中信证券：传统主业稳健+AI收入渐显，美股应用软件迎来估值修复契机](https://36kr.com/newsflashes/3925919120259207?f=rss) | 36氪 (36Kr) | AI/变现 |
-| 3 | [财务报表假设客户是人类。当人工智能代理成为收入来源时，会发生什么？](https://finance.yahoo.com/technology/ai/articles/financial-statements-assume-human-customers-130000550.html) | finance.yahoo.com | AI/变现 |
-| 4 | [提前 1 年：马斯克称 SpaceX 年收入有望 2030 年突破 1 万亿美元](https://www.ithome.com/0/985/762.htm) | IT之家 (ITHome) | 变现 |
-| 5 | [SpaceX作为人工智能公司创造的收入，比作为航天公司时还要多 - The Verge](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcDhWX1htYWdFOTZ1RlJMdWtWUmpoeTdQSmx3SVQxMjhMU19aTmdXeHBRQ0liYWhsWWRKZVoyQm9ZaXhPMVI1QzY3S0ZqMFIweVIwMThkOFI2MUtqY20xQW8xUUdlcjRWX0NKQ1BMRTZRZEZyWWh2cEIzVkRZc2hVcTZ3?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | AI/变现 |
-
-> 共 7 条，以上为 TOP 5。
+| 2 | [微软第四季度数据中心租赁收入突破1000亿美元。这对MSFT股价意味着什么？点击此处查看。](https://finance.yahoo.com/markets/stocks/articles/microsoft-data-center-leases-crossed-172706997.html) | finance.yahoo.com | 变现 |
+| 3 | [Dashi Metrics - 在3D地球仪上直观展示您的收入](https://www.producthunt.com/r/MEYNOM2EOWKKZN) | www.producthunt.com | 变现 |
 
 ---
 
@@ -81,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-05T01:14:31.400Z
-- **总资讯数**：4437 条原始 → 672 条筛选后
+- **聚合时间**：2026-08-05T04:50:46.331Z
+- **总资讯数**：4446 条原始 → 659 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
