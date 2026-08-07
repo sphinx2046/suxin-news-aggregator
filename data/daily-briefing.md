@@ -30,7 +30,7 @@
 | 4 | [Anthropic 将自主设计硬件，为 Claude 提供支持 / Anthropic confirms plans to build an in-house silicon team](https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team) | Ars Technica | AI |
 | 5 | [「TRAE Work 实战帮」征文启动！你沉淀的经验，值得被看见！](https://juejin.cn/post/7668568406279274534) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 14 条，以上为 TOP 5。
+> 共 15 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [埃隆·马斯克对人工智能维基百科的尝试已经几个月没有更新了 / Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months](https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead) | The Verge | AI |
 | 5 | [谷歌开源了一个人工智能模型，据称可以帮助早期飓风预警 / Google open-sources an AI model it says can help with earlier hurricane warnings](https://www.engadget.com/2232141/google-open-source-ai-model-can-help-with-earlier-hurricane-warnings) | Engadget | AI |
 
-> 共 76 条，以上为 TOP 5。
+> 共 71 条，以上为 TOP 5。
 
 ---
 
@@ -64,9 +64,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [Claude和Kimi消耗60亿，价值2.6万，收入0蛋！](https://juejin.cn/post/7669612673382531082) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 2 | [微软AI收入七成来自OpenAI，财年贡献金额达241亿美元](https://www.aibase.com/news/30182) | AIbase | AI/变现 |
-| 3 | [[程序员] 给大家推荐一个赚钱的思路 我自己发现的](https://www.v2ex.com/t/1232730) | V2EX (创意工作者社区) | 变现 |
-| 4 | [“她到底有没有资格做这个？”：揭秘一位联邦法官经营公关公司的副业](http://dlvr.it/TTtTSb) | dlvr.it | 变现 |
+| 2 | [[奇思妙想] 程序员越来越难了，做点副业小生意，卖点袜子🧦，有搞头吗？](https://www.v2ex.com/t/1232799) | V2EX (创意工作者社区) | 变现 |
+| 3 | [微软AI收入七成来自OpenAI，财年贡献金额达241亿美元](https://www.aibase.com/news/30182) | AIbase | AI/变现 |
+| 4 | [2026 年上半年我国广告业收入突破万亿元，互联网广告发布收入同比增长 25.3%](https://www.ithome.com/0/987/122.htm) | IT之家 (ITHome) | 变现 |
+| 5 | [“她到底有没有资格做这个？”：揭秘一位联邦法官经营公关公司的副业](http://dlvr.it/TTtTSb) | dlvr.it | 变现 |
 
 ---
 
@@ -78,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-07T08:42:59.642Z
-- **总资讯数**：4500 条原始 → 675 条筛选后
+- **聚合时间**：2026-08-07T10:39:27.012Z
+- **总资讯数**：4522 条原始 → 684 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
