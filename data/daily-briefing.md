@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……](https://sspai.com/post/112430) | sspai | AI |
-| 2 | [应对关键网络能力的下一个前沿 / Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities) | Hacker News | 其他 |
-| 3 | [人工智能广告牌正在扼杀科幻小说 / The AI Billboards Are Killing SF](https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny) | Hacker News | AI |
-| 4 | [软件是关于人的，而不是代码 / Software is about people, not code](https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code) | Hacker News | 其他 |
-| 5 | [AI精神错乱是领导层面临的新盲点 / AI psychosis is the new leadership blind spot](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots) | Hacker News | AI |
+| 1 | [应对关键网络能力的下一个前沿领域 / Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities) | Hacker News | 其他 |
+| 2 | [人工智能广告牌正在扼杀科幻小说 / The AI Billboards Are Killing SF](https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny) | Hacker News | AI |
+| 3 | [软件是关于人的，而不是代码 / Software is about people, not code](https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code) | Hacker News | 其他 |
+| 4 | [AI精神错乱是领导层面临的新盲点 / AI psychosis is the new leadership blind spot](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots) | Hacker News | AI |
+| 5 | [谢尔盖·布林 (Sergey Brin) 表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
-| 2 | [OpenAI 的模型在拥抱面部泄露之前在秘密消息板上分享了黑客技巧 / OpenAI's Models Shared Hacking Tips On a Secret Messaging Board Before Hugging Face Breach](https://yro.slashdot.org/story/26/08/06/1815207/openais-models-shared-hacking-tips-on-a-secret-messaging-board-before-hugging-face-breach) | Slashdot | AI |
-| 3 | [英伟达正在组建人工智能安全团队，这是有商业原因的 / Nvidia is building an AI safety team, and it has a business reason](https://thenextweb.com/news/nvidia-ai-safety-team-open-models-chip-demand) | The Next Web | AI |
-| 4 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 5 | [I asked Gemini and ChatGPT to build OpenAI's mythical AI hardware — the results are shockingly good but still don't make me want this $300-plus device](https://www.techradar.com/ai-platforms-assistants/i-asked-gemini-and-chatgpt-to-build-openais-mythical-ai-hardware-the-results-are-shockingly-good-but-still-dont-make-me-want-this-usd300-plus-device) | TechRadar | AI |
+| 1 | [OpenAI 的模型在拥抱面部泄露之前在秘密消息板上分享了黑客技巧 / OpenAI's Models Shared Hacking Tips On a Secret Messaging Board Before Hugging Face Breach](https://yro.slashdot.org/story/26/08/06/1815207/openais-models-shared-hacking-tips-on-a-secret-messaging-board-before-hugging-face-breach) | Slashdot | AI |
+| 2 | [英伟达正在组建人工智能安全团队，这是有商业原因的 / Nvidia is building an AI safety team, and it has a business reason](https://thenextweb.com/news/nvidia-ai-safety-team-open-models-chip-demand) | The Next Web | AI |
+| 3 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 4 | [I asked Gemini and ChatGPT to build OpenAI's mythical AI hardware — the results are shockingly good but still don't make me want this $300-plus device](https://www.techradar.com/ai-platforms-assistants/i-asked-gemini-and-chatgpt-to-build-openais-mythical-ai-hardware-the-results-are-shockingly-good-but-still-dont-make-me-want-this-usd300-plus-device) | TechRadar | AI |
+| 5 | [Inside the Race to Make AI Build Itself](https://time.com/article/2026/08/07/ai-recursive-self-improvement-anthropic-openai) | TIME Magazine | AI |
 
-> 共 19 条，以上为 TOP 5。
+> 共 18 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
-| 2 | [AMD 收购 AI 芯片初创公司 Taalas，将 AI 模型硬连接到其芯片中 / AMD Buys AI Chip Startup Taalas That Hardwires AI Models Into Its Silicon](https://hardware.slashdot.org/story/26/08/07/016216/amd-buys-ai-chip-startup-taalas-that-hardwires-ai-models-into-its-silicon) | Slashdot | AI |
+| 1 | [AMD 收购 AI 芯片初创公司 Taalas，将 AI 模型硬连接到其芯片中 / AMD Buys AI Chip Startup Taalas That Hardwires AI Models Into Its Silicon](https://hardware.slashdot.org/story/26/08/07/016216/amd-buys-ai-chip-startup-taalas-that-hardwires-ai-models-into-its-silicon) | Slashdot | AI |
+| 2 | [OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it’s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) | The Verge | AI |
 | 3 | [Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器 / Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents) | TechCrunch | AI |
 | 4 | [Airbnb 表示，在测试新的搜索功能时，人工智能正在帮助其更快地发布功能 / Airbnb says AI is helping it ship features faster as it tests a new search function](https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function) | TechCrunch | AI |
-| 5 | [谷歌开源了一个人工智能模型，据称可以帮助早期飓风预警 / Google open-sources an AI model it says can help with earlier hurricane warnings](https://www.engadget.com/2232141/google-open-source-ai-model-can-help-with-earlier-hurricane-warnings) | Engadget | AI |
+| 5 | [Gravity 筹集了 3050 万美元，用于在人工智能聊天机器人中放置广告。它的下一个产品针对的是机器人本身。 / Gravity raised $30.5M to place ads inside AI chatbots. Its next product targets the bots themselves.](https://thenextweb.com/news/gravity-ai-ads-30-5m-series-a-agent-to-agent) | The Next Web | AI |
 
-> 共 70 条，以上为 TOP 5。
+> 共 71 条，以上为 TOP 5。
 
 ---
 
@@ -52,9 +52,8 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Show HN: MCP-debug-proxy – 用于 MCP 和 OAuth 流量的可视化反向代理](https://github.com/ytkoka/mcp-debug-proxy) | github.com | IP |
-| 2 | [建造者缺乏受众，创作者缺乏建造技能](https://news.ycombinator.com/item?id=49212245) | news.ycombinator.com | IP |
-| 3 | [我的网站流量中99%是机器人](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots) | patronview.com | IP |
+| 1 | [建造者缺乏受众，创作者缺乏建造技能](https://news.ycombinator.com/item?id=49212245) | news.ycombinator.com | IP |
+| 2 | [我的网站流量中99%是机器人](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots) | patronview.com | IP |
 
 ---
 
@@ -78,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-07T18:35:03.929Z
-- **总资讯数**：4341 条原始 → 638 条筛选后
+- **聚合时间**：2026-08-07T20:25:45.908Z
+- **总资讯数**：4359 条原始 → 633 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
