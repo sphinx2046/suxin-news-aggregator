@@ -26,11 +26,11 @@
 |---|------|------|------|
 | 1 | [OpenAI 的模型在拥抱面部泄露之前在秘密消息板上分享了黑客技巧 / OpenAI's Models Shared Hacking Tips On a Secret Messaging Board Before Hugging Face Breach](https://yro.slashdot.org/story/26/08/06/1815207/openais-models-shared-hacking-tips-on-a-secret-messaging-board-before-hugging-face-breach) | Slashdot | AI |
 | 2 | [Anthropic 将自主设计硬件，为 Claude 提供支持 / Anthropic confirms plans to build an in-house silicon team](https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team) | Ars Technica | AI |
-| 3 | [Waymo首席执行官表示仅摄像头的自动驾驶系统无法支持完全自动驾驶系统，在测试了多个机器人轴之后，我不得不同意 / Waymo CEO says camera-only self-driving systems can’t support fully autonomous driving systems, and after testing multiple robotaxis, I have to agree](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/waymo-ceo-says-camera-only-self-driving-systems-cant-support-fully-autonomous-driving-systems-and-after-testing-multiple-robotaxis-i-have-to-agree) | TechRadar | AI |
-| 4 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
-| 5 | [「TRAE Work 实战帮」征文启动！你沉淀的经验，值得被看见！](https://juejin.cn/post/7668568406279274534) | 掘金 · 人工智能本周最热 | AI |
+| 3 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
+| 4 | [「TRAE Work 实战帮」征文启动！你沉淀的经验，值得被看见！](https://juejin.cn/post/7668568406279274534) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [[分享发现] 微信小微 ai 开始灰测了](https://www.v2ex.com/t/1232706) | V2EX (创意工作者社区) | AI |
 
-> 共 14 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [蚂蚁集团开源Avernet：破解多智能体“找不到、对不齐”协作难题](https://aiera.com.cn/2026/08/07/other/admin/108155/%e8%9a%82%e8%9a%81%e9%9b%86%e5%9b%a2%e5%bc%80%e6%ba%90avernet%ef%bc%9a%e7%a0%b4%e8%a7%a3%e5%a4%9a%e6%99%ba%e8%83%bd%e4%bd%93%e6%89%be%e4%b8%8d%e5%88%b0%e3%80%81%e5%af%b9%e4%b8%8d%e9%bd%90) | 新智元 | AI |
-| 2 | [SpaceX、英伟达刚官宣太空AI，中国「行星级AI」就来了！](https://aiera.com.cn/2026/08/07/other/admin/108097/spacex%e3%80%81%e8%8b%b1%e4%bc%9f%e8%be%be%e5%88%9a%e5%ae%98%e5%ae%a3%e5%a4%aa%e7%a9%baai%ef%bc%8c%e4%b8%ad%e5%9b%bd%e3%80%8c%e8%a1%8c%e6%98%9f%e7%ba%a7ai%e3%80%8d%e5%b0%b1%e6%9d%a5%e4%ba%86%ef%bc%81) | 新智元 | AI |
-| 3 | [埃隆·马斯克对人工智能维基百科的尝试已经几个月没有更新了 / Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months](https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead) | The Verge | AI |
-| 4 | [谷歌开源了一个人工智能模型，据称可以帮助早期飓风预警 / Google open-sources an AI model it says can help with earlier hurricane warnings](https://www.engadget.com/2232141/google-open-source-ai-model-can-help-with-earlier-hurricane-warnings) | Engadget | AI |
-| 5 | [Inevitable AI Group 完成由 Aleph 领投的 600 万美元种子前融资，将 SaaS 引入人工智能时代 / Inevitable AI Group closes $6M pre-seed round led by Aleph to bring SaaS to the AI age](https://thenextweb.com/news/inevitable-ai-group-6m-pre-seed-aleph-saas-venture-studio) | The Next Web | AI |
+| 1 | [DeepSeek V4正式版发布，教你在Codex中配置Flash](https://juejin.cn/post/7669638812705587238) | juejin | AI |
+| 2 | [蚂蚁集团开源Avernet：破解多智能体“找不到、对不齐”协作难题](https://aiera.com.cn/2026/08/07/other/admin/108155/%e8%9a%82%e8%9a%81%e9%9b%86%e5%9b%a2%e5%bc%80%e6%ba%90avernet%ef%bc%9a%e7%a0%b4%e8%a7%a3%e5%a4%9a%e6%99%ba%e8%83%bd%e4%bd%93%e6%89%be%e4%b8%8d%e5%88%b0%e3%80%81%e5%af%b9%e4%b8%8d%e9%bd%90) | 新智元 | AI |
+| 3 | [SpaceX、英伟达刚官宣太空AI，中国「行星级AI」就来了！](https://aiera.com.cn/2026/08/07/other/admin/108097/spacex%e3%80%81%e8%8b%b1%e4%bc%9f%e8%be%be%e5%88%9a%e5%ae%98%e5%ae%a3%e5%a4%aa%e7%a9%baai%ef%bc%8c%e4%b8%ad%e5%9b%bd%e3%80%8c%e8%a1%8c%e6%98%9f%e7%ba%a7ai%e3%80%8d%e5%b0%b1%e6%9d%a5%e4%ba%86%ef%bc%81) | 新智元 | AI |
+| 4 | [埃隆·马斯克对人工智能维基百科的尝试已经几个月没有更新了 / Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months](https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead) | The Verge | AI |
+| 5 | [谷歌开源了一个人工智能模型，据称可以帮助早期飓风预警 / Google open-sources an AI model it says can help with earlier hurricane warnings](https://www.engadget.com/2232141/google-open-source-ai-model-can-help-with-earlier-hurricane-warnings) | Engadget | AI |
 
-> 共 72 条，以上为 TOP 5。
+> 共 75 条，以上为 TOP 5。
 
 ---
 
@@ -52,11 +52,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [“AI超级创作者”接管影视创作？我先泼盆冷水](https://www.huxiu.com/article/4881374.html?f=rss) | 虎嗅 (Huxiu) | AI/IP |
-| 2 | [AI博主站上风口](https://www.huxiu.com/article/4881354.html?f=rss) | 虎嗅 (Huxiu) | AI/IP |
-| 3 | [从8元到800元：流量税二十年暴涨的逻辑](https://www.huxiu.com/article/4881310.html?f=rss) | 虎嗅 (Huxiu) | IP |
-| 4 | [曾在TikTok上分享抗癌历程的创作者悉尼·托尔去世，享年26岁](https://www.theguardian.com/us-news/2026/aug/06/sydney-towle-dies-cancer) | www.theguardian.com | IP |
-| 5 | [埃隆·马斯克的Terafab芯片工厂让德克萨斯州农村居民要求在人工智能建设中拥有发言权](https://www.businessinsider.com/elon-musk-terafab-ai-texas-backlash-spacex-regulation-2026-8) | www.businessinsider.com | AI/回乡 |
+| 1 | [[推广] 送 500mb 住宅流量 静态住宅等于 2 刀/月起 美国机房 1 刀/月](https://www.v2ex.com/t/1232684) | V2EX (创意工作者社区) | IP |
+| 2 | [“AI超级创作者”接管影视创作？我先泼盆冷水](https://www.huxiu.com/article/4881374.html?f=rss) | 虎嗅 (Huxiu) | AI/IP |
+| 3 | [AI博主站上风口](https://www.huxiu.com/article/4881354.html?f=rss) | 虎嗅 (Huxiu) | AI/IP |
+| 4 | [从8元到800元：流量税二十年暴涨的逻辑](https://www.huxiu.com/article/4881310.html?f=rss) | 虎嗅 (Huxiu) | IP |
 
 ---
 
@@ -65,9 +64,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [Claude和Kimi消耗60亿，价值2.6万，收入0蛋！](https://juejin.cn/post/7669612673382531082) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 2 | [微软 AI 收入七成来自 OpenAI，财年贡献金额达 241 亿美元](https://www.aibase.com/zh/news/30182) | Readhub · AI | AI/变现 |
-| 3 | [微软AI收入七成来自OpenAI，财年贡献金额达241亿美元](https://www.aibase.com/news/30182) | AIbase | AI/变现 |
-| 4 | [“她到底有没有资格做这个？”：揭秘一位联邦法官经营公关公司的副业](http://dlvr.it/TTtTSb) | dlvr.it | 变现 |
+| 2 | [微软AI收入七成来自OpenAI，财年贡献金额达241亿美元](https://www.aibase.com/news/30182) | AIbase | AI/变现 |
+| 3 | [阿波罗的收购热潮推动手续费相关收入创下历史新高](https://finance.yahoo.com/video/apollos-deal-spree-drives-fee-184215045.html) | finance.yahoo.com | 变现 |
+| 4 | [新的6,000美元老年人扣除额会随着收入增加而减少。如果选择罗思账户转换的时机不当，可能会导致该扣除额归零。](https://finance.yahoo.com/economy/policy/articles/6-000-senior-deduction-shrinks-184132824.html) | finance.yahoo.com | 变现 |
+| 5 | [“她到底有没有资格做这个？”：揭秘一位联邦法官经营公关公司的副业](http://dlvr.it/TTtTSb) | dlvr.it | 变现 |
 
 ---
 
@@ -79,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-07T04:16:49.014Z
-- **总资讯数**：4478 条原始 → 663 条筛选后
+- **聚合时间**：2026-08-07T06:55:51.397Z
+- **总资讯数**：4486 条原始 → 665 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
