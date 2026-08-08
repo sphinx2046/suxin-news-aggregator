@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [刚刚，GPT-5.6全员免费！下一代巨兽Astra打响闪电战](https://aiera.com.cn/2026/08/08/other/admin/108275/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-5-6%e5%85%a8%e5%91%98%e5%85%8d%e8%b4%b9%ef%bc%81%e4%b8%8b%e4%b8%80%e4%bb%a3%e5%b7%a8%e5%85%bdastra%e6%89%93%e5%93%8d%e9%97%aa%e7%94%b5%e6%88%98) | 新智元 | AI |
-| 2 | [600倍加速，720p视频实时生成！单卡也能带的动14B模型](https://aiera.com.cn/2026/08/08/other/admin/108257/600%e5%80%8d%e5%8a%a0%e9%80%9f%ef%bc%8c720p%e8%a7%86%e9%a2%91%e5%ae%9e%e6%97%b6%e7%94%9f%e6%88%90%ef%bc%81%e5%8d%95%e5%8d%a1%e4%b9%9f%e8%83%bd%e5%b8%a6%e7%9a%84%e5%8a%a814b%e6%a8%a1%e5%9e%8b) | 新智元 | AI |
-| 3 | [AI推翻80年数学猜想，菲尔兹奖得主一夜没睡：以为要出局](https://aiera.com.cn/2026/08/08/other/admin/108247/ai%e6%8e%a8%e7%bf%bb80%e5%b9%b4%e6%95%b0%e5%ad%a6%e7%8c%9c%e6%83%b3%ef%bc%8c%e8%8f%b2%e5%b0%94%e5%85%b9%e5%a5%96%e5%be%97%e4%b8%bb%e4%b8%80%e5%a4%9c%e6%b2%a1%e7%9d%a1%ef%bc%9a%e4%bb%a5%e4%b8%ba) | 新智元 | AI |
-| 4 | [实时视频版「Nano Banana」来了！160亿参数重磅开源](https://aiera.com.cn/2026/08/08/other/admin/108237/%e5%ae%9e%e6%97%b6%e8%a7%86%e9%a2%91%e7%89%88%e3%80%8cnano-banana%e3%80%8d%e6%9d%a5%e4%ba%86%ef%bc%81160%e4%ba%bf%e5%8f%82%e6%95%b0%e9%87%8d%e7%a3%85%e5%bc%80%e6%ba%90) | 新智元 | 其他 |
-| 5 | [六巨头定AI插件新标准！撞脸Claude，Anthropic没上桌](https://aiera.com.cn/2026/08/08/other/admin/108219/%e5%85%ad%e5%b7%a8%e5%a4%b4%e5%ae%9aai%e6%8f%92%e4%bb%b6%e6%96%b0%e6%a0%87%e5%87%86%ef%bc%81%e6%92%9e%e8%84%b8claude%ef%bc%8canthropic%e6%b2%a1%e4%b8%8a%e6%a1%8c) | 新智元 | AI |
+| 1 | [DeepSeek 预计要涨价，而且涨幅较大，你怎么看？](https://juejin.cn/post/7670739142733381672) | juejin | AI |
+| 2 | [速度太快了！本地可以跑 DeepSeek-V4-Flash 了](https://juejin.cn/post/7670558003235717135) | juejin | AI |
+| 3 | [从“白菜价”到大幅涨价，DeepSeek正在经历什么？](https://juejin.cn/post/7670757585832820776) | juejin | AI |
+| 4 | [AI 时代，你的编程能力在第几层？我敢说，大多数人卡在第一层](https://juejin.cn/post/7670475896516952115) | juejin | AI |
+| 5 | [Open‑AI GPT‑5.6 Luna永久性降价80%](https://juejin.cn/post/7670438539512152064) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -25,12 +25,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
-| 2 | [英伟达正在组建人工智能安全团队，这是有商业原因的 / Nvidia is building an AI safety team, and it has a business reason](https://thenextweb.com/news/nvidia-ai-safety-team-open-models-chip-demand) | The Next Web | AI |
-| 3 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 2 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 3 | [犯罪分子利用 AI 语音笔记冒充香港男子父亲，WhatsApp 诈骗让他损失 127 万美元——专家称秘密密码是保证安全的最佳方法 / WhatsApp scam costs Hong Kong man $1.27 million after criminals used AI voice notes to impersonate his father — experts say secret codewords are the best way to stay safe](https://www.techradar.com/computing/cybercrime/whatsapp-scam-costs-hong-kong-man-usd1-27-million-after-criminals-used-ai-voice-notes-to-impersonate-his-father-experts-say-secret-codewords-are-the-best-way-to-stay-safe) | TechRadar | AI |
 | 4 | [Inside the Race to Make AI Build Itself](https://time.com/article/2026/08/07/ai-recursive-self-improvement-anthropic-openai) | TIME Magazine | AI |
-| 5 | [「TRAE Work 实战帮」征文启动！你沉淀的经验，值得被看见！](https://juejin.cn/post/7668568406279274534) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [别光会用 Skill，不会写等于白搭：从规范到原理，手把手教你给 AI Agent 造技能](https://juejin.cn/post/7669744437334622208) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 14 条，以上为 TOP 5。
+> 共 13 条，以上为 TOP 5。
 
 ---
 
@@ -39,7 +39,7 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
-| 2 | [AMD 收购 AI 芯片初创公司 Taalas，将 AI 模型硬连线到其芯片中 / AMD Buys AI Chip Startup Taalas That Hardwires AI Models Into Its Silicon](https://hardware.slashdot.org/story/26/08/07/016216/amd-buys-ai-chip-startup-taalas-that-hardwires-ai-models-into-its-silicon) | Slashdot | AI |
+| 2 | [AMD 收购 AI 芯片初创公司 Taalas，将 AI 模型硬连接到其芯片中 / AMD Buys AI Chip Startup Taalas That Hardwires AI Models Into Its Silicon](https://hardware.slashdot.org/story/26/08/07/016216/amd-buys-ai-chip-startup-taalas-that-hardwires-ai-models-into-its-silicon) | Slashdot | AI |
 | 3 | [OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it’s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) | The Verge | AI |
 | 4 | [Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器 / Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents) | TechCrunch | AI |
 | 5 | [Airbnb 表示，在测试新的搜索功能时，人工智能正在帮助其更快地发布功能 / Airbnb says AI is helping it ship features faster as it tests a new search function](https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function) | TechCrunch | AI |
@@ -79,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-08T06:28:20.578Z
-- **总资讯数**：4348 条原始 → 603 条筛选后
+- **聚合时间**：2026-08-08T08:24:22.319Z
+- **总资讯数**：4349 条原始 → 597 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
