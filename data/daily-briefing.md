@@ -24,11 +24,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [英伟达正在组建人工智能安全团队，这是有商业原因的 / Nvidia is building an AI safety team, and it has a business reason](https://thenextweb.com/news/nvidia-ai-safety-team-open-models-chip-demand) | The Next Web | AI |
-| 2 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 3 | [犯罪分子利用 AI 语音留言冒充香港男子父亲，WhatsApp 诈骗让他损失 127 万美元——专家称秘密密码是保证安全的最佳方法 / WhatsApp scam costs Hong Kong man $1.27 million after criminals used AI voice notes to impersonate his father — experts say secret codewords are the best way to stay safe](https://www.techradar.com/computing/cybercrime/whatsapp-scam-costs-hong-kong-man-usd1-27-million-after-criminals-used-ai-voice-notes-to-impersonate-his-father-experts-say-secret-codewords-are-the-best-way-to-stay-safe) | TechRadar | AI |
+| 1 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
+| 2 | [英伟达正在组建人工智能安全团队，这是有商业原因的 / Nvidia is building an AI safety team, and it has a business reason](https://thenextweb.com/news/nvidia-ai-safety-team-open-models-chip-demand) | The Next Web | AI |
+| 3 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
 | 4 | [Inside the Race to Make AI Build Itself](https://time.com/article/2026/08/07/ai-recursive-self-improvement-anthropic-openai) | TIME Magazine | AI |
-| 5 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
+| 5 | [「TRAE Work 实战帮」征文启动！你沉淀的经验，值得被看见！](https://juejin.cn/post/7668568406279274534) | 掘金 · 人工智能本周最热 | AI |
 
 > 共 14 条，以上为 TOP 5。
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AMD 收购 AI 芯片初创公司 Taalas，将 AI 模型硬连线到其芯片中 / AMD Buys AI Chip Startup Taalas That Hardwires AI Models Into Its Silicon](https://hardware.slashdot.org/story/26/08/07/016216/amd-buys-ai-chip-startup-taalas-that-hardwires-ai-models-into-its-silicon) | Slashdot | AI |
-| 2 | [OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it’s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) | The Verge | AI |
-| 3 | [Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器 / Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents) | TechCrunch | AI |
-| 4 | [Airbnb 表示，在测试新的搜索功能时，人工智能正在帮助其更快地发布功能 / Airbnb says AI is helping it ship features faster as it tests a new search function](https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function) | TechCrunch | AI |
-| 5 | [Gravity 筹集了 3050 万美元，用于在人工智能聊天机器人中放置广告。它的下一个产品针对的是机器人本身。 / Gravity raised $30.5M to place ads inside AI chatbots. Its next product targets the bots themselves.](https://thenextweb.com/news/gravity-ai-ads-30-5m-series-a-agent-to-agent) | The Next Web | AI |
+| 1 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
+| 2 | [AMD 收购 AI 芯片初创公司 Taalas，将 AI 模型硬连线到其芯片中 / AMD Buys AI Chip Startup Taalas That Hardwires AI Models Into Its Silicon](https://hardware.slashdot.org/story/26/08/07/016216/amd-buys-ai-chip-startup-taalas-that-hardwires-ai-models-into-its-silicon) | Slashdot | AI |
+| 3 | [OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it’s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) | The Verge | AI |
+| 4 | [Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器 / Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents) | TechCrunch | AI |
+| 5 | [Airbnb 表示，在测试新的搜索功能时，人工智能正在帮助其更快地发布功能 / Airbnb says AI is helping it ship features faster as it tests a new search function](https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function) | TechCrunch | AI |
 
-> 共 70 条，以上为 TOP 5。
+> 共 65 条，以上为 TOP 5。
 
 ---
 
@@ -52,8 +52,8 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [建造者缺乏受众，创作者缺乏建造技能](https://news.ycombinator.com/item?id=49212245) | news.ycombinator.com | IP |
-| 2 | [我的网站流量中99%是机器人](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots) | patronview.com | IP |
+| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 (sspai) | IP |
+| 2 | [建造者缺乏受众，创作者缺乏建造技能](https://news.ycombinator.com/item?id=49212245) | news.ycombinator.com | IP |
 
 ---
 
@@ -79,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-08T04:44:08.549Z
-- **总资讯数**：4341 条原始 → 613 条筛选后
+- **聚合时间**：2026-08-08T06:28:20.578Z
+- **总资讯数**：4348 条原始 → 603 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
