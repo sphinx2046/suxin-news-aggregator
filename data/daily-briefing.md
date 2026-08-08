@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral) | Hacker News | AI |
-| 2 | [Gentoo Bugzilla 因 AI 爬虫过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload](https://social.treehouse.systems/@mgorny/117058483039362779) | Hacker News | AI |
-| 3 | [CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割 / The CPU is back: Rethinking the CPU-GPU split for LLM inference](https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference) | Hacker News | AI |
-| 4 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
-| 5 | [众议院通过预算法案，莫名其妙地禁止国家人工智能法规十年 / House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
+| 1 | [涨价30倍仍是最便宜的模型，DeepSeek可能有这个底气](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665545&idx=1&sn=f969a204e09e8efe5d0444c7029a5f62) | AI前线 | AI |
+| 2 | [Anthropic详解Claude的安全隔离架构：如何在Web、开发和桌面环境中约束...](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665545&idx=2&sn=8b49fce97f059327f5fff4f7607a5802) | AI前线 | AI |
+| 3 | [北京楼市新政：非京籍交一年社保可在五环内买房](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ%3D%3D&mid=2653728550&idx=1&sn=6f8394c41c99720d3dba485fa6dc5f3d) | 财经杂志 | 其他 |
+| 4 | [中国央行连续21个月增持黄金，7月购金约20吨](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ%3D%3D&mid=2653728543&idx=1&sn=77bf8202193998c079bd33d829705751) | 财经杂志 | 其他 |
+| 5 | [香港老人理财追购“银色债券”](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ%3D%3D&mid=2653728543&idx=2&sn=47c469a3f93b58b0468f4adbc88a1bfc) | 财经杂志 | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it’s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) | The Verge | AI |
-| 2 | [Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器 / Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents) | TechCrunch | AI |
-| 3 | [Airbnb 表示，在测试新的搜索功能时，人工智能正在帮助其更快地发布功能 / Airbnb says AI is helping it ship features faster as it tests a new search function](https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function) | TechCrunch | AI |
-| 4 | [NavVis 筹集了 7370 万欧元，用于构建工厂部署人工智能之前所需的空间数据层 / NavVis raised €73.7M to build the spatial data layer that factories need before they can deploy AI](https://thenextweb.com/news/navvis-73-7m-series-d-spatial-twin-industrial-ai) | The Next Web | AI |
-| 5 | [Gravity 筹集了 3050 万美元，用于在人工智能聊天机器人中放置广告。它的下一个产品针对的是机器人本身。 / Gravity raised $30.5M to place ads inside AI chatbots. Its next product targets the bots themselves.](https://thenextweb.com/news/gravity-ai-ads-30-5m-series-a-agent-to-agent) | The Next Web | AI |
+| 1 | [又一个Agent 联网神器，开源了！](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ%3D%3D&mid=2457995063&idx=1&sn=d1fd41e3c6013e9db4e12c1158542d84) | GitHubDaily | AI |
+| 2 | [王兴兴回应 DeepSeek 投资宇树：将展开重点合作；微信内测朋友圈AI新功能..](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653111701&idx=1&sn=ae12691e75b0add00fde5a58ac09027a) | 极客公园 | AI |
+| 3 | [MiniMax H3 团队Reddit 上回应一切：2K 要开源，图像模型在路上，Apac...](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA%3D%3D&mid=2651290412&idx=1&sn=bbef927bcf511bc49a04bdad0f7715bb) | InfoQ | AI |
+| 4 | [价值350万的「提示词」开源了，揭秘全球首部全AI生成的电影长片](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651100197&idx=1&sn=53dbc1dbc5b6329c81d2df2b937149f1) | APPSO | AI |
+| 5 | [OpenAl紧急叫停最强模型Astra/微信新功能可撤回你的撤回/王兴兴回应宇树...](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA%3D%3D&mid=2651100227&idx=1&sn=a3cec1bcfa6824fe489f8112579fe62d) | APPSO | AI |
 
-> 共 61 条，以上为 TOP 5。
+> 共 57 条，以上为 TOP 5。
 
 ---
 
@@ -65,8 +65,7 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [Claude和Kimi消耗60亿，价值2.6万，收入0蛋！](https://juejin.cn/post/7669612673382531082) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 2 | [DeepSeek涨价不是为了多赚钱](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247910686&idx=2&sn=d3590194e0fc169f9ccf9fc8aa1bdfdf) | 量子位 | AI/变现 |
-| 3 | [微软AI收入七成来自OpenAI，财年贡献金额达241亿美元](https://www.aibase.com/news/30182) | AIbase | AI/变现 |
+| 2 | [微软AI收入七成来自OpenAI，财年贡献金额达241亿美元](https://www.aibase.com/news/30182) | AIbase | AI/变现 |
 
 ---
 
@@ -78,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-08T20:14:22.274Z
-- **总资讯数**：4212 条原始 → 553 条筛选后
+- **聚合时间**：2026-08-08T22:14:37.963Z
+- **总资讯数**：4137 条原始 → 558 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
