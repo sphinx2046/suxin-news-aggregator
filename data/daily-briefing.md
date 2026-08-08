@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [DeepSeek 预计要涨价，而且涨幅较大，你怎么看？](https://juejin.cn/post/7670739142733381672) | juejin | AI |
-| 2 | [速度太快了！本地可以跑 DeepSeek-V4-Flash 了](https://juejin.cn/post/7670558003235717135) | juejin | AI |
-| 3 | [从“白菜价”到大幅涨价，DeepSeek正在经历什么？](https://juejin.cn/post/7670757585832820776) | juejin | AI |
-| 4 | [AI 时代，你的编程能力在第几层？我敢说，大多数人卡在第一层](https://juejin.cn/post/7670475896516952115) | juejin | AI |
-| 5 | [Open‑AI GPT‑5.6 Luna永久性降价80%](https://juejin.cn/post/7670438539512152064) | juejin | AI |
+| 1 | [丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral) | Hacker News | AI |
+| 2 | [Gentoo Bugzilla 因 AI 爬虫过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload](https://social.treehouse.systems/@mgorny/117058483039362779) | Hacker News | AI |
+| 3 | [CPU 回来了：重新思考 LLM 推理的 CPU-GPU 分割 / The CPU is back: Rethinking the CPU-GPU split for LLM inference](https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference) | Hacker News | AI |
+| 4 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 5 | [众议院通过预算法案，莫名其妙地禁止国家人工智能法规十年 / House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
-| 2 | [如何在 Gmail 和 Google 文档中禁用 Gemini / How to Disable Gemini in Gmail and Google Docs](https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs) | Wired | AI |
-| 3 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 4 | [工人们担心人工智能会暴露他们不知道如何正确完成工作 / Workers are worried AI will expose they don't know how to do their jobs properly](https://www.techradar.com/pro/workers-are-worried-ai-will-expose-they-dont-know-how-to-do-their-jobs-properly) | TechRadar | AI |
-| 5 | [Inside the Race to Make AI Build Itself](https://time.com/article/2026/08/07/ai-recursive-self-improvement-anthropic-openai) | TIME Magazine | AI |
+| 1 | [如何在 Gmail 和 Google 文档中禁用 Gemini / How to Disable Gemini in Gmail and Google Docs](https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs) | Wired | AI |
+| 2 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 3 | [Inside the Race to Make AI Build Itself](https://time.com/article/2026/08/07/ai-recursive-self-improvement-anthropic-openai) | TIME Magazine | AI |
+| 4 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
+| 5 | [别光会用 Skill，不会写等于白搭：从规范到原理，手把手教你给 AI Agent 造技能](https://juejin.cn/post/7669744437334622208) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 8 条，以上为 TOP 5。
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
-| 2 | [AMD 收购 AI 芯片初创公司 Taalas，将 AI 模型硬连接到其芯片中 / AMD Buys AI Chip Startup Taalas That Hardwires AI Models Into Its Silicon](https://hardware.slashdot.org/story/26/08/07/016216/amd-buys-ai-chip-startup-taalas-that-hardwires-ai-models-into-its-silicon) | Slashdot | AI |
-| 3 | [OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it’s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) | The Verge | AI |
-| 4 | [Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器 / Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents) | TechCrunch | AI |
-| 5 | [Airbnb 表示，在测试新的搜索功能时，人工智能正在帮助其更快地发布功能 / Airbnb says AI is helping it ship features faster as it tests a new search function](https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function) | TechCrunch | AI |
+| 1 | [OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it’s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) | The Verge | AI |
+| 2 | [Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器 / Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents) | TechCrunch | AI |
+| 3 | [Airbnb 表示，在测试新的搜索功能时，人工智能正在帮助其更快地发布功能 / Airbnb says AI is helping it ship features faster as it tests a new search function](https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function) | TechCrunch | AI |
+| 4 | [NavVis 筹集了 7370 万欧元，用于构建工厂部署人工智能之前所需的空间数据层 / NavVis raised €73.7M to build the spatial data layer that factories need before they can deploy AI](https://thenextweb.com/news/navvis-73-7m-series-d-spatial-twin-industrial-ai) | The Next Web | AI |
+| 5 | [Gravity 筹集了 3050 万美元，用于在人工智能聊天机器人中放置广告。它的下一个产品针对的是机器人本身。 / Gravity raised $30.5M to place ads inside AI chatbots. Its next product targets the bots themselves.](https://thenextweb.com/news/gravity-ai-ads-30-5m-series-a-agent-to-agent) | The Next Web | AI |
 
-> 共 60 条，以上为 TOP 5。
+> 共 61 条，以上为 TOP 5。
 
 ---
 
@@ -52,13 +52,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Live Nation上季度吸引了4900万粉丝。其总法律顾问的股票刚刚解禁](https://finance.yahoo.com/markets/stocks/articles/live-nation-drew-49-million-170535340.html) | finance.yahoo.com | IP |
-| 2 | [Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”](https://www.ithome.com/0/987/438.htm) | IT之家 (ITHome) | AI/IP |
-| 3 | [阿丽亚娜·格兰德与诊断带来的失望——这位流行歌星的近况引发了粉丝们的猜测，认为她可能患有进食障碍。我们该如何谈论知名女性的身材？](https://www.newyorker.com/culture/critics-notebook/ariana-grande-and-the-disappointment-of-diagnosis) | www.newyorker.com | IP |
-| 4 | [[AI Tools 精品 AI 工具导航] 做了个珠宝 AI 产品图生成工具——手机拍的产品图，直接生成场景照、模特佩戴图和短视频](https://www.v2ex.com/t/1232920) | V2EX (创意工作者社区) | AI/IP |
-| 5 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 (sspai) | IP |
-
-> 共 6 条，以上为 TOP 5。
+| 1 | [Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”](https://www.ithome.com/0/987/438.htm) | IT之家 (ITHome) | AI/IP |
+| 2 | [阿丽亚娜·格兰德与诊断带来的失望——这位流行歌星的近况引发了粉丝们的猜测，认为她可能患有进食障碍。我们该如何谈论知名女性的身材？](https://www.newyorker.com/culture/critics-notebook/ariana-grande-and-the-disappointment-of-diagnosis) | www.newyorker.com | IP |
+| 3 | [[AI Tools 精品 AI 工具导航] 做了个珠宝 AI 产品图生成工具——手机拍的产品图，直接生成场景照、模特佩戴图和短视频](https://www.v2ex.com/t/1232920) | V2EX (创意工作者社区) | AI/IP |
+| 4 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 (sspai) | IP |
+| 5 | [YouTube红人汉克·格林为自己制定了新的AI政策——并呼吁其他内容创作者也这样做](https://www.businessinsider.com/hank-green-youtube-star-sets-personal-ai-policy-after-backlash-2026-8) | www.businessinsider.com | AI/IP |
 
 ---
 
@@ -80,8 +78,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-08T18:18:07.124Z
-- **总资讯数**：4213 条原始 → 552 条筛选后
+- **聚合时间**：2026-08-08T20:14:22.274Z
+- **总资讯数**：4212 条原始 → 553 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
