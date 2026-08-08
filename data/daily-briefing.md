@@ -11,10 +11,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [人工智能实验室是否应该像危险动物的主人一样对待？ / Should AI labs be treated like the owners of dangerous animals?](https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals) | Hacker News | AI |
-| 2 | [Databricks 将人工智能编码支出降低了 70% / Databricks drove down AI coding spend 70%](https://www.databricks.com/blog/managing-ai-coding-costs-scale) | Hacker News | AI |
-| 3 | [DeepSeek V4 闪存 0731 / DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) | Hacker News | AI |
-| 4 | [甲骨文禁止在OpenJDK中使用AI生成的代码 / Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) | Hacker News | AI |
-| 5 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 2 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 3 | [众议院通过预算法案，莫名其妙地禁止国家人工智能法规十年 / House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
+| 4 | [科学家利用人工智能创造了 16 种新病毒 / Scientists Used AI to Create 16 New Viruses](https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses) | Wired | AI |
+| 5 | [最热门的新型人工智能聊天机器人只是一个回答你问题的人 / The Hottest New AI Chatbot Is Just a Guy Answering Your Questions](https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol) | Wired | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,11 +24,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 2 | [Inside the Race to Make AI Build Itself](https://time.com/article/2026/08/07/ai-recursive-self-improvement-anthropic-openai) | TIME Magazine | AI |
-| 3 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
-| 4 | [别光会用 Skill，不会写等于白搭：从规范到原理，手把手教你给 AI Agent 造技能](https://juejin.cn/post/7669744437334622208) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [Freeman Protocol — Build AI & survive](https://www.producthunt.com/products/freeman-protocol-build-ai-survive) | producthunt | AI |
+| 1 | [如何在 Gmail 和 Google 文档中禁用 Gemini / How to Disable Gemini in Gmail and Google Docs](https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs) | Wired | AI |
+| 2 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 3 | [工人们担心人工智能会暴露他们不知道如何正确完成工作 / Workers are worried AI will expose they don't know how to do their jobs properly](https://www.techradar.com/pro/workers-are-worried-ai-will-expose-they-dont-know-how-to-do-their-jobs-properly) | TechRadar | AI |
+| 4 | [Inside the Race to Make AI Build Itself](https://time.com/article/2026/08/07/ai-recursive-self-improvement-anthropic-openai) | TIME Magazine | AI |
+| 5 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
 
 > 共 9 条，以上为 TOP 5。
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AMD 收购 AI 芯片初创公司 Taalas，将 AI 模型硬连接到其芯片中 / AMD Buys AI Chip Startup Taalas That Hardwires AI Models Into Its Silicon](https://hardware.slashdot.org/story/26/08/07/016216/amd-buys-ai-chip-startup-taalas-that-hardwires-ai-models-into-its-silicon) | Slashdot | AI |
+| 1 | [AMD 收购 AI 芯片初创公司 Taalas，将 AI 模型硬连线到其芯片中 / AMD Buys AI Chip Startup Taalas That Hardwires AI Models Into Its Silicon](https://hardware.slashdot.org/story/26/08/07/016216/amd-buys-ai-chip-startup-taalas-that-hardwires-ai-models-into-its-silicon) | Slashdot | AI |
 | 2 | [OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it’s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) | The Verge | AI |
 | 3 | [Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器 / Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents) | TechCrunch | AI |
 | 4 | [Airbnb 表示，在测试新的搜索功能时，人工智能正在帮助其更快地发布功能 / Airbnb says AI is helping it ship features faster as it tests a new search function](https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function) | TechCrunch | AI |
 | 5 | [NavVis 筹集了 7370 万欧元，用于构建工厂部署人工智能之前所需的空间数据层 / NavVis raised €73.7M to build the spatial data layer that factories need before they can deploy AI](https://thenextweb.com/news/navvis-73-7m-series-d-spatial-twin-industrial-ai) | The Next Web | AI |
 
-> 共 61 条，以上为 TOP 5。
+> 共 62 条，以上为 TOP 5。
 
 ---
 
@@ -52,9 +52,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [[AI Tools 精品 AI 工具导航] 做了个珠宝 AI 产品图生成工具——手机拍的产品图，直接生成场景照、模特佩戴图和短视频](https://www.v2ex.com/t/1232920) | V2EX (创意工作者社区) | AI/IP |
-| 2 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 (sspai) | IP |
-| 3 | [建造者缺乏受众，创作者缺乏建造技能](https://news.ycombinator.com/item?id=49212245) | news.ycombinator.com | IP |
+| 1 | [阿丽亚娜·格兰德与诊断带来的失望——这位流行歌星的近况引发了粉丝们的猜测，认为她可能患有进食障碍。我们该如何谈论知名女性的身材？](https://www.newyorker.com/culture/critics-notebook/ariana-grande-and-the-disappointment-of-diagnosis) | www.newyorker.com | IP |
+| 2 | [人在县城，拿着金饭碗，被子涵爸妈逼疯](https://www.huxiu.com/article/4881688.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 3 | [[AI Tools 精品 AI 工具导航] 做了个珠宝 AI 产品图生成工具——手机拍的产品图，直接生成场景照、模特佩戴图和短视频](https://www.v2ex.com/t/1232920) | V2EX (创意工作者社区) | AI/IP |
+| 4 | [每回一次县城，加盟商的门头又变了](https://www.huxiu.com/article/4881671.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 5 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 (sspai) | IP |
+
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -63,9 +67,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [Claude和Kimi消耗60亿，价值2.6万，收入0蛋！](https://juejin.cn/post/7669612673382531082) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 2 | [DeepSeek涨价不是为了多赚钱](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247910686&idx=2&sn=d3590194e0fc169f9ccf9fc8aa1bdfdf) | 量子位 | AI/变现 |
-| 3 | [一位教授在38岁时开始追求财务自由。通过7个步骤，他成功实现了从负债到“精简型财务自由”的转变。](https://www.businessinsider.com/seven-step-financial-independence-ladder-fire-movement-early-retirement-2026-8) | www.businessinsider.com | 变现 |
-| 4 | [微软AI收入七成来自OpenAI，财年贡献金额达241亿美元](https://www.aibase.com/news/30182) | AIbase | AI/变现 |
+| 2 | [以下是购买一套典型美国住房所需的收入 - Fox Business](https://news.google.com/rss/articles/CBMijAFBVV95cUxPcDJMd2h6NzdxOGRlUno1Wk9wWUlRUnViSmNHSXJxTHNiVzI5OG5yXzc0U2FZeTdsdWZYaUFMN1BCTFNoVUF6WW44X1BUYlBSZWM0alZKZmNtS2hwd1lSVldXTTJ2M2tLaHFCX3hOZVJuNGN5STcyRFBlTGpCWk5BeFRlTnkzRS1nSXJTVNIBkgFBVV95cUxQa2tqbWNoMHJpbUVvNW5vSC1lUThrUmtkc0tDN1U4Y2FUeDRibnRCTlYzRzdZQnRaYlBkb1NmN3VhbmtYYkZnNnFrY09Eb3gxMmkyd0loQXd5ZGthNExEYms0aWk1MzNXVU5QWTVuNFE4UWN5Vld3dnZFMTRMSG80WU9vWTBnaGZCUXBTczBQMExsQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
+| 3 | [全球最赚钱基金，迎来95后中国合伙人](https://www.huxiu.com/article/4881626.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 4 | [DeepSeek涨价不是为了多赚钱](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247910686&idx=2&sn=d3590194e0fc169f9ccf9fc8aa1bdfdf) | 量子位 | AI/变现 |
+| 5 | [高温火热的行业里，空调是最不赚钱的那个](https://www.huxiu.com/article/4881600.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -77,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-08T10:18:11.017Z
-- **总资讯数**：4299 条原始 → 589 条筛选后
+- **聚合时间**：2026-08-08T12:19:26.157Z
+- **总资讯数**：4321 条原始 → 591 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
