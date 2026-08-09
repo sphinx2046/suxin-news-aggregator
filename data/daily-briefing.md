@@ -30,7 +30,7 @@
 | 4 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
 | 5 | [别光会用 Skill，不会写等于白搭：从规范到原理，手把手教你给 AI Agent 造技能](https://juejin.cn/post/7669744437334622208) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 7 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器 / Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents) | TechCrunch | AI |
 | 5 | [NavVis 筹集了 7370 万欧元，用于构建工厂部署人工智能之前所需的空间数据层 / NavVis raised €73.7M to build the spatial data layer that factories need before they can deploy AI](https://thenextweb.com/news/navvis-73-7m-series-d-spatial-twin-industrial-ai) | The Next Web | AI |
 
-> 共 62 条，以上为 TOP 5。
+> 共 57 条，以上为 TOP 5。
 
 ---
 
@@ -52,10 +52,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [[推广] 送 送 送 500mb 住宅流量 静态住宅等于 2 刀/月 美国机房 1 刀/月起](https://www.v2ex.com/t/1232997) | V2EX (创意工作者社区) | IP |
-| 2 | [X 平台将于 9 月 8 日推出全新“原创内容奖励计划”，要求至少拥有 500 名经过认证的粉丝才可参与](https://www.ithome.com/0/987/451.htm) | IT之家 (ITHome) | IP |
+| 1 | [Cloudflare 超过一半的网络流量已不再来自人类。受此消息影响，其股价创下历史新高。](https://finance.yahoo.com/markets/stocks/articles/more-half-cloudflares-network-traffic-220800969.html) | finance.yahoo.com | IP |
+| 2 | [[推广] 送 送 送 500mb 住宅流量 静态住宅等于 2 刀/月 美国机房 1 刀/月起](https://www.v2ex.com/t/1232997) | V2EX (创意工作者社区) | IP |
 | 3 | [阿丽亚娜·格兰德与诊断带来的失望——这位流行歌星的近况引发了粉丝们的猜测，认为她可能患有进食障碍。我们该如何谈论知名女性的身材？](https://www.newyorker.com/culture/critics-notebook/ariana-grande-and-the-disappointment-of-diagnosis) | www.newyorker.com | IP |
-| 4 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 (sspai) | IP |
 
 ---
 
@@ -65,7 +64,7 @@
 |---|------|------|------|
 | 1 | [21世纪最赚钱的技能是什么？不是 AI](https://www.36kr.com/p/3895558352717449) | 36氪 · 24小时热榜 | AI/变现 |
 | 2 | [Claude和Kimi消耗60亿，价值2.6万，收入0蛋！](https://juejin.cn/post/7669612673382531082) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 3 | [一对58岁的夫妇如何通过DGRO、SPYI和VYM实现每月11,000美元的收入](https://finance.yahoo.com/markets/stocks/articles/58-old-couple-built-11-213328350.html) | finance.yahoo.com | 变现 |
+| 3 | [[问与答] 大家有实际已经在做的副业了嘛？非理论，讨论正在实践的](https://www.v2ex.com/t/1233031) | V2EX (创意工作者社区) | 变现 |
 | 4 | [一人公司的狂欢里，赚钱的从来不是创始人](https://www.huxiu.com/article/4881718.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
 | 5 | [微软AI收入七成来自OpenAI，财年贡献金额达241亿美元](https://www.aibase.com/news/30182) | AIbase | AI/变现 |
 
@@ -79,8 +78,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-09T04:52:45.775Z
-- **总资讯数**：4154 条原始 → 524 条筛选后
+- **聚合时间**：2026-08-09T06:33:19.103Z
+- **总资讯数**：4152 条原始 → 538 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
