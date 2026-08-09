@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Bookology：从藏书到笔记，打造你的私人阅读档案](https://sspai.com/post/112953) | sspai | 认知 |
-| 2 | [具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……](https://sspai.com/post/112430) | sspai | AI |
-| 3 | [实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents](https://marketnow.site/) | Hacker News | AI |
-| 4 | [ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling) | Hacker News | AI |
-| 5 | [人工智能启示录已经到来 / The AI Apocalypse Is Here](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here) | Hacker News | AI |
+| 1 | [代理连接 / AgentConnect](https://www.producthunt.com/products/agentconnect) | producthunt | AI |
+| 2 | [即时高尔夫 / Prompt Golf](https://www.producthunt.com/products/prompt-golf) | producthunt | AI |
+| 3 | [构建3.0 / Bunzee 3.0](https://www.producthunt.com/products/bunzee-ai) | producthunt | 其他 |
+| 4 | [Bookology：从藏书到笔记，打造你的私人阅读档案](https://sspai.com/post/112953) | sspai | 认知 |
+| 5 | [具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……](https://sspai.com/post/112430) | sspai | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -30,7 +30,7 @@
 | 4 | [ChatGPT Android 应用程序中的隐藏代码表明 OpenAI 正在构建直接 WhatsApp 贴纸导出功能 / Hidden code in ChatGPT’s Android app suggests OpenAI is building a direct WhatsApp sticker export](https://thenextweb.com/news/chatgpt-whatsapp-sticker-export-apk-teardown) | The Next Web | AI |
 | 5 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
 
-> 共 14 条，以上为 TOP 5。
+> 共 16 条，以上为 TOP 5。
 
 ---
 
@@ -52,11 +52,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Show HN: Airy——免费、快速、简便的语音内容创作工具](https://airy.so/) | airy.so | IP |
-| 2 | [[问与答] 我做了一个 MP3 音频网页，浏览器内置模型如果用户配置不行的页面卡死崩溃网站的排名流量有损害嘛？](https://www.v2ex.com/t/1233059) | V2EX (创意工作者社区) | AI/IP |
-| 3 | [[分享发现] 第二版：推荐几个 eSIM，全球流量·便宜保号·接码](https://www.v2ex.com/t/1233040) | V2EX (创意工作者社区) | IP |
-| 4 | [突然回了一趟赤峰老家，又迅速离开了](https://www.huxiu.com/article/4881760.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
-| 5 | [阿丽亚娜·格兰德与诊断带来的失望——这位流行歌星的近况引发了粉丝们的猜测，认为她可能患有进食障碍。我们该如何谈论知名女性的身材？](https://www.newyorker.com/culture/critics-notebook/ariana-grande-and-the-disappointment-of-diagnosis) | www.newyorker.com | IP |
+| 1 | [Shopify本应成为人工智能的牺牲品，但其来自人工智能推荐的流量却翻了三倍。](https://finance.yahoo.com/technology/ai/articles/shopify-supposed-ai-casualty-ai-103400614.html) | finance.yahoo.com | AI/IP |
+| 2 | [Show HN: Airy——免费、快速、简便的语音内容创作工具](https://airy.so/) | airy.so | IP |
+| 3 | [[问与答] 我做了一个 MP3 音频网页，浏览器内置模型如果用户配置不行的页面卡死崩溃网站的排名流量有损害嘛？](https://www.v2ex.com/t/1233059) | V2EX (创意工作者社区) | AI/IP |
+| 4 | [[分享发现] 第二版：推荐几个 eSIM，全球流量·便宜保号·接码](https://www.v2ex.com/t/1233040) | V2EX (创意工作者社区) | IP |
+| 5 | [突然回了一趟赤峰老家，又迅速离开了](https://www.huxiu.com/article/4881760.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
 
 ---
 
@@ -67,8 +67,10 @@
 | 1 | [21世纪最赚钱的技能是什么？不是 AI](https://www.36kr.com/p/3895558352717449) | 36氪 · 24小时热榜 | AI/变现 |
 | 2 | [Claude和Kimi消耗60亿，价值2.6万，收入0蛋！](https://juejin.cn/post/7669612673382531082) | 掘金 · 人工智能本周最热 | AI/变现 |
 | 3 | [微软AI收入七成来自OpenAI，财年贡献金额达241亿美元](https://www.aibase.com/news/30182) | AIbase | AI/变现 |
-| 4 | [[问与答] 大家有实际已经在做的副业了嘛？非理论，讨论正在实践的](https://www.v2ex.com/t/1233031) | V2EX (创意工作者社区) | 变现 |
-| 5 | [一人公司的狂欢里，赚钱的从来不是创始人](https://www.huxiu.com/article/4881718.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 4 | [[分享创造] 独立开发者做了个免费合盘工具，想听听意见](https://www.v2ex.com/t/1233073) | V2EX (创意工作者社区) | 变现 |
+| 5 | [为何拥有160万美元401(k)账户的寡妇，在收入降低的情况下却要面临数千美元的意外税款](https://finance.yahoo.com/markets/options/articles/why-widows-1-6-million-103856558.html) | finance.yahoo.com | 变现 |
+
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -80,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-09T10:19:42.634Z
-- **总资讯数**：4169 条原始 → 525 条筛选后
+- **聚合时间**：2026-08-09T12:20:46.150Z
+- **总资讯数**：4164 条原始 → 529 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
