@@ -12,9 +12,9 @@
 |---|------|------|------|
 | 1 | [AI造出新病毒了！Science论文实锤，无限自我复制](https://aiera.com.cn/2026/08/09/other/admin/108392/ai%e9%80%a0%e5%87%ba%e6%96%b0%e7%97%85%e6%af%92%e4%ba%86%ef%bc%81science%e8%ae%ba%e6%96%87%e5%ae%9e%e9%94%a4%ef%bc%8c%e6%97%a0%e9%99%90%e8%87%aa%e6%88%91%e5%a4%8d%e5%88%b6) | 新智元 | AI |
 | 2 | [大模型后训练，破解多模态分布性遗忘！7B模型七项基准全线提升](https://aiera.com.cn/2026/08/09/other/admin/108377/%e5%a4%a7%e6%a8%a1%e5%9e%8b%e5%90%8e%e8%ae%ad%e7%bb%83%ef%bc%8c%e7%a0%b4%e8%a7%a3%e5%a4%9a%e6%a8%a1%e6%80%81%e5%88%86%e5%b8%83%e6%80%a7%e9%81%97%e5%bf%98%ef%bc%817b%e6%a8%a1%e5%9e%8b%e4%b8%83%e9%a1%b9) | 新智元 | AI |
-| 3 | [Gemini凉了！创始人布林杀回AI一线，谷歌人心惶惶](https://aiera.com.cn/2026/08/09/other/admin/108348/gemini%e5%87%89%e4%ba%86%ef%bc%81%e5%88%9b%e5%a7%8b%e4%ba%ba%e5%b8%83%e6%9e%97%e6%9d%80%e5%9b%9eai%e4%b8%80%e7%ba%bf%ef%bc%8c%e8%b0%b7%e6%ad%8c%e4%ba%ba%e5%bf%83%e6%83%b6%e6%83%b6) | 新智元 | AI |
-| 4 | [拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝](https://aiera.com.cn/2026/08/09/other/admin/108332/%e6%8b%af%e6%95%91%e6%82%b2%e5%89%a7%e8%82%a1%e7%a5%9e%e5%90%8e%e5%8f%88%e5%bd%93%e6%96%b0%e5%a8%98%ef%bc%81anthropic%e5%b9%95%e5%83%9a%e9%95%bf%e8%87%aa%e8%bf%b0%ef%bc%9a%e5%9c%a8ai%e5%89%8d%e6%b2%bf) | 新智元 | AI |
-| 5 | [尘封26年落选名单被扒，里面竟藏着Anthropic CEO！](https://aiera.com.cn/2026/08/09/other/admin/108309/%e5%b0%98%e5%b0%8126%e5%b9%b4%e8%90%bd%e9%80%89%e5%90%8d%e5%8d%95%e8%a2%ab%e6%89%92%ef%bc%8c%e9%87%8c%e9%9d%a2%e7%ab%9f%e8%97%8f%e7%9d%80anthropic-ceo%ef%bc%81) | 新智元 | AI |
+| 3 | [实时 MCP 拦截器，阻止 .env 读取和危险命令代理 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents](https://marketnow.site/) | Hacker News | AI |
+| 4 | [ChatGPT 开始阻止复制作者风格的直接请求 / ChatGPT starts blocking direct requests to copy an author's style](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling) | Hacker News | AI |
+| 5 | [人工智能启示录已经到来 / The AI Apocalypse Is Here](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -25,12 +25,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [如何在 Gmail 和 Google 文档中禁用 Gemini / How to Disable Gemini in Gmail and Google Docs](https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs) | Wired | AI |
-| 2 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 3 | [Inside the Race to Make AI Build Itself](https://time.com/article/2026/08/07/ai-recursive-self-improvement-anthropic-openai) | TIME Magazine | AI |
-| 4 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
-| 5 | [别光会用 Skill，不会写等于白搭：从规范到原理，手把手教你给 AI Agent 造技能](https://juejin.cn/post/7669744437334622208) | 掘金 · 人工智能本周最热 | AI |
+| 2 | [Meta 的首席技术官告诉员工不要再要求更多的休假，而是利用人工智能的成果来构建“更酷的东西” / Meta’s CTO told employees to stop asking for more time off and use AI gains to build “cooler stuff” instead](https://thenextweb.com/news/meta-bosworth-ai-productivity-more-work-not-time-off) | The Next Web | AI |
+| 3 | [ChatGPT Android 应用程序中的隐藏代码表明 OpenAI 正在构建直接 WhatsApp 贴纸导出功能 / Hidden code in ChatGPT’s Android app suggests OpenAI is building a direct WhatsApp sticker export](https://thenextweb.com/news/chatgpt-whatsapp-sticker-export-apk-teardown) | The Next Web | AI |
+| 4 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 5 | [Inside the Race to Make AI Build Itself](https://time.com/article/2026/08/07/ai-recursive-self-improvement-anthropic-openai) | TIME Magazine | AI |
 
-> 共 8 条，以上为 TOP 5。
+> 共 12 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器 / Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents) | TechCrunch | AI |
 | 5 | [NavVis 筹集了 7370 万欧元，用于构建工厂部署人工智能之前所需的空间数据层 / NavVis raised €73.7M to build the spatial data layer that factories need before they can deploy AI](https://thenextweb.com/news/navvis-73-7m-series-d-spatial-twin-industrial-ai) | The Next Web | AI |
 
-> 共 57 条，以上为 TOP 5。
+> 共 55 条，以上为 TOP 5。
 
 ---
 
@@ -52,9 +52,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Cloudflare 超过一半的网络流量已不再来自人类。受此消息影响，其股价创下历史新高。](https://finance.yahoo.com/markets/stocks/articles/more-half-cloudflares-network-traffic-220800969.html) | finance.yahoo.com | IP |
-| 2 | [[推广] 送 送 送 500mb 住宅流量 静态住宅等于 2 刀/月 美国机房 1 刀/月起](https://www.v2ex.com/t/1232997) | V2EX (创意工作者社区) | IP |
-| 3 | [阿丽亚娜·格兰德与诊断带来的失望——这位流行歌星的近况引发了粉丝们的猜测，认为她可能患有进食障碍。我们该如何谈论知名女性的身材？](https://www.newyorker.com/culture/critics-notebook/ariana-grande-and-the-disappointment-of-diagnosis) | www.newyorker.com | IP |
+| 1 | [[分享发现] 第二版：推荐几个 eSIM，全球流量·便宜保号·接码](https://www.v2ex.com/t/1233040) | V2EX (创意工作者社区) | IP |
+| 2 | [突然回了一趟赤峰老家，又迅速离开了](https://www.huxiu.com/article/4881760.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 3 | [[推广] 送 送 送 500mb 住宅流量 静态住宅等于 2 刀/月 美国机房 1 刀/月起](https://www.v2ex.com/t/1232997) | V2EX (创意工作者社区) | IP |
+| 4 | [阿丽亚娜·格兰德与诊断带来的失望——这位流行歌星的近况引发了粉丝们的猜测，认为她可能患有进食障碍。我们该如何谈论知名女性的身材？](https://www.newyorker.com/culture/critics-notebook/ariana-grande-and-the-disappointment-of-diagnosis) | www.newyorker.com | IP |
 
 ---
 
@@ -78,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-09T06:33:19.103Z
-- **总资讯数**：4152 条原始 → 538 条筛选后
+- **聚合时间**：2026-08-09T08:26:34.653Z
+- **总资讯数**：4162 条原始 → 520 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
