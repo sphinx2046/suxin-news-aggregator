@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
-| 2 | [如何在 Gmail 和 Google 文档中禁用 Gemini / How to Disable Gemini in Gmail and Google Docs](https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs) | Wired | AI |
-| 3 | [Meta 的首席技术官告诉员工不要再要求更多的休假，而是利用人工智能的成果来构建“更酷的东西” / Meta’s CTO told employees to stop asking for more time off and use AI gains to build “cooler stuff” instead](https://thenextweb.com/news/meta-bosworth-ai-productivity-more-work-not-time-off) | The Next Web | AI |
-| 4 | [ChatGPT Android 应用程序中的隐藏代码表明 OpenAI 正在构建直接 WhatsApp 贴纸导出功能 / Hidden code in ChatGPT’s Android app suggests OpenAI is building a direct WhatsApp sticker export](https://thenextweb.com/news/chatgpt-whatsapp-sticker-export-apk-teardown) | The Next Web | AI |
-| 5 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 1 | [实战从零开始构建一个Coding Agent：Violin ｜得物技术](https://juejin.cn/post/7670477819033796651) | juejin | AI |
+| 2 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
+| 3 | [如何在 Gmail 和 Google 文档中禁用 Gemini / How to Disable Gemini in Gmail and Google Docs](https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs) | Wired | AI |
+| 4 | [Meta 的首席技术官告诉员工不要再要求更多的休假，而是利用人工智能的成果来构建“更酷的东西” / Meta’s CTO told employees to stop asking for more time off and use AI gains to build “cooler stuff” instead](https://thenextweb.com/news/meta-bosworth-ai-productivity-more-work-not-time-off) | The Next Web | AI |
+| 5 | [ChatGPT Android 应用程序中的隐藏代码表明 OpenAI 正在构建直接 WhatsApp 贴纸导出功能 / Hidden code in ChatGPT’s Android app suggests OpenAI is building a direct WhatsApp sticker export](https://thenextweb.com/news/chatgpt-whatsapp-sticker-export-apk-teardown) | The Next Web | AI |
 
-> 共 16 条，以上为 TOP 5。
+> 共 19 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器 / Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents) | TechCrunch | AI |
 | 5 | [NavVis 筹集了 7370 万欧元，用于构建工厂部署人工智能之前所需的空间数据层 / NavVis raised €73.7M to build the spatial data layer that factories need before they can deploy AI](https://thenextweb.com/news/navvis-73-7m-series-d-spatial-twin-industrial-ai) | The Next Web | AI |
 
-> 共 54 条，以上为 TOP 5。
+> 共 53 条，以上为 TOP 5。
 
 ---
 
@@ -52,11 +52,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Shopify本应成为人工智能的牺牲品，但其来自人工智能推荐的流量却翻了三倍。](https://finance.yahoo.com/technology/ai/articles/shopify-supposed-ai-casualty-ai-103400614.html) | finance.yahoo.com | AI/IP |
-| 2 | [Show HN: Airy——免费、快速、简便的语音内容创作工具](https://airy.so/) | airy.so | IP |
-| 3 | [[问与答] 我做了一个 MP3 音频网页，浏览器内置模型如果用户配置不行的页面卡死崩溃网站的排名流量有损害嘛？](https://www.v2ex.com/t/1233059) | V2EX (创意工作者社区) | AI/IP |
-| 4 | [[分享发现] 第二版：推荐几个 eSIM，全球流量·便宜保号·接码](https://www.v2ex.com/t/1233040) | V2EX (创意工作者社区) | IP |
-| 5 | [突然回了一趟赤峰老家，又迅速离开了](https://www.huxiu.com/article/4881760.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 1 | [[问与答] 流量劫持，这种技术现在真的还有吗？还是像群里大家伙说的，广 dong 窑子都放不下人了](https://www.v2ex.com/t/1233093) | V2EX (创意工作者社区) | IP |
+| 2 | [亲爱的“看涨股票”粉丝们，请在日历上标记好8月13日](https://finance.yahoo.com/markets/crypto/articles/dear-bullish-stock-fans-mark-140002248.html) | finance.yahoo.com | IP |
+| 3 | [Show HN: Airy——免费、快速、简便的语音内容创作工具](https://airy.so/) | airy.so | IP |
+| 4 | [[问与答] 我做了一个 MP3 音频网页，浏览器内置模型如果用户配置不行的页面卡死崩溃网站的排名流量有损害嘛？](https://www.v2ex.com/t/1233059) | V2EX (创意工作者社区) | AI/IP |
+| 5 | [[分享发现] 第二版：推荐几个 eSIM，全球流量·便宜保号·接码](https://www.v2ex.com/t/1233040) | V2EX (创意工作者社区) | IP |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -67,10 +69,10 @@
 | 1 | [21世纪最赚钱的技能是什么？不是 AI](https://www.36kr.com/p/3895558352717449) | 36氪 · 24小时热榜 | AI/变现 |
 | 2 | [Claude和Kimi消耗60亿，价值2.6万，收入0蛋！](https://juejin.cn/post/7669612673382531082) | 掘金 · 人工智能本周最热 | AI/变现 |
 | 3 | [微软AI收入七成来自OpenAI，财年贡献金额达241亿美元](https://www.aibase.com/news/30182) | AIbase | AI/变现 |
-| 4 | [[分享创造] 独立开发者做了个免费合盘工具，想听听意见](https://www.v2ex.com/t/1233073) | V2EX (创意工作者社区) | 变现 |
-| 5 | [为何拥有160万美元401(k)账户的寡妇，在收入降低的情况下却要面临数千美元的意外税款](https://finance.yahoo.com/markets/options/articles/why-widows-1-6-million-103856558.html) | finance.yahoo.com | 变现 |
+| 4 | [一项副业如何促成第二次婚姻并缔造了20亿美元的财富 - Forbes](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUGxNMXp1Sm1CQS14TU16Vm1fc3pUTjFXX1ZyN2wzWXc0V0tRc0s1RmE4V1RqSjZPU0hiMHZFZ0lZZjFMMjlXTEtkeUJHeGpVTTFYblNlcDU5aXZQa25lUEs0OVFIM1Frb2JRT3BPbHluSVc3Q0hMSk5VbU5NTFBOS3p5V29tMTd0eEpqbF85UjlsXzFoMF9PM0ZIckszLTIyQkdxX041SW8wTlVFTWRKc3NRLWVhRmdUUTNaWE96TGY2Zk9OQXhCNlUyN0RaeVJDYTM2T0ZzMVJieHdIREF4U2FfS0k?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
+| 5 | [[分享创造] 独立开发者做了个免费合盘工具，想听听意见](https://www.v2ex.com/t/1233073) | V2EX (创意工作者社区) | 变现 |
 
-> 共 7 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -82,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-09T12:20:46.150Z
-- **总资讯数**：4164 条原始 → 529 条筛选后
+- **聚合时间**：2026-08-09T14:21:56.076Z
+- **总资讯数**：4164 条原始 → 535 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
