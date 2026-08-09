@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [从“白菜价”到大幅涨价，DeepSeek正在经历什么？](https://juejin.cn/post/7670757585832820776) | juejin | AI |
-| 2 | [🍉 我把《天龙八部》喂给了 AI，问它"段誉会什么武功？"答案让我惊呆了](https://juejin.cn/post/7671078538116546575) | juejin | AI |
-| 3 | [做了个AI日志平台，零代码接入，嘎嘎好用](https://juejin.cn/post/7670783499005362222) | juejin | AI |
-| 4 | [AI 测试提效 ｜ 别搞万能 Skill，推荐用 5 个 Agent Skill 串起 UI 自动化全流程](https://juejin.cn/post/7670593377075773491) | juejin | AI |
-| 5 | [AI 写了更多代码，我为什么反而更累了](https://juejin.cn/post/7670801717630697523) | juejin | AI |
+| 1 | [代理连接 / AgentConnect](https://www.producthunt.com/products/agentconnect) | producthunt | AI |
+| 2 | [即时高尔夫 / Prompt Golf](https://www.producthunt.com/products/prompt-golf) | producthunt | AI |
+| 3 | [构建3.0 / Bunzee 3.0](https://www.producthunt.com/products/bunzee-ai) | producthunt | 其他 |
+| 4 | [Bookology：从藏书到笔记，打造你的私人阅读档案](https://sspai.com/post/112953) | sspai | 认知 |
+| 5 | [具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……](https://sspai.com/post/112430) | sspai | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -25,12 +25,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [实战从零开始构建一个Coding Agent：Violin ｜得物技术](https://juejin.cn/post/7670477819033796651) | juejin | AI |
-| 2 | [赋予 AI “灵魂”：LangChain.js 中临时与长期记忆的终极实战指南](https://juejin.cn/post/7671120692242579462) | juejin | AI |
-| 3 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
-| 4 | [如何在 Gmail 和 Google 文档中禁用 Gemini / How to Disable Gemini in Gmail and Google Docs](https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs) | Wired | AI |
+| 2 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
+| 3 | [如何在 Gmail 和 Google 文档中禁用 Gemini / How to Disable Gemini in Gmail and Google Docs](https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs) | Wired | AI |
+| 4 | [如何使用 ChatGPT 全新、更自然的语音模式进行对话 / How to use ChatGPT's new, more natural Voice Mode for conversations](https://www.engadget.com/2230975/how-to-use-chatgpt-voice-mode) | Engadget | AI |
 | 5 | [Meta 的首席技术官告诉员工不要再要求更多的休假，而是利用人工智能的成果来构建“更酷的东西” / Meta’s CTO told employees to stop asking for more time off and use AI gains to build “cooler stuff” instead](https://thenextweb.com/news/meta-bosworth-ai-productivity-more-work-not-time-off) | The Next Web | AI |
 
-> 共 21 条，以上为 TOP 5。
+> 共 22 条，以上为 TOP 5。
 
 ---
 
@@ -39,12 +39,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
-| 2 | [OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it’s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) | The Verge | AI |
-| 3 | [OpenAI 收购演示初创公司 NextSlide / OpenAI acquires presentation startup NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide) | TechCrunch | AI |
-| 4 | [Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器 / Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents) | TechCrunch | AI |
-| 5 | [NavVis 筹集了 7370 万欧元，用于构建工厂部署人工智能之前所需的空间数据层 / NavVis raised €73.7M to build the spatial data layer that factories need before they can deploy AI](https://thenextweb.com/news/navvis-73-7m-series-d-spatial-twin-industrial-ai) | The Next Web | AI |
+| 2 | [OpenAI 宣布加强安全控制，暂停新人工智能模型 Astra 的部分工作 / OpenAI Announces It's Enhancing Security Controls, Pausing Some Work for New AI Model Astra](https://it.slashdot.org/story/26/08/09/1640211/openai-announces-its-enhancing-security-controls-pausing-some-work-for-new-ai-model-astra) | Slashdot | AI |
+| 3 | [OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it’s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) | The Verge | AI |
+| 4 | [OpenAI 收购演示初创公司 NextSlide / OpenAI acquires presentation startup NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide) | TechCrunch | AI |
+| 5 | [Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器 / Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents) | TechCrunch | AI |
 
-> 共 54 条，以上为 TOP 5。
+> 共 56 条，以上为 TOP 5。
 
 ---
 
@@ -55,7 +55,6 @@
 | 1 | [博主使用 Meta 智能眼镜拍视频遭大量差评，隐私争议再起](https://www.ithome.com/0/987/632.htm) | IT之家 (ITHome) | IP |
 | 2 | [[问与答] 流量劫持，这种技术现在真的还有吗？还是像群里大家伙说的，广 dong 窑子都放不下人了](https://www.v2ex.com/t/1233093) | V2EX (创意工作者社区) | IP |
 | 3 | [[问与答] 我做了一个 MP3 音频网页，浏览器内置模型如果用户配置不行的页面卡死崩溃网站的排名流量有损害嘛？](https://www.v2ex.com/t/1233059) | V2EX (创意工作者社区) | AI/IP |
-| 4 | [[分享发现] 第二版：推荐几个 eSIM，全球流量·便宜保号·接码](https://www.v2ex.com/t/1233040) | V2EX (创意工作者社区) | IP |
 
 ---
 
@@ -81,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-09T16:18:12.307Z
-- **总资讯数**：4136 条原始 → 523 条筛选后
+- **聚合时间**：2026-08-09T18:19:52.077Z
+- **总资讯数**：4161 条原始 → 549 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
