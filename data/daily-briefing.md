@@ -30,7 +30,7 @@
 | 4 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
 | 5 | [别光会用 Skill，不会写等于白搭：从规范到原理，手把手教你给 AI Agent 造技能](https://juejin.cn/post/7669744437334622208) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 8 条，以上为 TOP 5。
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器 / Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents) | TechCrunch | AI |
 | 5 | [NavVis 筹集了 7370 万欧元，用于构建工厂部署人工智能之前所需的空间数据层 / NavVis raised €73.7M to build the spatial data layer that factories need before they can deploy AI](https://thenextweb.com/news/navvis-73-7m-series-d-spatial-twin-industrial-ai) | The Next Web | AI |
 
-> 共 61 条，以上为 TOP 5。
+> 共 62 条，以上为 TOP 5。
 
 ---
 
@@ -63,9 +63,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Claude和Kimi消耗60亿，价值2.6万，收入0蛋！](https://juejin.cn/post/7669612673382531082) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 2 | [一人公司的狂欢里，赚钱的从来不是创始人](https://www.huxiu.com/article/4881718.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 3 | [微软AI收入七成来自OpenAI，财年贡献金额达241亿美元](https://www.aibase.com/news/30182) | AIbase | AI/变现 |
+| 1 | [21世纪最赚钱的技能是什么？不是 AI](https://www.36kr.com/p/3895558352717449) | 36氪 · 24小时热榜 | AI/变现 |
+| 2 | [Claude和Kimi消耗60亿，价值2.6万，收入0蛋！](https://juejin.cn/post/7669612673382531082) | 掘金 · 人工智能本周最热 | AI/变现 |
+| 3 | [一对58岁的夫妇如何通过DGRO、SPYI和VYM实现每月11,000美元的收入](https://finance.yahoo.com/markets/stocks/articles/58-old-couple-built-11-213328350.html) | finance.yahoo.com | 变现 |
+| 4 | [一人公司的狂欢里，赚钱的从来不是创始人](https://www.huxiu.com/article/4881718.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 5 | [微软AI收入七成来自OpenAI，财年贡献金额达241亿美元](https://www.aibase.com/news/30182) | AIbase | AI/变现 |
 
 ---
 
@@ -77,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-09T03:22:12.036Z
-- **总资讯数**：4154 条原始 → 532 条筛选后
+- **聚合时间**：2026-08-09T04:52:45.775Z
+- **总资讯数**：4154 条原始 → 524 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
