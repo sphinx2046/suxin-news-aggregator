@@ -12,9 +12,9 @@
 |---|------|------|------|
 | 1 | [学了 useContext 还是不理解？从 prop drilling 到 useMouse 的一次完整复盘](https://juejin.cn/post/7670712759411884042) | juejin | 认知 |
 | 2 | [AI 测试提效 ｜ 别搞万能 Skill，推荐用 5 个 Agent Skill 串起 UI 自动化全流程](https://juejin.cn/post/7670593377075773491) | juejin | AI |
-| 3 | [进一步了解克劳德的数学能力 / Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta) | Hacker News | AI |
-| 4 | [Show HN: Ante，一个封装在单个二进制文件中的编码代理，可离线运行 / Show HN: Ante, a coding agent in a single binary that runs offline](https://github.com/AntigmaLabs/ante) | Hacker News | AI |
-| 5 | [OpenAI 的新设备将有冰球大小且成本超过 300 美元 / OpenAI's New Device Will Be Hockey Puck-Sized and Cost over $300](https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300) | Hacker News | AI |
+| 3 | [🍉 我把《天龙八部》喂给了 AI，问它"段誉会什么武功？"答案让我惊呆了](https://juejin.cn/post/7671078538116546575) | juejin | AI |
+| 4 | [Pi + DeepSeek-v4-Flash，这用着也太爽了。](https://juejin.cn/post/7671964740780785670) | juejin | AI |
+| 5 | [Qwen 3.8 max干了20分钟没干完，免费模型3分17秒搞定，问题出在哪？](https://juejin.cn/post/7671185982583341108) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [如何使用克劳德的语音模式 / How to use Claude's voice mode](https://www.engadget.com/2231293/how-to-use-claude-voice-mode) | Engadget | AI |
-| 2 | [Gemini Notebook 测试了一种将您的研究变为现实的疯狂新方法 / Gemini Notebook tests a wild new way to bring your research to life](https://www.androidpolice.com/gemini-notebook-tests-a-wild-new-way-to-bring-your-research-to-life) | Android Police | AI |
-| 3 | [我用 Gemini 来计划和预算我的假期；我从来不会用其他方式做这事 / I used Gemini to plan and budget my vacation; I'm never doing it any other way](https://www.androidpolice.com/gemini-vacation-planning-budget) | Android Police | AI |
-| 4 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 5 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
+| 1 | [Agent Skills 完全指南：从目录规范到渐进式加载的工程实践](https://juejin.cn/post/7671467814255755315) | juejin | AI |
+| 2 | [一行代码没写，我用AI做了一个可以收费产品](https://juejin.cn/post/7671566723838115878) | juejin | AI |
+| 3 | [英伟达正在将华尔街拉入人工智能建设之中。消息传出后，其股价下跌 / Nvidia is pulling Wall Street into the AI buildout. Its shares fell on the news](https://thenextweb.com/news/nvidia-500-billion-wall-street-ai-infrastructure-funding-package) | The Next Web | AI |
+| 4 | [Gemini Notebook 测试了一种将您的研究变为现实的疯狂新方法 / Gemini Notebook tests a wild new way to bring your research to life](https://www.androidpolice.com/gemini-notebook-tests-a-wild-new-way-to-bring-your-research-to-life) | Android Police | AI |
+| 5 | [我用 Gemini 来计划和预算我的假期；我从来不会用其他方式做这事 / I used Gemini to plan and budget my vacation; I'm never doing it any other way](https://www.androidpolice.com/gemini-vacation-planning-budget) | Android Police | AI |
 
-> 共 19 条，以上为 TOP 5。
+> 共 17 条，以上为 TOP 5。
 
 ---
 
@@ -38,11 +38,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [推出 HN：Stoa Markets (YC S26) – GPU 和 AI 服务器的市场 / Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com/) | Hacker News | AI |
-| 2 | [AI 评论为 Linux 候选版本带来“新常态”：大量错误修复 / AI Reviews Bring 'New Normal' to Linux Release Candidates: Lots of Bug Fixes](https://linux.slashdot.org/story/26/08/10/0014253/ai-reviews-bring-new-normal-to-linux-release-candidates-lots-of-bug-fixes) | Slashdot | AI |
-| 3 | [OpenAI 宣布加强安全控制，暂停新人工智能模型 Astra 的部分工作 / OpenAI Announces It's Enhancing Security Controls, Pausing Some Work for New AI Model Astra](https://it.slashdot.org/story/26/08/09/1640211/openai-announces-its-enhancing-security-controls-pausing-some-work-for-new-ai-model-astra) | Slashdot | AI |
-| 4 | [OpenAI 刚刚收购了一家幻灯片初创公司。它正在组装一套办公套件，一次只租用一个。 / OpenAI just bought a slide deck startup. It is assembling an office suite one acqui-hire at a time.](https://thenextweb.com/news/openai-nextslide-acquisition-office-suite-microsoft) | The Next Web | AI |
-| 5 | [谷歌地球收回了制作虚假卫星图像的人工智能工具，该工具发布后立即被滥用 / Google Earth Retracts AI Tool for Making Fake Satellite Images After It Was Immediately Abused Upon Release](https://daringfireball.net/linked/2026/08/07/google-earth-ai-shitposts) | Daring Fireball | AI |
+| 1 | [2026 年 8 月，我的最新 AI 装机单](https://juejin.cn/post/7671084235286986803) | juejin | AI |
+| 2 | [推出 HN：Stoa Markets (YC S26) – GPU 和 AI 服务器的市场 / Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com/) | Hacker News | AI |
+| 3 | [华尔街巨头与 Nvidia 达成 5000 亿美元人工智能融资协议 / Wall Street Giants Partner With Nvidia On $500 Billion AI Financing Deal](https://news.slashdot.org/story/26/08/10/1859242/wall-street-giants-partner-with-nvidia-on-500-billion-ai-financing-deal) | Slashdot | AI |
+| 4 | [AI 评论为 Linux 候选版本带来“新常态”：大量错误修复 / AI Reviews Bring 'New Normal' to Linux Release Candidates: Lots of Bug Fixes](https://linux.slashdot.org/story/26/08/10/0014253/ai-reviews-bring-new-normal-to-linux-release-candidates-lots-of-bug-fixes) | Slashdot | AI |
+| 5 | [OpenAI 于周五暂停了一个有关网络风险的模型。周一，它运送了一艘经过训练可以减少拒绝的货物。 / OpenAI paused a model over cyber risk on Friday. On Monday it shipped one trained to refuse less.](https://thenextweb.com/news/openai-gpt-5-6-cyber-daybreak-expansion-refusal-rate) | The Next Web | AI |
 
 > 共 66 条，以上为 TOP 5。
 
@@ -66,7 +66,7 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [只需在这3只分红股中各投入10,000美元，每年即可获得1,700美元以上的被动收入](https://finance.yahoo.com/markets/stocks/articles/takes-10-000-3-dividend-090500227.html) | finance.yahoo.com | 变现 |
+| 1 | [Show HN: 我开发了一款面向自由职业者和承包商的时间跟踪应用](https://github.com/paracosmos-studio/tallier) | github.com | 变现 |
 | 2 | [我离开了美国，去了塞尔维亚。我的房租从2,000美元降到了650美元，而我的收入却增加了。](https://www.businessinsider.com/moved-from-arizona-serbia-rent-dropped-earn-more-money-2026-8) | www.businessinsider.com | 变现 |
 | 3 | [AI推理前瞻—从基础设施建设到商业化变现](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA%3D%3D&mid=2247645395&idx=4&sn=d7dae72d8693a861ed1364f5cd6f5e7e) | 华尔街见闻 | AI/变现 |
 
@@ -80,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-10T18:38:06.053Z
-- **总资讯数**：4278 条原始 → 585 条筛选后
+- **聚合时间**：2026-08-10T20:28:10.136Z
+- **总资讯数**：4288 条原始 → 575 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
