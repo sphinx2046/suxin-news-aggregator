@@ -25,12 +25,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [实战从零开始构建一个Coding Agent：Violin ｜得物技术](https://juejin.cn/post/7670477819033796651) | juejin | AI |
-| 2 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
-| 3 | [如何在 Gmail 和 Google 文档中禁用 Gemini / How to Disable Gemini in Gmail and Google Docs](https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs) | Wired | AI |
-| 4 | [如何使用克劳德的语音模式 / How to use Claude's voice mode](https://www.engadget.com/2231293/how-to-use-claude-voice-mode) | Engadget | AI |
-| 5 | [如何使用 ChatGPT 全新、更自然的语音模式进行对话 / How to use ChatGPT's new, more natural Voice Mode for conversations](https://www.engadget.com/2230975/how-to-use-chatgpt-voice-mode) | Engadget | AI |
+| 2 | [如何在 Gmail 和 Google 文档中禁用 Gemini / How to Disable Gemini in Gmail and Google Docs](https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs) | Wired | AI |
+| 3 | [如何使用克劳德的语音模式 / How to use Claude's voice mode](https://www.engadget.com/2231293/how-to-use-claude-voice-mode) | Engadget | AI |
+| 4 | [如何使用 ChatGPT 全新、更自然的语音模式进行对话 / How to use ChatGPT's new, more natural Voice Mode for conversations](https://www.engadget.com/2230975/how-to-use-chatgpt-voice-mode) | Engadget | AI |
+| 5 | [Meta 的首席技术官告诉员工不要再要求更多的休假，而是利用人工智能的成果来构建“更酷的东西” / Meta’s CTO told employees to stop asking for more time off and use AI gains to build “cooler stuff” instead](https://thenextweb.com/news/meta-bosworth-ai-productivity-more-work-not-time-off) | The Next Web | AI |
 
-> 共 21 条，以上为 TOP 5。
+> 共 20 条，以上为 TOP 5。
 
 ---
 
@@ -39,12 +39,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [OpenAI首曝光：AI集会复活密谋网攻，人类被迫急刹车！](https://aiera.com.cn/2026/08/10/other/admin/108495/openai%e9%a6%96%e6%9b%9d%e5%85%89%ef%bc%9aai%e9%9b%86%e4%bc%9a%e5%a4%8d%e6%b4%bb%e5%af%86%e8%b0%8b%e7%bd%91%e6%94%bb%ef%bc%8c%e4%ba%ba%e7%b1%bb%e8%a2%ab%e8%bf%ab%e6%80%a5%e5%88%b9%e8%bd%a6%ef%bc%81) | 新智元 | AI |
-| 2 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
-| 3 | [AI 评论为 Linux 候选版本带来“新常态”：大量错误修复 / AI Reviews Bring 'New Normal' to Linux Release Candidates: Lots of Bug Fixes](https://linux.slashdot.org/story/26/08/10/0014253/ai-reviews-bring-new-normal-to-linux-release-candidates-lots-of-bug-fixes) | Slashdot | AI |
-| 4 | [OpenAI 宣布加强安全控制，暂停新人工智能模型 Astra 的部分工作 / OpenAI Announces It's Enhancing Security Controls, Pausing Some Work for New AI Model Astra](https://it.slashdot.org/story/26/08/09/1640211/openai-announces-its-enhancing-security-controls-pausing-some-work-for-new-ai-model-astra) | Slashdot | AI |
-| 5 | [OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it’s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) | The Verge | AI |
+| 2 | [AI 评论为 Linux 候选版本带来“新常态”：大量错误修复 / AI Reviews Bring 'New Normal' to Linux Release Candidates: Lots of Bug Fixes](https://linux.slashdot.org/story/26/08/10/0014253/ai-reviews-bring-new-normal-to-linux-release-candidates-lots-of-bug-fixes) | Slashdot | AI |
+| 3 | [OpenAI 宣布加强安全控制，暂停新人工智能模型 Astra 的部分工作 / OpenAI Announces It's Enhancing Security Controls, Pausing Some Work for New AI Model Astra](https://it.slashdot.org/story/26/08/09/1640211/openai-announces-its-enhancing-security-controls-pausing-some-work-for-new-ai-model-astra) | Slashdot | AI |
+| 4 | [OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it’s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) | The Verge | AI |
+| 5 | [OpenAI 收购演示初创公司 NextSlide / OpenAI acquires presentation startup NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide) | TechCrunch | AI |
 
-> 共 60 条，以上为 TOP 5。
+> 共 58 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [今天，互联网不再只属于人类！Cloudflare实锤机器流量反超](https://aiera.com.cn/2026/08/10/other/admin/108462/%e4%bb%8a%e5%a4%a9%ef%bc%8c%e4%ba%92%e8%81%94%e7%bd%91%e4%b8%8d%e5%86%8d%e5%8f%aa%e5%b1%9e%e4%ba%8e%e4%ba%ba%e7%b1%bb%ef%bc%81cloudflare%e5%ae%9e%e9%94%a4%e6%9c%ba%e5%99%a8%e6%b5%81%e9%87%8f%e5%8f%8d) | 新智元 | IP |
-| 2 | [做了半辈子生意的县城老板们，开始被MCN教着演“自己”](https://www.huxiu.com/article/4881889.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
-| 3 | [[推广] 每日一送，住宅 IP 流量免费兑](https://www.v2ex.com/t/1233157) | V2EX (创意工作者社区) | IP |
-| 4 | [[推广] [第二期] 免费赠送流量，领取使用~](https://www.v2ex.com/t/1233147) | V2EX (创意工作者社区) | IP |
-| 5 | [指望县城编制“避世”，只不过是饮鸩止渴](https://www.huxiu.com/article/4881856.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 2 | [Cloudflare表示，随着机器人产生的互联网流量达到人类的1000倍，人类可能会沦为“微不足道的误差” - techspot.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlZIMEZXaUcxeW5uQlV4TEFYUkxCV0ZMbFVQYnRWWE50bkZWWUZSbjdCS3J0Z0MySTNXb1g1NkpfRVFVbTdBaWd4U0J4aEx4aVZqd3dpb3JEVzdlR29EZGtobHBEWUFRekc3TDdMS1JnVkIxWEJLT1lRVmF0clZ6Wk9fbkdMWFpLWkQzZmdQQ25DajMyaWN1SkhrRExLWkx1bXVR?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
+| 3 | [[推广] 送 送 500mb 住宅流量 静态住宅等于 2 刀/月 美国机房 1 刀/月起](https://www.v2ex.com/t/1233210) | V2EX (创意工作者社区) | IP |
+| 4 | [YouTube、TikTok、Instagram：内容创作者已成为一种新兴的热门资产类别](https://www.bloomberg.com/opinion/articles/2026-08-10/youtube-tiktok-instagram-content-creators-are-a-hip-new-asset-class) | www.bloomberg.com | IP |
+| 5 | [做了半辈子生意的县城老板们，开始被MCN教着演“自己”](https://www.huxiu.com/article/4881889.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
 
-> 共 7 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -81,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-10T03:40:43.034Z
-- **总资讯数**：4195 条原始 → 537 条筛选后
+- **聚合时间**：2026-08-10T05:13:07.054Z
+- **总资讯数**：4203 条原始 → 544 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
