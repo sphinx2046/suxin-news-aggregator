@@ -25,12 +25,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [实战从零开始构建一个Coding Agent：Violin ｜得物技术](https://juejin.cn/post/7670477819033796651) | juejin | AI |
-| 2 | [如何在 Gmail 和 Google 文档中禁用 Gemini / How to Disable Gemini in Gmail and Google Docs](https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs) | Wired | AI |
-| 3 | [如何使用克劳德的语音模式 / How to use Claude's voice mode](https://www.engadget.com/2231293/how-to-use-claude-voice-mode) | Engadget | AI |
-| 4 | [如何使用 ChatGPT 全新、更自然的语音模式进行对话 / How to use ChatGPT's new, more natural Voice Mode for conversations](https://www.engadget.com/2230975/how-to-use-chatgpt-voice-mode) | Engadget | AI |
-| 5 | [Meta 的首席技术官告诉员工不要再要求更多的休假，而是利用人工智能的成果来构建“更酷的东西” / Meta’s CTO told employees to stop asking for more time off and use AI gains to build “cooler stuff” instead](https://thenextweb.com/news/meta-bosworth-ai-productivity-more-work-not-time-off) | The Next Web | AI |
+| 2 | [如何使用克劳德的语音模式 / How to use Claude's voice mode](https://www.engadget.com/2231293/how-to-use-claude-voice-mode) | Engadget | AI |
+| 3 | [如何使用 ChatGPT 全新、更自然的语音模式进行对话 / How to use ChatGPT's new, more natural Voice Mode for conversations](https://www.engadget.com/2230975/how-to-use-chatgpt-voice-mode) | Engadget | AI |
+| 4 | [Meta 的首席技术官告诉员工不要再要求更多的休假，而是利用人工智能的成果来构建“更酷的东西” / Meta’s CTO told employees to stop asking for more time off and use AI gains to build “cooler stuff” instead](https://thenextweb.com/news/meta-bosworth-ai-productivity-more-work-not-time-off) | The Next Web | AI |
+| 5 | [ChatGPT Android 应用程序中的隐藏代码表明 OpenAI 正在构建直接 WhatsApp 贴纸导出功能 / Hidden code in ChatGPT’s Android app suggests OpenAI is building a direct WhatsApp sticker export](https://thenextweb.com/news/chatgpt-whatsapp-sticker-export-apk-teardown) | The Next Web | AI |
 
-> 共 20 条，以上为 TOP 5。
+> 共 23 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it’s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) | The Verge | AI |
 | 5 | [OpenAI 收购演示初创公司 NextSlide / OpenAI acquires presentation startup NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide) | TechCrunch | AI |
 
-> 共 58 条，以上为 TOP 5。
+> 共 60 条，以上为 TOP 5。
 
 ---
 
@@ -67,9 +67,8 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [Claude和Kimi消耗60亿，价值2.6万，收入0蛋！](https://juejin.cn/post/7669612673382531082) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 2 | [[独立开发者 👨‍💻] 失业后独立站上线 7 个月 收获月度订阅收入 5000$+](https://www.v2ex.com/t/1233180) | V2EX (创意工作者社区) | 变现 |
-| 3 | [[生活] 结了婚的 V 友们，你们平时是怎么分配家庭收入的？](https://www.v2ex.com/t/1233160) | V2EX (创意工作者社区) | 变现 |
-| 4 | [AI推理前瞻—从基础设施建设到商业化变现](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA%3D%3D&mid=2247645395&idx=4&sn=d7dae72d8693a861ed1364f5cd6f5e7e) | 华尔街见闻 | AI/变现 |
+| 2 | [搜狐 2026 年 Q2 总收入 1.36 亿美元同比增长 7%，实现扭亏为盈](https://www.ithome.com/0/987/810.htm) | IT之家 (ITHome) | 变现 |
+| 3 | [AI推理前瞻—从基础设施建设到商业化变现](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA%3D%3D&mid=2247645395&idx=4&sn=d7dae72d8693a861ed1364f5cd6f5e7e) | 华尔街见闻 | AI/变现 |
 
 ---
 
@@ -81,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-10T05:13:07.054Z
-- **总资讯数**：4203 条原始 → 544 条筛选后
+- **聚合时间**：2026-08-10T07:02:29.422Z
+- **总资讯数**：4224 条原始 → 565 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
