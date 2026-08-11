@@ -28,7 +28,7 @@
 | 2 | [Gemini Notebook 测试了一种将您的研究变为现实的疯狂新方法 / Gemini Notebook tests a wild new way to bring your research to life](https://www.androidpolice.com/gemini-notebook-tests-a-wild-new-way-to-bring-your-research-to-life) | Android Police | AI |
 | 3 | [我用 Gemini 来计划和预算我的假期；我从来不会用其他方式做这事 / I used Gemini to plan and budget my vacation; I'm never doing it any other way](https://www.androidpolice.com/gemini-vacation-planning-budget) | Android Police | AI |
 | 4 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 5 | [Leaked memo: The Arena Group is rebranding to Paradium.AI and wants to build an 'AI-powered ecosystem'](https://www.businessinsider.com/the-arena-group-rebrands-paradium-ai-ceo-memo-2026-8) | Business Insider | AI |
+| 5 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
 
 > 共 18 条，以上为 TOP 5。
 
@@ -40,11 +40,11 @@
 |---|------|------|------|
 | 1 | [刚刚，OpenAI曝光GPT-6！传10万亿参数，8月强行发布](https://aiera.com.cn/2026/08/11/other/admin/108686/%e5%88%9a%e5%88%9a%ef%bc%8copenai%e6%9b%9d%e5%85%89gpt-6%ef%bc%81%e4%bc%a010%e4%b8%87%e4%ba%bf%e5%8f%82%e6%95%b0%ef%bc%8c8%e6%9c%88%e5%bc%ba%e8%a1%8c%e5%8f%91%e5%b8%83) | 新智元 | AI |
 | 2 | [OpenAI全新GPT Image突袭！碾压Image 2，塑料感终于消失](https://aiera.com.cn/2026/08/11/other/admin/108638/openai%e5%85%a8%e6%96%b0gpt-image%e7%aa%81%e8%a2%ad%ef%bc%81%e7%a2%be%e5%8e%8bimage-2%ef%bc%8c%e5%a1%91%e6%96%99%e6%84%9f%e7%bb%88%e4%ba%8e%e6%b6%88%e5%a4%b1) | 新智元 | AI |
-| 3 | [推出 HN：Stoa Markets (YC S26) – GPU 和 AI 服务器的市场 / Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com/) | Hacker News | AI |
-| 4 | [华尔街巨头与 Nvidia 达成 5000 亿美元人工智能融资协议 / Wall Street Giants Partner With Nvidia On $500 Billion AI Financing Deal](https://news.slashdot.org/story/26/08/10/1859242/wall-street-giants-partner-with-nvidia-on-500-billion-ai-financing-deal) | Slashdot | AI |
-| 5 | [AI 评论为 Linux 候选版本带来“新常态”：大量错误修复 / AI Reviews Bring 'New Normal' to Linux Release Candidates: Lots of Bug Fixes](https://linux.slashdot.org/story/26/08/10/0014253/ai-reviews-bring-new-normal-to-linux-release-candidates-lots-of-bug-fixes) | Slashdot | AI |
+| 3 | [华尔街巨头与 Nvidia 达成 5000 亿美元人工智能融资协议 / Wall Street Giants Partner With Nvidia On $500 Billion AI Financing Deal](https://news.slashdot.org/story/26/08/10/1859242/wall-street-giants-partner-with-nvidia-on-500-billion-ai-financing-deal) | Slashdot | AI |
+| 4 | [AI 评论为 Linux 候选版本带来“新常态”：大量错误修复 / AI Reviews Bring 'New Normal' to Linux Release Candidates: Lots of Bug Fixes](https://linux.slashdot.org/story/26/08/10/0014253/ai-reviews-bring-new-normal-to-linux-release-candidates-lots-of-bug-fixes) | Slashdot | AI |
+| 5 | [据报道 OpenAI 完成了 70 亿美元的员工收购要约 / OpenAI reportedly completed a $7 billion employee tender offer](https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer) | TechCrunch | AI |
 
-> 共 72 条，以上为 TOP 5。
+> 共 68 条，以上为 TOP 5。
 
 ---
 
@@ -52,11 +52,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [[Apple] iOS 上有没有办法连接 WiFi 的时候让特定 app 走手机流量？](https://www.v2ex.com/t/1233437) | V2EX (创意工作者社区) | IP |
-| 2 | [两次创业亏掉500万，千万粉丝网红，再败餐饮](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ%3D%3D&mid=2656192971&idx=2&sn=f1b6f8eaef0368c334c0ec117dc27a54) | 虎嗅App | IP |
-| 3 | [《哈利·波特》粉丝如何将多比的坟墓从英国-爱尔兰输电线路的建设路线上保护下来](https://nyti.ms/4za7rtk) | nyti.ms | IP |
-| 4 | [丹·霍伊尔的多重面具——这位演员在舞台上演绎真实人物的故事，从忠实的特朗普支持者到乐队“菲什”（Phish）的铁杆粉丝。如今，他将带着自己的“新闻剧”重返乔的酒馆（Joe’s Pub）。](https://www.newyorker.com/magazine/2026/08/17/the-many-masks-of-dan-hoyle) | www.newyorker.com | IP |
-| 5 | [今天，互联网不再只属于人类！Cloudflare实锤机器流量反超](https://aiera.com.cn/2026/08/10/other/admin/108462/%e4%bb%8a%e5%a4%a9%ef%bc%8c%e4%ba%92%e8%81%94%e7%bd%91%e4%b8%8d%e5%86%8d%e5%8f%aa%e5%b1%9e%e4%ba%8e%e4%ba%ba%e7%b1%bb%ef%bc%81cloudflare%e5%ae%9e%e9%94%a4%e6%9c%ba%e5%99%a8%e6%b5%81%e9%87%8f%e5%8f%8d) | 新智元 | IP |
+| 1 | [Cloudflare 数据：互联网机器流量首次超过人类](https://hub.baai.ac.cn/view/57018) | Readhub · AI | AI/IP |
+| 2 | [亲爱的Circle Stock粉丝们，请在日历上标记好9月16日](https://finance.yahoo.com/markets/crypto/articles/dear-circle-stock-fans-mark-193002443.html) | finance.yahoo.com | IP |
+| 3 | [两次创业亏掉500万，千万粉丝网红，再败餐饮](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ%3D%3D&mid=2656192971&idx=2&sn=f1b6f8eaef0368c334c0ec117dc27a54) | 虎嗅App | IP |
+| 4 | [《哈利·波特》粉丝如何将多比的坟墓从英国-爱尔兰输电线路的建设路线上保护下来](https://nyti.ms/4za7rtk) | nyti.ms | IP |
+| 5 | [丹·霍伊尔的多重面具——这位演员在舞台上演绎真实人物的故事，从忠实的特朗普支持者到乐队“菲什”（Phish）的铁杆粉丝。如今，他将带着自己的“新闻剧”重返乔的酒馆（Joe’s Pub）。](https://www.newyorker.com/magazine/2026/08/17/the-many-masks-of-dan-hoyle) | www.newyorker.com | IP |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -65,12 +67,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [客流回来了，电影院却不想只靠电影赚钱](https://www.huxiu.com/article/4882150.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 2 | [[副业] 分享一下这 4 年来的接单记录](https://www.v2ex.com/t/1233430) | V2EX (创意工作者社区) | 变现 |
-| 3 | [一家公司最危险的时刻是“收入过亿”后的第二年](https://www.huxiu.com/article/4882127.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 4 | [AI推理前瞻一变现](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA%3D%3D&mid=2247645395&idx=4&sn=d7dae72d8693a861ed1364f5cd6f5e7e) | 华尔街见闻 | AI/变现 |
-| 5 | [分析称微软 2026 财年收入中，Win10/Win11 等客户端占比约为 5%](https://www.ithome.com/0/988/094.htm) | IT之家 (ITHome) | 变现 |
+| 2 | [一家公司最危险的时刻是“收入过亿”后的第二年](https://www.huxiu.com/article/4882127.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 3 | [AI推理前瞻一变现](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA%3D%3D&mid=2247645395&idx=4&sn=d7dae72d8693a861ed1364f5cd6f5e7e) | 华尔街见闻 | AI/变现 |
+| 4 | [YouTube 正让创作者更难开始赚取收入](https://www.businessinsider.com/youtube-changes-harder-creators-qualify-ypp-partner-program-monetization-ads-2026-8) | www.businessinsider.com | IP/变现 |
+| 5 | [Netcapital因涉嫌虚增收入被美国证券交易委员会（SEC）指控欺诈](https://reut.rs/4wnondd) | reut.rs | 变现 |
 
-> 共 8 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -82,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-11T03:23:59.039Z
-- **总资讯数**：4396 条原始 → 654 条筛选后
+- **聚合时间**：2026-08-11T04:56:15.688Z
+- **总资讯数**：4396 条原始 → 645 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
