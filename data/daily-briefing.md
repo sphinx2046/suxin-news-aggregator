@@ -12,9 +12,9 @@
 |---|------|------|------|
 | 1 | [Han：一个让 AI Agent 也能做出高级中国风页面的 CSS 设计系统](https://juejin.cn/post/7671186598323339305) | juejin | AI |
 | 2 | [Qwen 3.8 max干了20分钟没干完，免费模型3分17秒搞定，问题出在哪？](https://juejin.cn/post/7671185982583341108) | juejin | AI |
-| 3 | [为什么 Go 是人工智能辅助软件工程的理想语言 / Why Go Is an Ideal Language for AI-Assisted Software Engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering) | Hacker News | AI |
-| 4 | [Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速 / Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md) | Hacker News | AI |
-| 5 | [OpenAI 道德主管 Chloé Bakalar 为何离职？ / Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?](https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave) | Hacker News | AI |
+| 3 | [维德特工 / Vizard Agent](https://www.producthunt.com/products/vizard-agent-the-first-video-agi) | producthunt | AI |
+| 4 | [代理商和用户的产品分析 / Product Analytics for Agents and Users](https://www.producthunt.com/products/kubit) | producthunt | AI |
+| 5 | [Octomind 云和中心 / Octomind Cloud and Hub](https://www.producthunt.com/products/octomind-plug-n-play-ai-agents) | producthunt | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -30,7 +30,7 @@
 | 4 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
 | 5 | [我用 Codex 自动剪视频，全靠这 9 个 视频 skills](https://juejin.cn/post/7670567758656962595) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 20 条，以上为 TOP 5。
+> 共 19 条，以上为 TOP 5。
 
 ---
 
@@ -41,8 +41,8 @@
 | 1 | [2026 年 8 月，我的最新 AI 装机单](https://juejin.cn/post/7671084235286986803) | juejin | AI |
 | 2 | [OpenSSH 10.5 发布，欢迎 AI 修复 / OpenSSH 10.5 released, AI fixes now welcome](https://www.openssh.org/releasenotes.html) | Hacker News | AI |
 | 3 | [华尔街巨头与 Nvidia 达成 5000 亿美元人工智能融资协议 / Wall Street Giants Partner With Nvidia On $500 Billion AI Financing Deal](https://news.slashdot.org/story/26/08/10/1859242/wall-street-giants-partner-with-nvidia-on-500-billion-ai-financing-deal) | Slashdot | AI |
-| 4 | [General Catalyst 领投 2 个月大的 River AI 融资 1.1 亿美元 / General Catalyst leads $1.1B round into 2-month-old River AI](https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai) | TechCrunch | AI |
-| 5 | [未发布的人择模型在数学中最大的未解决问题之一上取得了进展 / An unreleased Anthropic model made progress on one of math’s biggest unsolved problems](https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems) | TechCrunch | AI |
+| 4 | [OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用程序 / OpenAI launches ChatGPT desktop app for Linux](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux) | TechCrunch | AI |
+| 5 | [General Catalyst 领投 2 个月大的 River AI 融资 1.1 亿美元 / General Catalyst leads $1.1B round into 2-month-old River AI](https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai) | TechCrunch | AI |
 
 > 共 64 条，以上为 TOP 5。
 
@@ -53,10 +53,9 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
-| 2 | [Show HN: Autoclipper – 将一段长视频分割成多个短视频片段](https://autoclipper.live/en) | autoclipper.live | IP |
-| 3 | [YouTube 大幅提高创收门槛：观看时长翻倍、Shorts 播放量要求翻番，中小创作者首当其冲](https://www.aibase.com/news/30248) | AIbase | IP |
-| 4 | [央视曝光冒充记者、恶意唱衰行业等汽车自媒体乱象，已有 9000 余个违规账号被处置](https://www.ithome.com/0/988/515.htm) | IT之家 (ITHome) | IP |
-| 5 | [两次创业亏掉500万，千万粉丝网红，再败餐饮](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ%3D%3D&mid=2656192971&idx=2&sn=f1b6f8eaef0368c334c0ec117dc27a54) | 虎嗅App | IP |
+| 2 | [YouTube 大幅提高创收门槛：观看时长翻倍、Shorts 播放量要求翻番，中小创作者首当其冲](https://www.aibase.com/news/30248) | AIbase | IP |
+| 3 | [央视曝光冒充记者、恶意唱衰行业等汽车自媒体乱象，已有 9000 余个违规账号被处置](https://www.ithome.com/0/988/515.htm) | IT之家 (ITHome) | IP |
+| 4 | [两次创业亏掉500万，千万粉丝网红，再败餐饮](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ%3D%3D&mid=2656192971&idx=2&sn=f1b6f8eaef0368c334c0ec117dc27a54) | 虎嗅App | IP |
 
 ---
 
@@ -67,7 +66,6 @@
 | 1 | [Reddit 刚刚为每个账号开通了变现功能](https://news.ycombinator.com/item?id=49259537) | news.ycombinator.com | 变现 |
 | 2 | [TikTok 面向中产阶级的创作者，但收入最高的人群更青睐 Instagram](https://www.businessinsider.com/platform-divide-creator-middle-class-favors-tiktok-top-earners-instagram-2026-8) | www.businessinsider.com | IP/变现 |
 | 3 | [AI推理前瞻一变现](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA%3D%3D&mid=2247645395&idx=4&sn=d7dae72d8693a861ed1364f5cd6f5e7e) | 华尔街见闻 | AI/变现 |
-| 4 | [YouTube 正让创作者更难开始赚取收入](https://www.businessinsider.com/youtube-changes-harder-creators-qualify-ypp-partner-program-monetization-ads-2026-8) | www.businessinsider.com | IP/变现 |
 
 ---
 
@@ -79,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-11T18:41:22.339Z
-- **总资讯数**：4359 条原始 → 615 条筛选后
+- **聚合时间**：2026-08-11T20:30:57.530Z
+- **总资讯数**：4368 条原始 → 621 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
