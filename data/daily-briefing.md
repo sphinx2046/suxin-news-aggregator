@@ -26,11 +26,11 @@
 |---|------|------|------|
 | 1 | [从零在浏览器里跑 DeepSeek-R1：WebGPU + Transformer.js 全链路实战](https://juejin.cn/post/7671475529255321610) | juejin | AI |
 | 2 | [我用Claude Code两天干完了团队两周的排期——周报发出去那一刻我就后悔了](https://juejin.cn/post/7672680924448538639) | juejin | AI |
-| 3 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
-| 4 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
-| 5 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 3 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
+| 4 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 5 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
 
-> 共 15 条，以上为 TOP 5。
+> 共 13 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [🔥 Network 里那坨 "data:" 我真看吐了，自制开源 Chrome 插件，AI 流式调试直接开挂](https://juejin.cn/post/7672224177785995298) | juejin | AI |
-| 2 | [前端转Java+AI全栈？那我推荐几个实战开源项目给你](https://juejin.cn/post/7671992319080431631) | juejin | AI |
+| 1 | [前端转Java+AI全栈？那我推荐几个实战开源项目给你](https://juejin.cn/post/7671992319080431631) | juejin | AI |
+| 2 | [🔥 Network 里那坨 "data:" 我真看吐了，自制开源 Chrome 插件，AI 流式调试直接开挂](https://juejin.cn/post/7672224177785995298) | juejin | AI |
 | 3 | [用时1.5天，Claude突破了黎曼猜想的新纪录](https://juejin.cn/post/7672283918334001198) | juejin | AI |
 | 4 | [Claude Opus 5 的系统提示词被扒出来了](https://juejin.cn/post/7671932707510173738) | juejin | AI |
-| 5 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
+| 5 | [DeepSeek V4 Pro 0813悄然发布 / DeepSeek V4 Pro 0813 quietly released](https://api-docs.deepseek.com/guides/responses_api) | Hacker News | AI |
 
-> 共 81 条，以上为 TOP 5。
+> 共 85 条，以上为 TOP 5。
 
 ---
 
@@ -52,13 +52,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [[推广] 最近失业了，想自己做公众号自媒体的。有没有朋友帮我关注支持一下！](https://www.v2ex.com/t/1233964) | V2EX (创意工作者社区) | IP |
-| 3 | [谷歌 Pixel 11 相机应用新增创作者套件：内置提词器、人声增强，专为单人自媒体打造](https://www.ithome.com/0/988/993.htm) | IT之家 (ITHome) | IP |
-| 4 | [Facebook正向一些备受争议的内容创作者支付报酬，让他们制作煽动愤怒的内容](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696) | www.abc.net.au | IP |
-| 5 | [TikTok带货博主卷疯快递：三天，从深圳到伦敦](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653111815&idx=2&sn=84be402f46b738f0a3f298f654a24db4) | 极客公园 | IP |
+| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
+| 2 | [解析 Flume 水流监测器的流量数据](https://lithostech.com/2026/08/decrypting-flume-water-monitor-traffic) | lithostech.com | IP |
+| 3 | [[推广] 最近失业了，想自己做公众号自媒体的。有没有朋友帮我关注支持一下！](https://www.v2ex.com/t/1233964) | V2EX (创意工作者社区) | IP |
+| 4 | [谷歌 Pixel 11 相机应用新增创作者套件：内置提词器、人声增强，专为单人自媒体打造](https://www.ithome.com/0/988/993.htm) | IT之家 (ITHome) | IP |
+| 5 | [Facebook正向一些备受争议的内容创作者支付报酬，让他们制作煽动愤怒的内容](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696) | www.abc.net.au | IP |
 
-> 共 6 条，以上为 TOP 5。
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -66,13 +66,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI副业在闲鱼上火了](https://www.36kr.com/p/3935841549450374) | 36氪 · 24小时热榜 | AI/变现 |
-| 2 | [马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业](https://www.aibase.com/news/30288) | AIbase | AI/变现 |
-| 3 | [[分享创造] 每月订阅 200 刀， 007，做出了一个 0 收入的产品](https://www.v2ex.com/t/1233940) | V2EX (创意工作者社区) | 变现 |
-| 4 | [苏格兰北海税收收入下降，引发关于石油和天然气行业未来的讨论](https://www.ft.com/content/dc0d5a3f-8bcc-483e-8787-18fd27ddab3f?syn-25a6b1a6=1) | www.ft.com | 变现 |
-| 5 | [Ask HN: 开发人员寻求自由职业或合同工作（每周400美元）](https://news.ycombinator.com/item?id=49268702) | news.ycombinator.com | 变现 |
+| 1 | [用 AI 做内容变收入](https://juejin.cn/post/7672288735179014153) | juejin | AI/变现 |
+| 2 | [AI副业在闲鱼上火了](https://www.36kr.com/p/3935841549450374) | 36氪 · 24小时热榜 | AI/变现 |
+| 3 | [随着支出增加、关税收入持续为负，美国7月财政赤字超过4320亿美元](https://www.reuters.com/business/us-july-deficit-tops-432-billion-outlays-grow-tariff-receipts-stay-negative-2026-08-12) | www.reuters.com | 变现 |
+| 4 | [要买得起一套150万美元的房子，需要多少收入？](https://finance.yahoo.com/personal-finance/mortgages/article/income-needed-to-buy-1-5-million-house-160254987.html) | finance.yahoo.com | 变现 |
+| 5 | [马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业](https://www.aibase.com/news/30288) | AIbase | AI/变现 |
 
-> 共 6 条，以上为 TOP 5。
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-12T16:42:48.581Z
-- **总资讯数**：4376 条原始 → 626 条筛选后
+- **聚合时间**：2026-08-12T18:42:36.882Z
+- **总资讯数**：4349 条原始 → 641 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
