@@ -12,9 +12,9 @@
 |---|------|------|------|
 | 1 | [Han：一个让 AI Agent 也能做出高级中国风页面的 CSS 设计系统](https://juejin.cn/post/7671186598323339305) | juejin | AI |
 | 2 | [Qwen 3.8 max干了20分钟没干完，免费模型3分17秒搞定，问题出在哪？](https://juejin.cn/post/7671185982583341108) | juejin | AI |
-| 3 | [突发，Claude首破黎曼猜想新纪录！](https://aiera.com.cn/2026/08/12/other/admin/108816/%e7%aa%81%e5%8f%91%ef%bc%8cclaude%e9%a6%96%e7%a0%b4%e9%bb%8e%e6%9b%bc%e7%8c%9c%e6%83%b3%e6%96%b0%e7%ba%aa%e5%bd%95%ef%bc%81) | 新智元 | AI |
-| 4 | [720次攻击0成功！Claude Code默认放权，AI替你点「同意」](https://aiera.com.cn/2026/08/12/other/admin/108788/720%e6%ac%a1%e6%94%bb%e5%87%bb0%e6%88%90%e5%8a%9f%ef%bc%81claude-code%e9%bb%98%e8%ae%a4%e6%94%be%e6%9d%83%ef%bc%8cai%e6%9b%bf%e4%bd%a0%e7%82%b9%e3%80%8c%e5%90%8c%e6%84%8f%e3%80%8d) | 新智元 | AI |
-| 5 | [黄仁勋搬来华尔街5000亿，买GPU可以按揭了](https://aiera.com.cn/2026/08/12/other/admin/108746/%e9%bb%84%e4%bb%81%e5%8b%8b%e6%90%ac%e6%9d%a5%e5%8d%8e%e5%b0%94%e8%a1%975000%e4%ba%bf%ef%bc%8c%e4%b9%b0gpu%e5%8f%af%e4%bb%a5%e6%8c%89%e6%8f%ad%e4%ba%86) | 新智元 | 其他 |
+| 3 | [一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai) | Hacker News | AI |
+| 4 | [WorldClaw Agentic 大规模3D开放世界生成 / WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw) | Hacker News | AI |
+| 5 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [一行代码没写，我用AI做了一个可以收费产品](https://juejin.cn/post/7671566723838115878) | juejin | AI |
-| 2 | [从零在浏览器里跑 DeepSeek-R1：WebGPU + Transformer.js 全链路实战](https://juejin.cn/post/7671475529255321610) | juejin | AI |
-| 3 | [揭示人工智能模型内心想法的新技巧 / A New Trick Reveals AI Models’ Inner Thoughts](https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts) | Wired | AI |
-| 4 | [英伟达停止单独为人工智能热潮提供资金，沙特银行无法为其提供资金，美国 500 个城镇已禁止修建这些建筑 / Nvidia stopped funding the AI boom alone, Saudi banks cannot fund theirs, and 500 US towns have banned the buildings](https://thenextweb.com/news/ai-buildout-capital-consent-nvidia-lenders-saudi-backlash) | The Next Web | AI |
-| 5 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
+| 1 | [从零在浏览器里跑 DeepSeek-R1：WebGPU + Transformer.js 全链路实战](https://juejin.cn/post/7671475529255321610) | juejin | AI |
+| 2 | [揭示人工智能模型内心想法的新技巧 / A New Trick Reveals AI Models’ Inner Thoughts](https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts) | Wired | AI |
+| 3 | [英伟达停止单独为人工智能热潮提供资金，沙特银行无法为其提供资金，美国 500 个城镇已禁止修建这些建筑 / Nvidia stopped funding the AI boom alone, Saudi banks cannot fund theirs, and 500 US towns have banned the buildings](https://thenextweb.com/news/ai-buildout-capital-consent-nvidia-lenders-saudi-backlash) | The Next Web | AI |
+| 4 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
+| 5 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
 
-> 共 17 条，以上为 TOP 5。
+> 共 14 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [刚刚，Claude偷偷上线隐形水印，每个字都可全球追踪！](https://aiera.com.cn/2026/08/12/other/admin/108800/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e5%81%b7%e5%81%b7%e4%b8%8a%e7%ba%bf%e9%9a%90%e5%bd%a2%e6%b0%b4%e5%8d%b0%ef%bc%8c%e6%af%8f%e4%b8%aa%e5%ad%97%e9%83%bd%e5%8f%af%e5%85%a8%e7%90%83%e8%bf%bd%e8%b8%aa) | 新智元 | AI |
-| 2 | [浙大开源HugAgentOS：三引擎一体自进化，每步可归因/回放/回滚](https://aiera.com.cn/2026/08/12/other/admin/108777/%e6%b5%99%e5%a4%a7%e5%bc%80%e6%ba%90hugagentos%ef%bc%9a%e4%b8%89%e5%bc%95%e6%93%8e%e4%b8%80%e4%bd%93%e8%87%aa%e8%bf%9b%e5%8c%96%ef%bc%8c%e6%af%8f%e6%ad%a5%e5%8f%af%e5%bd%92%e5%9b%a0-%e5%9b%9e%e6%94%be) | 新智元 | AI |
-| 3 | [前端转Java+AI全栈？那我推荐几个实战开源项目给你](https://juejin.cn/post/7671992319080431631) | juejin | AI |
-| 4 | [🔥 Network 里那坨 "data:" 我真看吐了，自制开源 Chrome 插件，AI 流式调试直接开挂](https://juejin.cn/post/7672224177785995298) | juejin | AI |
-| 5 | [用时1.5天，Claude突破了黎曼猜想的新纪录](https://juejin.cn/post/7672283918334001198) | juejin | AI |
+| 1 | [ChatGPT 和 Gemini 用户数量均刚刚突破 10 亿 / ChatGPT and Gemini both just passed 1 billion users](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users) | The Verge | AI |
+| 2 | [OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用程序 / OpenAI launches ChatGPT desktop app for Linux](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux) | TechCrunch | AI |
+| 3 | [General Catalyst 领投 2 个月大的 River AI 融资 1.1 亿美元 / General Catalyst leads $1.1B round into 2-month-old River AI](https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai) | TechCrunch | AI |
+| 4 | [未发布的人择模型在数学中最大的未解决问题之一上取得了进展 / An unreleased Anthropic model made progress on one of math’s biggest unsolved problems](https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems) | TechCrunch | AI |
+| 5 | [SpaceXAI 推出 Grok Bot，代理竞争转向办公室工作 / SpaceXAI launches Grok Bot as the agent race moves to office work](https://thenextweb.com/news/spacexai-grok-bot-ai-agents-cursor) | The Next Web | AI |
 
-> 共 75 条，以上为 TOP 5。
+> 共 74 条，以上为 TOP 5。
 
 ---
 
@@ -63,8 +63,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [ABN Amro 盈利超预期，上调主要收入来源展望](https://www.bloomberg.com/news/articles/2026-08-12/abn-amro-profit-beats-boosts-outlook-for-key-revenue-source) | www.bloomberg.com | 变现 |
-| 2 | [美国禁止使用联邦资金为低收入未成年人提供性别肯定治疗](https://reut.rs/4fWYZEM) | reut.rs | 变现 |
+| 1 | [AI副业在闲鱼上火了](https://www.36kr.com/p/3935841549450374) | 36氪 · 24小时热榜 | AI/变现 |
+| 2 | [Netcapital因涉嫌虚增收入被美国证券交易委员会（SEC）指控欺诈](https://finance.yahoo.com/markets/stocks/articles/netcapital-charged-us-sec-fraud-215600127.html) | finance.yahoo.com | 变现 |
+| 3 | [Ask HN: 开发人员寻求自由职业或合同工作（每周400美元）](https://news.ycombinator.com/item?id=49268702) | news.ycombinator.com | 变现 |
+| 4 | [美国禁止使用联邦资金为低收入未成年人提供性别肯定治疗](https://reut.rs/4fWYZEM) | reut.rs | 变现 |
 
 ---
 
@@ -76,8 +78,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-12T07:01:59.384Z
-- **总资讯数**：4449 条原始 → 639 条筛选后
+- **聚合时间**：2026-08-12T08:57:10.755Z
+- **总资讯数**：4454 条原始 → 637 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
