@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [揭示人工智能模型内心想法的新技巧 / A New Trick Reveals AI Models’ Inner Thoughts](https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts) | Wired | AI |
-| 2 | [英伟达停止单独为人工智能热潮提供资金，沙特银行无法为其提供资金，美国 500 个城镇已禁止修建这些建筑 / Nvidia stopped funding the AI boom alone, Saudi banks cannot fund theirs, and 500 US towns have banned the buildings](https://thenextweb.com/news/ai-buildout-capital-consent-nvidia-lenders-saudi-backlash) | The Next Web | AI |
-| 3 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
-| 4 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 5 | [文件显示，由于两家公司在如何部署送货机器人方面发生冲突，Uber 在第二季度从长期合作伙伴 Serve Robotics 手中撤资； Serve 与 DoorDash 达成交易（Natalie Lung/彭博社） / Filings show Uber divested from long-time partner Serve Robotics in Q2, as the companies clash over how to deploy delivery robots; Serve has a DoorDash deal (Natalie Lung/Bloomberg)](https://www.techmeme.com/260811/p33) | Techmeme | AI |
+| 1 | [一行代码没写，我用AI做了一个可以收费产品](https://juejin.cn/post/7671566723838115878) | juejin | AI |
+| 2 | [从零在浏览器里跑 DeepSeek-R1：WebGPU + Transformer.js 全链路实战](https://juejin.cn/post/7671475529255321610) | juejin | AI |
+| 3 | [揭示人工智能模型内心想法的新技巧 / A New Trick Reveals AI Models’ Inner Thoughts](https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts) | Wired | AI |
+| 4 | [英伟达停止单独为人工智能热潮提供资金，沙特银行无法为其提供资金，美国 500 个城镇已禁止修建这些建筑 / Nvidia stopped funding the AI boom alone, Saudi banks cannot fund theirs, and 500 US towns have banned the buildings](https://thenextweb.com/news/ai-buildout-capital-consent-nvidia-lenders-saudi-backlash) | The Next Web | AI |
+| 5 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
 
-> 共 18 条，以上为 TOP 5。
+> 共 17 条，以上为 TOP 5。
 
 ---
 
@@ -40,11 +40,11 @@
 |---|------|------|------|
 | 1 | [刚刚，Claude偷偷上线隐形水印，每个字都可全球追踪！](https://aiera.com.cn/2026/08/12/other/admin/108800/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e5%81%b7%e5%81%b7%e4%b8%8a%e7%ba%bf%e9%9a%90%e5%bd%a2%e6%b0%b4%e5%8d%b0%ef%bc%8c%e6%af%8f%e4%b8%aa%e5%ad%97%e9%83%bd%e5%8f%af%e5%85%a8%e7%90%83%e8%bf%bd%e8%b8%aa) | 新智元 | AI |
 | 2 | [浙大开源HugAgentOS：三引擎一体自进化，每步可归因/回放/回滚](https://aiera.com.cn/2026/08/12/other/admin/108777/%e6%b5%99%e5%a4%a7%e5%bc%80%e6%ba%90hugagentos%ef%bc%9a%e4%b8%89%e5%bc%95%e6%93%8e%e4%b8%80%e4%bd%93%e8%87%aa%e8%bf%9b%e5%8c%96%ef%bc%8c%e6%af%8f%e6%ad%a5%e5%8f%af%e5%bd%92%e5%9b%a0-%e5%9b%9e%e6%94%be) | 新智元 | AI |
-| 3 | [2026 年 8 月，我的最新 AI 装机单](https://juejin.cn/post/7671084235286986803) | juejin | AI |
-| 4 | [ChatGPT 和 Gemini 用户数量均刚刚突破 10 亿 / ChatGPT and Gemini both just passed 1 billion users](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users) | The Verge | AI |
-| 5 | [OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用程序 / OpenAI launches ChatGPT desktop app for Linux](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux) | TechCrunch | AI |
+| 3 | [前端转Java+AI全栈？那我推荐几个实战开源项目给你](https://juejin.cn/post/7671992319080431631) | juejin | AI |
+| 4 | [🔥 Network 里那坨 "data:" 我真看吐了，自制开源 Chrome 插件，AI 流式调试直接开挂](https://juejin.cn/post/7672224177785995298) | juejin | AI |
+| 5 | [用时1.5天，Claude突破了黎曼猜想的新纪录](https://juejin.cn/post/7672283918334001198) | juejin | AI |
 
-> 共 73 条，以上为 TOP 5。
+> 共 75 条，以上为 TOP 5。
 
 ---
 
@@ -54,9 +54,8 @@
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
 | 2 | [那些AI博主到底收割的是哪些人？](https://www.huxiu.com/article/4882506.html?f=rss) | 虎嗅 (Huxiu) | AI/IP |
-| 3 | [[问与答] 现在政策第三方不允许销售三大运营商的流量卡之后还有什么渠道能买到大额流量卡？](https://www.v2ex.com/t/1233786) | V2EX (创意工作者社区) | IP |
-| 4 | [TikTok带货博主卷疯快递：三天，从深圳到伦敦](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653111815&idx=2&sn=84be402f46b738f0a3f298f654a24db4) | 极客公园 | IP |
-| 5 | [AI流量首超人类，互联网该向谁收费?](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ%3D%3D&mid=2656193079&idx=1&sn=00eafe91a553cd527a2489acedd5cd85) | 虎嗅App | AI/IP |
+| 3 | [TikTok带货博主卷疯快递：三天，从深圳到伦敦](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653111815&idx=2&sn=84be402f46b738f0a3f298f654a24db4) | 极客公园 | IP |
+| 4 | [AI流量首超人类，互联网该向谁收费?](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ%3D%3D&mid=2656193079&idx=1&sn=00eafe91a553cd527a2489acedd5cd85) | 虎嗅App | AI/IP |
 
 ---
 
@@ -64,8 +63,8 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [埃隆·马斯克表示，到下个月，SpaceX的人工智能业务收入将超过其所有其他产品](https://www.businessinsider.com/elon-musk-spacex-ai-revenue-outpace-all-other-products-2026-8) | www.businessinsider.com | AI/变现 |
-| 2 | [TikTok 面向中产阶级的创作者，但收入最高的人群更青睐 Instagram](https://www.businessinsider.com/platform-divide-creator-middle-class-favors-tiktok-top-earners-instagram-2026-8) | www.businessinsider.com | IP/变现 |
+| 1 | [ABN Amro 盈利超预期，上调主要收入来源展望](https://www.bloomberg.com/news/articles/2026-08-12/abn-amro-profit-beats-boosts-outlook-for-key-revenue-source) | www.bloomberg.com | 变现 |
+| 2 | [美国禁止使用联邦资金为低收入未成年人提供性别肯定治疗](https://reut.rs/4fWYZEM) | reut.rs | 变现 |
 
 ---
 
@@ -77,8 +76,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-12T05:21:10.735Z
-- **总资讯数**：4426 条原始 → 631 条筛选后
+- **聚合时间**：2026-08-12T07:01:59.384Z
+- **总资讯数**：4449 条原始 → 639 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
