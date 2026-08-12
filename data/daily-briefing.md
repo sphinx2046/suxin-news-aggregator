@@ -44,7 +44,7 @@
 | 4 | [ChatGPT 和 Gemini 用户数量均刚刚突破 10 亿 / ChatGPT and Gemini both just passed 1 billion users](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users) | The Verge | AI |
 | 5 | [OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用程序 / OpenAI launches ChatGPT desktop app for Linux](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux) | TechCrunch | AI |
 
-> 共 75 条，以上为 TOP 5。
+> 共 73 条，以上为 TOP 5。
 
 ---
 
@@ -53,8 +53,8 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
-| 2 | [[问与答] 现在政策第三方不允许销售三大运营商的流量卡之后还有什么渠道能买到大额流量卡？](https://www.v2ex.com/t/1233786) | V2EX (创意工作者社区) | IP |
-| 3 | [[推广] 动态 IP/静态 ISP 优惠放送！💎动态流量免费领💎静态 ISP 新用户五折不限流量](https://www.v2ex.com/t/1233748) | V2EX (创意工作者社区) | IP |
+| 2 | [那些AI博主到底收割的是哪些人？](https://www.huxiu.com/article/4882506.html?f=rss) | 虎嗅 (Huxiu) | AI/IP |
+| 3 | [[问与答] 现在政策第三方不允许销售三大运营商的流量卡之后还有什么渠道能买到大额流量卡？](https://www.v2ex.com/t/1233786) | V2EX (创意工作者社区) | IP |
 | 4 | [TikTok带货博主卷疯快递：三天，从深圳到伦敦](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653111815&idx=2&sn=84be402f46b738f0a3f298f654a24db4) | 极客公园 | IP |
 | 5 | [AI流量首超人类，互联网该向谁收费?](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ%3D%3D&mid=2656193079&idx=1&sn=00eafe91a553cd527a2489acedd5cd85) | 虎嗅App | AI/IP |
 
@@ -64,7 +64,8 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [TikTok 面向中产阶级的创作者，但收入最高的人群更青睐 Instagram](https://www.businessinsider.com/platform-divide-creator-middle-class-favors-tiktok-top-earners-instagram-2026-8) | www.businessinsider.com | IP/变现 |
+| 1 | [埃隆·马斯克表示，到下个月，SpaceX的人工智能业务收入将超过其所有其他产品](https://www.businessinsider.com/elon-musk-spacex-ai-revenue-outpace-all-other-products-2026-8) | www.businessinsider.com | AI/变现 |
+| 2 | [TikTok 面向中产阶级的创作者，但收入最高的人群更青睐 Instagram](https://www.businessinsider.com/platform-divide-creator-middle-class-favors-tiktok-top-earners-instagram-2026-8) | www.businessinsider.com | IP/变现 |
 
 ---
 
@@ -76,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-12T03:52:43.908Z
-- **总资讯数**：4415 条原始 → 629 条筛选后
+- **聚合时间**：2026-08-12T05:21:10.735Z
+- **总资讯数**：4426 条原始 → 631 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
