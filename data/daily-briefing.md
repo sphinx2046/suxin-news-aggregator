@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Han：一个让 AI Agent 也能做出高级中国风页面的 CSS 设计系统](https://juejin.cn/post/7671186598323339305) | juejin | AI |
-| 2 | [Qwen 3.8 max干了20分钟没干完，免费模型3分17秒搞定，问题出在哪？](https://juejin.cn/post/7671185982583341108) | juejin | AI |
+| 1 | [AI 写代码越来越快，为什么项目却越来越难维护？](https://juejin.cn/post/7671500221185556543) | juejin | AI |
+| 2 | [Tim Gowers：法学硕士擅长哪种数学？ / Tim Gowers: What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at) | Hacker News | AI |
 | 3 | [一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai) | Hacker News | AI |
-| 4 | [WorldClaw Agentic 大规模3D开放世界生成 / WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw) | Hacker News | AI |
-| 5 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 4 | [谢尔盖·布林 (Sergey Brin) 表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 5 | [众议院通过预算法案，莫名其妙地禁止国家人工智能法规十年 / House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -26,11 +26,11 @@
 |---|------|------|------|
 | 1 | [从零在浏览器里跑 DeepSeek-R1：WebGPU + Transformer.js 全链路实战](https://juejin.cn/post/7671475529255321610) | juejin | AI |
 | 2 | [揭示人工智能模型内心想法的新技巧 / A New Trick Reveals AI Models’ Inner Thoughts](https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts) | Wired | AI |
-| 3 | [英伟达停止单独为人工智能热潮提供资金，沙特银行无法为其提供资金，美国 500 个城镇已禁止修建这些建筑 / Nvidia stopped funding the AI boom alone, Saudi banks cannot fund theirs, and 500 US towns have banned the buildings](https://thenextweb.com/news/ai-buildout-capital-consent-nvidia-lenders-saudi-backlash) | The Next Web | AI |
-| 4 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
-| 5 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 3 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
+| 4 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 5 | [一些健康和健身爱好者正在使用人工智能进行超个性化训练，构建自定义仪表板和工具来分析他们的睡眠、锻炼和饮食（华尔街日报） / Some health and fitness obsessives are using AI for hyperpersonalized training, building custom dashboards and tools to analyze their sleep, workouts, and diet (Wall Street Journal)](https://www.techmeme.com/260812/p6) | Techmeme | AI |
 
-> 共 14 条，以上为 TOP 5。
+> 共 13 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [ChatGPT 和 Gemini 用户数量均刚刚突破 10 亿 / ChatGPT and Gemini both just passed 1 billion users](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users) | The Verge | AI |
-| 2 | [OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用程序 / OpenAI launches ChatGPT desktop app for Linux](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux) | TechCrunch | AI |
-| 3 | [General Catalyst 领投 2 个月大的 River AI 融资 1.1 亿美元 / General Catalyst leads $1.1B round into 2-month-old River AI](https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai) | TechCrunch | AI |
-| 4 | [未发布的人择模型在数学中最大的未解决问题之一上取得了进展 / An unreleased Anthropic model made progress on one of math’s biggest unsolved problems](https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems) | TechCrunch | AI |
-| 5 | [SpaceXAI 推出 Grok Bot，代理竞争转向办公室工作 / SpaceXAI launches Grok Bot as the agent race moves to office work](https://thenextweb.com/news/spacexai-grok-bot-ai-agents-cursor) | The Next Web | AI |
+| 1 | [推出 HN：发现材料 (YC P26) – 发现新材料的人工智能代理 / Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://discoveredmaterials.com/research) | Hacker News | AI |
+| 2 | [ChatGPT 和 Gemini 用户数量均刚刚突破 10 亿 / ChatGPT and Gemini both just passed 1 billion users](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users) | The Verge | AI |
+| 3 | [OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用程序 / OpenAI launches ChatGPT desktop app for Linux](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux) | TechCrunch | AI |
+| 4 | [General Catalyst 领投 2 个月大的 River AI 融资 1.1 亿美元 / General Catalyst leads $1.1B round into 2-month-old River AI](https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai) | TechCrunch | AI |
+| 5 | [未发布的人择模型在数学中最大的未解决问题之一上取得了进展 / An unreleased Anthropic model made progress on one of math’s biggest unsolved problems](https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems) | TechCrunch | AI |
 
-> 共 74 条，以上为 TOP 5。
+> 共 76 条，以上为 TOP 5。
 
 ---
 
@@ -64,9 +64,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [AI副业在闲鱼上火了](https://www.36kr.com/p/3935841549450374) | 36氪 · 24小时热榜 | AI/变现 |
-| 2 | [Netcapital因涉嫌虚增收入被美国证券交易委员会（SEC）指控欺诈](https://finance.yahoo.com/markets/stocks/articles/netcapital-charged-us-sec-fraud-215600127.html) | finance.yahoo.com | 变现 |
-| 3 | [Ask HN: 开发人员寻求自由职业或合同工作（每周400美元）](https://news.ycombinator.com/item?id=49268702) | news.ycombinator.com | 变现 |
-| 4 | [美国禁止使用联邦资金为低收入未成年人提供性别肯定治疗](https://reut.rs/4fWYZEM) | reut.rs | 变现 |
+| 2 | [马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业](https://www.aibase.com/news/30288) | AIbase | AI/变现 |
+| 3 | [用 AI 做内容变收入](https://juejin.cn/post/7672288735179014153) | juejin | AI/变现 |
+| 4 | [Ask HN: 开发人员寻求自由职业或合同工作（每周400美元）](https://news.ycombinator.com/item?id=49268702) | news.ycombinator.com | 变现 |
+| 5 | [美国禁止使用联邦资金为低收入未成年人提供性别肯定治疗](https://reut.rs/4fWYZEM) | reut.rs | 变现 |
 
 ---
 
@@ -78,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-12T08:57:10.755Z
-- **总资讯数**：4454 条原始 → 637 条筛选后
+- **聚合时间**：2026-08-12T10:47:20.860Z
+- **总资讯数**：4455 条原始 → 651 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
