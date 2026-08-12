@@ -11,10 +11,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [AI 写代码越来越快，为什么项目却越来越难维护？](https://juejin.cn/post/7671500221185556543) | juejin | AI |
-| 2 | [Pi + DeepSeek-v4-Flash，这用着也太爽了。](https://juejin.cn/post/7671964740780785670) | juejin | AI |
-| 3 | [不用LangChain：用 200 行代码手搓 Agent 对话记忆与上下文压缩](https://juejin.cn/post/7671855098491043866) | juejin | AI |
-| 4 | [9 张 AI 生成的图，吃透任何一个前端项目](https://juejin.cn/post/7672299548789964800) | juejin | AI |
-| 5 | [我的 AI 工作流写了两年，直到 Opus 4.8 才真正生效](https://juejin.cn/post/7671937135783510054) | juejin | AI |
+| 2 | [代理工程只是我们尚未做过的一切 / Agentic Engineering Is Just Everything We Haven't Been Doing](https://blog.matthewbrunelle.com/agentic-engineering-is-just-everything-we-havent-been-doing) | Hacker News | AI |
+| 3 | [SpaceXAI的Grok 4.6在“人工智能分析指数”中获得61分 / SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis) | Hacker News | 其他 |
+| 4 | [气候仪表板上的冰川 / Glaciers on the Climate Dashboard](https://climate.metoffice.cloud/glaciers.html) | Hacker News | 其他 |
+| 5 | [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -25,10 +25,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [从零在浏览器里跑 DeepSeek-R1：WebGPU + Transformer.js 全链路实战](https://juejin.cn/post/7671475529255321610) | juejin | AI |
-| 2 | [我用Claude Code两天干完了团队两周的排期——周报发出去那一刻我就后悔了](https://juejin.cn/post/7672680924448538639) | juejin | AI |
-| 3 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
-| 4 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 5 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
+| 2 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
+| 3 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 4 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
+| 5 | [Agent Skills 完全指南：从目录规范到渐进式加载的工程实践](https://juejin.cn/post/7671467814255755315) | 掘金 · 人工智能本周最热 | AI |
 
 > 共 13 条，以上为 TOP 5。
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [前端转Java+AI全栈？那我推荐几个实战开源项目给你](https://juejin.cn/post/7671992319080431631) | juejin | AI |
-| 2 | [🔥 Network 里那坨 "data:" 我真看吐了，自制开源 Chrome 插件，AI 流式调试直接开挂](https://juejin.cn/post/7672224177785995298) | juejin | AI |
-| 3 | [用时1.5天，Claude突破了黎曼猜想的新纪录](https://juejin.cn/post/7672283918334001198) | juejin | AI |
-| 4 | [Claude Opus 5 的系统提示词被扒出来了](https://juejin.cn/post/7671932707510173738) | juejin | AI |
-| 5 | [DeepSeek V4 Pro 0813悄然发布 / DeepSeek V4 Pro 0813 quietly released](https://api-docs.deepseek.com/guides/responses_api) | Hacker News | AI |
+| 1 | [DeepSeek V4 Pro 0813悄然发布 / DeepSeek V4 Pro 0813 quietly released](https://api-docs.deepseek.com/guides/responses_api) | Hacker News | AI |
+| 2 | [人工智能编码初创公司 Lovable 筹集了 4 亿美元资金，2025 年估值为 13.3B 美元，高于 6.6B 美元 / AI coding startup Lovable raised $400M at $13.3B valuation up from $6.6B in 2025](https://lovable.dev/blog/series-c) | Hacker News | AI |
+| 3 | [据报道，人工智能编码初创公司 Cognition 已在就估值 40B 美元的融资进行谈判 / AI coding startup Cognition reportedly already in talks to raise at $40B valuation](https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation) | TechCrunch | AI |
+| 4 | [OpenAI 支持的 Thrive Holdings 筹集了 20 亿美元，将人工智能引入企业 / OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise](https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise) | TechCrunch | AI |
+| 5 | [Facebook 正式推出独立的 Creator Studio 应用程序，为创作者提供人工智能工具 / Facebook officially rolls out its standalone Creator Studio app with AI tools for creators](https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators) | TechCrunch | AI |
 
-> 共 85 条，以上为 TOP 5。
+> 共 87 条，以上为 TOP 5。
 
 ---
 
@@ -66,10 +66,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [用 AI 做内容变收入](https://juejin.cn/post/7672288735179014153) | juejin | AI/变现 |
-| 2 | [AI副业在闲鱼上火了](https://www.36kr.com/p/3935841549450374) | 36氪 · 24小时热榜 | AI/变现 |
-| 3 | [随着支出增加、关税收入持续为负，美国7月财政赤字超过4320亿美元](https://www.reuters.com/business/us-july-deficit-tops-432-billion-outlays-grow-tariff-receipts-stay-negative-2026-08-12) | www.reuters.com | 变现 |
-| 4 | [要买得起一套150万美元的房子，需要多少收入？](https://finance.yahoo.com/personal-finance/mortgages/article/income-needed-to-buy-1-5-million-house-160254987.html) | finance.yahoo.com | 变现 |
+| 1 | [AI副业在闲鱼上火了](https://www.36kr.com/p/3935841549450374) | 36氪 · 24小时热榜 | AI/变现 |
+| 2 | [受支出增加和关税收入减少影响，美国7月份预算赤字扩大](https://www.reuters.com/business/us-july-deficit-tops-432-billion-outlays-grow-tariff-receipts-stay-negative-2026-08-12) | www.reuters.com | 变现 |
+| 3 | [用 AI 做内容变收入](https://juejin.cn/post/7672288735179014153) | juejin | AI/变现 |
+| 4 | [随着支出增加、关税收入持续为负，美国7月财政赤字超过4320亿美元](https://reut.rs/3S9DpFo) | reut.rs | 变现 |
 | 5 | [马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业](https://www.aibase.com/news/30288) | AIbase | AI/变现 |
 
 > 共 7 条，以上为 TOP 5。
@@ -84,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-12T18:42:36.882Z
-- **总资讯数**：4349 条原始 → 641 条筛选后
+- **聚合时间**：2026-08-12T20:28:36.829Z
+- **总资讯数**：4376 条原始 → 643 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
