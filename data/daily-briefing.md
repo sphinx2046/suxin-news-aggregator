@@ -30,7 +30,7 @@
 | 4 | [诺斯罗普的机器人太空机械师是一种让卫星工作更长时间的新方法 / Northrop’s robot space mechanic is a new way to keep satellites at work longer](https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer) | TechCrunch | AI |
 | 5 | [如何阻止 Twitch 在您的直播中训练 AI / How to stop Twitch from training AI on your streams](https://www.engadget.com/2235928/how-to-stop-twitch-training-ai-on-streams) | Engadget | AI |
 
-> 共 17 条，以上为 TOP 5。
+> 共 13 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [用时1.5天，Claude突破了黎曼猜想的新纪录](https://juejin.cn/post/7672283918334001198) | juejin | AI |
 | 5 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
 
-> 共 98 条，以上为 TOP 5。
+> 共 95 条，以上为 TOP 5。
 
 ---
 
@@ -53,9 +53,8 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [[推广] 送点大额住宅 IP 流量 专线优化 新池子 防关联](https://www.v2ex.com/t/1234030) | V2EX (创意工作者社区) | IP |
-| 3 | [解析 Flume 水流监测器的流量数据](https://lithostech.com/2026/08/decrypting-flume-water-monitor-traffic) | lithostech.com | IP |
-| 4 | [YouTube网红克利夫·谭在推广室内设计AI工具后，向愤怒的粉丝致歉](https://www.businessinsider.com/cliff-tan-youtube-ai-backlash-apology-interior-design-2026-8) | www.businessinsider.com | AI/IP |
+| 2 | [解析 Flume 水流监测器的流量数据](https://lithostech.com/2026/08/decrypting-flume-water-monitor-traffic) | lithostech.com | IP |
+| 3 | [YouTube网红克利夫·谭在推广室内设计AI工具后，向愤怒的粉丝致歉](https://www.businessinsider.com/cliff-tan-youtube-ai-backlash-apology-interior-design-2026-8) | www.businessinsider.com | AI/IP |
 
 ---
 
@@ -64,9 +63,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [用 AI 做内容变收入](https://juejin.cn/post/7672288735179014153) | juejin | AI/变现 |
-| 2 | [EQT发掘了一笔70亿美元的澳大利亚“垃圾变现金”交易](https://www.reuters.com/commentary/breakingviews/eqt-unearths-7-bln-aussie-trash-to-cash-deal-2026-08-13) | www.reuters.com | 变现 |
-| 3 | [埃隆·马斯克表示，到9月，人工智能业务的收入将超过SpaceX其他业务的总和。投资者需要了解以下内容 - finance.yahoo.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxNUDZ6RGZHRm95cGpBNzd0NktvQTZZNzNWRE5Ec1JjUWZvTlpWQ1o2WDduOGx4dVNOQWxlTzVYZlhiUFVpV3FQS1JSQm5Md0VnNElRSWFnVEctbzVLNllncFllWXNlR2RjT3NpMEV2Q3diV2hBYWJwMzNHclYxajZOeUs2YmVGMi1iYWNXTjJaUmVKR2M?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | AI/变现 |
-| 4 | [在经济联系紧密的环境中长大的人收入更高](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work) | julienreszka.com | 变现 |
+| 2 | [标准银行受手续费收入增长、交易业务扩张及减值准备减少推动，利润跃升10%](https://www.reuters.com/world/africa/standard-bank-profit-jumps-10-fee-trading-growth-lower-impairments-2026-08-13) | www.reuters.com | 变现 |
+| 3 | [7 月美国企业 AI 消费观察：OpenAI GPT-5.6 Sol 收入超 Anthropic Fable 5](https://www.ithome.com/0/989/208.htm) | IT之家 (ITHome) | AI/变现 |
+| 4 | [LG 新能源 2026 财年半年报营业总收入 14.115 万亿韩元，同比增长 10.46%](https://www.ithome.com/0/989/190.htm) | IT之家 (ITHome) | 变现 |
+| 5 | [在经济联系紧密的环境中长大的人收入更高](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work) | julienreszka.com | 变现 |
 
 ---
 
@@ -78,8 +78,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-13T05:27:23.499Z
-- **总资讯数**：4424 条原始 → 654 条筛选后
+- **聚合时间**：2026-08-13T07:05:39.082Z
+- **总资讯数**：4441 条原始 → 664 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
