@@ -10,8 +10,8 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [网页端, 6.5MB人脸识别模型, 谷歌框架, 又快又准](https://juejin.cn/post/7672915108386570267) | juejin | AI |
-| 2 | [Deepseek涨价了，前后对比，竟然差这么多](https://juejin.cn/post/7673348268143132710) | juejin | AI |
+| 1 | [Deepseek涨价了，前后对比，竟然差这么多](https://juejin.cn/post/7673348268143132710) | juejin | AI |
+| 2 | [网页端, 6.5MB人脸识别模型, 谷歌框架, 又快又准](https://juejin.cn/post/7672915108386570267) | juejin | AI |
 | 3 | [使用飞书机器人让 Codex 24 小时在线：随时随地给你的 AI 工程师派活](https://juejin.cn/post/7672957997422346303) | juejin | AI |
 | 4 | [AI 能写代码之后，前端工程师的价值在哪里？](https://juejin.cn/post/7672711130189889570) | juejin | AI |
 | 5 | [1.5M 参数的模型，如何在 OCR 能力上吊打一众多模态大模型？并且可以在本地浏览器中运行！](https://juejin.cn/post/7672719051564515355) | juejin | AI |
@@ -25,10 +25,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [Deepseek harness 安装配置保姆教程](https://juejin.cn/post/7673506180661428259) | juejin | AI |
-| 2 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
-| 3 | [Airbnb 的首席执行官表示，没有人为普通人构建人工智能。他是 Y Combinator 董事会成员 / Airbnb’s CEO says nobody builds AI for normal people. He is on Y Combinator’s board](https://thenextweb.com/news/consumer-ai-gap-brian-chesky-y-combinator-enterprise) | The Next Web | AI |
-| 4 | [微软正在杀死其人工智能吉祥物，十个月后 / Microsoft is killing its AI mascot, ten months after building it](https://thenextweb.com/news/microsoft-copilot-mico-retired-features-killed-app-merge) | The Next Web | AI |
-| 5 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
+| 2 | [Airbnb 的首席执行官表示，没有人为普通人构建人工智能。他是 Y Combinator 董事会成员 / Airbnb’s CEO says nobody builds AI for normal people. He is on Y Combinator’s board](https://thenextweb.com/news/consumer-ai-gap-brian-chesky-y-combinator-enterprise) | The Next Web | AI |
+| 3 | [微软正在杀死其人工智能吉祥物，十个月后 / Microsoft is killing its AI mascot, ten months after building it](https://thenextweb.com/news/microsoft-copilot-mico-retired-features-killed-app-merge) | The Next Web | AI |
+| 4 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
+| 5 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
 
 > 共 23 条，以上为 TOP 5。
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [🔥 Network 里那坨 "data:" 我真看吐了，自制开源 Chrome 插件，AI 流式调试直接开挂](https://juejin.cn/post/7672224177785995298) | juejin | AI |
-| 2 | [DeepSeek 昨晚刚开源了 Harness：附万少的2 万字保姆级教程](https://juejin.cn/post/7673390412729614390) | juejin | AI |
-| 3 | [天天用 Claude Code/Codex，你知道它实际发给模型什么吗？被这开源工具扒光了...](https://juejin.cn/post/7672315735167238198) | juejin | AI |
+| 1 | [天天用 Claude Code/Codex，你知道它实际发给模型什么吗？被这开源工具扒光了...](https://juejin.cn/post/7672315735167238198) | juejin | AI |
+| 2 | [🔥 Network 里那坨 "data:" 我真看吐了，自制开源 Chrome 插件，AI 流式调试直接开挂](https://juejin.cn/post/7672224177785995298) | juejin | AI |
+| 3 | [DeepSeek 昨晚刚开源了 Harness：附万少的2 万字保姆级教程](https://juejin.cn/post/7673390412729614390) | juejin | AI |
 | 4 | [DeepSeek V4 Pro 发布，1.6T 参数、1M 上下文，又有人坐不住了](https://juejin.cn/post/7673295877813649444) | juejin | AI |
-| 5 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
+| 5 | [Anthropic 上市后价值 2 万亿美元 / Anthropic Could Be Worth $2 Trillion When It Goes Public](https://slashdot.org/story/26/08/13/1846256/anthropic-could-be-worth-2-trillion-when-it-goes-public) | Slashdot | AI |
 
-> 共 80 条，以上为 TOP 5。
+> 共 76 条，以上为 TOP 5。
 
 ---
 
@@ -52,13 +52,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [[推广] 电商/自媒体人专用 AI 生图 NEWAP 中转站](https://www.v2ex.com/t/1234480) | V2EX (创意工作者社区) | AI/IP |
-| 3 | [“网红”学位？高校押注内容创作者专业，而批评者质疑其价值](https://phys.org/news/2026-08-degree-colleges-content-creator-major.html) | phys.org | IP |
-| 4 | [在美国，少数族裔人口占多数的农村县数量多于城市和郊区县](https://www.axios.com/2026/08/14/majority-minority-rural-america-black-latino) | www.axios.com | 回乡 |
-| 5 | [回老家和朋友们聊了聊AI，发现跟我们不在一个世界](https://www.huxiu.com/article/4883172.html?f=rss) | 虎嗅 (Huxiu) | AI/回乡 |
+| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
+| 2 | [粉丝们抨击克利夫·谭推广人工智能。他告诉BI，忽视这项技术将是“不负责任的”。](https://www.businessinsider.com/cliff-tan-youtube-ai-backlash-interior-design-jobs-2026-8) | www.businessinsider.com | AI/IP |
+| 3 | [[推广] 电商/自媒体人专用 AI 生图 NEWAP 中转站](https://www.v2ex.com/t/1234480) | V2EX (创意工作者社区) | AI/IP |
+| 4 | [“网红”学位？高校押注内容创作者专业，而批评者质疑其价值](https://phys.org/news/2026-08-degree-colleges-content-creator-major.html) | phys.org | IP |
+| 5 | [在美国，少数族裔人口占多数的农村县数量多于城市和郊区县](https://www.axios.com/2026/08/14/majority-minority-rural-america-black-latino) | www.axios.com | 回乡 |
 
-> 共 9 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -66,13 +66,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [马斯克 2025 年账面薪酬 1583 亿美元：相当于特斯拉普通员工的 252 万倍，4.23 秒收入抵对方一年](https://www.ithome.com/0/989/935.htm) | IT之家 (ITHome) | 变现 |
-| 2 | [随着格雷格·布罗克曼的影响力日益增强，OpenAI更换了收入负责人 - Axios](https://news.google.com/rss/articles/CBMijAFBVV95cUxNell4Y1RVeF84QkQxenJ0WUxvZnlJSmxNSGQzaEJFOXB0LXN1bGRGRnVQNUNjMkNfQWJ4NmFzOHdKWGo0V1pzX1B0NFBtVmsyN3JnT3NKUEJJdllKTHk4UC1JVV9CTmpOYzk5a1p0alRUNXZpemRveDhwb2xfbU42RWhGNkV4VklTSnRMeg?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | AI/变现 |
+| 1 | [为了获得稳定的收入，我放弃了自由职业。作为一名在职妈妈，我的第一个夏天过得一团糟。](https://www.businessinsider.com/freelance-mom-employed-summer-childcare-2026-8) | www.businessinsider.com | 变现 |
+| 2 | [马斯克 2025 年账面薪酬 1583 亿美元：相当于特斯拉普通员工的 252 万倍，4.23 秒收入抵对方一年](https://www.ithome.com/0/989/935.htm) | IT之家 (ITHome) | 变现 |
 | 3 | [群联 2026Q2 总收入同比增长 279.5%，净利润同比增长 3419.3%](https://www.ithome.com/0/989/806.htm) | IT之家 (ITHome) | 变现 |
-| 4 | [华虹宏力 2026Q2 销售收入创历史新高，归母净利润同比增长 385.9%](https://www.ithome.com/0/989/791.htm) | IT之家 (ITHome) | 变现 |
-| 5 | [中国研制出了能做后空翻的机器人——但它们能赚钱吗？ - CNBC](https://news.google.com/read/CBMijAFBVV95cUxQaHowNUFfdlRvSktyMXpFaFVpS2pCUUpQZVp1N2QtejViZHJXMUJOSTc4Y2lxU2tSVWVkZUtpZ2RtZkt1TTZSWHNDNmg0bW9tQ3I1dGJiWkZBeUh6SklvckZvYWNqQm02VGlEM2JRaWMwVTkzVnlDa1NObnhLQ2xzdzVQcTh5ZGlVSzVfc9IBkgFBVV95cUxQb3NXTHJETk9mcWVwaTQ5aHBhX3RqVEplTzB4dWtfV2JTdzV6LUpkcFBaYjdXWkhrLW5XSnJjeE1aSUhwT2tnNGVNNXNfZ0ZvaTdYaXFXcGFVeFRlZVB5ZzN2bDA1dTM2NkJxaWpkdkM1bXlLM0FMWjFhVW9ZbS03TVNNejlIanNvalZHemNBdEhOdw?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
-
-> 共 7 条，以上为 TOP 5。
+| 4 | [中国研制出了能做后空翻的机器人——但它们能赚钱吗？ - CNBC](https://news.google.com/read/CBMijAFBVV95cUxQaHowNUFfdlRvSktyMXpFaFVpS2pCUUpQZVp1N2QtejViZHJXMUJOSTc4Y2lxU2tSVWVkZUtpZ2RtZkt1TTZSWHNDNmg0bW9tQ3I1dGJiWkZBeUh6SklvckZvYWNqQm02VGlEM2JRaWMwVTkzVnlDa1NObnhLQ2xzdzVQcTh5ZGlVSzVfc9IBkgFBVV95cUxQb3NXTHJETk9mcWVwaTQ5aHBhX3RqVEplTzB4dWtfV2JTdzV6LUpkcFBaYjdXWkhrLW5XSnJjeE1aSUhwT2tnNGVNNXNfZ0ZvaTdYaXFXcGFVeFRlZVB5ZzN2bDA1dTM2NkJxaWpkdkM1bXlLM0FMWjFhVW9ZbS03TVNNejlIanNvalZHemNBdEhOdw?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
+| 5 | [《阿姆齐亚·金格的竞争对手》影评：没有比养蜂更赚钱的生意了](https://on.wsj.com/4g8s9Rx) | on.wsj.com | 变现 |
 
 ---
 
@@ -84,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-14T14:43:26.269Z
-- **总资讯数**：4412 条原始 → 637 条筛选后
+- **聚合时间**：2026-08-14T16:37:35.810Z
+- **总资讯数**：4336 条原始 → 635 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
