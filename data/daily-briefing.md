@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [网页端, 6.5MB人脸识别模型, 谷歌框架, 又快又准](https://juejin.cn/post/7672915108386570267) | juejin | AI |
-| 2 | [Deepseek涨价了，前后对比，竟然差这么多](https://juejin.cn/post/7673348268143132710) | juejin | AI |
-| 3 | [使用飞书机器人让 Codex 24 小时在线：随时随地给你的 AI 工程师派活](https://juejin.cn/post/7672957997422346303) | juejin | AI |
-| 4 | [1.5M 参数的模型，如何在 OCR 能力上吊打一众多模态大模型？并且可以在本地浏览器中运行！](https://juejin.cn/post/7672719051564515355) | juejin | AI |
-| 5 | [AI 能写代码之后，前端工程师的价值在哪里？](https://juejin.cn/post/7672711130189889570) | juejin | AI |
+| 1 | [DeepSeek 高峰/非高峰定价更新 / DeepSeek peak/off-peak pricing update](https://api-docs.deepseek.com/news/news260813) | Hacker News | AI |
+| 2 | [GLM-5.3：具备新兴网络能力的前沿编码 / GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](https://z.ai/blog/glm-5.3) | Hacker News | 其他 |
+| 3 | [AI文本水印技术的工作原理 / How AI text watermarking works](https://declaude.org/watermarking) | Hacker News | AI |
+| 4 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 5 | [众议院通过预算法案，莫名其妙地禁止国家人工智能法规十年 / House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,11 +24,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [我用Claude Code两天干完了团队两周的排期——周报发出去那一刻我就后悔了](https://juejin.cn/post/7672680924448538639) | juejin | AI |
-| 2 | [Deepseek harness 安装配置保姆教程](https://juejin.cn/post/7673506180661428259) | juejin | AI |
-| 3 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
-| 4 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
-| 5 | [我用 Android 上的本地法学硕士取代了 Perplexity，以获得即时离线搜索答案 / I replaced Perplexity with a local LLM on Android to get instant offline search answers](https://www.androidpolice.com/replaced-perplexity-with-local-llm-on-android-to-get-instant-offline-search-answers) | Android Police | AI |
+| 1 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
+| 2 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 3 | [一年前，我和 Claude AI 花了几个小时才建造了 Asteroids；我们刚刚在五分钟内构建了一个 Breakout 克隆版 - 您可以玩它 / A year ago, it took Claude AI and me hours to build Asteroids; we just built a Breakout clone in five minutes — and you can play it](https://www.techradar.com/ai-platforms-assistants/a-year-ago-it-took-claude-ai-and-me-hours-to-build-asteroids-we-just-built-a-breakout-clone-in-five-minutes-and-you-can-play-it) | TechRadar | AI |
+| 4 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
+| 5 | [采购同事随口提了句比价，我用 TextIn xParse + WorkBuddy 做了个采购决策助手](https://juejin.cn/post/7673062292059062322) | 掘金 · 人工智能本周最热 | AI |
 
 > 共 19 条，以上为 TOP 5。
 
@@ -39,10 +39,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [🔥 Network 里那坨 "data:" 我真看吐了，自制开源 Chrome 插件，AI 流式调试直接开挂](https://juejin.cn/post/7672224177785995298) | juejin | AI |
-| 2 | [DeepSeek 昨晚刚开源了 Harness：附万少的2 万字保姆级教程](https://juejin.cn/post/7673390412729614390) | juejin | AI |
-| 3 | [天天用 Claude Code/Codex，你知道它实际发给模型什么吗？被这开源工具扒光了...](https://juejin.cn/post/7672315735167238198) | juejin | AI |
-| 4 | [DeepSeek V4 Pro 发布，1.6T 参数、1M 上下文，又有人坐不住了](https://juejin.cn/post/7673295877813649444) | juejin | AI |
-| 5 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
+| 2 | [Anthropic 上市后价值 2 万亿美元 / Anthropic Could Be Worth $2 Trillion When It Goes Public](https://slashdot.org/story/26/08/13/1846256/anthropic-could-be-worth-2-trillion-when-it-goes-public) | Slashdot | AI |
+| 3 | [作者引入了新的人工智能模型和升级的工具来控制代币成本 / Writer introduces new AI model and upgraded harness to contain token costs](https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs) | TechCrunch | AI |
+| 4 | [OpenAI 推出“超快”新模式，使 GPT 5.6 Sol 的工作速度提高 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed](https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed) | TechCrunch | AI |
+| 5 | [高盛正在就英伟达 5000 亿美元的人工智能计算融资交易吸引投资者 / Goldman Sachs is courting investors on Nvidia’s $500bn AI-compute financing deal](https://thenextweb.com/news/goldman-nvidia-500bn-financing-role) | The Next Web | AI |
 
 > 共 81 条，以上为 TOP 5。
 
@@ -52,13 +52,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
+| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
 | 2 | [“网红”学位？高校押注内容创作者专业，而批评者质疑其价值](https://phys.org/news/2026-08-degree-colleges-content-creator-major.html) | phys.org | IP |
 | 3 | [在美国，少数族裔人口占多数的农村县数量多于城市和郊区县](https://www.axios.com/2026/08/14/majority-minority-rural-america-black-latino) | www.axios.com | 回乡 |
 | 4 | [回老家和朋友们聊了聊AI，发现跟我们不在一个世界](https://www.huxiu.com/article/4883172.html?f=rss) | 虎嗅 (Huxiu) | AI/回乡 |
-| 5 | [[推广] 手头几条闲置住宅 IP 流量，免费送， AI/爬虫/数据采集均可，新池子，来感受一下](https://www.v2ex.com/t/1234415) | V2EX (创意工作者社区) | AI/IP |
+| 5 | [近20万粉丝“00后”基金博主翻车，晒收益引流割韭菜，私域敛财套路曝光](https://www.huxiu.com/article/4883157.html?f=rss) | 虎嗅 (Huxiu) | IP |
 
-> 共 10 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-14T10:44:35.569Z
-- **总资讯数**：4442 条原始 → 652 条筛选后
+- **聚合时间**：2026-08-14T12:33:37.963Z
+- **总资讯数**：4438 条原始 → 660 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
