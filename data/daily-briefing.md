@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [OpenAI 不仅要更换其营收主管，还要重建销售业务 / OpenAI is not just replacing its revenue chief, it is rebuilding the sales operation](https://thenextweb.com/news/openai-denise-dresser-exit-dali-rajic-cro) | The Next Web | AI |
-| 2 | [ClickHouse 和 Hud 为 AI 生成的软件构建运行时反馈循环 / ClickHouse and Hud build a runtime feedback loop for AI-generated software](https://thenextweb.com/news/clickhouse-hud-runtime-feedback-loop-ai-generated-code) | The Next Web | AI |
-| 3 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
-| 4 | [我用 Android 上的本地法学硕士取代了 Perplexity，以获得即时离线搜索答案 / I replaced Perplexity with a local LLM on Android to get instant offline search answers](https://www.androidpolice.com/replaced-perplexity-with-local-llm-on-android-to-get-instant-offline-search-answers) | Android Police | AI |
-| 5 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 1 | [我用Claude Code两天干完了团队两周的排期——周报发出去那一刻我就后悔了](https://juejin.cn/post/7672680924448538639) | juejin | AI |
+| 2 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
+| 3 | [OpenAI 不仅更换了营收主管，还重建了销售业务 / OpenAI is not just replacing its revenue chief, it is rebuilding the sales operation](https://thenextweb.com/news/openai-denise-dresser-exit-dali-rajic-cro) | The Next Web | AI |
+| 4 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
+| 5 | [我用 Android 上的本地法学硕士取代了 Perplexity，以获得即时离线搜索答案 / I replaced Perplexity with a local LLM on Android to get instant offline search answers](https://www.androidpolice.com/replaced-perplexity-with-local-llm-on-android-to-get-instant-offline-search-answers) | Android Police | AI |
 
-> 共 17 条，以上为 TOP 5。
+> 共 15 条，以上为 TOP 5。
 
 ---
 
@@ -39,10 +39,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [Ilya的首个模型来了！](https://aiera.com.cn/2026/08/14/other/admin/109002/ilya%e7%9a%84%e9%a6%96%e4%b8%aa%e6%a8%a1%e5%9e%8b%e6%9d%a5%e4%ba%86%ef%bc%81) | 新智元 | AI |
-| 2 | [Anthropic 上市后价值 2 万亿美元 / Anthropic Could Be Worth $2 Trillion When It Goes Public](https://slashdot.org/story/26/08/13/1846256/anthropic-could-be-worth-2-trillion-when-it-goes-public) | Slashdot | AI |
-| 3 | [作者引入了新的人工智能模型和升级的工具来控制代币成本 / Writer introduces new AI model and upgraded harness to contain token costs](https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs) | TechCrunch | AI |
-| 4 | [OpenAI 推出“超快”新模式，使 GPT 5.6 Sol 的工作速度提高 14 倍 / OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed](https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed) | TechCrunch | AI |
-| 5 | [谷歌在上一版发布仅三周后便宣布推出Gemini 3.7 Flash / Google announces Gemini 3.7 Flash just three weeks after previous release](https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release) | Ars Technica | AI |
+| 2 | [DeepSeek 昨晚刚开源了 Harness：附万少的2 万字保姆级教程](https://juejin.cn/post/7673390412729614390) | juejin | AI |
+| 3 | [🔥 Network 里那坨 "data:" 我真看吐了，自制开源 Chrome 插件，AI 流式调试直接开挂](https://juejin.cn/post/7672224177785995298) | juejin | AI |
+| 4 | [天天用 Claude Code/Codex，你知道它实际发给模型什么吗？被这开源工具扒光了...](https://juejin.cn/post/7672315735167238198) | juejin | AI |
+| 5 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
 
 > 共 81 条，以上为 TOP 5。
 
@@ -52,13 +52,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [纸上得来终觉浅：月入7万刀的头部创作者，劝你立刻戒掉“信息毒瘾”](https://www.36kr.com/p/3899104409470598) | 36氪 · 24小时热榜 | IP |
-| 2 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
-| 3 | [在美国与伊朗相互指责之际，霍尔木兹海峡的航运流量受到限制](https://www.reuters.com/world/middle-east/hormuz-shipping-traffic-capped-amid-competing-claims-us-iran-2026-08-14) | www.reuters.com | IP |
+| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
+| 2 | [纸上得来终觉浅：月入7万刀的头部创作者，劝你立刻戒掉“信息毒瘾”](https://www.36kr.com/p/3899104409470598) | 36氪 · 24小时热榜 | IP |
+| 3 | [从流量到算力，中国移动想把AI再做成一张“网络”](https://www.huxiu.com/article/4883122.html?f=rss) | 虎嗅 (Huxiu) | AI/IP |
 | 4 | [驰为回应 UniBook 笔记本屏幕争议：评测博主标准版样机误引用高配版参数，对外宣传素材已完成整改](https://www.ithome.com/0/989/670.htm) | IT之家 (ITHome) | IP |
-| 5 | [运营一批 2020 余万粉丝总量微博账号操控舆论、胁迫艺人“花钱消灾”，多人被抓](https://www.ithome.com/0/989/535.htm) | IT之家 (ITHome) | IP |
+| 5 | [创作者因人工智能而受挫的三大主要方式](https://www.businessinsider.com/ways-creators-getting-burned-by-ai-brand-deals-2026-8) | www.businessinsider.com | AI/IP |
 
-> 共 7 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -67,9 +67,8 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [中国研制出了能做后空翻的机器人——但它们能赚钱吗？ - CNBC](https://news.google.com/read/CBMijAFBVV95cUxQaHowNUFfdlRvSktyMXpFaFVpS2pCUUpQZVp1N2QtejViZHJXMUJOSTc4Y2lxU2tSVWVkZUtpZ2RtZkt1TTZSWHNDNmg0bW9tQ3I1dGJiWkZBeUh6SklvckZvYWNqQm02VGlEM2JRaWMwVTkzVnlDa1NObnhLQ2xzdzVQcTh5ZGlVSzVfc9IBkgFBVV95cUxQb3NXTHJETk9mcWVwaTQ5aHBhX3RqVEplTzB4dWtfV2JTdzV6LUpkcFBaYjdXWkhrLW5XSnJjeE1aSUhwT2tnNGVNNXNfZ0ZvaTdYaXFXcGFVeFRlZVB5ZzN2bDA1dTM2NkJxaWpkdkM1bXlLM0FMWjFhVW9ZbS03TVNNejlIanNvalZHemNBdEhOdw?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
-| 2 | [印度贾坎德邦首席部长以财政收入受损为由，敦促莫迪重新考虑采矿法案](https://www.reuters.com/world/india/indias-jharkhand-state-cm-urges-modi-rethink-mining-bill-citing-revenue-hit-2026-08-14) | www.reuters.com | 变现 |
-| 3 | [AI医疗龙头宣称首次盈利，我们翻完财报：赚钱的并不是AI](https://www.huxiu.com/article/4883070.html?f=rss) | 虎嗅 (Huxiu) | AI/变现 |
-| 4 | [《阿姆齐亚·金格的竞争对手》影评：没有比养蜂更赚钱的生意了](https://on.wsj.com/4g8s9Rx) | on.wsj.com | 变现 |
+| 2 | [AI医疗龙头宣称首次盈利，我们翻完财报：赚钱的并不是AI](https://www.huxiu.com/article/4883070.html?f=rss) | 虎嗅 (Huxiu) | AI/变现 |
+| 3 | [《阿姆齐亚·金格的竞争对手》影评：没有比养蜂更赚钱的生意了](https://on.wsj.com/4g8s9Rx) | on.wsj.com | 变现 |
 
 ---
 
@@ -81,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-14T05:21:34.183Z
-- **总资讯数**：4407 条原始 → 643 条筛选后
+- **聚合时间**：2026-08-14T07:01:55.112Z
+- **总资讯数**：4391 条原始 → 655 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
