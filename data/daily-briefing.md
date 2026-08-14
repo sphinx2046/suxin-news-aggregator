@@ -30,7 +30,7 @@
 | 4 | [我用 Android 上的本地法学硕士取代了 Perplexity，以获得即时离线搜索答案 / I replaced Perplexity with a local LLM on Android to get instant offline search answers](https://www.androidpolice.com/replaced-perplexity-with-local-llm-on-android-to-get-instant-offline-search-answers) | Android Police | AI |
 | 5 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
 
-> 共 18 条，以上为 TOP 5。
+> 共 17 条，以上为 TOP 5。
 
 ---
 
@@ -52,10 +52,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
-| 2 | [客流量和同店销售额增长推动Cava业绩提升](https://finance.yahoo.com/markets/stocks/articles/diner-traffic-same-restaurant-sales-150821700.html) | finance.yahoo.com | IP |
-| 3 | [[推广] 流量大放送 codex chatgpt 等业务随便用](https://www.v2ex.com/t/1234276) | V2EX (创意工作者社区) | AI/IP |
-| 4 | [[分享创造] 基于 eBPF/XDP 的旁路流量可视化工具](https://www.v2ex.com/t/1234272) | V2EX (创意工作者社区) | IP |
+| 1 | [纸上得来终觉浅：月入7万刀的头部创作者，劝你立刻戒掉“信息毒瘾”](https://www.36kr.com/p/3899104409470598) | 36氪 · 24小时热榜 | IP |
+| 2 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
+| 3 | [在美国与伊朗相互指责之际，霍尔木兹海峡的航运流量受到限制](https://www.reuters.com/world/middle-east/hormuz-shipping-traffic-capped-amid-competing-claims-us-iran-2026-08-14) | www.reuters.com | IP |
+| 4 | [驰为回应 UniBook 笔记本屏幕争议：评测博主标准版样机误引用高配版参数，对外宣传素材已完成整改](https://www.ithome.com/0/989/670.htm) | IT之家 (ITHome) | IP |
 | 5 | [运营一批 2020 余万粉丝总量微博账号操控舆论、胁迫艺人“花钱消灾”，多人被抓](https://www.ithome.com/0/989/535.htm) | IT之家 (ITHome) | IP |
 
 > 共 7 条，以上为 TOP 5。
@@ -66,9 +66,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [阿彻航空正通过收购来弥补自身季度业绩未能产生的收入](https://finance.yahoo.com/markets/stocks/articles/archer-aviation-buying-revenue-own-152123032.html) | finance.yahoo.com | 变现 |
-| 2 | [AI医疗龙头宣称首次盈利，我们翻完财报：赚钱的并不是AI](https://www.huxiu.com/article/4883070.html?f=rss) | 虎嗅 (Huxiu) | AI/变现 |
-| 3 | [《阿姆齐亚·金格的竞争对手》影评：没有比养蜂更赚钱的生意了](https://on.wsj.com/4g8s9Rx) | on.wsj.com | 变现 |
+| 1 | [中国研制出了能做后空翻的机器人——但它们能赚钱吗？ - CNBC](https://news.google.com/read/CBMijAFBVV95cUxQaHowNUFfdlRvSktyMXpFaFVpS2pCUUpQZVp1N2QtejViZHJXMUJOSTc4Y2lxU2tSVWVkZUtpZ2RtZkt1TTZSWHNDNmg0bW9tQ3I1dGJiWkZBeUh6SklvckZvYWNqQm02VGlEM2JRaWMwVTkzVnlDa1NObnhLQ2xzdzVQcTh5ZGlVSzVfc9IBkgFBVV95cUxQb3NXTHJETk9mcWVwaTQ5aHBhX3RqVEplTzB4dWtfV2JTdzV6LUpkcFBaYjdXWkhrLW5XSnJjeE1aSUhwT2tnNGVNNXNfZ0ZvaTdYaXFXcGFVeFRlZVB5ZzN2bDA1dTM2NkJxaWpkdkM1bXlLM0FMWjFhVW9ZbS03TVNNejlIanNvalZHemNBdEhOdw?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
+| 2 | [印度贾坎德邦首席部长以财政收入受损为由，敦促莫迪重新考虑采矿法案](https://www.reuters.com/world/india/indias-jharkhand-state-cm-urges-modi-rethink-mining-bill-citing-revenue-hit-2026-08-14) | www.reuters.com | 变现 |
+| 3 | [AI医疗龙头宣称首次盈利，我们翻完财报：赚钱的并不是AI](https://www.huxiu.com/article/4883070.html?f=rss) | 虎嗅 (Huxiu) | AI/变现 |
+| 4 | [《阿姆齐亚·金格的竞争对手》影评：没有比养蜂更赚钱的生意了](https://on.wsj.com/4g8s9Rx) | on.wsj.com | 变现 |
 
 ---
 
@@ -80,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-14T03:52:32.443Z
-- **总资讯数**：4394 条原始 → 642 条筛选后
+- **聚合时间**：2026-08-14T05:21:34.183Z
+- **总资讯数**：4407 条原始 → 643 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
