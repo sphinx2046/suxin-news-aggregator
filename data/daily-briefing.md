@@ -30,7 +30,7 @@
 | 4 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
 | 5 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
 
-> 共 16 条，以上为 TOP 5。
+> 共 17 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [迪士尼在D23粉丝活动中公布了漫威新《X战警》的演员阵容以及《冰雪奇缘3》的相关信息](https://www.reuters.com/business/media-telecom/disney-reveals-marvels-new-x-men-cast-frozen-3-d23-fan-event-2026-08-15) | www.reuters.com | IP |
-| 3 | [Show HN: 面向独立创作者的、类似 Duolingo 的本地化课程创作工具](https://www.asakiri.com/) | www.asakiri.com | IP |
-| 4 | [《一夫多妻者》的创作者表示，女性能在她这部Netflix热门剧集中看到自己的影子](https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | IP |
-| 5 | [A短片节创作者招募：带着故事来崇礼甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg%3D%3D&mid=2247556650&idx=2&sn=ea708c5782d7305d9314897ca59c9cdf) | 甲子光年 | IP |
-
-> 共 7 条，以上为 TOP 5。
+| 2 | [Show HN: 面向独立创作者的、类似 Duolingo 的本地化课程创作工具](https://www.asakiri.com/) | www.asakiri.com | IP |
+| 3 | [《一夫多妻者》的创作者表示，女性能在她这部Netflix热门剧集中看到自己的影子](https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | IP |
+| 4 | [A短片节创作者招募：带着故事来崇礼甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg%3D%3D&mid=2247556650&idx=2&sn=ea708c5782d7305d9314897ca59c9cdf) | 甲子光年 | IP |
+| 5 | [那些无法加入迈阿密最顶尖乡村俱乐部的富豪名流](https://on.wsj.com/4xNh2EZ) | on.wsj.com | 回乡 |
 
 ---
 
@@ -78,8 +76,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-15T12:11:29.572Z
-- **总资讯数**：4334 条原始 → 633 条筛选后
+- **聚合时间**：2026-08-15T14:09:38.359Z
+- **总资讯数**：4348 条原始 → 619 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
