@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
-| 2 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
-| 3 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 1 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
+| 2 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 3 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
 | 4 | [采购同事随口提了句比价，我用 TextIn xParse + WorkBuddy 做了个采购决策助手](https://juejin.cn/post/7673062292059062322) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [Deepseek harness 安装配置保姆教程](https://juejin.cn/post/7673506180661428259) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 17 条，以上为 TOP 5。
+> 共 16 条，以上为 TOP 5。
 
 ---
 
@@ -40,11 +40,11 @@
 |---|------|------|------|
 | 1 | [天天用 Claude Code/Codex，你知道它实际发给模型什么吗？被这开源工具扒光了...](https://juejin.cn/post/7672315735167238198) | juejin | AI |
 | 2 | [🔥 Network 里那坨 "data:" 我真看吐了，自制开源 Chrome 插件，AI 流式调试直接开挂](https://juejin.cn/post/7672224177785995298) | juejin | AI |
-| 3 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
+| 3 | [Dynatrace 同意以 9.15 亿美元收购 Arize，Arize 专注于 AI 可观测性和 AI 开发生命周期，其中包括约 8.15 亿美元现金（Larry Dignan/Constellation Research） / Dynatrace agrees to acquire Arize, which specializes in AI observability and the AI development lifecycle, for $915M, including ~$815M in cash (Larry Dignan/Constellation Research)](https://www.techmeme.com/260815/p2) | Techmeme | AI |
 | 4 | [双重估值交易如何在当前疯狂的人工智能融资周期中变得普遍，知名风险投资公司通过获得更好的价格来将其品牌货币化（M. Sriram/Newcomer） / How dual-valuation deals became pervasive in the current frenzied AI funding cycle, with prestige VC firms monetizing their brand names by getting better prices (M. Sriram/Newcomer)](https://www.techmeme.com/260814/p34) | Techmeme | AI |
-| 5 | [风险报告：Anthropic 将错位风险估计从非常低提高到低，并表示不打算发布更强大的内部模型，称为“模型 2”（Madison Mills/Axios） / Risk report: Anthropic raises misalignment risk estimate from very low to low and says it doesn't plan to release a stronger internal model called "Model 2" (Madison Mills/Axios)](https://www.techmeme.com/260814/p21) | Techmeme | AI |
+| 5 | [假 Drakes 和假 Kanyes：互联网突然充斥着人工智能生成的嘻哈音乐 / Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop](https://www.buzzfeed.com/chrisstokelwalker/ai-hip-hop-rap-music-drake-kanye-weeknd-rihanna-jay-z) | BuzzFeed News | AI |
 
-> 共 57 条，以上为 TOP 5。
+> 共 60 条，以上为 TOP 5。
 
 ---
 
@@ -52,13 +52,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [[推广] 我重新做了一个 TikTok 粉丝画像分析网站](https://www.v2ex.com/t/1234546) | V2EX (创意工作者社区) | IP |
-| 3 | [A短片节创作者招募：带着故事来崇礼甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg%3D%3D&mid=2247556650&idx=2&sn=ea708c5782d7305d9314897ca59c9cdf) | 甲子光年 | IP |
-| 4 | [那些无法加入迈阿密最顶尖乡村俱乐部的富豪名流](https://on.wsj.com/4xNh2EZ) | on.wsj.com | 回乡 |
-| 5 | [密歇根州农村地区发生大规模枪击事件，至少6人死亡，1人受伤](https://www.theguardian.com/us-news/2026/aug/14/michigan-mass-shooting-missaukee-county) | www.theguardian.com | 回乡 |
+| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
+| 2 | [尽管存在对谷歌AI流量的担忧，Reddit股价因入选标普500指数而大涨11%](https://finance.yahoo.com/markets/stocks/articles/reddit-stock-pops-11-p-225517609.html) | finance.yahoo.com | AI/IP |
+| 3 | [《一夫多妻者》的创作者表示，女性能在她这部Netflix热门剧集中看到自己的影子](https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | IP |
+| 4 | [“在热浪来袭时，这至关重要”：拯救法国乡村游泳池的斗争](https://www.theguardian.com/world/2026/aug/15/rural-swimming-pools-france-funding-threat) | www.theguardian.com | 回乡 |
+| 5 | [[推广] 我重新做了一个 TikTok 粉丝画像分析网站](https://www.v2ex.com/t/1234546) | V2EX (创意工作者社区) | IP |
 
-> 共 7 条，以上为 TOP 5。
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -79,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-15T04:16:48.573Z
-- **总资讯数**：4347 条原始 → 599 条筛选后
+- **聚合时间**：2026-08-15T06:15:33.886Z
+- **总资讯数**：4358 条原始 → 613 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
