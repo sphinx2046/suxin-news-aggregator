@@ -30,7 +30,7 @@
 | 4 | [采购同事随口提了句比价，我用 TextIn xParse + WorkBuddy 做了个采购决策助手](https://juejin.cn/post/7673062292059062322) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [Deepseek harness 安装配置保姆教程](https://juejin.cn/post/7673506180661428259) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 19 条，以上为 TOP 5。
+> 共 17 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [双重估值交易如何在当前疯狂的人工智能融资周期中变得普遍，知名风险投资公司通过获得更好的价格来将其品牌货币化（M. Sriram/Newcomer） / How dual-valuation deals became pervasive in the current frenzied AI funding cycle, with prestige VC firms monetizing their brand names by getting better prices (M. Sriram/Newcomer)](https://www.techmeme.com/260814/p34) | Techmeme | AI |
 | 5 | [风险报告：Anthropic 将错位风险估计从非常低提高到低，并表示不打算发布更强大的内部模型，称为“模型 2”（Madison Mills/Axios） / Risk report: Anthropic raises misalignment risk estimate from very low to low and says it doesn't plan to release a stronger internal model called "Model 2" (Madison Mills/Axios)](https://www.techmeme.com/260814/p21) | Techmeme | AI |
 
-> 共 55 条，以上为 TOP 5。
+> 共 57 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [A短片节创作者招募：带着故事来崇礼甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg%3D%3D&mid=2247556650&idx=2&sn=ea708c5782d7305d9314897ca59c9cdf) | 甲子光年 | IP |
-| 3 | [那些无法加入迈阿密最顶尖乡村俱乐部的富豪名流](https://on.wsj.com/4xNh2EZ) | on.wsj.com | 回乡 |
-| 4 | [密歇根州农村地区发生大规模枪击事件，至少6人死亡，1人受伤](https://www.theguardian.com/us-news/2026/aug/14/michigan-mass-shooting-missaukee-county) | www.theguardian.com | 回乡 |
-| 5 | [粉丝们抨击克利夫·谭推广人工智能。他告诉BI，忽视这项技术将是“不负责任的”。](https://www.businessinsider.com/cliff-tan-youtube-ai-backlash-interior-design-jobs-2026-8) | www.businessinsider.com | AI/IP |
+| 2 | [[推广] 我重新做了一个 TikTok 粉丝画像分析网站](https://www.v2ex.com/t/1234546) | V2EX (创意工作者社区) | IP |
+| 3 | [A短片节创作者招募：带着故事来崇礼甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg%3D%3D&mid=2247556650&idx=2&sn=ea708c5782d7305d9314897ca59c9cdf) | 甲子光年 | IP |
+| 4 | [那些无法加入迈阿密最顶尖乡村俱乐部的富豪名流](https://on.wsj.com/4xNh2EZ) | on.wsj.com | 回乡 |
+| 5 | [密歇根州农村地区发生大规模枪击事件，至少6人死亡，1人受伤](https://www.theguardian.com/us-news/2026/aug/14/michigan-mass-shooting-missaukee-county) | www.theguardian.com | 回乡 |
 
-> 共 6 条，以上为 TOP 5。
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -79,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-15T02:41:47.116Z
-- **总资讯数**：4346 条原始 → 606 条筛选后
+- **聚合时间**：2026-08-15T04:16:48.573Z
+- **总资讯数**：4347 条原始 → 599 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
