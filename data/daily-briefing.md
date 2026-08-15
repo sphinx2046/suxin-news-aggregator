@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [GPT-5.6一夜刷新AI智能天花板！最小模型成本暴降25倍](https://aiera.com.cn/2026/08/15/other/admin/109218/gpt-5-6%e4%b8%80%e5%a4%9c%e5%88%b7%e6%96%b0ai%e6%99%ba%e8%83%bd%e5%a4%a9%e8%8a%b1%e6%9d%bf%ef%bc%81%e6%9c%80%e5%b0%8f%e6%a8%a1%e5%9e%8b%e6%88%90%e6%9c%ac%e6%9a%b4%e9%99%8d25%e5%80%8d) | 新智元 | AI |
-| 2 | [苦等两年！ChatGPT杀入Linux，Codex上手能改你的代码](https://aiera.com.cn/2026/08/15/other/admin/109184/%e8%8b%a6%e7%ad%89%e4%b8%a4%e5%b9%b4%ef%bc%81chatgpt%e6%9d%80%e5%85%a5linux%ef%bc%8ccodex%e4%b8%8a%e6%89%8b%e8%83%bd%e6%94%b9%e4%bd%a0%e7%9a%84%e4%bb%a3%e7%a0%81) | 新智元 | AI |
-| 3 | [GPT-5也会话到嘴边想不起来！谷歌测了450万次：钥匙丢了](https://aiera.com.cn/2026/08/15/other/admin/109170/gpt-5%e4%b9%9f%e4%bc%9a%e8%af%9d%e5%88%b0%e5%98%b4%e8%be%b9%e6%83%b3%e4%b8%8d%e8%b5%b7%e6%9d%a5%ef%bc%81%e8%b0%b7%e6%ad%8c%e6%b5%8b%e4%ba%86450%e4%b8%87%e6%ac%a1%ef%bc%9a%e9%92%a5%e5%8c%99%e4%b8%a2) | 新智元 | AI |
-| 4 | [OpenAI曝「抄袭门」！下一代GPT攻破10大菲奖难题被打假](https://aiera.com.cn/2026/08/15/other/admin/109158/openai%e6%9b%9d%e3%80%8c%e6%8a%84%e8%a2%ad%e9%97%a8%e3%80%8d%ef%bc%81%e4%b8%8b%e4%b8%80%e4%bb%a3gpt%e6%94%bb%e7%a0%b410%e5%a4%a7%e8%8f%b2%e5%a5%96%e9%9a%be%e9%a2%98%e8%a2%ab%e6%89%93%e5%81%87) | 新智元 | AI |
-| 5 | [谷歌祭出Gemini 3.7 Flash！52岁创始人亲自督战，DeepMind真急了](https://aiera.com.cn/2026/08/15/other/admin/109141/%e8%b0%b7%e6%ad%8c%e7%a5%ad%e5%87%bagemini-3-7-flash%ef%bc%8152%e5%b2%81%e5%88%9b%e5%a7%8b%e4%ba%ba%e4%ba%b2%e8%87%aa%e7%9d%a3%e6%88%98%ef%bc%8cdeepmind%e7%9c%9f%e6%80%a5%e4%ba%86) | 新智元 | AI |
+| 1 | [Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag) | Hacker News | AI |
+| 2 | [Show HN: Deltix – 基于人工智能的测试 / AI Driven Testing](https://app.deltix.ai/) | Hacker News | AI |
+| 3 | [克劳德寓言5 玩得开心 / Claude Fable 5 Having Fun](https://github.com/robss2020/claude-fable-5-having-fun) | Hacker News | AI |
+| 4 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 5 | [众议院通过预算法案，莫名其妙地禁止国家人工智能法规十年 / House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -30,7 +30,7 @@
 | 4 | [采购同事随口提了句比价，我用 TextIn xParse + WorkBuddy 做了个采购决策助手](https://juejin.cn/post/7673062292059062322) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [Deepseek harness 安装配置保姆教程](https://juejin.cn/post/7673506180661428259) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 16 条，以上为 TOP 5。
+> 共 15 条，以上为 TOP 5。
 
 ---
 
@@ -40,11 +40,11 @@
 |---|------|------|------|
 | 1 | [天天用 Claude Code/Codex，你知道它实际发给模型什么吗？被这开源工具扒光了...](https://juejin.cn/post/7672315735167238198) | juejin | AI |
 | 2 | [🔥 Network 里那坨 "data:" 我真看吐了，自制开源 Chrome 插件，AI 流式调试直接开挂](https://juejin.cn/post/7672224177785995298) | juejin | AI |
-| 3 | [Dynatrace 同意以 9.15 亿美元收购 Arize，Arize 专注于 AI 可观测性和 AI 开发生命周期，其中包括约 8.15 亿美元现金（Larry Dignan/Constellation Research） / Dynatrace agrees to acquire Arize, which specializes in AI observability and the AI development lifecycle, for $915M, including ~$815M in cash (Larry Dignan/Constellation Research)](https://www.techmeme.com/260815/p2) | Techmeme | AI |
-| 4 | [双重估值交易如何在当前疯狂的人工智能融资周期中变得普遍，知名风险投资公司通过获得更好的价格来将其品牌货币化（M. Sriram/Newcomer） / How dual-valuation deals became pervasive in the current frenzied AI funding cycle, with prestige VC firms monetizing their brand names by getting better prices (M. Sriram/Newcomer)](https://www.techmeme.com/260814/p34) | Techmeme | AI |
-| 5 | [假 Drakes 和假 Kanyes：互联网突然充斥着人工智能生成的嘻哈音乐 / Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop](https://www.buzzfeed.com/chrisstokelwalker/ai-hip-hop-rap-music-drake-kanye-weeknd-rihanna-jay-z) | BuzzFeed News | AI |
+| 3 | [总部位于旧金山的 Vals 开发评估和基准来测试现实世界任务中的人工智能模型，以 4 亿美元的估值筹集了由 a16z 领投的 4000 万美元 A 轮融资（Abhinaya Prabhu/科技融资新闻） / SF-based Vals, which develops evaluations and benchmarks to test AI models on real-world tasks, raised a $40M Series A led by a16z at a $400M valuation (Abhinaya Prabhu/Tech Funding News)](https://www.techmeme.com/260815/p5) | Techmeme | AI |
+| 4 | [Dynatrace 同意以 9.15 亿美元收购 Arize，Arize 专注于 AI 可观测性和 AI 开发生命周期，其中包括约 8.15 亿美元现金（Larry Dignan/Constellation Research） / Dynatrace agrees to acquire Arize, which specializes in AI observability and the AI development lifecycle, for $915M, including ~$815M in cash (Larry Dignan/Constellation Research)](https://www.techmeme.com/260815/p2) | Techmeme | AI |
+| 5 | [双重估值交易如何在当前疯狂的人工智能融资周期中变得普遍，知名风险投资公司通过获得更好的价格来将其品牌货币化（M. Sriram/Newcomer） / How dual-valuation deals became pervasive in the current frenzied AI funding cycle, with prestige VC firms monetizing their brand names by getting better prices (M. Sriram/Newcomer)](https://www.techmeme.com/260814/p34) | Techmeme | AI |
 
-> 共 60 条，以上为 TOP 5。
+> 共 62 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
-| 2 | [尽管存在对谷歌AI流量的担忧，Reddit股价因入选标普500指数而大涨11%](https://finance.yahoo.com/markets/stocks/articles/reddit-stock-pops-11-p-225517609.html) | finance.yahoo.com | AI/IP |
+| 2 | [Show HN: 面向独立创作者的、类似 Duolingo 的本地化课程创作工具](https://www.asakiri.com/) | www.asakiri.com | IP |
 | 3 | [《一夫多妻者》的创作者表示，女性能在她这部Netflix热门剧集中看到自己的影子](https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | IP |
-| 4 | [“在热浪来袭时，这至关重要”：拯救法国乡村游泳池的斗争](https://www.theguardian.com/world/2026/aug/15/rural-swimming-pools-france-funding-threat) | www.theguardian.com | 回乡 |
-| 5 | [[推广] 我重新做了一个 TikTok 粉丝画像分析网站](https://www.v2ex.com/t/1234546) | V2EX (创意工作者社区) | IP |
+| 4 | [A短片节创作者招募：带着故事来崇礼甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg%3D%3D&mid=2247556650&idx=2&sn=ea708c5782d7305d9314897ca59c9cdf) | 甲子光年 | IP |
+| 5 | [那些无法加入迈阿密最顶尖乡村俱乐部的富豪名流](https://on.wsj.com/4xNh2EZ) | on.wsj.com | 回乡 |
 
-> 共 10 条，以上为 TOP 5。
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -66,7 +66,7 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [[独立开发者 👨‍💻] 发现一个独立开发者的悖论](https://www.v2ex.com/t/1234543) | V2EX (创意工作者社区) | 变现 |
+| 1 | [7 月环比增 32%，弗莱尔称 OpenAI 企业 AI 业务收入已超消费者业务](https://www.ithome.com/0/990/066.htm) | IT之家 (ITHome) | AI/变现 |
 | 2 | [为了获得稳定的收入，我放弃了自由职业。作为一名在职妈妈，我的第一个夏天过得一团糟。](https://www.businessinsider.com/freelance-mom-employed-summer-childcare-2026-8) | www.businessinsider.com | 变现 |
 
 ---
@@ -79,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-15T06:15:33.886Z
-- **总资讯数**：4358 条原始 → 613 条筛选后
+- **聚合时间**：2026-08-15T08:12:07.068Z
+- **总资讯数**：4362 条原始 → 627 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
