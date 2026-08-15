@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really) | Hacker News | AI |
-| 2 | [人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) | Hacker News | AI |
-| 3 | [人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?](https://spectrum.ieee.org/ai-designed-virus) | Hacker News | AI |
-| 4 | [谢尔盖·布林 (Sergey Brin) 表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
-| 5 | [众议院通过预算法案，莫名其妙地禁止国家人工智能法规十年 / House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
+| 1 | [DeepSeek +Pi王炸组合跑赢ClaudeCode？Pi创始人：这套组合我早押中了](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665749&idx=1&sn=2fee399c5b35cb316fbd70e6640577d9) | AI前线 | AI |
+| 2 | [61岁当实习律师、考证，他们为何退而不休？](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ%3D%3D&mid=2653729731&idx=1&sn=24ca906ee3f7f1ad85ee5a36de1136a7) | 财经杂志 | 其他 |
+| 3 | [一本书的美丽与烧脑|《财经》书评](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ%3D%3D&mid=2653729731&idx=2&sn=bc684e527c731dac41ac5ef69f95efc1) | 财经杂志 | 其他 |
+| 4 | [2026年高考专业“弃选榜”：会计学居首，人工智能也“遇冷”?](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ%3D%3D&mid=2653729694&idx=1&sn=04298cf5bf0532c875d466ca76b526b1) | 财经杂志 | AI |
+| 5 | [YUE分享「从“野蛮生长”到“品牌复利”：一位跨境电商老兵眼中的中国出海十年](https://mp.weixin.qq.com/s?__biz=MzAwODE5NDg3NQ%3D%3D&mid=2651294263&idx=1&sn=8c620a117f5193c285291615a76a6843) | 红杉汇 | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work) | TechCrunch | AI |
-| 2 | [如何判断您的人工智能平台的帐户是否被黑客入侵 / How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked) | TechCrunch | AI |
-| 3 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
-| 4 | [我尝试使用 3 个顶级人工智能机器人来构建我的网站；我找到了无可争议的赢家 / I tried building my site with the 3 top AI bots; I found an undisputed winner](https://www.androidpolice.com/building-site-with-three-top-ai-bots-found-undisputed-winner) | Android Police | AI |
-| 5 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 1 | [为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI](https://www.bbc.com/news/articles/cz97ljy91zxo) | Hacker News | AI |
+| 2 | [Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work) | TechCrunch | AI |
+| 3 | [如何判断您的人工智能平台的帐户是否被黑客入侵 / How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked) | TechCrunch | AI |
+| 4 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
+| 5 | [我尝试使用 3 个顶级人工智能机器人来构建我的网站；我找到了无可争议的赢家 / I tried building my site with the 3 top AI bots; I found an undisputed winner](https://www.androidpolice.com/building-site-with-three-top-ai-bots-found-undisputed-winner) | Android Police | AI |
 
-> 共 21 条，以上为 TOP 5。
+> 共 20 条，以上为 TOP 5。
 
 ---
 
@@ -38,11 +38,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [SpaceX 正式收购人工智能编码初创公司 Cursor / SpaceX has officially acquired AI coding startup Cursor](https://www.engadget.com/2237655/spacex-officially-acquired-ai-coding-startup-cursor) | Engadget | AI |
-| 2 | [LG 的人形机器人将于 2027 年上市，运行 Nvidia 的 Isaac GR00T / LG’s humanoid robot arrives in 2027, running Nvidia’s Isaac GR00T](https://thenextweb.com/news/lg-nvidia-humanoid-robot-2027-isaac-groot) | The Next Web | AI |
-| 3 | [资料来源：Mercor 和其他为人工智能实验室收集数据的公司正在推动对关闭或被收购的初创公司购买或许可内部数据集的需求（Alix Coutures/The Information） / Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired (Alix Coutures/The Information)](https://www.techmeme.com/260815/p13) | Techmeme | AI |
-| 4 | [总部位于旧金山的 Vals 开发评估和基准来测试现实世界任务中的人工智能模型，以 4 亿美元的估值筹集了由 a16z 领投的 4000 万美元 A 轮融资（Abhinaya Prabhu/科技融资新闻） / SF-based Vals, which develops evaluations and benchmarks to test AI models on real-world tasks, raised a $40M Series A led by a16z at a $400M valuation (Abhinaya Prabhu/Tech Funding News)](https://www.techmeme.com/260815/p5) | Techmeme | AI |
-| 5 | [Dynatrace 同意以 9.15 亿美元收购 Arize，Arize 专注于 AI 可观测性和 AI 开发生命周期，其中包括约 8.15 亿美元现金（Larry Dignan/Constellation Research） / Dynatrace agrees to acquire Arize, which specializes in AI observability and the AI development lifecycle, for $915M, including ~$815M in cash (Larry Dignan/Constellation Research)](https://www.techmeme.com/260815/p2) | Techmeme | AI |
+| 1 | [Vercel发布新语言 Zero：代码不是写给人看的，而是写给AI的](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665749&idx=2&sn=2d07ce6ea981c79bcff3ecd131277085) | AI前线 | AI |
+| 2 | [DeepSeekHarness 实测|模型之外的那一半，到底带来了什么](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA%3D%3D&mid=2649803588&idx=1&sn=36499841c1cc38ba9ccae6380a90aec9) | 腾讯技术工程 | AI |
+| 3 | [智谱发布GLM-5.3，编程能力更强；传苹果训练国内专用AI模型：微信：朋...](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653111979&idx=1&sn=b293d956506b71bd74cff360d76add6f) | 极客公园 | AI |
+| 4 | [曝苹果与阿里合作训练AI模型/微信：永不推出朋友圈二次编辑/售价20万，追觅...](https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA%3D%3D&mid=2652460919&idx=1&sn=1e56c14b1dfba7f95982f798611ee6fa) | 爱范儿 | AI |
+| 5 | [干问Al Arena上线：给Agent一个真实的战场](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA%3D%3D&mid=2247561885&idx=1&sn=c2debdbc284ae35755f55e1f301d8376) | 阿里云开发者 | AI |
 
 > 共 57 条，以上为 TOP 5。
 
@@ -52,13 +52,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
-| 2 | [当棺柩被运回故乡时，数千名邦妮·泰勒的粉丝聚集在一起悼念](https://www.theguardian.com/music/2026/aug/15/bonnie-tyler-fans-gather-pay-respects-swansea) | www.theguardian.com | IP |
-| 3 | [《辛普森一家》创作者称，类似《GTA》的《辛普森：横冲直撞》游戏有望回归](https://www.ithome.com/0/990/188.htm) | IT之家 (ITHome) | IP |
-| 4 | [《一夫多妻者》的创作者表示，女性能在她这部Netflix热门剧集中看到自己的影子](https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | IP |
-| 5 | [A短片节创作者招募：带着故事来崇礼甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg%3D%3D&mid=2247556650&idx=2&sn=ea708c5782d7305d9314897ca59c9cdf) | 甲子光年 | IP |
+| 1 | [AI短片节创作者招募：带着故事来崇礼|甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg%3D%3D&mid=2247556650&idx=2&sn=ea708c5782d7305d9314897ca59c9cdf) | 甲子光年 | AI/IP |
+| 2 | [农村高价彩礼，结婚咋这么难？](https://mp.weixin.qq.com/s?__biz=Mzg2NDczODEyNw%3D%3D&mid=2247495718&idx=1&sn=90b2751e4de0ed0c6cf4c7ceedaaae24) | 泽平宏观展望 | 回乡 |
+| 3 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
+| 4 | [迪士尼首席执行官乔什·达马罗在D23展会首日穿梭于展区，与粉丝互动 - wdwnt.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmMwdWlhZFRVbGdaY3pLY3NVUlZDOUdRZFBmSzZnM0QzeXRnd0ZvR1Y5UlpmdThJX3ZPMkdKb1R2OXVJQ2FtbElsaF9nTmV4M19NTWwzSlVPWW94ekZXRGdTdlE3b1VMM2Q5dU5fN2lTMEI2amlib1Vab25TNVFwZWF6WlJGQlVrQ09jZExqSDZGUUVrczZfNl85Yw?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
+| 5 | [冈冢敦子：“有粉丝为了模仿我的发型而剪了头发，这可是需要很大决心的。”](https://www.theguardian.com/culture/2026/aug/16/atsuko-okatsuka-interview-chelsea-handler-10-chaotic-questions) | www.theguardian.com | IP |
 
-> 共 6 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -66,8 +66,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [[推广] 全网寻找 100 个独立开发者](https://www.v2ex.com/t/1234679) | V2EX (创意工作者社区) | 变现 |
-| 2 | [7 月环比增 32%，弗莱尔称 OpenAI 企业 AI 业务收入已超消费者业务](https://www.ithome.com/0/990/066.htm) | IT之家 (ITHome) | AI/变现 |
+| 1 | [京东二季度收入跌了，利润涨了](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ%3D%3D&mid=2653729694&idx=2&sn=614a7a417e09a6393e6b7f1c975cd5ee) | 财经杂志 | 变现 |
+| 2 | [[推广] 全网寻找 100 个独立开发者](https://www.v2ex.com/t/1234679) | V2EX (创意工作者社区) | 变现 |
+| 3 | [7 月环比增 32%，弗莱尔称 OpenAI 企业 AI 业务收入已超消费者业务](https://www.ithome.com/0/990/066.htm) | IT之家 (ITHome) | AI/变现 |
 
 ---
 
@@ -79,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-15T20:07:52.972Z
-- **总资讯数**：4229 条原始 → 586 条筛选后
+- **聚合时间**：2026-08-15T22:07:20.206Z
+- **总资讯数**：4190 条原始 → 574 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
