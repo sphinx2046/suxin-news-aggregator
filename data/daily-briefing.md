@@ -26,11 +26,11 @@
 |---|------|------|------|
 | 1 | [Deepseek harness 安装配置保姆教程](https://juejin.cn/post/7673506180661428259) | juejin | AI |
 | 2 | [# 你还在等DeepSeek官方 agent Harness‌？ 来试试 DeepSeeker-Code吧](https://juejin.cn/post/7673062292057489458) | juejin | AI |
-| 3 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
-| 4 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 5 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
+| 3 | [如何判断您的人工智能平台的帐户是否被黑客入侵 / How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked) | TechCrunch | AI |
+| 4 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
+| 5 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
 
-> 共 16 条，以上为 TOP 5。
+> 共 19 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [DeepSeek V4 Pro 发布，1.6T 参数、1M 上下文，又有人坐不住了](https://juejin.cn/post/7673295877813649444) | juejin | AI |
 | 5 | [DeepSeek Harness 发布，一切皆是插件](https://juejin.cn/post/7673696068215652404) | juejin | AI |
 
-> 共 58 条，以上为 TOP 5。
+> 共 57 条，以上为 TOP 5。
 
 ---
 
@@ -77,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-15T16:08:26.926Z
-- **总资讯数**：4276 条原始 → 596 条筛选后
+- **聚合时间**：2026-08-15T18:09:29.838Z
+- **总资讯数**：4257 条原始 → 597 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
