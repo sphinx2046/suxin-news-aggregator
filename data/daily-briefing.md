@@ -12,8 +12,8 @@
 |---|------|------|------|
 | 1 | [Deepseek涨价了，前后对比，竟然差这么多](https://juejin.cn/post/7673348268143132710) | juejin | AI |
 | 2 | [网页端, 6.5MB人脸识别模型, 谷歌框架, 又快又准](https://juejin.cn/post/7672915108386570267) | juejin | AI |
-| 3 | [使用飞书机器人让 Codex 24 小时在线：随时随地给你的 AI 工程师派活](https://juejin.cn/post/7672957997422346303) | juejin | AI |
-| 4 | [为什么越来越多人用 Pi ？ - 苏三说技术](https://juejin.cn/post/7673855455463800847) | juejin | 其他 |
+| 3 | [为什么越来越多人用 Pi ？ - 苏三说技术](https://juejin.cn/post/7673855455463800847) | juejin | 其他 |
+| 4 | [使用飞书机器人让 Codex 24 小时在线：随时随地给你的 AI 工程师派活](https://juejin.cn/post/7672957997422346303) | juejin | AI |
 | 5 | [DeepSeek Harness 速览：“一切皆插件”意味着什么](https://juejin.cn/post/7673436957741039631) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
@@ -26,11 +26,11 @@
 |---|------|------|------|
 | 1 | [Deepseek harness 安装配置保姆教程](https://juejin.cn/post/7673506180661428259) | juejin | AI |
 | 2 | [# 你还在等DeepSeek官方 agent Harness‌？ 来试试 DeepSeeker-Code吧](https://juejin.cn/post/7673062292057489458) | juejin | AI |
-| 3 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
-| 4 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
-| 5 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 3 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
+| 4 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 5 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | 少数派 · 热门文章 | AI |
 
-> 共 17 条，以上为 TOP 5。
+> 共 16 条，以上为 TOP 5。
 
 ---
 
@@ -42,9 +42,9 @@
 | 2 | [DeepSeek Harness开源第一天我就上手了——和Claude Code的差距比想象中大](https://juejin.cn/post/7673810995882672128) | juejin | AI |
 | 3 | [DeepSeek 不能识图？装个开源 Skill，纯文本模型也能"睁眼"了](https://juejin.cn/post/7673400662705111090) | juejin | AI |
 | 4 | [DeepSeek V4 Pro 发布，1.6T 参数、1M 上下文，又有人坐不住了](https://juejin.cn/post/7673295877813649444) | juejin | AI |
-| 5 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
+| 5 | [DeepSeek Harness 发布，一切皆是插件](https://juejin.cn/post/7673696068215652404) | juejin | AI |
 
-> 共 60 条，以上为 TOP 5。
+> 共 58 条，以上为 TOP 5。
 
 ---
 
@@ -52,8 +52,8 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [Show HN: 面向独立创作者的、类似 Duolingo 的本地化课程创作工具](https://www.asakiri.com/) | www.asakiri.com | IP |
+| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
+| 2 | [《辛普森一家》创作者称，类似《GTA》的《辛普森：横冲直撞》游戏有望回归](https://www.ithome.com/0/990/188.htm) | IT之家 (ITHome) | IP |
 | 3 | [《一夫多妻者》的创作者表示，女性能在她这部Netflix热门剧集中看到自己的影子](https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | IP |
 | 4 | [A短片节创作者招募：带着故事来崇礼甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg%3D%3D&mid=2247556650&idx=2&sn=ea708c5782d7305d9314897ca59c9cdf) | 甲子光年 | IP |
 | 5 | [那些无法加入迈阿密最顶尖乡村俱乐部的富豪名流](https://on.wsj.com/4xNh2EZ) | on.wsj.com | 回乡 |
@@ -64,7 +64,8 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [7 月环比增 32%，弗莱尔称 OpenAI 企业 AI 业务收入已超消费者业务](https://www.ithome.com/0/990/066.htm) | IT之家 (ITHome) | AI/变现 |
+| 1 | [[推广] 全网寻找 100 个独立开发者](https://www.v2ex.com/t/1234679) | V2EX (创意工作者社区) | 变现 |
+| 2 | [7 月环比增 32%，弗莱尔称 OpenAI 企业 AI 业务收入已超消费者业务](https://www.ithome.com/0/990/066.htm) | IT之家 (ITHome) | AI/变现 |
 
 ---
 
@@ -76,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-15T14:09:38.359Z
-- **总资讯数**：4348 条原始 → 619 条筛选后
+- **聚合时间**：2026-08-15T16:08:26.926Z
+- **总资讯数**：4276 条原始 → 596 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
