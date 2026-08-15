@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Deepseek涨价了，前后对比，竟然差这么多](https://juejin.cn/post/7673348268143132710) | juejin | AI |
-| 2 | [网页端, 6.5MB人脸识别模型, 谷歌框架, 又快又准](https://juejin.cn/post/7672915108386570267) | juejin | AI |
-| 3 | [为什么越来越多人用 Pi ？ - 苏三说技术](https://juejin.cn/post/7673855455463800847) | juejin | 其他 |
-| 4 | [使用飞书机器人让 Codex 24 小时在线：随时随地给你的 AI 工程师派活](https://juejin.cn/post/7672957997422346303) | juejin | AI |
-| 5 | [DeepSeek Harness 速览：“一切皆插件”意味着什么](https://juejin.cn/post/7673436957741039631) | juejin | AI |
+| 1 | [那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really) | Hacker News | AI |
+| 2 | [人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) | Hacker News | AI |
+| 3 | [人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?](https://spectrum.ieee.org/ai-designed-virus) | Hacker News | AI |
+| 4 | [谢尔盖·布林 (Sergey Brin) 表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 5 | [众议院通过预算法案，莫名其妙地禁止国家人工智能法规十年 / House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Deepseek harness 安装配置保姆教程](https://juejin.cn/post/7673506180661428259) | juejin | AI |
-| 2 | [# 你还在等DeepSeek官方 agent Harness‌？ 来试试 DeepSeeker-Code吧](https://juejin.cn/post/7673062292057489458) | juejin | AI |
-| 3 | [如何判断您的人工智能平台的帐户是否被黑客入侵 / How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked) | TechCrunch | AI |
-| 4 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
+| 1 | [Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work) | TechCrunch | AI |
+| 2 | [如何判断您的人工智能平台的帐户是否被黑客入侵 / How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked) | TechCrunch | AI |
+| 3 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
+| 4 | [我尝试使用 3 个顶级人工智能机器人来构建我的网站；我找到了无可争议的赢家 / I tried building my site with the 3 top AI bots; I found an undisputed winner](https://www.androidpolice.com/building-site-with-three-top-ai-bots-found-undisputed-winner) | Android Police | AI |
 | 5 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
 
-> 共 19 条，以上为 TOP 5。
+> 共 21 条，以上为 TOP 5。
 
 ---
 
@@ -38,11 +38,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [DeepSeek 昨晚刚开源了 Harness：附万少的2 万字保姆级教程](https://juejin.cn/post/7673390412729614390) | juejin | AI |
-| 2 | [DeepSeek Harness开源第一天我就上手了——和Claude Code的差距比想象中大](https://juejin.cn/post/7673810995882672128) | juejin | AI |
-| 3 | [DeepSeek 不能识图？装个开源 Skill，纯文本模型也能"睁眼"了](https://juejin.cn/post/7673400662705111090) | juejin | AI |
-| 4 | [DeepSeek V4 Pro 发布，1.6T 参数、1M 上下文，又有人坐不住了](https://juejin.cn/post/7673295877813649444) | juejin | AI |
-| 5 | [DeepSeek Harness 发布，一切皆是插件](https://juejin.cn/post/7673696068215652404) | juejin | AI |
+| 1 | [SpaceX 正式收购人工智能编码初创公司 Cursor / SpaceX has officially acquired AI coding startup Cursor](https://www.engadget.com/2237655/spacex-officially-acquired-ai-coding-startup-cursor) | Engadget | AI |
+| 2 | [LG 的人形机器人将于 2027 年上市，运行 Nvidia 的 Isaac GR00T / LG’s humanoid robot arrives in 2027, running Nvidia’s Isaac GR00T](https://thenextweb.com/news/lg-nvidia-humanoid-robot-2027-isaac-groot) | The Next Web | AI |
+| 3 | [资料来源：Mercor 和其他为人工智能实验室收集数据的公司正在推动对关闭或被收购的初创公司购买或许可内部数据集的需求（Alix Coutures/The Information） / Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired (Alix Coutures/The Information)](https://www.techmeme.com/260815/p13) | Techmeme | AI |
+| 4 | [总部位于旧金山的 Vals 开发评估和基准来测试现实世界任务中的人工智能模型，以 4 亿美元的估值筹集了由 a16z 领投的 4000 万美元 A 轮融资（Abhinaya Prabhu/科技融资新闻） / SF-based Vals, which develops evaluations and benchmarks to test AI models on real-world tasks, raised a $40M Series A led by a16z at a $400M valuation (Abhinaya Prabhu/Tech Funding News)](https://www.techmeme.com/260815/p5) | Techmeme | AI |
+| 5 | [Dynatrace 同意以 9.15 亿美元收购 Arize，Arize 专注于 AI 可观测性和 AI 开发生命周期，其中包括约 8.15 亿美元现金（Larry Dignan/Constellation Research） / Dynatrace agrees to acquire Arize, which specializes in AI observability and the AI development lifecycle, for $915M, including ~$815M in cash (Larry Dignan/Constellation Research)](https://www.techmeme.com/260815/p2) | Techmeme | AI |
 
 > 共 57 条，以上为 TOP 5。
 
@@ -53,10 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
-| 2 | [《辛普森一家》创作者称，类似《GTA》的《辛普森：横冲直撞》游戏有望回归](https://www.ithome.com/0/990/188.htm) | IT之家 (ITHome) | IP |
-| 3 | [《一夫多妻者》的创作者表示，女性能在她这部Netflix热门剧集中看到自己的影子](https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | IP |
-| 4 | [A短片节创作者招募：带着故事来崇礼甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg%3D%3D&mid=2247556650&idx=2&sn=ea708c5782d7305d9314897ca59c9cdf) | 甲子光年 | IP |
-| 5 | [那些无法加入迈阿密最顶尖乡村俱乐部的富豪名流](https://on.wsj.com/4xNh2EZ) | on.wsj.com | 回乡 |
+| 2 | [当棺柩被运回故乡时，数千名邦妮·泰勒的粉丝聚集在一起悼念](https://www.theguardian.com/music/2026/aug/15/bonnie-tyler-fans-gather-pay-respects-swansea) | www.theguardian.com | IP |
+| 3 | [《辛普森一家》创作者称，类似《GTA》的《辛普森：横冲直撞》游戏有望回归](https://www.ithome.com/0/990/188.htm) | IT之家 (ITHome) | IP |
+| 4 | [《一夫多妻者》的创作者表示，女性能在她这部Netflix热门剧集中看到自己的影子](https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | IP |
+| 5 | [A短片节创作者招募：带着故事来崇礼甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg%3D%3D&mid=2247556650&idx=2&sn=ea708c5782d7305d9314897ca59c9cdf) | 甲子光年 | IP |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -77,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-15T18:09:29.838Z
-- **总资讯数**：4257 条原始 → 597 条筛选后
+- **聚合时间**：2026-08-15T20:07:52.972Z
+- **总资讯数**：4229 条原始 → 586 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
