@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Android AOP 切面编程实战：优雅地处理全局断网拦截](https://juejin.cn/post/7673092180178534434) | juejin | 其他 |
-| 2 | [人工智能信用转售经济 / The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers) | Hacker News | AI |
-| 3 | [据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter](https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html) | Hacker News | AI |
-| 4 | [Tasklet (YC P26) 正在招聘设计工程主管 / Tasklet (YC P26) Is Hiring a Head of Design Engineering](https://tasklet.ai/careers/head-of-design-engineering) | Hacker News | 其他 |
-| 5 | [Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users](https://wildstatic.com/) | Hacker News | AI |
+| 1 | [从零开发一个 Coding Agent（九）：实现 Agent 的工具调用闭环](https://juejin.cn/post/7673135963988262938) | juejin | AI |
+| 2 | [Android AOP 切面编程实战：优雅地处理全局断网拦截](https://juejin.cn/post/7673092180178534434) | juejin | 其他 |
+| 3 | [中行回应“Token贷”：已投放3户8O0万元：头部AI大厂员工：90小时工作制...](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665770&idx=1&sn=9a2373cde1eccaf1adba605c90fcaa4e) | AI前线 | AI |
+| 4 | [MCP迎来最大更新：重回上古时代HTTP](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665770&idx=2&sn=207c47d8661784369f19694b6b2b81a0) | AI前线 | AI |
+| 5 | [学胖东来的超市不一定赚到钱，但养活了一批调改师](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ%3D%3D&mid=2653729781&idx=1&sn=e009d34a01e611b5634c199ed2a7bb05) | 财经杂志 | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,11 +24,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work) | TechCrunch | AI |
-| 2 | [如何判断您的人工智能平台的帐户是否被黑客入侵 / How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked) | TechCrunch | AI |
-| 3 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 4 | [Dario Amodei 分享了他对人工智能监管的看法，表示开放权重不是一个“充分”的解决方案，为测试辩护，强调了人工智能的“信任危机”等等（Dario Amodei/@darioamodei） / Dario Amodei shares his view on AI regulation, says open-weights aren't a "sufficient" solution, defends testing, highlights a "crisis of trust" in AI, and more (Dario Amodei/@darioamodei)](https://www.techmeme.com/260815/p17) | Techmeme | AI |
-| 5 | [Gemini 现在允许您关闭 AI 创作上的可见水印 - 以下是操作方法，以及您的内容如何仍被标记为 AI / Gemini now lets you turn off the visible watermark on your AI creations — here's how to do it, and how your content is still flagged as AI](https://www.techradar.com/ai-platforms-assistants/gemini/gemini-now-lets-you-turn-off-the-visible-watermark-on-your-ai-creations-heres-how-to-do-it-and-how-your-content-is-still-flagged-as-ai) | TechRadar | AI |
+| 1 | [我用161个新闻源「养」了个 AI，它比我更懂什么叫「大新闻」|附教程](https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA%3D%3D&mid=2652460922&idx=1&sn=a01fb6cf1e3923e72001a0859c0941b0) | 爱范儿 | AI |
+| 2 | [Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work) | TechCrunch | AI |
+| 3 | [如何判断您的人工智能平台的帐户是否被黑客入侵 / How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked) | TechCrunch | AI |
+| 4 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 5 | [Dario Amodei 分享了他对人工智能监管的看法，表示开放权重不是一个“充分”的解决方案，为测试辩护，强调了人工智能的“信任危机”等等（Dario Amodei/@darioamodei） / Dario Amodei shares his view on AI regulation, says open-weights aren't a "sufficient" solution, defends testing, highlights a "crisis of trust" in AI, and more (Dario Amodei/@darioamodei)](https://www.techmeme.com/260815/p17) | Techmeme | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [LG 的人形机器人将于 2027 年上市，运行 Nvidia 的 Isaac GR00T / LG’s humanoid robot arrives in 2027, running Nvidia’s Isaac GR00T](https://thenextweb.com/news/lg-nvidia-humanoid-robot-2027-isaac-groot) | The Next Web | AI |
-| 2 | [Pathway 正在开发基于其所谓的“Post-Transformer”BDH 架构的人工智能模型，以 5 亿美元的估值筹集了 3000 万美元的种子资金（Antoine Tardif/Unite.AI） / Pathway, which is developing AI models based on what it calls its "Post-Transformer" BDH architecture, raised a $30M seed at a $500M valuation (Antoine Tardif/Unite.AI)](https://www.techmeme.com/260816/p1) | Techmeme | AI |
-| 3 | [国会立法者和助手如何在几乎没有监督的情况下使用人工智能工具来撰写演讲和新闻稿、对选民邮件进行分类等（Anna Liss-Roy/华盛顿邮报） / How Congressional lawmakers and aides are using AI tools with little oversight to write speeches and news releases, sort constituent mail, and more (Anna Liss-Roy/Washington Post)](https://www.techmeme.com/260815/p16) | Techmeme | AI |
-| 4 | [资料来源：Mercor 和其他为人工智能实验室收集数据的公司正在推动对关闭或被收购的初创公司购买或许可内部数据集的需求（Alix Coutures/The Information） / Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired (Alix Coutures/The Information)](https://www.techmeme.com/260815/p13) | Techmeme | AI |
-| 5 | [假 Drakes 和假 Kanyes：互联网突然充斥着人工智能生成的嘻哈音乐 / Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop](https://www.buzzfeed.com/chrisstokelwalker/ai-hip-hop-rap-music-drake-kanye-weeknd-rihanna-jay-z) | BuzzFeed News | AI |
+| 1 | [MiniMax H3 团队Reddit 被问爆：2K 要开源，图像模型在路上，Apache-2.O...](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665742&idx=2&sn=a73b6c7c3885529d66498c05adc9347d) | AI前线 | AI |
+| 2 | [千问AlArena上线：给Agent一个真实的战场](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA%3D%3D&mid=2247561885&idx=1&sn=c2debdbc284ae35755f55e1f301d8376) | 阿里云开发者 | AI |
+| 3 | [OpenAI研究员，曝光ASI降临时间线：大多数已成现实！](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652718426&idx=2&sn=56bdb9d31f46c1f9d2bd9296e7561daf) | 新智元 | AI |
+| 4 | [OpenAI提速狂飙16倍！GPT-5.6多智能体V2上线，741轮怪物对话1秒打开](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652718320&idx=1&sn=4eaec3336d6f719c313a098630755389) | 新智元 | AI |
+| 5 | [李飞飞最新访谈：AI咋能代替人呢?](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247912703&idx=1&sn=c879a8125f6e83d4f21fbca07dc94c8b) | 量子位 | AI |
 
-> 共 52 条，以上为 TOP 5。
+> 共 54 条，以上为 TOP 5。
 
 ---
 
@@ -52,11 +52,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
-| 2 | [欧洲最高的圣母玛利亚雕像在波兰乡村揭幕](https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | 回乡 |
-| 3 | [[开发日志][Python] 使用 Gemini 3.7 Flash 将照片和视频片段制作成短视频：ReelCraft](https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6) | dev.to | AI/IP |
-| 4 | [AI短片节创作者招募：带着故事来崇礼|甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg%3D%3D&mid=2247556650&idx=2&sn=ea708c5782d7305d9314897ca59c9cdf) | 甲子光年 | AI/IP |
-| 5 | [农村高价彩礼，结婚咋这么难？](https://mp.weixin.qq.com/s?__biz=Mzg2NDczODEyNw%3D%3D&mid=2247495718&idx=1&sn=90b2751e4de0ed0c6cf4c7ceedaaae24) | 泽平宏观展望 | 回乡 |
+| 1 | [竞速县域：县城不再等货来，开始挑品牌了](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA%3D%3D&mid=2661076990&idx=2&sn=31f381fcf4c127399fa1f340f402f57d) | 钛媒体 | 回乡 |
+| 2 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
+| 3 | [欧洲最高的圣母玛利亚雕像在波兰乡村揭幕](https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | 回乡 |
+| 4 | [[开发日志][Python] 使用 Gemini 3.7 Flash 将照片和视频片段制作成短视频：ReelCraft](https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6) | dev.to | AI/IP |
+| 5 | [AI短片节创作者招募：带着故事来崇礼|甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg%3D%3D&mid=2247556650&idx=2&sn=ea708c5782d7305d9314897ca59c9cdf) | 甲子光年 | AI/IP |
 
 ---
 
@@ -64,9 +64,7 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [2026年新规：年收入超过15万美元，无论你是否愿意，你的401(k)补缴款项现在都将以罗斯账户的形式存入。](https://finance.yahoo.com/markets/options/articles/2026-earn-over-150-000-183642044.html) | finance.yahoo.com | 变现 |
-| 2 | [[程序员] 在动手开发前，应该先找到已经在赚钱的产品。于是我做了这款产品...](https://www.v2ex.com/t/1234828) | V2EX (创意工作者社区) | 变现 |
-| 3 | [京东二季度收入跌了，利润涨了](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ%3D%3D&mid=2653729694&idx=2&sn=614a7a417e09a6393e6b7f1c975cd5ee) | 财经杂志 | 变现 |
+| 1 | [[程序员] 在动手开发前，应该先找到已经在赚钱的产品。于是我做了这款产品...](https://www.v2ex.com/t/1234828) | V2EX (创意工作者社区) | 变现 |
 
 ---
 
@@ -78,8 +76,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-16T20:07:15.503Z
-- **总资讯数**：4146 条原始 → 540 条筛选后
+- **聚合时间**：2026-08-16T22:07:08.923Z
+- **总资讯数**：4102 条原始 → 539 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
