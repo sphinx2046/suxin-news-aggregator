@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Deepseek harness 安装配置保姆教程](https://juejin.cn/post/7673506180661428259) | juejin | AI |
-| 2 | [# 你还在等DeepSeek官方 agent Harness‌？ 来试试 DeepSeeker-Code吧](https://juejin.cn/post/7673062292057489458) | juejin | AI |
-| 3 | [Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work) | TechCrunch | AI |
-| 4 | [如何判断您的人工智能平台的帐户是否被黑客入侵 / How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked) | TechCrunch | AI |
-| 5 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
+| 1 | [Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work) | TechCrunch | AI |
+| 2 | [如何判断您的人工智能平台的帐户是否被黑客入侵 / How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked) | TechCrunch | AI |
+| 3 | [《经济学人》：“如何识别人工智能写作” / The Economist: ‘How to Spot AI Writing’](https://daringfireball.net/linked/2026/08/11/economist-ai-writing) | Daring Fireball | AI |
+| 4 | [我尝试使用 3 个顶级人工智能机器人来构建我的网站；我找到了无可争议的赢家 / I tried building my site with the 3 top AI bots; I found an undisputed winner](https://www.androidpolice.com/building-site-with-three-top-ai-bots-found-undisputed-winner) | Android Police | AI |
+| 5 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
 
-> 共 18 条，以上为 TOP 5。
+> 共 17 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [DeepSeek 昨晚刚开源了 Harness：附万少的2 万字保姆级教程](https://juejin.cn/post/7673390412729614390) | juejin | AI |
-| 2 | [DeepSeek Harness开源第一天我就上手了——和Claude Code的差距比想象中大](https://juejin.cn/post/7673810995882672128) | juejin | AI |
-| 3 | [DeepSeek 不能识图？装个开源 Skill，纯文本模型也能"睁眼"了](https://juejin.cn/post/7673400662705111090) | juejin | AI |
-| 4 | [DeepSeek V4 Pro 发布，1.6T 参数、1M 上下文，又有人坐不住了](https://juejin.cn/post/7673295877813649444) | juejin | AI |
-| 5 | [DeepSeek Harness 发布，一切皆是插件](https://juejin.cn/post/7673696068215652404) | juejin | AI |
+| 1 | [SpaceX 正式收购人工智能编码初创公司 Cursor / SpaceX has officially acquired AI coding startup Cursor](https://www.engadget.com/2237655/spacex-officially-acquired-ai-coding-startup-cursor) | Engadget | AI |
+| 2 | [LG 的人形机器人将于 2027 年上市，运行 Nvidia 的 Isaac GR00T / LG’s humanoid robot arrives in 2027, running Nvidia’s Isaac GR00T](https://thenextweb.com/news/lg-nvidia-humanoid-robot-2027-isaac-groot) | The Next Web | AI |
+| 3 | [国会立法者和助手如何在几乎没有监督的情况下使用人工智能工具来撰写演讲和新闻稿、对选民邮件进行分类等（Anna Liss-Roy/华盛顿邮报） / How Congressional lawmakers and aides are using AI tools with little oversight to write speeches and news releases, sort constituent mail, and more (Anna Liss-Roy/Washington Post)](https://www.techmeme.com/260815/p16) | Techmeme | AI |
+| 4 | [资料来源：Mercor 和其他为人工智能实验室收集数据的公司正在推动对关闭或被收购的初创公司购买或许可内部数据集的需求（Alix Coutures/The Information） / Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired (Alix Coutures/The Information)](https://www.techmeme.com/260815/p13) | Techmeme | AI |
+| 5 | [总部位于旧金山的 Vals 开发评估和基准来测试现实世界任务中的人工智能模型，以 4 亿美元的估值筹集了由 a16z 领投的 4000 万美元 A 轮融资（Abhinaya Prabhu/科技融资新闻） / SF-based Vals, which develops evaluations and benchmarks to test AI models on real-world tasks, raised a $40M Series A led by a16z at a $400M valuation (Abhinaya Prabhu/Tech Funding News)](https://www.techmeme.com/260815/p5) | Techmeme | AI |
 
-> 共 58 条，以上为 TOP 5。
+> 共 56 条，以上为 TOP 5。
 
 ---
 
@@ -53,10 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
-| 2 | [AI短片节创作者招募：带着故事来崇礼|甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg%3D%3D&mid=2247556650&idx=2&sn=ea708c5782d7305d9314897ca59c9cdf) | 甲子光年 | AI/IP |
-| 3 | [农村高价彩礼，结婚咋这么难？](https://mp.weixin.qq.com/s?__biz=Mzg2NDczODEyNw%3D%3D&mid=2247495718&idx=1&sn=90b2751e4de0ed0c6cf4c7ceedaaae24) | 泽平宏观展望 | 回乡 |
-| 4 | [冈冢敦子：“有粉丝为了模仿我的发型而剪了头发，这可是需要很大决心的。”](https://www.theguardian.com/culture/2026/aug/16/atsuko-okatsuka-interview-chelsea-handler-10-chaotic-questions) | www.theguardian.com | IP |
-| 5 | [当棺柩被运回故乡时，数千名邦妮·泰勒的粉丝聚集在一起悼念](https://www.theguardian.com/music/2026/aug/15/bonnie-tyler-fans-gather-pay-respects-swansea) | www.theguardian.com | IP |
+| 2 | [迪士尼与史克威尔艾尼克斯在粉丝大会上预告了《王国之心4》游戏](https://www.reuters.com/lifestyle/disney-square-enix-preview-kingdom-hearts-4-video-game-fan-convention-2026-08-16) | www.reuters.com | IP |
+| 3 | [AI短片节创作者招募：带着故事来崇礼|甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg%3D%3D&mid=2247556650&idx=2&sn=ea708c5782d7305d9314897ca59c9cdf) | 甲子光年 | AI/IP |
+| 4 | [农村高价彩礼，结婚咋这么难？](https://mp.weixin.qq.com/s?__biz=Mzg2NDczODEyNw%3D%3D&mid=2247495718&idx=1&sn=90b2751e4de0ed0c6cf4c7ceedaaae24) | 泽平宏观展望 | 回乡 |
+| 5 | [冈冢敦子：“有粉丝为了模仿我的发型而剪了头发，这可是需要很大决心的。”](https://www.theguardian.com/culture/2026/aug/16/atsuko-okatsuka-interview-chelsea-handler-10-chaotic-questions) | www.theguardian.com | IP |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -79,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-16T02:50:02.556Z
-- **总资讯数**：4192 条原始 → 564 条筛选后
+- **聚合时间**：2026-08-16T04:22:47.851Z
+- **总资讯数**：4185 条原始 → 566 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
