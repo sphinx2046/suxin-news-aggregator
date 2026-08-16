@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [人工智能信用转售经济 / The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers) | Hacker News | AI |
-| 2 | [据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter](https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html) | Hacker News | AI |
-| 3 | [Tasklet (YC P26) 正在招聘设计工程主管 / Tasklet (YC P26) Is Hiring a Head of Design Engineering](https://tasklet.ai/careers/head-of-design-engineering) | Hacker News | 其他 |
-| 4 | [Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users](https://wildstatic.com/) | Hacker News | AI |
-| 5 | [克劳德：系统提示 / Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) | Hacker News | AI |
+| 1 | [Android AOP 切面编程实战：优雅地处理全局断网拦截](https://juejin.cn/post/7673092180178534434) | juejin | 其他 |
+| 2 | [人工智能信用转售经济 / The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers) | Hacker News | AI |
+| 3 | [据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter](https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html) | Hacker News | AI |
+| 4 | [Tasklet (YC P26) 正在招聘设计工程主管 / Tasklet (YC P26) Is Hiring a Head of Design Engineering](https://tasklet.ai/careers/head-of-design-engineering) | Hacker News | 其他 |
+| 5 | [Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users](https://wildstatic.com/) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -30,7 +30,7 @@
 | 4 | [Dario Amodei 分享了他对人工智能监管的看法，表示开放权重不是一个“充分”的解决方案，为测试辩护，强调了人工智能的“信任危机”等等（Dario Amodei/@darioamodei） / Dario Amodei shares his view on AI regulation, says open-weights aren't a "sufficient" solution, defends testing, highlights a "crisis of trust" in AI, and more (Dario Amodei/@darioamodei)](https://www.techmeme.com/260815/p17) | Techmeme | AI |
 | 5 | [Gemini 现在允许您关闭 AI 创作上的可见水印 - 以下是操作方法，以及您的内容如何仍被标记为 AI / Gemini now lets you turn off the visible watermark on your AI creations — here's how to do it, and how your content is still flagged as AI](https://www.techradar.com/ai-platforms-assistants/gemini/gemini-now-lets-you-turn-off-the-visible-watermark-on-your-ai-creations-heres-how-to-do-it-and-how-your-content-is-still-flagged-as-ai) | TechRadar | AI |
 
-> 共 14 条，以上为 TOP 5。
+> 共 15 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [资料来源：Mercor 和其他为人工智能实验室收集数据的公司正在推动对关闭或被收购的初创公司购买或许可内部数据集的需求（Alix Coutures/The Information） / Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired (Alix Coutures/The Information)](https://www.techmeme.com/260815/p13) | Techmeme | AI |
 | 5 | [假 Drakes 和假 Kanyes：互联网突然充斥着人工智能生成的嘻哈音乐 / Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop](https://www.buzzfeed.com/chrisstokelwalker/ai-hip-hop-rap-music-drake-kanye-weeknd-rihanna-jay-z) | BuzzFeed News | AI |
 
-> 共 51 条，以上为 TOP 5。
+> 共 52 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
-| 2 | [欧洲最高的圣母玛利亚雕像在波兰乡村揭幕 - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE03ZGc3RXY1b24wSmlYOUNmdHlfWUJ6Yjd1aW9RX2NWcWFDdTZCYl9mWHdidmRzNC0wd0JkOXI5S3BYUVY2bXYzZjRtMVFzM2xNeVMxV1pPeW1kUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 回乡 |
-| 3 | [欧洲最高的圣母玛利亚雕像在波兰乡村揭幕](https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | 回乡 |
-| 4 | [[开发日志][Python] 使用 Gemini 3.7 Flash 将照片和视频片段制作成短视频：ReelCraft](https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6) | dev.to | AI/IP |
-| 5 | [AI短片节创作者招募：带着故事来崇礼|甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg%3D%3D&mid=2247556650&idx=2&sn=ea708c5782d7305d9314897ca59c9cdf) | 甲子光年 | AI/IP |
-
-> 共 6 条，以上为 TOP 5。
+| 2 | [欧洲最高的圣母玛利亚雕像在波兰乡村揭幕](https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | 回乡 |
+| 3 | [[开发日志][Python] 使用 Gemini 3.7 Flash 将照片和视频片段制作成短视频：ReelCraft](https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6) | dev.to | AI/IP |
+| 4 | [AI短片节创作者招募：带着故事来崇礼|甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg%3D%3D&mid=2247556650&idx=2&sn=ea708c5782d7305d9314897ca59c9cdf) | 甲子光年 | AI/IP |
+| 5 | [农村高价彩礼，结婚咋这么难？](https://mp.weixin.qq.com/s?__biz=Mzg2NDczODEyNw%3D%3D&mid=2247495718&idx=1&sn=90b2751e4de0ed0c6cf4c7ceedaaae24) | 泽平宏观展望 | 回乡 |
 
 ---
 
@@ -66,7 +64,7 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [“他们的职责就是坑你”：戴夫·拉姆齐对一对年收入9.5万美元却背负4.1万美元债务的新婚夫妇如是说](https://finance.yahoo.com/markets/articles/job-screw-dave-ramsey-newlywed-171813933.html) | finance.yahoo.com | 变现 |
+| 1 | [2026年新规：年收入超过15万美元，无论你是否愿意，你的401(k)补缴款项现在都将以罗斯账户的形式存入。](https://finance.yahoo.com/markets/options/articles/2026-earn-over-150-000-183642044.html) | finance.yahoo.com | 变现 |
 | 2 | [[程序员] 在动手开发前，应该先找到已经在赚钱的产品。于是我做了这款产品...](https://www.v2ex.com/t/1234828) | V2EX (创意工作者社区) | 变现 |
 | 3 | [京东二季度收入跌了，利润涨了](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ%3D%3D&mid=2653729694&idx=2&sn=614a7a417e09a6393e6b7f1c975cd5ee) | 财经杂志 | 变现 |
 
@@ -80,8 +78,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-16T18:09:46.953Z
-- **总资讯数**：4148 条原始 → 549 条筛选后
+- **聚合时间**：2026-08-16T20:07:15.503Z
+- **总资讯数**：4146 条原始 → 540 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
