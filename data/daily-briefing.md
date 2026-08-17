@@ -26,11 +26,11 @@
 |---|------|------|------|
 | 1 | [Deepseek harness 安装配置保姆教程](https://juejin.cn/post/7673506180661428259) | juejin | AI |
 | 2 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | juejin | AI |
-| 3 | [Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work) | TechCrunch | AI |
-| 4 | [如何判断您的人工智能平台的帐户是否被黑客入侵 / How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked) | TechCrunch | AI |
-| 5 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 3 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
+| 4 | [Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work) | TechCrunch | AI |
+| 5 | [如何判断您的人工智能平台的帐户是否被黑客入侵 / How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked) | TechCrunch | AI |
 
-> 共 14 条，以上为 TOP 5。
+> 共 17 条，以上为 TOP 5。
 
 ---
 
@@ -42,9 +42,9 @@
 | 2 | [OpenAI研究员，曝光ASI降临时间线：大多数已成现实！](https://aiera.com.cn/2026/08/17/other/admin/109350/openai%e7%a0%94%e7%a9%b6%e5%91%98%ef%bc%8c%e6%9b%9d%e5%85%89asi%e9%99%8d%e4%b8%b4%e6%97%b6%e9%97%b4%e7%ba%bf%ef%bc%9a%e5%a4%a7%e5%a4%9a%e6%95%b0%e5%b7%b2%e6%88%90%e7%8e%b0%e5%ae%9e%ef%bc%81) | 新智元 | AI |
 | 3 | [DeepSeek Harness开源第一天我就上手了——和Claude Code的差距比想象中大](https://juejin.cn/post/7673810995882672128) | juejin | AI |
 | 4 | [DeepSeek Harness 发布，一切皆是插件](https://juejin.cn/post/7673696068215652404) | juejin | AI |
-| 5 | [英伟达大幅削减了其可能为OpenAI基础设施提供的融资担保额度 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14) | Hacker News | AI |
+| 5 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
 
-> 共 55 条，以上为 TOP 5。
+> 共 57 条，以上为 TOP 5。
 
 ---
 
@@ -52,9 +52,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
-| 2 | [竞速县域：县城不再等货来，开始挑品牌了](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA%3D%3D&mid=2661076990&idx=2&sn=31f381fcf4c127399fa1f340f402f57d) | 钛媒体 | 回乡 |
-| 3 | [公安机关网安部门破获 3 起影视领域舆情敲诈案件，犯罪团伙操控自媒体捏造并发布大量负面信息](https://www.ithome.com/0/990/434.htm) | IT之家 (ITHome) | IP |
+| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
+| 2 | [“他的痛苦是真实的”：鲍勃·迪伦等人谈论乡村酒吧的狂放不羁的天才加里·斯图尔特](https://www.theguardian.com/music/2026/aug/17/bob-dylan-gary-stewart-honky-tonk-hellraiser) | www.theguardian.com | 回乡 |
+| 3 | [竞速县域：县城不再等货来，开始挑品牌了](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA%3D%3D&mid=2661076990&idx=2&sn=31f381fcf4c127399fa1f340f402f57d) | 钛媒体 | 回乡 |
 | 4 | [欧洲最高的圣母玛利亚雕像在波兰乡村揭幕](https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | 回乡 |
 | 5 | [[开发日志][Python] 使用 Gemini 3.7 Flash 将照片和视频片段制作成短视频：ReelCraft](https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6) | dev.to | AI/IP |
 
@@ -77,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-17T02:49:47.276Z
-- **总资讯数**：4169 条原始 → 542 条筛选后
+- **聚合时间**：2026-08-17T04:28:33.062Z
+- **总资讯数**：4188 条原始 → 537 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
