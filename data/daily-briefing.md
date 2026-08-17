@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Deepseek harness 安装配置保姆教程](https://juejin.cn/post/7673506180661428259) | juejin | AI |
-| 2 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | juejin | AI |
-| 3 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
-| 4 | [Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work) | TechCrunch | AI |
-| 5 | [如何判断您的人工智能平台的帐户是否被黑客入侵 / How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked) | TechCrunch | AI |
+| 1 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | juejin | AI |
+| 2 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
+| 3 | [Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work) | TechCrunch | AI |
+| 4 | [如何判断您的人工智能平台的帐户是否被黑客入侵 / How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked) | TechCrunch | AI |
+| 5 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
 
-> 共 17 条，以上为 TOP 5。
+> 共 15 条，以上为 TOP 5。
 
 ---
 
@@ -42,9 +42,9 @@
 | 2 | [OpenAI研究员，曝光ASI降临时间线：大多数已成现实！](https://aiera.com.cn/2026/08/17/other/admin/109350/openai%e7%a0%94%e7%a9%b6%e5%91%98%ef%bc%8c%e6%9b%9d%e5%85%89asi%e9%99%8d%e4%b8%b4%e6%97%b6%e9%97%b4%e7%ba%bf%ef%bc%9a%e5%a4%a7%e5%a4%9a%e6%95%b0%e5%b7%b2%e6%88%90%e7%8e%b0%e5%ae%9e%ef%bc%81) | 新智元 | AI |
 | 3 | [DeepSeek Harness开源第一天我就上手了——和Claude Code的差距比想象中大](https://juejin.cn/post/7673810995882672128) | juejin | AI |
 | 4 | [DeepSeek Harness 发布，一切皆是插件](https://juejin.cn/post/7673696068215652404) | juejin | AI |
-| 5 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
+| 5 | [DeepSeek 调价正式生效：一夜涨 11 倍，靠低价薅羊毛的日子结束了](https://juejin.cn/post/7674645475095167028) | juejin | AI |
 
-> 共 57 条，以上为 TOP 5。
+> 共 58 条，以上为 TOP 5。
 
 ---
 
@@ -64,8 +64,7 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [[投资] 一次招聘的消息提取确认和价值变现](https://www.v2ex.com/t/1234903) | V2EX (创意工作者社区) | 变现 |
-| 2 | [我们的年收入是55,000美元，妻子却想给32岁的儿子买房，哪怕这意味着我们无法退休——“因为这就是父母该做的”](https://finance.yahoo.com/real-estate/articles/55-000-wife-wants-buy-133117071.html) | finance.yahoo.com | 变现 |
+| 1 | [我们的年收入是55,000美元，妻子却想给32岁的儿子买房，哪怕这意味着我们无法退休——“因为这就是父母该做的”](https://finance.yahoo.com/real-estate/articles/55-000-wife-wants-buy-133117071.html) | finance.yahoo.com | 变现 |
 
 ---
 
@@ -77,8 +76,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-17T04:28:33.062Z
-- **总资讯数**：4188 条原始 → 537 条筛选后
+- **聚合时间**：2026-08-17T06:25:58.472Z
+- **总资讯数**：4214 条原始 → 537 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
