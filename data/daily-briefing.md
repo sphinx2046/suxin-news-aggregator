@@ -11,10 +11,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [Bookology：从藏书到笔记，打造你的私人阅读档案](https://sspai.com/post/112953) | sspai | 认知 |
-| 2 | [Show HN: 1667，一款用于利用语言模型创作小说的终端用户界面 / Show HN: 1667, a terminal UI for writing fiction with language models](https://1667.ai/) | Hacker News | 其他 |
-| 3 | [Show HN: 推箱子人工智能求解器 / Show HN: Sokoban AI Solver](https://mkornreich.me/projects/sokoban) | Hacker News | AI |
-| 4 | [Pi 编码代理：config 文件夹在 Linux 上不合适 / Pi coding agent: config folder is out of place on Linux](https://github.com/earendil-works/pi/issues/534) | Hacker News | AI |
-| 5 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 2 | [Qwen3.8-27B，256K，24GB RTX PRO 4000 SFF (432 GB/s)：50 tok/s，使用 MTP / Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP](https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu) | Hacker News | 其他 |
+| 3 | [AI 生成的 GitHub Copilot“Autofix”允许 Snowflake 的 Jira 受到损害 / AI-Generated GitHub Copilot "Autofix" Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) | Hacker News | AI |
+| 4 | [我们追踪了一批善本书籍。它在亚马逊人工智能培训设施结束 / We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility) | Hacker News | AI |
+| 5 | [谢尔盖·布林 (Sergey Brin) 表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -25,12 +25,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
-| 2 | [Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work) | TechCrunch | AI |
-| 3 | [如何判断您的人工智能平台的帐户是否被黑客入侵 / How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked) | TechCrunch | AI |
-| 4 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 5 | [Deepseek harness 安装配置保姆教程](https://juejin.cn/post/7673506180661428259) | 掘金 · 人工智能本周最热 | AI |
+| 2 | [如何禁用或避免侵入性人工智能 / How to disable or avoid intrusive AI](https://www.librarian.net/notoai) | Hacker News | AI |
+| 3 | [Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work) | TechCrunch | AI |
+| 4 | [如何判断您的人工智能平台的帐户是否被黑客入侵 / How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked) | TechCrunch | AI |
+| 5 | [Nvidia 不支持 OpenAI 的租金。它支撑着建筑物 / Nvidia is not backing OpenAI’s rent. It is backing the buildings](https://thenextweb.com/news/nvidia-openai-ports-pike-105bn-residual-value-guarantee) | The Next Web | AI |
 
-> 共 15 条，以上为 TOP 5。
+> 共 16 条，以上为 TOP 5。
 
 ---
 
@@ -39,12 +39,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
-| 2 | [GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型 / GPT 5.6 Sol is the best "vision" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6) | Hacker News | AI |
+| 2 | [推出 HN：Speko (YC S26) – 用于语音 AI 的 OpenRouter / Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://news.ycombinator.com/item?id=49332751) | Hacker News | AI |
 | 3 | [据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter / Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b) | TechCrunch | AI |
-| 4 | [据报道，Stripe 以超过 70 亿美元收购了 AI 模型路由器 OpenRouter / Stripe reportedly acquires OpenRouter, the AI model router, for over $7bn](https://thenextweb.com/news/stripe-openrouter-7bn-acquisition) | The Next Web | AI |
-| 5 | [语音人工智能初创公司 Wispr 以 20 亿美元的估值筹集了由 Menlo Ventures 领投的 2.8 亿美元 B 轮融资，使其总资金达到 3.61 亿美元，目前拥有 10 万企业客户（Allie Garfinkle/财富） / Voice AI startup Wispr raised a $280M Series B led by Menlo Ventures at a $2B valuation, taking its total funding to $361M, and now has 100K business customers (Allie Garfinkle/Fortune)](https://www.techmeme.com/260817/p12) | Techmeme | AI |
+| 4 | [Alphabet 推出首张澳元债券，掀起人工智能债务热潮 / Alphabet takes its AI debt spree Down Under with a first Australian dollar bond](https://thenextweb.com/news/alphabet-first-australian-bond-sale) | The Next Web | AI |
+| 5 | [中国仿人机器人冠军优树于8月19日在上海上市，需求创纪录 / Unitree, China’s humanoid robot champion, lists in Shanghai on 19 August after record demand](https://thenextweb.com/news/unitree-humanoid-robot-shanghai-ipo) | The Next Web | AI |
 
-> 共 56 条，以上为 TOP 5。
+> 共 57 条，以上为 TOP 5。
 
 ---
 
@@ -53,18 +53,16 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [抗癌博主“江小鱼”过世，一场平凡史诗](https://www.huxiu.com/article/4883780.html?f=rss) | 虎嗅 (Huxiu) | IP |
-| 3 | [Show HN: Cite Hustle——为您提供内容营销服务的SEO代理商](https://citehustle.com/) | citehustle.com | IP |
-| 4 | [[问与答] 个人如何低成本做 AI 短视频](https://www.v2ex.com/t/1235070) | V2EX (创意工作者社区) | AI/IP |
-| 5 | [[OpenAI] codex 的异常流量消耗问题](https://www.v2ex.com/t/1235068) | V2EX (创意工作者社区) | AI/IP |
-
-> 共 7 条，以上为 TOP 5。
+| 2 | [竞速县域：县城不再等货来，开始挑品牌了](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA%3D%3D&mid=2661076990&idx=2&sn=31f381fcf4c127399fa1f340f402f57d) | 钛媒体 | 回乡 |
 
 ---
 
 ## 💰 变现雷达
 
-> 今日无优质信息源，待补充。
+| # | 标题 | 来源 | 分类 |
+|---|------|------|------|
+| 1 | [关于Lifecore Biomedical（LFCR）的核心观点：将过剩产能变现](https://finance.yahoo.com/markets/stocks/articles/core-thesis-lifecore-biomedical-lfcr-152902193.html) | finance.yahoo.com | 变现 |
+| 2 | [Show HN: Smplkit——功能开关、远程配置、动态日志级别——独立开发者](https://www.smplkit.com/) | www.smplkit.com | 变现 |
 
 ---
 
@@ -76,8 +74,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-17T14:15:09.236Z
-- **总资讯数**：4320 条原始 → 570 条筛选后
+- **聚合时间**：2026-08-17T16:12:08.857Z
+- **总资讯数**：4266 条原始 → 552 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
