@@ -30,7 +30,7 @@
 | 4 | [采购同事随口提了句比价，我用 TextIn xParse + WorkBuddy 做了个采购决策助手](https://juejin.cn/post/7673062292059062322) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 11 条，以上为 TOP 5。
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [自 7 月初以来，一直没有关于 Siri AI 登陆欧盟的最新消息 / No Update Since Early July Regarding Siri AI Coming to the EU, Ever](https://daringfireball.net/linked/2026/08/17/no-update-since-early-july-regarding-siri-ai-coming-to-the-eu-ever) | Daring Fireball | AI |
 | 5 | [谷歌赢得破产拍卖，出价 1000 万美元，从 Spirit Airlines 收购去识别化的业务数据、软件代码等，以改进其人工智能模型（James Nani/Bloomberg Law） / Google wins a bankruptcy auction with a $10M bid to acquire deidentified business data, software code, and more from Spirit Airlines to improve its AI models (James Nani/Bloomberg Law)](https://www.techmeme.com/260817/p26) | Techmeme | AI |
 
-> 共 67 条，以上为 TOP 5。
+> 共 69 条，以上为 TOP 5。
 
 ---
 
@@ -62,7 +62,7 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [不可否认，奥驰亚集团（Altria Group）的股息率很高，但对于寻求可靠被动收入的股息投资者而言，这只股票可能是一个更佳的投资选择。](https://finance.yahoo.com/markets/stocks/articles/theres-no-denying-altria-group-133500828.html) | finance.yahoo.com | 变现 |
+| 1 | [[Apple] 请教，之前准备搞 gpt，买了几张 200 的美区礼品卡，没用完怎么变现啊？](https://www.v2ex.com/t/1235230) | V2EX (创意工作者社区) | AI/变现 |
 
 ---
 
@@ -74,8 +74,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-18T02:45:14.950Z
-- **总资讯数**：4409 条原始 → 628 条筛选后
+- **聚合时间**：2026-08-18T04:22:07.780Z
+- **总资讯数**：4417 条原始 → 629 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
