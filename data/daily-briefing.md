@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI;DR（AI；未读） / AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read) | Hacker News | AI |
-| 2 | [“Hidden Airtag”揭露亚马逊为训练AI而销毁珍本图书 / AirTag reveals Amazon is trashing rare books to train AI](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai) | Hacker News | AI |
-| 3 | [Roboflow Playground：尝试并比较 30 个计算机视觉模型 / Roboflow Playground: Try and Compare 30 Computer Vision Models](https://blog.roboflow.com/roboflow-playground) | Hacker News | 其他 |
-| 4 | [以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能 / Amazon, which started off selling books, is destroying rare texts to train AI](https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models) | Hacker News | AI |
-| 5 | [Rust 中的 GPU 卸载：便携、安全且快速 / GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759) | Hacker News | 其他 |
+| 1 | [AI 时代 SVG 画图的潜力](https://juejin.cn/post/7673872542772838451) | juejin | AI |
+| 2 | [为什么越来越多人用 Pi ？ - 苏三说技术](https://juejin.cn/post/7673855455463800847) | juejin | 其他 |
+| 3 | [涨价3O倍仍是最便宜的模型，DeepSeek可能有这个底气](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665545&idx=1&sn=f969a204e09e8efe5d0444c7029a5f62) | AI前线 | AI |
+| 4 | [极客部落OPC003期入驻招募开启18月27日，望京见](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665850&idx=2&sn=145ddf507d98c67fa6cb27b4f54cc350) | AI前线 | AI |
+| 5 | [Agent基建不是设计出来的，是被KimiK3 和一堆应用公司卷出来的](https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247516611&idx=1&sn=d18a4b0c113065ff582949cd67eda2cd) | FounderPark | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 2 | [The People Building a Way to Slow Down the AI Race](https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification) | TIME Magazine | AI |
-| 3 | [Deepseek harness 安装配置保姆教程](https://juejin.cn/post/7673506180661428259) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [采购同事随口提了句比价，我用 TextIn xParse + WorkBuddy 做了个采购决策助手](https://juejin.cn/post/7673062292059062322) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [阿里云的野心，不在Agent Builder](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA%3D%3D&mid=2651290972&idx=1&sn=d81ab631713314e6a6eae9e647e1f07f) | InfoQ | AI |
+| 2 | [Agentic-Native增长：Zilliz如何用AlAgent 支撑超线性业务扩张ⅠAICon 深圳](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA%3D%3D&mid=2651290972&idx=5&sn=c1ef338b6f3b417555bda24586cf24a4) | InfoQ | AI |
+| 3 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 4 | [The People Building a Way to Slow Down the AI Race](https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification) | TIME Magazine | AI |
+| 5 | [Deepseek harness 安装配置保姆教程](https://juejin.cn/post/7673506180661428259) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 13 条，以上为 TOP 5。
+> 共 16 条，以上为 TOP 5。
 
 ---
 
@@ -39,12 +39,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [从零给 DeepSeek Harness 写一个壁纸皮肤插件（已开源）](https://juejin.cn/post/7673809185192067108) | juejin | AI |
-| 2 | [OpenAI 宣布在俄亥俄州建立大型数据中心，Nvidia 提供 1050 亿美元担保 / OpenAI Announces Massive Data Center In Ohio With $105 Billion Nvidia Guarantee](https://news.slashdot.org/story/26/08/17/1831220/openai-announces-massive-data-center-in-ohio-with-105-billion-nvidia-guarantee) | Slashdot | AI |
-| 3 | [Groq 融资 3.5 亿美元，推动从 AI 芯片转向 Neocloud / Groq raises $350M to fuel its pivot from AI chips to neocloud](https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud) | TechCrunch | AI |
-| 4 | [自 7 月初以来，一直没有关于 Siri AI 登陆欧盟的最新消息 / No Update Since Early July Regarding Siri AI Coming to the EU, Ever](https://daringfireball.net/linked/2026/08/17/no-update-since-early-july-regarding-siri-ai-coming-to-the-eu-ever) | Daring Fireball | AI |
-| 5 | [谷歌赢得破产拍卖，出价 1000 万美元，从 Spirit Airlines 收购去识别化的业务数据、软件代码等，以改进其人工智能模型（James Nani/Bloomberg Law） / Google wins a bankruptcy auction with a $10M bid to acquire deidentified business data, software code, and more from Spirit Airlines to improve its AI models (James Nani/Bloomberg Law)](https://www.techmeme.com/260817/p26) | Techmeme | AI |
+| 2 | [Cursor上线Origin，为Agent重建GitHub](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247619635&idx=1&sn=1b7ab087fe918f76608f4439f6b27c46) | 夕小瑶科技说 | AI |
+| 3 | [马斯克推出 Grok4.6：跑分追平Fable 5与GPT5.6，价格不变！](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247619513&idx=1&sn=41525e18c868aa4fda551a750802b0a2) | 夕小瑶科技说 | AI |
+| 4 | [DeepSeekHarness 负责人吐槽“融资材料”吹过头：V4-Pro编程能力仅差Clau...](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665538&idx=1&sn=02987dc5815ebf00d8d043c5aad5f330) | AI前线 | AI |
+| 5 | [神级反转！GitHub昨夜大规模宕机7小时，Cursor火速上线Agent版代码托...](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665850&idx=1&sn=fee6723b451eeacff7a80af9c51b50a8) | AI前线 | AI |
 
-> 共 66 条，以上为 TOP 5。
+> 共 67 条，以上为 TOP 5。
 
 ---
 
@@ -60,7 +60,12 @@
 
 ## 💰 变现雷达
 
-> 今日无优质信息源，待补充。
+| # | 标题 | 来源 | 分类 |
+|---|------|------|------|
+| 1 | [AI收入连续两个季度过半，百度换了一张估值表](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA%3D%3D&mid=2661077037&idx=2&sn=1087cf092e8d699de58cd57759a4c1e4) | 钛媒体 | AI/变现 |
+| 2 | [AI收入占比过半之后，百度在等什么？](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ%3D%3D&mid=2656194631&idx=2&sn=5ea62414d3849425121ba59e8872eb42) | 虎嗅App | AI/变现 |
+| 3 | [Show HN: RoamIQ——面向数字游民的旅行与远程办公平台](https://nomads-travel-indol.vercel.app/) | nomads-travel-indol.vercel.app | 变现 |
+| 4 | [美国前5%的高收入群体支出已超过其收入。这正是需要警惕的风险。](https://finance.yahoo.com/economy/articles/top-5-americans-outspending-own-130232816.html) | finance.yahoo.com | 变现 |
 
 ---
 
@@ -72,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-18T20:08:59.319Z
-- **总资讯数**：4368 条原始 → 623 条筛选后
+- **聚合时间**：2026-08-18T22:08:56.443Z
+- **总资讯数**：4339 条原始 → 646 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
