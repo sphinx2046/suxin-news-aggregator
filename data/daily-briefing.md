@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI;DR（AI；没读） / AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read) | Hacker News | AI |
+| 1 | [AI;DR（AI；未读） / AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read) | Hacker News | AI |
 | 2 | [“Hidden Airtag”揭露亚马逊为训练AI而销毁珍本图书 / AirTag reveals Amazon is trashing rare books to train AI](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai) | Hacker News | AI |
 | 3 | [Roboflow Playground：尝试并比较 30 个计算机视觉模型 / Roboflow Playground: Try and Compare 30 Computer Vision Models](https://blog.roboflow.com/roboflow-playground) | Hacker News | 其他 |
 | 4 | [以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能 / Amazon, which started off selling books, is destroying rare texts to train AI](https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models) | Hacker News | AI |
-| 5 | [Rust 中的 GPU 卸载：可移植、安全且快速 / GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759) | Hacker News | 其他 |
+| 5 | [Rust 中的 GPU 卸载：便携、安全且快速 / GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759) | Hacker News | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -30,7 +30,7 @@
 | 4 | [采购同事随口提了句比价，我用 TextIn xParse + WorkBuddy 做了个采购决策助手](https://juejin.cn/post/7673062292059062322) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 17 条，以上为 TOP 5。
+> 共 14 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [谷歌赢得破产拍卖，出价 1000 万美元，从 Spirit Airlines 收购去识别化的业务数据、软件代码等，以改进其人工智能模型（James Nani/Bloomberg Law） / Google wins a bankruptcy auction with a $10M bid to acquire deidentified business data, software code, and more from Spirit Airlines to improve its AI models (James Nani/Bloomberg Law)](https://www.techmeme.com/260817/p26) | Techmeme | AI |
 | 5 | [Nvidia 宣布针对人工智能基础设施的 500B 美元融资计划遵循 SEC 7 月份的指导意见，该指导意见确认了对数据中心证券化的更宽松限制 (Tobias Burns/CNBC) / Nvidia's $500B funding package announcement for AI infrastructure follows SEC's July guidance that confirmed looser restrictions for data center securitizations (Tobias Burns/CNBC)](https://www.techmeme.com/260817/p25) | Techmeme | AI |
 
-> 共 70 条，以上为 TOP 5。
+> 共 67 条，以上为 TOP 5。
 
 ---
 
@@ -53,17 +53,15 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
-| 2 | [一个艺术家有1000名死忠粉丝就能衣食无忧”，真的吗？](https://mp.weixin.qq.com/s?__biz=MzIxMDgyMTM0NQ%3D%3D&mid=2247502446&idx=2&sn=51f8b3f7631cfab5e6272e0f461ecc58) | 互联网怪盗团 | IP |
-| 3 | [特朗普再次在其家乡佛罗里达州通过邮寄方式投票](http://dlvr.it/TV3QDq) | dlvr.it | 回乡 |
+| 2 | [麦当劳：客流量未达预期，但房租照付不误](https://finance.yahoo.com/markets/stocks/articles/mcdonalds-traffic-disappointed-rent-still-150500442.html) | finance.yahoo.com | IP |
+| 3 | [一个艺术家有1000名死忠粉丝就能衣食无忧”，真的吗？](https://mp.weixin.qq.com/s?__biz=MzIxMDgyMTM0NQ%3D%3D&mid=2247502446&idx=2&sn=51f8b3f7631cfab5e6272e0f461ecc58) | 互联网怪盗团 | IP |
+| 4 | [特朗普再次在其家乡佛罗里达州通过邮寄方式投票](http://dlvr.it/TV3QDq) | dlvr.it | 回乡 |
 
 ---
 
 ## 💰 变现雷达
 
-| # | 标题 | 来源 | 分类 |
-|---|------|------|------|
-| 1 | [Sea Ray的母公司布伦瑞克押注人工智能导航和新的收入来源，以提振停滞不前的船只销量 - CNBC](https://news.google.com/rss/articles/CBMimAFBVV95cUxPLUVUTUJsbjZ4RkVKZFJ3dGd5bThEZVFaanQtR280UDFOaHVsLXBkWklIZ0pUT1dQZzBWSDN6Y1JYQ0JacU1ZZG9FZWVKU3lpZzBWTWlmTm1JcWFGU1Nsd3FXNDBGYllFWndWT29GRXZHbHZ4dHRCNHgyMnlRRGtjUlZMOG5BV2pvQk0yMnBUd1QxZnhFVENoVtIBngFBVV95cUxPT2JUUG14MzdUaURqZ3VBVm4xV0hvQmpOTGVodkVKZldVY1E5aUNnb3VCRUVncVNVRHg2bGRPWWJXQ0wwQmR2VjA3dnpRZlRJdWhwUDRiTjdYelFnbV9KTl9PMlIyMk1LWFZhNGotc0JMc3lCdHhpZWJyRkdzc0dVX3lTVlM2Mlllbjc3RmJlRGRoTm1VWmgyN3M5Z081QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | AI/变现 |
-| 2 | [中一签最高赚55万，注册制“最赚钱新股”诞生，这家公司什么来头？](https://www.huxiu.com/article/4883988.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+> 今日无优质信息源，待补充。
 
 ---
 
@@ -75,8 +73,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-18T14:19:31.333Z
-- **总资讯数**：4486 条原始 → 660 条筛选后
+- **聚合时间**：2026-08-18T16:15:51.420Z
+- **总资讯数**：4373 条原始 → 625 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
