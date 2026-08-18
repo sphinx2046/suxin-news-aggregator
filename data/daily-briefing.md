@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [刚刚，Claude水印一夜变废纸！](https://aiera.com.cn/2026/08/18/other/admin/109554/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e6%b0%b4%e5%8d%b0%e4%b8%80%e5%a4%9c%e5%8f%98%e5%ba%9f%e7%ba%b8%ef%bc%81) | 新智元 | AI |
-| 2 | [20%的美国打工人把活儿甩给AI！被替代的是任务，不是岗位](https://aiera.com.cn/2026/08/18/other/admin/109527/20%e7%9a%84%e7%be%8e%e5%9b%bd%e6%89%93%e5%b7%a5%e4%ba%ba%e6%8a%8a%e6%b4%bb%e5%84%bf%e7%94%a9%e7%bb%99ai%ef%bc%81%e8%a2%ab%e6%9b%bf%e4%bb%a3%e7%9a%84%e6%98%af%e4%bb%bb%e5%8a%a1%ef%bc%8c%e4%b8%8d) | 新智元 | AI |
-| 3 | [100%纯血国产AI反超Suno！一个下午做出百万预算主题曲](https://aiera.com.cn/2026/08/18/other/admin/109516/100%e7%ba%af%e8%a1%80%e5%9b%bd%e4%ba%a7ai%e5%8f%8d%e8%b6%85suno%ef%bc%81%e4%b8%80%e4%b8%aa%e4%b8%8b%e5%8d%88%e5%81%9a%e5%87%ba%e7%99%be%e4%b8%87%e9%a2%84%e7%ae%97%e4%b8%bb%e9%a2%98%e6%9b%b2) | 新智元 | AI |
-| 4 | [Fable 5夺冠！全球18大顶尖AI自主科研大赛，逼近人类极限](https://aiera.com.cn/2026/08/18/other/admin/109504/fable-5%e5%a4%ba%e5%86%a0%ef%bc%81%e5%85%a8%e7%90%8318%e5%a4%a7%e9%a1%b6%e5%b0%96ai%e8%87%aa%e4%b8%bb%e7%a7%91%e7%a0%94%e5%a4%a7%e8%b5%9b%ef%bc%8c%e9%80%bc%e8%bf%91%e4%ba%ba%e7%b1%bb%e6%9e%81%e9%99%90) | 新智元 | AI |
-| 5 | [AI视频运镜玄学已破！告别无限抽卡，3D预演台直接封神](https://aiera.com.cn/2026/08/18/other/admin/109469/ai%e8%a7%86%e9%a2%91%e8%bf%90%e9%95%9c%e7%8e%84%e5%ad%a6%e5%b7%b2%e7%a0%b4%ef%bc%81%e5%91%8a%e5%88%ab%e6%97%a0%e9%99%90%e6%8a%bd%e5%8d%a1%ef%bc%8c3d%e9%a2%84%e6%bc%94%e5%8f%b0%e7%9b%b4%e6%8e%a5) | 新智元 | AI |
+| 1 | [从实验室到真实家庭：人形机器人的「终极考题」为什么在栖息地](https://aiera.com.cn/2026/08/18/other/admin/109565/%e4%bb%8e%e5%ae%9e%e9%aa%8c%e5%ae%a4%e5%88%b0%e7%9c%9f%e5%ae%9e%e5%ae%b6%e5%ba%ad%ef%bc%9a%e4%ba%ba%e5%bd%a2%e6%9c%ba%e5%99%a8%e4%ba%ba%e7%9a%84%e3%80%8c%e7%bb%88%e6%9e%81%e8%80%83%e9%a2%98%e3%80%8d) | 新智元 | 其他 |
+| 2 | [刚刚，Claude水印一夜变废纸！](https://aiera.com.cn/2026/08/18/other/admin/109554/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e6%b0%b4%e5%8d%b0%e4%b8%80%e5%a4%9c%e5%8f%98%e5%ba%9f%e7%ba%b8%ef%bc%81) | 新智元 | AI |
+| 3 | [20%的美国打工人把活儿甩给AI！被替代的是任务，不是岗位](https://aiera.com.cn/2026/08/18/other/admin/109527/20%e7%9a%84%e7%be%8e%e5%9b%bd%e6%89%93%e5%b7%a5%e4%ba%ba%e6%8a%8a%e6%b4%bb%e5%84%bf%e7%94%a9%e7%bb%99ai%ef%bc%81%e8%a2%ab%e6%9b%bf%e4%bb%a3%e7%9a%84%e6%98%af%e4%bb%bb%e5%8a%a1%ef%bc%8c%e4%b8%8d) | 新智元 | AI |
+| 4 | [100%纯血国产AI反超Suno！一个下午做出百万预算主题曲](https://aiera.com.cn/2026/08/18/other/admin/109516/100%e7%ba%af%e8%a1%80%e5%9b%bd%e4%ba%a7ai%e5%8f%8d%e8%b6%85suno%ef%bc%81%e4%b8%80%e4%b8%aa%e4%b8%8b%e5%8d%88%e5%81%9a%e5%87%ba%e7%99%be%e4%b8%87%e9%a2%84%e7%ae%97%e4%b8%bb%e9%a2%98%e6%9b%b2) | 新智元 | AI |
+| 5 | [Fable 5夺冠！全球18大顶尖AI自主科研大赛，逼近人类极限](https://aiera.com.cn/2026/08/18/other/admin/109504/fable-5%e5%a4%ba%e5%86%a0%ef%bc%81%e5%85%a8%e7%90%8318%e5%a4%a7%e9%a1%b6%e5%b0%96ai%e8%87%aa%e4%b8%bb%e7%a7%91%e7%a0%94%e5%a4%a7%e8%b5%9b%ef%bc%8c%e9%80%bc%e8%bf%91%e4%ba%ba%e7%b1%bb%e6%9e%81%e9%99%90) | 新智元 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -30,7 +30,7 @@
 | 4 | [采购同事随口提了句比价，我用 TextIn xParse + WorkBuddy 做了个采购决策助手](https://juejin.cn/post/7673062292059062322) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 15 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI创业最爽剧本：Stripe砸50O亿收购OpenRouter](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247619617&idx=1&sn=d977fcd5070cf0080fd1abc49de00d8a) | 夕小瑶科技说 | AI |
-| 2 | [马斯克推出Grok4.6：跑分追平Fable5与GPT5.6，价格不变！](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247619513&idx=1&sn=41525e18c868aa4fda551a750802b0a2) | 夕小瑶科技说 | AI |
-| 3 | [DeepSeek Harness 负责人吐槽“融资材料”吹过头：V4-Pro编程能力仅差Clau...](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665538&idx=1&sn=02987dc5815ebf00d8d043c5aad5f330) | AI前线 | AI |
-| 4 | [又一个Agent联网神器，开源了！](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ%3D%3D&mid=2457995063&idx=1&sn=d1fd41e3c6013e9db4e12c1158542d84) | GitHubDaily | AI |
-| 5 | [问界「童车」上市，华为联合设计；DeepSeek涨价策略今日实行；大学生...](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ%3D%3D&mid=2653112042&idx=1&sn=8022f4d749430af49530268bc98ede02) | 极客公园 | AI |
+| 1 | [中国电信领投，觅蜂科技再获数亿元融资，打造最懂模型的物理AI数据服务平台](https://aiera.com.cn/2026/08/18/other/admin/109577/maniformer-china-telecom-funding) | 新智元 | AI |
+| 2 | [OpenAI 宣布在俄亥俄州建立大型数据中心，Nvidia 提供 1050 亿美元担保 / OpenAI Announces Massive Data Center In Ohio With $105 Billion Nvidia Guarantee](https://news.slashdot.org/story/26/08/17/1831220/openai-announces-massive-data-center-in-ohio-with-105-billion-nvidia-guarantee) | Slashdot | AI |
+| 3 | [Groq 融资 3.5 亿美元，推动从 AI 芯片转向 Neocloud / Groq raises $350M to fuel its pivot from AI chips to neocloud](https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud) | TechCrunch | AI |
+| 4 | [自 7 月初以来，一直没有关于 Siri AI 登陆欧盟的最新消息 / No Update Since Early July Regarding Siri AI Coming to the EU, Ever](https://daringfireball.net/linked/2026/08/17/no-update-since-early-july-regarding-siri-ai-coming-to-the-eu-ever) | Daring Fireball | AI |
+| 5 | [谷歌赢得破产拍卖，出价 1000 万美元，从 Spirit Airlines 收购去识别化的业务数据、软件代码等，以改进其人工智能模型（James Nani/Bloomberg Law） / Google wins a bankruptcy auction with a $10M bid to acquire deidentified business data, software code, and more from Spirit Airlines to improve its AI models (James Nani/Bloomberg Law)](https://www.techmeme.com/260817/p26) | Techmeme | AI |
 
-> 共 64 条，以上为 TOP 5。
+> 共 67 条，以上为 TOP 5。
 
 ---
 
@@ -54,8 +54,7 @@
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
 | 2 | [一个艺术家有1000名死忠粉丝就能衣食无忧”，真的吗？](https://mp.weixin.qq.com/s?__biz=MzIxMDgyMTM0NQ%3D%3D&mid=2247502446&idx=2&sn=51f8b3f7631cfab5e6272e0f461ecc58) | 互联网怪盗团 | IP |
-| 3 | [迪士尼新任主题公园负责人阐述投资战略，将超级粉丝置于首位 - CNBC](https://news.google.com/rss/articles/CBMiggFBVV95cUxNTnVGcnpIRjVobDFWWmEwVnFDcUgzdERqNWtGMFJ1UERPeVBNYXdmNzU3X3ZvN04xMHNUTjRISzU5d3FoWXk2QkZmd245bHc2LTN5aTJSVzhHRFhLOXp5azhiTXJGNUlBTXFwQjNiLTh4Q0ZHRjVqaWRUU0g3X1ZpWEFn0gGHAUFVX3lxTE4yOWx0ckNKcThYN1VWNlFIVlgzSnRnWktvWlluNlBwVVFUUW1zNUwyekdGQjlvYUJBVVNHQ1J2ODg3VWVhRGdmd0pQZ3RvTjVBaGlfdFpnM0RsaWxHektmcGpLRDZ6dXpxZk5udlYtSVkzdDFNaG5haklsQUtUZFZUQUQ4VXc1TQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 4 | [特朗普再次在其家乡佛罗里达州通过邮寄方式投票](http://dlvr.it/TV3QDq) | dlvr.it | 回乡 |
+| 3 | [特朗普再次在其家乡佛罗里达州通过邮寄方式投票](http://dlvr.it/TV3QDq) | dlvr.it | 回乡 |
 
 ---
 
@@ -75,8 +74,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-18T00:26:35.377Z
-- **总资讯数**：4387 条原始 → 624 条筛选后
+- **聚合时间**：2026-08-18T02:45:14.950Z
+- **总资讯数**：4409 条原始 → 628 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
