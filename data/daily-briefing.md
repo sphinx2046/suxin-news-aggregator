@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [代码越改越乱？来试试前端领域模型驱动设计（DDD）](https://juejin.cn/post/7674783303284326450) | juejin | AI |
-| 2 | [AI 编程工程化：实战——从 0 到 1 搭建 AI 编程工作流](https://juejin.cn/post/7674574367976046655) | juejin | AI |
-| 3 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 4 | [The People Building a Way to Slow Down the AI Race](https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification) | TIME Magazine | AI |
-| 5 | [Deepseek harness 安装配置保姆教程](https://juejin.cn/post/7673506180661428259) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 2 | [The People Building a Way to Slow Down the AI Race](https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification) | TIME Magazine | AI |
+| 3 | [Deepseek harness 安装配置保姆教程](https://juejin.cn/post/7673506180661428259) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [采购同事随口提了句比价，我用 TextIn xParse + WorkBuddy 做了个采购决策助手](https://juejin.cn/post/7673062292059062322) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 17 条，以上为 TOP 5。
+> 共 18 条，以上为 TOP 5。
 
 ---
 
@@ -39,12 +39,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [从零给 DeepSeek Harness 写一个壁纸皮肤插件（已开源）](https://juejin.cn/post/7673809185192067108) | juejin | AI |
-| 2 | [DeepSeek Harness 插件推荐：4 款开源神器让写代码直接起飞](https://juejin.cn/post/7674101873055662120) | juejin | AI |
-| 3 | [开源两天 9.5 万 Star！DeepSeek Harness 到底是个啥？小白安装到实战一篇讲透](https://juejin.cn/post/7674826322239258662) | juejin | AI |
-| 4 | [DeepSeek Harness 发布后，我没急着跑 Demo，先把 `.agents/` 翻了一遍](https://juejin.cn/post/7674828652658425896) | juejin | AI |
-| 5 | [一个不会游戏开发的人，用 AI 把一款小游戏做到上线了](https://juejin.cn/post/7674818974896685098) | juejin | AI |
+| 2 | [OpenAI 宣布在俄亥俄州建立大型数据中心，Nvidia 提供 1050 亿美元担保 / OpenAI Announces Massive Data Center In Ohio With $105 Billion Nvidia Guarantee](https://news.slashdot.org/story/26/08/17/1831220/openai-announces-massive-data-center-in-ohio-with-105-billion-nvidia-guarantee) | Slashdot | AI |
+| 3 | [Groq 融资 3.5 亿美元，推动从 AI 芯片转向 Neocloud / Groq raises $350M to fuel its pivot from AI chips to neocloud](https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud) | TechCrunch | AI |
+| 4 | [自 7 月初以来，一直没有关于 Siri AI 登陆欧盟的最新消息 / No Update Since Early July Regarding Siri AI Coming to the EU, Ever](https://daringfireball.net/linked/2026/08/17/no-update-since-early-july-regarding-siri-ai-coming-to-the-eu-ever) | Daring Fireball | AI |
+| 5 | [谷歌赢得破产拍卖，出价 1000 万美元，从 Spirit Airlines 收购去识别化的业务数据、软件代码等，以改进其人工智能模型（James Nani/Bloomberg Law） / Google wins a bankruptcy auction with a $10M bid to acquire deidentified business data, software code, and more from Spirit Airlines to improve its AI models (James Nani/Bloomberg Law)](https://www.techmeme.com/260817/p26) | Techmeme | AI |
 
-> 共 65 条，以上为 TOP 5。
+> 共 64 条，以上为 TOP 5。
 
 ---
 
@@ -53,9 +53,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
-| 2 | [他们是拥有数千名狂热粉丝的内容创作者。那么，为什么他们会感到如此糟糕呢？](https://phys.org/news/2026-08-theyre-content-creators-thousands-adoring.html) | phys.org | IP |
-| 3 | [美妆博主通过引发共鸣、煽动愤怒以及“卸妆教程”视频来建立信任](https://www.wsj.com/cmo-today/finfluencers-build-trust-with-relatability-rage-bait-and-grwm-routines-dbd81456?siteid=yhoof2&yptr=yahoo) | www.wsj.com | IP |
-| 4 | [《杀出重围》的创作者沃伦·斯佩克特将从游戏开发领域退休](https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development) | www.videogameschronicle.com | IP |
+| 2 | [[推广] 🔥七夕优惠！住宅流量免费送了！静态 ISP 可享 50% 折扣](https://www.v2ex.com/t/1235558) | V2EX (创意工作者社区) | IP |
+| 3 | [[RSS] 还有哪些可以方便获取微信公众号文章的渠道？](https://www.v2ex.com/t/1235531) | V2EX (创意工作者社区) | IP |
+| 4 | [他们是拥有数千名狂热粉丝的内容创作者。那么，为什么他们会感到如此糟糕呢？](https://phys.org/news/2026-08-theyre-content-creators-thousands-adoring.html) | phys.org | IP |
+| 5 | [《杀出重围》的创作者沃伦·斯佩克特将从游戏开发领域退休](https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development) | www.videogameschronicle.com | IP |
 
 ---
 
@@ -64,12 +65,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [Perplexity印度免费订阅实验显效，应用收入较促销期增长60%](https://www.aibase.com/news/30456) | AIbase | 变现 |
-| 2 | [鲜啤大战开打，但这门生意比想象中更难赚钱](https://www.huxiu.com/article/4884015.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 3 | [AI收入连续两个季度过半，百度换了一张估值表](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA%3D%3D&mid=2661077037&idx=2&sn=1087cf092e8d699de58cd57759a4c1e4) | 钛媒体 | AI/变现 |
-| 4 | [报告称 2026 苹果 App Store 在美国佣金收入同比下降 18%](https://www.ithome.com/0/991/400.htm) | IT之家 (ITHome) | 变现 |
-| 5 | [AI收入占比过半之后，百度在等什么？](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ%3D%3D&mid=2656194631&idx=2&sn=5ea62414d3849425121ba59e8872eb42) | 虎嗅App | AI/变现 |
+| 2 | [百度AI收入占了半壁江山，但华尔街为什么还在担心？](https://www.huxiu.com/article/4884155.html?f=rss) | 虎嗅 (Huxiu) | AI/变现 |
+| 3 | [HIVE签署3.5亿美元人工智能云服务协议，BUZZ HPC合同收入持续增长](https://finance.yahoo.com/technology/ai/articles/hive-signs-350-million-ai-144936725.html) | finance.yahoo.com | AI/变现 |
+| 4 | [鲜啤大战开打，但这门生意比想象中更难赚钱](https://www.huxiu.com/article/4884015.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 5 | [AI收入连续两个季度过半，百度换了一张估值表](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA%3D%3D&mid=2661077037&idx=2&sn=1087cf092e8d699de58cd57759a4c1e4) | 钛媒体 | AI/变现 |
 
-> 共 6 条，以上为 TOP 5。
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -81,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-19T02:46:32.740Z
-- **总资讯数**：4410 条原始 → 650 条筛选后
+- **聚合时间**：2026-08-19T04:23:21.870Z
+- **总资讯数**：4449 条原始 → 661 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
