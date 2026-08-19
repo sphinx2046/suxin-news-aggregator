@@ -11,10 +11,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [LangChain 们的丧钟？DeepSeek 把 Agent 开发变成了拼乐高](https://juejin.cn/post/7674145872716513280) | juejin | AI |
-| 2 | [20822 star 的开源录屏软件弃 Tauri 换 Electron：表层是换壳，里子是 46 个 Rust 模块](https://juejin.cn/post/7674103602086379563) | juejin | 其他 |
-| 3 | [章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式](https://aiera.com.cn/2026/08/19/other/admin/109731/synapx-wrc-2026) | 新智元 | 其他 |
-| 4 | [AI;DR（AI；未读） / AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read) | Hacker News | AI |
-| 5 | [“Hidden Airtag”揭露亚马逊为训练AI而销毁珍本图书 / AirTag reveals Amazon is trashing rare books to train AI](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai) | Hacker News | AI |
+| 2 | [章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式](https://aiera.com.cn/2026/08/19/other/admin/109731/synapx-wrc-2026) | 新智元 | 其他 |
+| 3 | [AI;DR（AI；未读） / AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read) | Hacker News | AI |
+| 4 | [AirTag 透露亚马逊正在废弃善本书籍来训练人工智能 / AirTag reveals Amazon is trashing rare books to train AI](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai) | Hacker News | AI |
+| 5 | [Roboflow Playground：尝试并比较 30 个计算机视觉模型 / Roboflow Playground: Try and Compare 30 Computer Vision Models](https://blog.roboflow.com/roboflow-playground) | Hacker News | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -30,7 +30,7 @@
 | 4 | [采购同事随口提了句比价，我用 TextIn xParse + WorkBuddy 做了个采购决策助手](https://juejin.cn/post/7673062292059062322) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 17 条，以上为 TOP 5。
+> 共 16 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [谷歌赢得破产拍卖，出价 1000 万美元，从 Spirit Airlines 收购去识别化的业务数据、软件代码等，以改进其人工智能模型（James Nani/Bloomberg Law） / Google wins a bankruptcy auction with a $10M bid to acquire deidentified business data, software code, and more from Spirit Airlines to improve its AI models (James Nani/Bloomberg Law)](https://www.techmeme.com/260817/p26) | Techmeme | AI |
 | 5 | [Nvidia 宣布针对人工智能基础设施的 500B 美元融资计划遵循 SEC 7 月份的指导意见，该指导意见确认了对数据中心证券化的更宽松限制 (Tobias Burns/CNBC) / Nvidia's $500B funding package announcement for AI infrastructure follows SEC's July guidance that confirmed looser restrictions for data center securitizations (Tobias Burns/CNBC)](https://www.techmeme.com/260817/p25) | Techmeme | AI |
 
-> 共 56 条，以上为 TOP 5。
+> 共 61 条，以上为 TOP 5。
 
 ---
 
@@ -54,11 +54,8 @@
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
 | 2 | [微软产品改名有多频繁？2023 年改了 18 款，有粉丝专门为此建站追踪](https://www.ithome.com/0/991/846.htm) | IT之家 (ITHome) | IP |
-| 3 | [塔吉特（Target）的强势反弹季度：新品上架、客流量增加以及9.94亿美元的关税退税 - WRAL](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRklQaHZRcFNUUU1mOHB4clZkNnVEZWJxVjZkdFFPUkltaklvRnJTbWxtTmRaX1BhYWh0REMzTVFCUU5pZmxoN3VIZUdNbURycTlYS0dzTlFxcHJBdDFMWmZPOVA0S0lPd0k4eFNLRTl2U3RBaGdFeUx0SF9DWnFDazhabDhWOUdNdkhORWNkZ3hhYWFKWjdiUkNRQmZnV1ZUN2t5NzdkR0dvRWlsVG91Y1dPU2lhQ28?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 4 | [Kick 的团队即将推出一款新应用，旨在帮助创作者从粉丝那里获利](https://www.businessinsider.com/kick-team-launching-new-app-club-creators-make-money-community-2026-8) | www.businessinsider.com | IP |
-| 5 | [[分享发现] qq 农村，一不小心打开了，原来我兜里还有两百来万](https://www.v2ex.com/t/1235674) | V2EX (创意工作者社区) | 回乡 |
-
-> 共 6 条，以上为 TOP 5。
+| 3 | [Kick 的团队即将推出一款新应用，旨在帮助创作者从粉丝那里获利](https://www.businessinsider.com/kick-team-launching-new-app-club-creators-make-money-community-2026-8) | www.businessinsider.com | IP |
+| 4 | [Astute - 借助新媒体创作者，让您的B2B品牌实现病毒式传播](https://www.producthunt.com/r/T27HYYATJQRXUQ) | www.producthunt.com | IP |
 
 ---
 
@@ -66,9 +63,8 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [3只按月分红的抵押贷款REITs，收入型投资者始终青睐](https://finance.yahoo.com/real-estate/articles/3-monthly-paying-mortgage-reits-154730364.html) | finance.yahoo.com | 变现 |
-| 2 | [AI收入连续两个季度过半，百度换了一张估值表](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA%3D%3D&mid=2661077037&idx=2&sn=1087cf092e8d699de58cd57759a4c1e4) | 钛媒体 | AI/变现 |
-| 3 | [AI收入占比过半之后，百度在等什么？](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ%3D%3D&mid=2656194631&idx=2&sn=5ea62414d3849425121ba59e8872eb42) | 虎嗅App | AI/变现 |
+| 1 | [AI收入连续两个季度过半，百度换了一张估值表](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA%3D%3D&mid=2661077037&idx=2&sn=1087cf092e8d699de58cd57759a4c1e4) | 钛媒体 | AI/变现 |
+| 2 | [AI收入占比过半之后，百度在等什么？](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ%3D%3D&mid=2656194631&idx=2&sn=5ea62414d3849425121ba59e8872eb42) | 虎嗅App | AI/变现 |
 
 ---
 
@@ -80,8 +76,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-19T16:15:34.901Z
-- **总资讯数**：4376 条原始 → 627 条筛选后
+- **聚合时间**：2026-08-19T18:14:32.096Z
+- **总资讯数**：4368 条原始 → 629 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
