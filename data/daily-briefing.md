@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Bookology：从藏书到笔记，打造你的私人阅读档案](https://sspai.com/post/112953) | sspai | 认知 |
-| 2 | [AI;DR（AI；未读） / AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read) | Hacker News | AI |
-| 3 | [AirTag 透露亚马逊正在废弃善本书籍来训练人工智能 / AirTag reveals Amazon is trashing rare books to train AI](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai) | Hacker News | AI |
-| 4 | [Roboflow Playground：尝试并比较 30 个计算机视觉模型 / Roboflow Playground: Try and Compare 30 Computer Vision Models](https://blog.roboflow.com/roboflow-playground) | Hacker News | 其他 |
-| 5 | [以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能 / Amazon, which started off selling books, is destroying rare texts to train AI](https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models) | Hacker News | AI |
+| 1 | [HyNote Mac 版 / HyNote for Mac](https://www.producthunt.com/products/hynote-ai) | producthunt | 其他 |
+| 2 | [校验和人工智能 / Checksum AI](https://www.producthunt.com/products/checksum-ai) | producthunt | AI |
+| 3 | [MeetStream人工智能 / MeetStream AI](https://www.producthunt.com/products/meetstream-ai) | producthunt | AI |
+| 4 | [bitdrift.ai](https://www.producthunt.com/products/bitdrift) | producthunt | AI |
+| 5 | [Bookology：从藏书到笔记，打造你的私人阅读档案](https://sspai.com/post/112953) | sspai | 认知 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -44,7 +44,7 @@
 | 4 | [Groq 融资 3.5 亿美元，推动从 AI 芯片转向 Neocloud / Groq raises $350M to fuel its pivot from AI chips to neocloud](https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud) | TechCrunch | AI |
 | 5 | [自 7 月初以来，一直没有关于 Siri AI 登陆欧盟的最新消息 / No Update Since Early July Regarding Siri AI Coming to the EU, Ever](https://daringfireball.net/linked/2026/08/17/no-update-since-early-july-regarding-siri-ai-coming-to-the-eu-ever) | Daring Fireball | AI |
 
-> 共 56 条，以上为 TOP 5。
+> 共 59 条，以上为 TOP 5。
 
 ---
 
@@ -53,10 +53,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [奥迪中国专属“字母标”车型卖到欧洲老家，比“四环”车型还便宜](https://www.ithome.com/0/992/232.htm) | IT之家 (ITHome) | 回乡 |
-| 3 | [安徽县城，正批量“捡漏”上市公司](https://www.huxiu.com/article/4884497.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
-| 4 | [YouTube 向 Netflix 发起反击，向顶级创作者提供数百万美元的独家合作协议](https://www.businessinsider.com/youtube-offering-financial-incentives-to-creators-stay-off-netflix-2026-8) | www.businessinsider.com | IP |
-| 5 | [农村高价彩礼，结婚咋这么难？](https://mp.weixin.qq.com/s?__biz=Mzg2NDczODEyNw%3D%3D&mid=2247495718&idx=1&sn=90b2751e4de0ed0c6cf4c7ceedaaae24) | 泽平宏观展望 | 回乡 |
+| 2 | [消息称马斯克 X 平台探索支持稳定币，用于向网红、内容创作者支付报酬](https://www.ithome.com/0/992/256.htm) | IT之家 (ITHome) | IP |
+| 3 | [奥迪中国专属“字母标”车型卖到欧洲老家，比“四环”车型还便宜](https://www.ithome.com/0/992/232.htm) | IT之家 (ITHome) | 回乡 |
+| 4 | [安徽县城，正批量“捡漏”上市公司](https://www.huxiu.com/article/4884497.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 5 | [YouTube 向 Netflix 发起反击，向顶级创作者提供数百万美元的独家合作协议](https://www.businessinsider.com/youtube-offering-financial-incentives-to-creators-stay-off-netflix-2026-8) | www.businessinsider.com | IP |
 
 > 共 6 条，以上为 TOP 5。
 
@@ -66,7 +66,7 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [快手二季度营收355亿元，可灵AI商业化收入同比增长超200%](https://www.aibase.com/zh/news/30500) | Readhub · AI | AI/变现 |
+| 1 | [快手二季度营收355亿元，可灵AI商业化收入同比增长超200%](https://www.aibase.com/news/30500) | AIbase | AI/变现 |
 | 2 | [网易 2026 财年半年报营业总收入 607 亿元，同比增长 7%](https://www.ithome.com/0/992/213.htm) | IT之家 (ITHome) | 变现 |
 | 3 | [公司倒闭后，如何靠卖员工数据赚钱](https://www.huxiu.com/article/4884502.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
 | 4 | [OpenAl“暴雷"，收入被Anthropic大幅反超](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA%3D%3D&mid=2247645748&idx=1&sn=ed09bcdb9dec34815568b145de76b8e5) | 华尔街见闻 | AI/变现 |
@@ -81,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-20T10:16:26.432Z
-- **总资讯数**：4482 条原始 → 632 条筛选后
+- **聚合时间**：2026-08-20T12:18:47.828Z
+- **总资讯数**：4526 条原始 → 649 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
