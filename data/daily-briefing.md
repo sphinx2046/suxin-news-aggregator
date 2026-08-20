@@ -11,10 +11,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [LangChain 们的丧钟？DeepSeek 把 Agent 开发变成了拼乐高](https://juejin.cn/post/7674145872716513280) | juejin | AI |
-| 2 | [突发！OpenAI紧急暂停GPT-6训练](https://aiera.com.cn/2026/08/20/other/admin/109883/%e7%aa%81%e5%8f%91%ef%bc%81openai%e7%b4%a7%e6%80%a5%e6%9a%82%e5%81%9cgpt-6%e8%ae%ad%e7%bb%83) | 新智元 | AI |
-| 3 | [都标5美元，账单差三成！OpenAI高管：token从来没法直接比价](https://aiera.com.cn/2026/08/20/other/admin/109859/%e9%83%bd%e6%a0%875%e7%be%8e%e5%85%83%ef%bc%8c%e8%b4%a6%e5%8d%95%e5%b7%ae%e4%b8%89%e6%88%90%ef%bc%81openai%e9%ab%98%e7%ae%a1%ef%bc%9atoken%e4%bb%8e%e6%9d%a5%e6%b2%a1%e6%b3%95%e7%9b%b4%e6%8e%a5) | 新智元 | AI |
-| 4 | [突发，Fable 5.1泄露了！Claude又叒叕全球大宕机](https://aiera.com.cn/2026/08/20/other/admin/109848/%e7%aa%81%e5%8f%91%ef%bc%8cfable-5-1%e6%b3%84%e9%9c%b2%e4%ba%86%ef%bc%81claude%e5%8f%88%e5%8f%92%e5%8f%95%e5%85%a8%e7%90%83%e5%a4%a7%e5%ae%95%e6%9c%ba) | 新智元 | AI |
-| 5 | [离谱！晒出Claude退订截图就送你200刀：Cursor抢人抢疯了](https://aiera.com.cn/2026/08/20/other/admin/109827/%e7%a6%bb%e8%b0%b1%ef%bc%81%e6%99%92%e5%87%baclaude%e9%80%80%e8%ae%a2%e6%88%aa%e5%9b%be%e5%b0%b1%e9%80%81%e4%bd%a0200%e5%88%80%ef%bc%9acursor%e6%8a%a2%e4%ba%ba%e6%8a%a2%e7%96%af%e4%ba%86) | 新智元 | AI |
+| 2 | [三箭齐发！优必选WRC2026全方位展示人形机器人工业、商用、家庭消费应用成果](https://aiera.com.cn/2026/08/20/other/admin/109884/%e4%b8%89%e7%ae%ad%e9%bd%90%e5%8f%91%ef%bc%81%e4%bc%98%e5%bf%85%e9%80%89wrc2026%e5%85%a8%e6%96%b9%e4%bd%8d%e5%b1%95%e7%a4%ba%e4%ba%ba%e5%bd%a2%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%b7%a5%e4%b8%9a%e3%80%81) | 新智元 | 其他 |
+| 3 | [突发！OpenAI紧急暂停GPT-6训练](https://aiera.com.cn/2026/08/20/other/admin/109883/%e7%aa%81%e5%8f%91%ef%bc%81openai%e7%b4%a7%e6%80%a5%e6%9a%82%e5%81%9cgpt-6%e8%ae%ad%e7%bb%83) | 新智元 | AI |
+| 4 | [都标5美元，账单差三成！OpenAI高管：token从来没法直接比价](https://aiera.com.cn/2026/08/20/other/admin/109859/%e9%83%bd%e6%a0%875%e7%be%8e%e5%85%83%ef%bc%8c%e8%b4%a6%e5%8d%95%e5%b7%ae%e4%b8%89%e6%88%90%ef%bc%81openai%e9%ab%98%e7%ae%a1%ef%bc%9atoken%e4%bb%8e%e6%9d%a5%e6%b2%a1%e6%b3%95%e7%9b%b4%e6%8e%a5) | 新智元 | AI |
+| 5 | [突发，Fable 5.1泄露了！Claude又叒叕全球大宕机](https://aiera.com.cn/2026/08/20/other/admin/109848/%e7%aa%81%e5%8f%91%ef%bc%8cfable-5-1%e6%b3%84%e9%9c%b2%e4%ba%86%ef%bc%81claude%e5%8f%88%e5%8f%92%e5%8f%95%e5%85%a8%e7%90%83%e5%a4%a7%e5%ae%95%e6%9c%ba) | 新智元 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [代码越改越乱？来试试前端领域模型驱动设计（DDD）](https://juejin.cn/post/7674783303284326450) | juejin | AI |
-| 2 | [AI 编程工程化：实战——从 0 到 1 搭建 AI 编程工作流](https://juejin.cn/post/7674574367976046655) | juejin | AI |
-| 3 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
-| 4 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 5 | [The People Building a Way to Slow Down the AI Race](https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification) | TIME Magazine | AI |
+| 1 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 2 | [The People Building a Way to Slow Down the AI Race](https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification) | TIME Magazine | AI |
+| 3 | [Deepseek harness 安装配置保姆教程](https://juejin.cn/post/7673506180661428259) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [采购同事随口提了句比价，我用 TextIn xParse + WorkBuddy 做了个采购决策助手](https://juejin.cn/post/7673062292059062322) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 12 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [蚂蚁分拆融资启幕：AI挂帅，金融托底|《财经》特稿](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ%3D%3D&mid=2653730176&idx=1&sn=d2040e728ba49850dafaeaddfbfe7f3d) | 财经杂志 | AI |
-| 2 | [30年美债利率创19年新高，AI融资正与主权国家抢钱](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA%3D%3D&mid=2661077068&idx=1&sn=dda35c59768de616b5f2c4290ffebc95) | 钛媒体 | AI |
-| 3 | [微信AI来了？又有这13个新变化！](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA%3D%3D&mid=2649803711&idx=1&sn=769cdeea7696c94fe4488827a6a41211) | 腾讯技术工程 | AI |
-| 4 | [开源两天 9.5 万 Star！DeepSeek Harness 到底是个啥？小白安装到实战一篇讲透](https://juejin.cn/post/7674826322239258662) | juejin | AI |
-| 5 | [一个不会游戏开发的人，用 AI 把一款小游戏做到上线了](https://juejin.cn/post/7674818974896685098) | juejin | AI |
+| 1 | [OpenAI 宣布在俄亥俄州建立大型数据中心，Nvidia 提供 1050 亿美元担保 / OpenAI Announces Massive Data Center In Ohio With $105 Billion Nvidia Guarantee](https://news.slashdot.org/story/26/08/17/1831220/openai-announces-massive-data-center-in-ohio-with-105-billion-nvidia-guarantee) | Slashdot | AI |
+| 2 | [Groq 融资 3.5 亿美元，推动从 AI 芯片转向 Neocloud / Groq raises $350M to fuel its pivot from AI chips to neocloud](https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud) | TechCrunch | AI |
+| 3 | [自 7 月初以来，一直没有关于 Siri AI 登陆欧盟的最新消息 / No Update Since Early July Regarding Siri AI Coming to the EU, Ever](https://daringfireball.net/linked/2026/08/17/no-update-since-early-july-regarding-siri-ai-coming-to-the-eu-ever) | Daring Fireball | AI |
+| 4 | [谷歌赢得破产拍卖，出价 1000 万美元，从 Spirit Airlines 收购去识别化的业务数据、软件代码等，以改进其人工智能模型（James Nani/Bloomberg Law） / Google wins a bankruptcy auction with a $10M bid to acquire deidentified business data, software code, and more from Spirit Airlines to improve its AI models (James Nani/Bloomberg Law)](https://www.techmeme.com/260817/p26) | Techmeme | AI |
+| 5 | [Nvidia 宣布针对人工智能基础设施的 500B 美元融资计划遵循 SEC 7 月份的指导意见，该指导意见确认了对数据中心证券化的更宽松限制 (Tobias Burns/CNBC) / Nvidia's $500B funding package announcement for AI infrastructure follows SEC's July guidance that confirmed looser restrictions for data center securitizations (Tobias Burns/CNBC)](https://www.techmeme.com/260817/p25) | Techmeme | AI |
 
-> 共 59 条，以上为 TOP 5。
+> 共 63 条，以上为 TOP 5。
 
 ---
 
@@ -52,11 +52,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [农村高价彩礼，结婚咋这么难？](https://mp.weixin.qq.com/s?__biz=Mzg2NDczODEyNw%3D%3D&mid=2247495718&idx=1&sn=90b2751e4de0ed0c6cf4c7ceedaaae24) | 泽平宏观展望 | 回乡 |
-| 3 | [微软产品改名有多频繁？2023 年改了 18 款，有粉丝专门为此建站追踪](https://www.ithome.com/0/991/846.htm) | IT之家 (ITHome) | IP |
-| 4 | [Kick 的团队即将推出一款新应用，旨在帮助创作者从粉丝那里获利](https://www.businessinsider.com/kick-team-launching-new-app-club-creators-make-money-community-2026-8) | www.businessinsider.com | IP |
-| 5 | [Astute - 借助新媒体创作者，让您的B2B品牌实现病毒式传播](https://www.producthunt.com/r/T27HYYATJQRXUQ) | www.producthunt.com | IP |
+| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | 少数派 · 热门文章 | IP |
+| 2 | [[推广] 免费赠送流量-0 成本使用](https://www.v2ex.com/t/1235781) | V2EX (创意工作者社区) | IP |
+| 3 | [YouTube 向 Netflix 发起反击，向顶级创作者提供数百万美元的独家合作协议](https://www.businessinsider.com/youtube-offering-financial-incentives-to-creators-stay-off-netflix-2026-8) | www.businessinsider.com | IP |
+| 4 | [AI预测XRP：Claude做出的预测可能会激怒瑞波币的铁杆粉丝](https://finance.yahoo.com/markets/crypto/articles/ai-predicts-xrp-claude-makes-131601138.html) | finance.yahoo.com | AI/IP |
+| 5 | [农村高价彩礼，结婚咋这么难？](https://mp.weixin.qq.com/s?__biz=Mzg2NDczODEyNw%3D%3D&mid=2247495718&idx=1&sn=90b2751e4de0ed0c6cf4c7ceedaaae24) | 泽平宏观展望 | 回乡 |
+
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -65,7 +67,6 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [OpenAl“暴雷"，收入被Anthropic大幅反超](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA%3D%3D&mid=2247645748&idx=1&sn=ed09bcdb9dec34815568b145de76b8e5) | 华尔街见闻 | AI/变现 |
-| 2 | [UPS 对被动收入投资者来说是一只好股票吗？](https://finance.yahoo.com/markets/stocks/articles/ups-good-stock-passive-income-153500823.html) | finance.yahoo.com | 变现 |
 
 ---
 
@@ -77,8 +78,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-20T00:27:13.763Z
-- **总资讯数**：4428 条原始 → 647 条筛选后
+- **聚合时间**：2026-08-20T02:45:46.215Z
+- **总资讯数**：4433 条原始 → 634 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
