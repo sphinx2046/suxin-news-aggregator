@@ -30,7 +30,7 @@
 | 4 | [Deepseek harness 安装配置保姆教程](https://juejin.cn/post/7673506180661428259) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 10 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [自 7 月初以来，一直没有关于 Siri AI 登陆欧盟的最新消息 / No Update Since Early July Regarding Siri AI Coming to the EU, Ever](https://daringfireball.net/linked/2026/08/17/no-update-since-early-july-regarding-siri-ai-coming-to-the-eu-ever) | Daring Fireball | AI |
 | 5 | [谷歌赢得破产拍卖，出价 1000 万美元，从 Spirit Airlines 收购去识别化的业务数据、软件代码等，以改进其人工智能模型（James Nani/Bloomberg Law） / Google wins a bankruptcy auction with a $10M bid to acquire deidentified business data, software code, and more from Spirit Airlines to improve its AI models (James Nani/Bloomberg Law)](https://www.techmeme.com/260817/p26) | Techmeme | AI |
 
-> 共 54 条，以上为 TOP 5。
+> 共 52 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [为什么法国迷上了乡村舞](https://bit.ly/4c0f7Ew) | bit.ly | 回乡 |
-| 3 | [[生活] 农村往事](https://www.v2ex.com/t/1236014) | V2EX (创意工作者社区) | 回乡 |
-| 4 | [这就是商战吗？YouTube 斥资数百万美元阻击 Netflix，争夺头部创作者独家发布权](https://www.ithome.com/0/992/398.htm) | IT之家 (ITHome) | IP |
-| 5 | [我的AI内容创作之旅](https://dev.to/playfulprogramming/my-ai-content-journey-1b8p) | dev.to | AI/IP |
+| 2 | [大西洋唱片公司的坦纳·格里戈利希望通过夏令营来扩大粉丝群](https://www.bloomberg.com/news/newsletters/2026-08-20/tanner-grigoli-of-atlantic-records-looks-to-summer-camps-to-build-his-fan-base) | www.bloomberg.com | IP |
+| 3 | [为什么法国迷上了乡村舞](https://bit.ly/4c0f7Ew) | bit.ly | 回乡 |
+| 4 | [[生活] 农村往事](https://www.v2ex.com/t/1236014) | V2EX (创意工作者社区) | 回乡 |
+| 5 | [这就是商战吗？YouTube 斥资数百万美元阻击 Netflix，争夺头部创作者独家发布权](https://www.ithome.com/0/992/398.htm) | IT之家 (ITHome) | IP |
 
-> 共 9 条，以上为 TOP 5。
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -66,9 +66,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [快手二季度营收355亿元，可灵AI商业化收入同比增长超200%](https://www.aibase.com/news/30500) | AIbase | AI/变现 |
-| 2 | [斗鱼 2026 年第二季度财报发布：总收入 9.81 亿元，毛利润同比增长 12%](https://www.ithome.com/0/992/347.htm) | IT之家 (ITHome) | 变现 |
-| 3 | [OpenAl“暴雷"，收入被Anthropic大幅反超](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA%3D%3D&mid=2247645748&idx=1&sn=ed09bcdb9dec34815568b145de76b8e5) | 华尔街见闻 | AI/变现 |
+| 1 | [低收入群体和富人，谁的帮助更大？这要视具体情况而定](https://phys.org/news/2026-08-income-earners-wealthy-situation.html) | phys.org | 变现 |
+| 2 | [快手二季度营收355亿元，可灵AI商业化收入同比增长超200%](https://www.aibase.com/news/30500) | AIbase | AI/变现 |
+| 3 | [斗鱼 2026 年第二季度财报发布：总收入 9.81 亿元，毛利润同比增长 12%](https://www.ithome.com/0/992/347.htm) | IT之家 (ITHome) | 变现 |
+| 4 | [OpenAl“暴雷"，收入被Anthropic大幅反超](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA%3D%3D&mid=2247645748&idx=1&sn=ed09bcdb9dec34815568b145de76b8e5) | 华尔街见闻 | AI/变现 |
 
 ---
 
@@ -80,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-20T18:18:26.292Z
-- **总资讯数**：4419 条原始 → 644 条筛选后
+- **聚合时间**：2026-08-20T20:14:25.320Z
+- **总资讯数**：4403 条原始 → 644 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
