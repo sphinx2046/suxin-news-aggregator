@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [直击AI4S算力难题！中科曙光全链路解决方案亮相2026科学智能大会](https://aiera.com.cn/2026/08/21/other/admin/110086/%e7%9b%b4%e5%87%bbai4s%e7%ae%97%e5%8a%9b%e9%9a%be%e9%a2%98%ef%bc%81%e4%b8%ad%e7%a7%91%e6%9b%99%e5%85%89%e5%85%a8%e9%93%be%e8%b7%af%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88%e4%ba%ae%e7%9b%b82026%e7%a7%91) | 新智元 | AI |
-| 2 | [DeepSeek Harness 值得安装的 15 款插件](https://juejin.cn/post/7675273747710001206) | juejin | AI |
-| 3 | [「速通Shell」Shell编程的错误处理与日志](https://juejin.cn/post/7675540232994783251) | juejin | 其他 |
-| 4 | [我让 AI Agent 先别改代码，它怎么还是动手了？](https://juejin.cn/post/7675005880885461038) | juejin | AI |
-| 5 | [在这个独属于ai的时代，我终究是被裁员了](https://juejin.cn/post/7676301268526530560) | juejin | AI |
+| 1 | [DeepSeek Harness 值得安装的 15 款插件](https://juejin.cn/post/7675273747710001206) | juejin | AI |
+| 2 | [「速通Shell」Shell编程的错误处理与日志](https://juejin.cn/post/7675540232994783251) | juejin | 其他 |
+| 3 | [我让 AI Agent 先别改代码，它怎么还是动手了？](https://juejin.cn/post/7675005880885461038) | juejin | AI |
+| 4 | [在这个独属于ai的时代，我终究是被裁员了](https://juejin.cn/post/7676301268526530560) | juejin | AI |
+| 5 | [爽用 DeepSeek V4 Flash、GLM-5.2、Qwen3.8 Max、GPT 5.6 Luna，OpenCode 太香了！](https://juejin.cn/post/7675412802417639462) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -41,8 +41,8 @@
 | 1 | [做了 3 年 Spring Boot，老板让我一周搭个 AI Agent，上线当天被安全叫停：Java 团队落地 AI 的三道坎，我替你踩完了](https://juejin.cn/post/7675447922214191150) | juejin | AI |
 | 2 | [国产模型越来越强了：DeepSeek V4、Kimi K3 与 GLM 最新进展](https://juejin.cn/post/7675272903248920595) | juejin | AI |
 | 3 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
-| 4 | [DeepSeek 推出了 V4 Flash 模型的实验版本，可以理解视觉提示，称其性能接近 Anthropic 的 Opus 4.8（彭博社） / DeepSeek unveils an experimental version of its V4 Flash model that can understand visual prompts, saying it nears the performance of Anthropic's Opus 4.8 (Bloomberg)](https://www.techmeme.com/260821/p9) | Techmeme | AI |
-| 5 | [消息来源：Nvidia 正在与韩国人工智能芯片制造商 Rebellions 就潜在交易进行早期谈判，包括合作、投资或收购（Yoolim Lee/彭博社） / Sources: Nvidia is in early talks with South Korean AI chip maker Rebellions for a potential deal, including a partnership, an investment, or an acquisition (Yoolim Lee/Bloomberg)](https://www.techmeme.com/260821/p4) | Techmeme | AI |
+| 4 | [Show HN: Proliferate——面向任何编码代理的开源、可自主托管的Codex / Show HN: Proliferate- open-source, self-hostable Codex for any coding agent](https://github.com/proliferate-ai/proliferate) | Hacker News | AI |
+| 5 | [美光在博伊西开设价值 100 亿美元的人工智能内存研究实验室 / Micron Unveils $10 Billion AI Memory Research Lab In Boise](https://hardware.slashdot.org/story/26/08/21/1752224/micron-unveils-10-billion-ai-memory-research-lab-in-boise) | Slashdot | AI |
 
 > 共 53 条，以上为 TOP 5。
 
@@ -79,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-21T18:18:03.150Z
-- **总资讯数**：4377 条原始 → 617 条筛选后
+- **聚合时间**：2026-08-21T20:10:37.287Z
+- **总资讯数**：4368 条原始 → 615 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
