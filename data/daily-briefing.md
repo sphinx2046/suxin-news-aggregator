@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Show HN: 太棒了——一种利用人工智能进行编程的新方法 / Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah) | Hacker News | AI |
+| 1 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
 | 2 | [程序员表示他们已经找到了克劳德隐形水印的解决方法 / Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks](https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks) | Wired | AI |
 | 3 | [谷歌为出版商提供了一种应对人工智能驱动的流量损失的新方法 / Google gives publishers a new way to fight AI-driven traffic losses](https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses) | TechCrunch | AI |
 | 4 | [23 岁的建筑商如何让 AI 视频变得简单 / How a 23-year old builder made AI video simple](https://thenextweb.com/news/sean-grindal-23-year-old-ai-video-yapper) | The Next Web | AI |
 | 5 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
 
-> 共 14 条，以上为 TOP 5。
+> 共 12 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Stripe 以 75 亿美元收购人工智能初创公司 OpenRouter / Stripe Buys AI Startup OpenRouter For $7.5 Billion](https://news.slashdot.org/story/26/08/19/2128206/stripe-buys-ai-startup-openrouter-for-75-billion) | Slashdot | AI |
-| 2 | [Meta 用于创建生成式 AI 迷你游戏的应用程序现已在美国推出 / Meta's app for creating generative AI minigames is now available in the US](https://www.engadget.com/2241098/meta-pocket-app-for-creating-generative-ai-minigames-available-in-us) | Engadget | AI |
-| 3 | [自 7 月初以来，一直没有关于 Siri AI 登陆欧盟的最新消息 / No Update Since Early July Regarding Siri AI Coming to the EU, Ever](https://daringfireball.net/linked/2026/08/17/no-update-since-early-july-regarding-siri-ai-coming-to-the-eu-ever) | Daring Fireball | AI |
-| 4 | [OpenAI 在 macOS 上推出适用于 ChatGPT 的 Apple Messages 插件，让 ChatGPT 读取、搜索和分析聊天内容，准备和发送消息等 (Zac Hall/9to5Mac) / OpenAI rolls out an Apple Messages plugin for ChatGPT on macOS, letting ChatGPT read, search, and analyze chats, prepare and send messages, and more (Zac Hall/9to5Mac)](https://www.techmeme.com/260820/p43) | Techmeme | AI |
-| 5 | [消息来源：Broadcom 正在与一组贷方进行谈判，为 AI 芯片融资交易筹集 60B+ 美元的债务，这将使 Anthropic 和其他公司受益（彭博社） / Sources: Broadcom is in talks with a group of lenders to raise $60B+ in debt for an AI chip financing deal that will benefit Anthropic and other companies (Bloomberg)](https://www.techmeme.com/260820/p39) | Techmeme | AI |
+| 1 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
+| 2 | [Stripe 以 75 亿美元收购人工智能初创公司 OpenRouter / Stripe Buys AI Startup OpenRouter For $7.5 Billion](https://news.slashdot.org/story/26/08/19/2128206/stripe-buys-ai-startup-openrouter-for-75-billion) | Slashdot | AI |
+| 3 | [Meta 用于创建生成式 AI 迷你游戏的应用程序现已在美国推出 / Meta's app for creating generative AI minigames is now available in the US](https://www.engadget.com/2241098/meta-pocket-app-for-creating-generative-ai-minigames-available-in-us) | Engadget | AI |
+| 4 | [自 7 月初以来，一直没有关于 Siri AI 登陆欧盟的最新消息 / No Update Since Early July Regarding Siri AI Coming to the EU, Ever](https://daringfireball.net/linked/2026/08/17/no-update-since-early-july-regarding-siri-ai-coming-to-the-eu-ever) | Daring Fireball | AI |
+| 5 | [OpenAI 在 macOS 上推出适用于 ChatGPT 的 Apple Messages 插件，让 ChatGPT 读取、搜索和分析聊天内容，准备和发送消息等 (Zac Hall/9to5Mac) / OpenAI rolls out an Apple Messages plugin for ChatGPT on macOS, letting ChatGPT read, search, and analyze chats, prepare and send messages, and more (Zac Hall/9to5Mac)](https://www.techmeme.com/260820/p43) | Techmeme | AI |
 
-> 共 58 条，以上为 TOP 5。
+> 共 61 条，以上为 TOP 5。
 
 ---
 
@@ -53,9 +53,9 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [分析显示，在美国与伊朗谅解备忘录到期前，原油流量几乎翻了两番 - Al Jazeera](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTm1OSENEd3Nray1mNnlZNXZDaGFUZXJPdDVnaTJKUXRHSDczSWRud1VQdEVzdjlucXdjSENGZ3FJbmVqS2F1dGJqdHp2eUR1QnFzRWEtZXVIcVA2YS1JZU5XRkhSYzdZYVZGTWl2N24yd0x6cmZHUERONE1nZGFNOVc0eTNrX3lmR0ZZaE1kRFllc0M5SlJvc0Zrd9IBoAFBVV95cUxQbV9tQWN5YmJ3YmZiWnp2VUtPYW02UWh6Ni1FVmZfZEdkVm5JYnE5U3Nxdkd0QTJiS2ItNmlYeGdwM1FLZjhrSkE2N2hHRnF5STlOdXp6UGkxSTIzX1pWdXluX1FNb0k5c1UwaEhVUjRpbER6QWlwMmZOUmRteW1ud05fOEJsRWl5TlZNZl82TnRJY0JnaGRrNGoxblZDa21M?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 3 | [分析显示，在美国与伊朗谅解备忘录到期前，原油流量几乎增长了三倍 - Al Jazeera](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTm1OSENEd3Nray1mNnlZNXZDaGFUZXJPdDVnaTJKUXRHSDczSWRud1VQdEVzdjlucXdjSENGZ3FJbmVqS2F1dGJqdHp2eUR1QnFzRWEtZXVIcVA2YS1JZU5XRkhSYzdZYVZGTWl2N24yd0x6cmZHUERONE1nZGFNOVc0eTNrX3lmR0ZZaE1kRFllc0M5SlJvc0Zrd9IBoAFBVV95cUxQbV9tQWN5YmJ3YmZiWnp2VUtPYW02UWh6Ni1FVmZfZEdkVm5JYnE5U3Nxdkd0QTJiS2ItNmlYeGdwM1FLZjhrSkE2N2hHRnF5STlOdXp6UGkxSTIzX1pWdXluX1FNb0k5c1UwaEhVUjRpbER6QWlwMmZOUmRteW1ud05fOEJsRWl5TlZNZl82TnRJY0JnaGRrNGoxblZDa21M?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 4 | [[推广] 免费流量福利，速来](https://www.v2ex.com/t/1236039) | V2EX (创意工作者社区) | IP |
+| 2 | [抖快B红集体押注“AI互动内容”，创作者如何抓住新机会？](https://www.huxiu.com/article/4884821.html?f=rss) | 虎嗅 (Huxiu) | AI/IP |
+| 3 | [分析显示，在美国与伊朗谅解备忘录到期前，原油流量几乎翻了两番 - Al Jazeera](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTm1OSENEd3Nray1mNnlZNXZDaGFUZXJPdDVnaTJKUXRHSDczSWRud1VQdEVzdjlucXdjSENGZ3FJbmVqS2F1dGJqdHp2eUR1QnFzRWEtZXVIcVA2YS1JZU5XRkhSYzdZYVZGTWl2N24yd0x6cmZHUERONE1nZGFNOVc0eTNrX3lmR0ZZaE1kRFllc0M5SlJvc0Zrd9IBoAFBVV95cUxQbV9tQWN5YmJ3YmZiWnp2VUtPYW02UWh6Ni1FVmZfZEdkVm5JYnE5U3Nxdkd0QTJiS2ItNmlYeGdwM1FLZjhrSkE2N2hHRnF5STlOdXp6UGkxSTIzX1pWdXluX1FNb0k5c1UwaEhVUjRpbER6QWlwMmZOUmRteW1ud05fOEJsRWl5TlZNZl82TnRJY0JnaGRrNGoxblZDa21M?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
+| 4 | [分析显示，在美国与伊朗谅解备忘录到期前，原油流量几乎增长了三倍 - Al Jazeera](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTm1OSENEd3Nray1mNnlZNXZDaGFUZXJPdDVnaTJKUXRHSDczSWRud1VQdEVzdjlucXdjSENGZ3FJbmVqS2F1dGJqdHp2eUR1QnFzRWEtZXVIcVA2YS1JZU5XRkhSYzdZYVZGTWl2N24yd0x6cmZHUERONE1nZGFNOVc0eTNrX3lmR0ZZaE1kRFllc0M5SlJvc0Zrd9IBoAFBVV95cUxQbV9tQWN5YmJ3YmZiWnp2VUtPYW02UWh6Ni1FVmZfZEdkVm5JYnE5U3Nxdkd0QTJiS2ItNmlYeGdwM1FLZjhrSkE2N2hHRnF5STlOdXp6UGkxSTIzX1pWdXluX1FNb0k5c1UwaEhVUjRpbER6QWlwMmZOUmRteW1ud05fOEJsRWl5TlZNZl82TnRJY0JnaGRrNGoxblZDa21M?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
 | 5 | [流量卡没有消失，但最便宜的时代可能已经结束了](https://www.huxiu.com/article/4883621.html?f=rss) | 虎嗅 (Huxiu) | IP |
 
 > 共 10 条，以上为 TOP 5。
@@ -66,8 +66,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [公司倒闭后，如何靠卖员工数据赚钱](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ%3D%3D&mid=2656195338&idx=4&sn=2c36cd581708b851380c78fee37c1fbf) | 虎嗅App | 变现 |
-| 2 | [36氪2026财年上半年收入及利润大幅上涨](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw%3D%3D&mid=2248899685&idx=3&sn=8fa477ddc44e352b1c6452c5e4249db0) | 36氪 | 变现 |
+| 1 | [网易有道2026Q2财报：Q2净收入14.7亿元，AI原生战略加速兑现商业价值](https://www.qbitai.com/2026/08/476400.html) | 量子位 · 每日最新 | AI/变现 |
+| 2 | [公司倒闭后，如何靠卖员工数据赚钱](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ%3D%3D&mid=2656195338&idx=4&sn=2c36cd581708b851380c78fee37c1fbf) | 虎嗅App | 变现 |
+| 3 | [36氪2026财年上半年收入及利润大幅上涨](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw%3D%3D&mid=2248899685&idx=3&sn=8fa477ddc44e352b1c6452c5e4249db0) | 36氪 | 变现 |
 
 ---
 
@@ -79,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-21T02:52:29.010Z
-- **总资讯数**：4437 条原始 → 634 条筛选后
+- **聚合时间**：2026-08-21T04:25:43.504Z
+- **总资讯数**：4448 条原始 → 641 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
