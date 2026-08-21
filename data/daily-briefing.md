@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
-| 2 | [程序员表示他们已经找到了克劳德隐形水印的解决方法 / Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks](https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks) | Wired | AI |
-| 3 | [谷歌为出版商提供了一种应对人工智能驱动的流量损失的新方法 / Google gives publishers a new way to fight AI-driven traffic losses](https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses) | TechCrunch | AI |
-| 4 | [23 岁的建筑商如何让 AI 视频变得简单 / How a 23-year old builder made AI video simple](https://thenextweb.com/news/sean-grindal-23-year-old-ai-video-yapper) | The Next Web | AI |
-| 5 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 1 | [程序员表示他们已经找到了克劳德隐形水印的解决方法 / Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks](https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks) | Wired | AI |
+| 2 | [谷歌为出版商提供了一种应对人工智能驱动的流量损失的新方法 / Google gives publishers a new way to fight AI-driven traffic losses](https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses) | TechCrunch | AI |
+| 3 | [23 岁的建筑商如何让 AI 视频变得简单 / How a 23-year old builder made AI video simple](https://thenextweb.com/news/sean-grindal-23-year-old-ai-video-yapper) | The Next Web | AI |
+| 4 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 5 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 12 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
-| 2 | [Stripe 以 75 亿美元收购人工智能初创公司 OpenRouter / Stripe Buys AI Startup OpenRouter For $7.5 Billion](https://news.slashdot.org/story/26/08/19/2128206/stripe-buys-ai-startup-openrouter-for-75-billion) | Slashdot | AI |
-| 3 | [Meta 用于创建生成式 AI 迷你游戏的应用程序现已在美国推出 / Meta's app for creating generative AI minigames is now available in the US](https://www.engadget.com/2241098/meta-pocket-app-for-creating-generative-ai-minigames-available-in-us) | Engadget | AI |
-| 4 | [自 7 月初以来，一直没有关于 Siri AI 登陆欧盟的最新消息 / No Update Since Early July Regarding Siri AI Coming to the EU, Ever](https://daringfireball.net/linked/2026/08/17/no-update-since-early-july-regarding-siri-ai-coming-to-the-eu-ever) | Daring Fireball | AI |
+| 1 | [Stripe 以 75 亿美元收购人工智能初创公司 OpenRouter / Stripe Buys AI Startup OpenRouter For $7.5 Billion](https://news.slashdot.org/story/26/08/19/2128206/stripe-buys-ai-startup-openrouter-for-75-billion) | Slashdot | AI |
+| 2 | [Meta 用于创建生成式 AI 迷你游戏的应用程序现已在美国推出 / Meta's app for creating generative AI minigames is now available in the US](https://www.engadget.com/2241098/meta-pocket-app-for-creating-generative-ai-minigames-available-in-us) | Engadget | AI |
+| 3 | [自 7 月初以来，一直没有关于 Siri AI 登陆欧盟的最新消息 / No Update Since Early July Regarding Siri AI Coming to the EU, Ever](https://daringfireball.net/linked/2026/08/17/no-update-since-early-july-regarding-siri-ai-coming-to-the-eu-ever) | Daring Fireball | AI |
+| 4 | [巴西宣布美国和中国公司之间分配约 4.442 亿美元的人工智能投资，其中约 2.503 亿美元用于华为和科大讯飞的超级计算项目（Marcela Ayres/路透社） / Brazil announces ~$444.2M in AI investments split between US and Chinese companies, including ~$250.3M for a supercomputing project with Huawei and iFlytek (Marcela Ayres/Reuters)](https://www.techmeme.com/260820/p48) | Techmeme | AI |
 | 5 | [OpenAI 在 macOS 上推出适用于 ChatGPT 的 Apple Messages 插件，让 ChatGPT 读取、搜索和分析聊天内容，准备和发送消息等 (Zac Hall/9to5Mac) / OpenAI rolls out an Apple Messages plugin for ChatGPT on macOS, letting ChatGPT read, search, and analyze chats, prepare and send messages, and more (Zac Hall/9to5Mac)](https://www.techmeme.com/260820/p43) | Techmeme | AI |
 
-> 共 61 条，以上为 TOP 5。
+> 共 60 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [抖快B红集体押注“AI互动内容”，创作者如何抓住新机会？](https://www.huxiu.com/article/4884821.html?f=rss) | 虎嗅 (Huxiu) | AI/IP |
-| 3 | [分析显示，在美国与伊朗谅解备忘录到期前，原油流量几乎翻了两番 - Al Jazeera](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTm1OSENEd3Nray1mNnlZNXZDaGFUZXJPdDVnaTJKUXRHSDczSWRud1VQdEVzdjlucXdjSENGZ3FJbmVqS2F1dGJqdHp2eUR1QnFzRWEtZXVIcVA2YS1JZU5XRkhSYzdZYVZGTWl2N24yd0x6cmZHUERONE1nZGFNOVc0eTNrX3lmR0ZZaE1kRFllc0M5SlJvc0Zrd9IBoAFBVV95cUxQbV9tQWN5YmJ3YmZiWnp2VUtPYW02UWh6Ni1FVmZfZEdkVm5JYnE5U3Nxdkd0QTJiS2ItNmlYeGdwM1FLZjhrSkE2N2hHRnF5STlOdXp6UGkxSTIzX1pWdXluX1FNb0k5c1UwaEhVUjRpbER6QWlwMmZOUmRteW1ud05fOEJsRWl5TlZNZl82TnRJY0JnaGRrNGoxblZDa21M?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 4 | [分析显示，在美国与伊朗谅解备忘录到期前，原油流量几乎增长了三倍 - Al Jazeera](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTm1OSENEd3Nray1mNnlZNXZDaGFUZXJPdDVnaTJKUXRHSDczSWRud1VQdEVzdjlucXdjSENGZ3FJbmVqS2F1dGJqdHp2eUR1QnFzRWEtZXVIcVA2YS1JZU5XRkhSYzdZYVZGTWl2N24yd0x6cmZHUERONE1nZGFNOVc0eTNrX3lmR0ZZaE1kRFllc0M5SlJvc0Zrd9IBoAFBVV95cUxQbV9tQWN5YmJ3YmZiWnp2VUtPYW02UWh6Ni1FVmZfZEdkVm5JYnE5U3Nxdkd0QTJiS2ItNmlYeGdwM1FLZjhrSkE2N2hHRnF5STlOdXp6UGkxSTIzX1pWdXluX1FNb0k5c1UwaEhVUjRpbER6QWlwMmZOUmRteW1ud05fOEJsRWl5TlZNZl82TnRJY0JnaGRrNGoxblZDa21M?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 5 | [流量卡没有消失，但最便宜的时代可能已经结束了](https://www.huxiu.com/article/4883621.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 2 | [流量平台的定价权：这轮讨论里被绕开的真问题](https://www.huxiu.com/article/4884845.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 3 | [图片显示，在干旱肆虐的英格兰乡村中，经过生态恢复的土地依然郁郁葱葱](https://www.theguardian.com/environment/2026/aug/21/somerset-rewilding-holnicote-estate-wetlands-rivers-resilience) | www.theguardian.com | 回乡 |
+| 4 | [抖快B红集体押注“AI互动内容”，创作者如何抓住新机会？](https://www.huxiu.com/article/4884821.html?f=rss) | 虎嗅 (Huxiu) | AI/IP |
+| 5 | [分析显示，在美国与伊朗谅解备忘录到期前，原油流量几乎翻了两番 - Al Jazeera](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTm1OSENEd3Nray1mNnlZNXZDaGFUZXJPdDVnaTJKUXRHSDczSWRud1VQdEVzdjlucXdjSENGZ3FJbmVqS2F1dGJqdHp2eUR1QnFzRWEtZXVIcVA2YS1JZU5XRkhSYzdZYVZGTWl2N24yd0x6cmZHUERONE1nZGFNOVc0eTNrX3lmR0ZZaE1kRFllc0M5SlJvc0Zrd9IBoAFBVV95cUxQbV9tQWN5YmJ3YmZiWnp2VUtPYW02UWh6Ni1FVmZfZEdkVm5JYnE5U3Nxdkd0QTJiS2ItNmlYeGdwM1FLZjhrSkE2N2hHRnF5STlOdXp6UGkxSTIzX1pWdXluX1FNb0k5c1UwaEhVUjRpbER6QWlwMmZOUmRteW1ud05fOEJsRWl5TlZNZl82TnRJY0JnaGRrNGoxblZDa21M?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
 
-> 共 10 条，以上为 TOP 5。
+> 共 12 条，以上为 TOP 5。
 
 ---
 
@@ -80,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-21T04:25:43.504Z
-- **总资讯数**：4448 条原始 → 641 条筛选后
+- **聚合时间**：2026-08-21T06:21:32.303Z
+- **总资讯数**：4443 条原始 → 651 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
