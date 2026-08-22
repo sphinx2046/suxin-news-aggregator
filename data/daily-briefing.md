@@ -11,8 +11,8 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [我让 AI Agent 先别改代码，它怎么还是动手了？](https://juejin.cn/post/7675005880885461038) | juejin | AI |
-| 2 | [Claude Code 被轻易攻破，仅需一个假工具](https://aiera.com.cn/2026/08/22/other/admin/110112/claude-code-%e8%a2%ab%e8%bd%bb%e6%98%93%e6%94%bb%e7%a0%b4%ef%bc%8c%e4%bb%85%e9%9c%80%e4%b8%80%e4%b8%aa%e5%81%87%e5%b7%a5%e5%85%b7) | 新智元 | AI |
-| 3 | [Show HN: OzBrain——代理与您的团队之间共享知识的“集体智慧” / Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com/) | Hacker News | AI |
+| 2 | [GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction](https://developers.openai.com/api/docs/models/gpt-5.6-sol) | Hacker News | AI |
+| 3 | [显示 HN：OzBrain，代理和团队之间的知识共享大脑 / Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com/) | Hacker News | AI |
 | 4 | [快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude) | Hacker News | AI |
 | 5 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
 
@@ -30,7 +30,7 @@
 | 4 | [我用 DeepSeek-V4-Pro，完美复刻了苹果官网](https://juejin.cn/post/7676098169973473330) | juejin | AI |
 | 5 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
 
-> 共 11 条，以上为 TOP 5。
+> 共 12 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [震撼！OpenAI全面开源Codex Harness](https://aiera.com.cn/2026/08/22/other/admin/110103/%e9%9c%87%e6%92%bc%ef%bc%81openai%e5%85%a8%e9%9d%a2%e5%bc%80%e6%ba%90codex-harness) | 新智元 | AI |
-| 2 | [美光在博伊西开设价值 100 亿美元的人工智能内存研究实验室 / Micron Unveils $10 Billion AI Memory Research Lab In Boise](https://hardware.slashdot.org/story/26/08/21/1752224/micron-unveils-10-billion-ai-memory-research-lab-in-boise) | Slashdot | AI |
-| 3 | [人工智能会计初创公司 Rillet 如何在 48 小时内筹集 1 亿美元并成为独角兽 / How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours](https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours) | TechCrunch | AI |
-| 4 | [Anthropic 的企业风险投资公司在四个月内收购了第二家咨询公司 / Anthropic’s enterprise venture has bought its second consultancy in four months](https://thenextweb.com/news/anthropic-ode-acquires-casper-studios-enterprise-ai) | The Next Web | AI |
+| 1 | [美光在博伊西开设价值 100 亿美元的人工智能内存研究实验室 / Micron Unveils $10 Billion AI Memory Research Lab In Boise](https://hardware.slashdot.org/story/26/08/21/1752224/micron-unveils-10-billion-ai-memory-research-lab-in-boise) | Slashdot | AI |
+| 2 | [人工智能会计初创公司 Rillet 如何在 48 小时内筹集 1 亿美元并成为独角兽 / How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours](https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours) | TechCrunch | AI |
+| 3 | [Anthropic 的企业风险投资公司在四个月内收购了第二家咨询公司 / Anthropic’s enterprise venture has bought its second consultancy in four months](https://thenextweb.com/news/anthropic-ode-acquires-casper-studios-enterprise-ai) | The Next Web | AI |
+| 4 | [Rundoo 是一家为独立供应商店提供人工智能驱动的业务运营软件的提供商，筹集了由 Battery Ventures（Mike Wheatley/SiliconANGLE）领投的 3000 万美元 B 轮融资 / Rundoo, a provider of AI-powered business operations software for independent supply stores, raised a $30M Series B led by Battery Ventures (Mike Wheatley/SiliconANGLE)](https://www.techmeme.com/260822/p3) | Techmeme | AI |
 | 5 | [OpenAI makes ChatGPT less 'human' for teens in new safety update](https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
 
-> 共 60 条，以上为 TOP 5。
+> 共 63 条，以上为 TOP 5。
 
 ---
 
@@ -53,10 +53,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [[推广] 周末福利！动态住宅流量免费送，有需要的来领](https://www.v2ex.com/t/1236352) | V2EX (创意工作者社区) | IP |
-| 3 | [莫迪花了数年时间塑造自己强硬的形象——他为什么现在要制作面向Z世代的短视频呢？](https://www.bbc.co.uk/news/articles/cnvn0n1nld6o?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | IP |
-| 4 | [[推广] 15 个住宅 IP，免费流量](https://www.v2ex.com/t/1236343) | V2EX (创意工作者社区) | IP |
-| 5 | [[推广] 福利继续送 流量免费自取 可用于多业务](https://www.v2ex.com/t/1236340) | V2EX (创意工作者社区) | IP |
+| 2 | [[推广] [福利] 500M 住宅 IP 免费领，流量永不过期！](https://www.v2ex.com/t/1236398) | V2EX (创意工作者社区) | IP |
+| 3 | [困在流量“系统”里](https://www.huxiu.com/article/4885130.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 4 | [[推广] 周末福利！动态住宅流量免费送，有需要的来领](https://www.v2ex.com/t/1236352) | V2EX (创意工作者社区) | IP |
+| 5 | [莫迪花了数年时间塑造自己强硬的形象——他为什么现在要制作面向Z世代的短视频呢？](https://www.bbc.co.uk/news/articles/cnvn0n1nld6o?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | IP |
 
 > 共 6 条，以上为 TOP 5。
 
@@ -81,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-22T06:16:55.043Z
-- **总资讯数**：4390 条原始 → 622 条筛选后
+- **聚合时间**：2026-08-22T08:14:08.029Z
+- **总资讯数**：4380 条原始 → 606 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
