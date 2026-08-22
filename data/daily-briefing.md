@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [我让 AI Agent 先别改代码，它怎么还是动手了？](https://juejin.cn/post/7675005880885461038) | juejin | AI |
-| 2 | [GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction](https://developers.openai.com/api/docs/models/gpt-5.6-sol) | Hacker News | AI |
-| 3 | [显示 HN：OzBrain，代理和团队之间的知识共享大脑 / Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com/) | Hacker News | AI |
-| 4 | [快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude) | Hacker News | AI |
-| 5 | [谢尔盖·布林 (Sergey Brin) 表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 1 | [「速通Shell」Shell编程的错误处理与日志](https://juejin.cn/post/7675540232994783251) | juejin | 其他 |
+| 2 | [在这个独属于ai的时代，我终究是被裁员了](https://juejin.cn/post/7676301268526530560) | juejin | AI |
+| 3 | [爽用 DeepSeek V4 Flash、GLM-5.2、Qwen3.8 Max、GPT 5.6 Luna，OpenCode 太香了！](https://juejin.cn/post/7675412802417639462) | juejin | AI |
+| 4 | [DeepSeek Harness 这波，搞得全世界都在安装 Node.js](https://juejin.cn/post/7675899462443122726) | juejin | AI |
+| 5 | [DeepSeek Harness 插件：HTML 实时可视化编辑](https://juejin.cn/post/7675247670898032692) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 2 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | 掘金 · 人工智能本周最热 | AI |
-| 3 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
-| 4 | [我用 DeepSeek-V4-Pro，完美复刻了苹果官网](https://juejin.cn/post/7676098169973473330) | juejin | AI |
-| 5 | [[分享发现] 关于一个老哥帖子里认为的程序员指挥 ai 是弯路的话题下我的看法](https://www.v2ex.com/t/1236380) | V2EX (创意工作者社区) | AI |
+| 1 | [我用 DeepSeek-V4-Pro，完美复刻了苹果官网](https://juejin.cn/post/7676098169973473330) | juejin | AI |
+| 2 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
+| 3 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 4 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [[分享创造] 做了个 DeepSeek Harness 的原地追问的楼中楼小插件](https://www.v2ex.com/t/1236443) | V2EX (创意工作者社区) | AI |
 
-> 共 9 条，以上为 TOP 5。
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [美光在博伊西开设价值 100 亿美元的人工智能内存研究实验室 / Micron Unveils $10 Billion AI Memory Research Lab In Boise](https://hardware.slashdot.org/story/26/08/21/1752224/micron-unveils-10-billion-ai-memory-research-lab-in-boise) | Slashdot | AI |
-| 2 | [人工智能会计初创公司 Rillet 如何在 48 小时内筹集 1 亿美元并成为独角兽 / How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours](https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours) | TechCrunch | AI |
-| 3 | [Anthropic 的企业风险投资公司在四个月内收购了第二家咨询公司 / Anthropic’s enterprise venture has bought its second consultancy in four months](https://thenextweb.com/news/anthropic-ode-acquires-casper-studios-enterprise-ai) | The Next Web | AI |
-| 4 | [Rundoo 是一家为独立供应商店提供人工智能驱动的业务运营软件的提供商，筹集了由 Battery Ventures（Mike Wheatley/SiliconANGLE）领投的 3000 万美元 B 轮融资 / Rundoo, a provider of AI-powered business operations software for independent supply stores, raised a $30M Series B led by Battery Ventures (Mike Wheatley/SiliconANGLE)](https://www.techmeme.com/260822/p3) | Techmeme | AI |
-| 5 | [假 Drakes 和假 Kanyes：互联网突然充斥着人工智能生成的嘻哈音乐 / Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop](https://www.buzzfeed.com/chrisstokelwalker/ai-hip-hop-rap-music-drake-kanye-weeknd-rihanna-jay-z) | BuzzFeed News | AI |
+| 1 | [国产模型越来越强了：DeepSeek V4、Kimi K3 与 GLM 最新进展](https://juejin.cn/post/7675272903248920595) | juejin | AI |
+| 2 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
+| 3 | [美光在博伊西开设价值 100 亿美元的人工智能内存研究实验室 / Micron Unveils $10 Billion AI Memory Research Lab In Boise](https://hardware.slashdot.org/story/26/08/21/1752224/micron-unveils-10-billion-ai-memory-research-lab-in-boise) | Slashdot | AI |
+| 4 | [人工智能会计初创公司 Rillet 如何在 48 小时内筹集 1 亿美元并成为独角兽 / How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours](https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours) | TechCrunch | AI |
+| 5 | [Anthropic 可能筹集 1000 亿美元，是欧洲数十年来最大上市规模的十倍 / Anthropic could raise $100bn, ten times Europe’s largest listing in decades](https://thenextweb.com/news/anthropic-ipo-100-billion-two-trillion-valuation) | The Next Web | AI |
 
-> 共 66 条，以上为 TOP 5。
+> 共 64 条，以上为 TOP 5。
 
 ---
 
@@ -57,8 +57,6 @@
 | 3 | [[推广] [福利] 500M 住宅 IP 免费领，流量永不过期！](https://www.v2ex.com/t/1236398) | V2EX (创意工作者社区) | IP |
 | 4 | [困在流量“系统”里](https://www.huxiu.com/article/4885130.html?f=rss) | 虎嗅 (Huxiu) | IP |
 | 5 | [莫迪花了数年时间塑造自己强硬的形象——他为什么现在要制作面向Z世代的短视频呢？](https://www.bbc.co.uk/news/articles/cnvn0n1nld6o?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | IP |
-
-> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -80,8 +78,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-22T10:10:08.522Z
-- **总资讯数**：4364 条原始 → 601 条筛选后
+- **聚合时间**：2026-08-22T12:12:14.342Z
+- **总资讯数**：4338 条原始 → 598 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
