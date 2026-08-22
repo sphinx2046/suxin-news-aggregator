@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Claude Code 被轻易攻破，仅需一个假工具](https://aiera.com.cn/2026/08/22/other/admin/110112/claude-code-%e8%a2%ab%e8%bd%bb%e6%98%93%e6%94%bb%e7%a0%b4%ef%bc%8c%e4%bb%85%e9%9c%80%e4%b8%80%e4%b8%aa%e5%81%87%e5%b7%a5%e5%85%b7) | 新智元 | AI |
-| 2 | [负责人Tibo回应Codex额度大幅缩水，一个 Skill 查明白你的20×](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247619816&idx=1&sn=7233b620b0c9c3267773071af6eb4460) | 夕小瑶科技说 | 其他 |
-| 3 | [神秘新模型“Ox Alpha”突袭OpenRouter，性能超过Fable5？全网盲猜智谱或小米](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665930&idx=1&sn=ae0d2e5258f41efc952052e9ac7a938c) | AI前线 | AI |
-| 4 | [Everything is a plugin, DeepSeekHamess 的真正野心，是 Agent的自进化](https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247516651&idx=1&sn=142ec7e5454a7dd23bdaa819102e9447) | FounderPark | AI |
-| 5 | [多部门联手应对青年失业率上升挑战](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ%3D%3D&mid=2653730676&idx=1&sn=f2bc3c90f3c1a6227d487bf40647dcaf) | 财经杂志 | 其他 |
+| 1 | [我让 AI Agent 先别改代码，它怎么还是动手了？](https://juejin.cn/post/7675005880885461038) | juejin | AI |
+| 2 | [Claude Code 被轻易攻破，仅需一个假工具](https://aiera.com.cn/2026/08/22/other/admin/110112/claude-code-%e8%a2%ab%e8%bd%bb%e6%98%93%e6%94%bb%e7%a0%b4%ef%bc%8c%e4%bb%85%e9%9c%80%e4%b8%80%e4%b8%aa%e5%81%87%e5%b7%a5%e5%85%b7) | 新智元 | AI |
+| 3 | [「速通Shell」Shell编程的错误处理与日志](https://juejin.cn/post/7675540232994783251) | juejin | 其他 |
+| 4 | [在这个独属于ai的时代，我终究是被裁员了](https://juejin.cn/post/7676301268526530560) | juejin | AI |
+| 5 | [爽用 DeepSeek V4 Flash、GLM-5.2、Qwen3.8 Max、GPT 5.6 Luna，OpenCode 太香了！](https://juejin.cn/post/7675412802417639462) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 2 | [零基础速通DeepSeek Harness，带你玩转赛博乐高](https://www.36kr.com/p/3948691750059394) | 36氪 · 24小时热榜 | AI |
-| 3 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [小白都看得懂的 Skill 教程 - 创建第一个 Skill](https://juejin.cn/post/7673674128557326374) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [From Atari to EVE Online: Building on 15 Years of AI Research in Games](https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games) | Readhub · AI | AI |
+| 1 | [我用 DeepSeek-V4-Pro，完美复刻了苹果官网](https://juejin.cn/post/7676098169973473330) | juejin | AI |
+| 2 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 3 | [零基础速通DeepSeek Harness，带你玩转赛博乐高](https://www.36kr.com/p/3948691750059394) | 36氪 · 24小时热榜 | AI |
+| 4 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [小白都看得懂的 Skill 教程 - 创建第一个 Skill](https://juejin.cn/post/7673674128557326374) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 16 条，以上为 TOP 5。
+> 共 14 条，以上为 TOP 5。
 
 ---
 
@@ -39,12 +39,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [震撼！OpenAI全面开源Codex Harness](https://aiera.com.cn/2026/08/22/other/admin/110103/%e9%9c%87%e6%92%bc%ef%bc%81openai%e5%85%a8%e9%9d%a2%e5%bc%80%e6%ba%90codex-harness) | 新智元 | AI |
-| 2 | [GPT Image 2.5 要来了？疑似 OpenAl 匿名新模型现身Arena](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247619815&idx=1&sn=9e1f8cd276eb9cb4d3a9943c114ae2c8) | 夕小瑶科技说 | AI |
-| 3 | [DeepSeek视觉模型来了！](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247619773&idx=1&sn=54b28733e4ef522dc261baef7cf65bb4) | 夕小瑶科技说 | AI |
-| 4 | [黄仁勋被曝当上AI圈“红娘”，算力大战突然换了玩法](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247619704&idx=1&sn=abc8c731767b0e3eb2f9d2f940574010) | 夕小瑶科技说 | AI |
-| 5 | [DeepSeek Harness 负责人吐槽“融资材料”吹过头：V4-Pro编程能力仅差Clau..](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665538&idx=1&sn=02987dc5815ebf00d8d043c5aad5f330) | AI前线 | AI |
+| 2 | [做了 3 年 Spring Boot，老板让我一周搭个 AI Agent，上线当天被安全叫停：Java 团队落地 AI 的三道坎，我替你踩完了](https://juejin.cn/post/7675447922214191150) | juejin | AI |
+| 3 | [国产模型越来越强了：DeepSeek V4、Kimi K3 与 GLM 最新进展](https://juejin.cn/post/7675272903248920595) | juejin | AI |
+| 4 | [美光在博伊西开设价值 100 亿美元的人工智能内存研究实验室 / Micron Unveils $10 Billion AI Memory Research Lab In Boise](https://hardware.slashdot.org/story/26/08/21/1752224/micron-unveils-10-billion-ai-memory-research-lab-in-boise) | Slashdot | AI |
+| 5 | [人工智能会计初创公司 Rillet 如何在 48 小时内筹集 1 亿美元并成为独角兽 / How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours](https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours) | TechCrunch | AI |
 
-> 共 64 条，以上为 TOP 5。
+> 共 61 条，以上为 TOP 5。
 
 ---
 
@@ -53,8 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [乌克兰以涉嫌传播克里姆林宫宣传为由，对《玛莎与小熊》的创作者实施制裁 - The Moscow Times](https://news.google.com/rss/articles/CBMixAFBVV95cUxNemZpMWtaNjRKVWNkb3dBTTVVMXJneHc0ZzhyNEk3VUJ3em9NdDcwazVqVkN6S0pjZUw4c2Z4VktzVjdBZWVwSGlCRkZ1LXF0NklQandlNWpxMnJCQXdjRG1oVTZfMnVPV2xEcE5maFMzZElPYWdGTVUxU0p1Qm1GR1hERFVNNC01NU9kOXNLNllRVmdoYmh3eVJhVVl2aUhiNjJyTzVOOE4tWjM2NV9HVVQ4OV9LYWUwVmJ3LXQzT2RmVnZz?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 3 | [夏末水畔的田园诗——船上和海滩酒吧盘点。](https://www.newyorker.com/culture/goings-on/late-summertime-idylls-by-the-water) | www.newyorker.com | 回乡 |
+| 2 | [[推广] 周末福利！动态住宅流量免费送，有需要的来领](https://www.v2ex.com/t/1236352) | V2EX (创意工作者社区) | IP |
+| 3 | [莫迪花了数年时间塑造自己强硬的形象——他为什么现在要制作面向Z世代的短视频呢？](https://www.bbc.co.uk/news/articles/cnvn0n1nld6o?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | IP |
+| 4 | [[推广] 15 个住宅 IP，免费流量](https://www.v2ex.com/t/1236343) | V2EX (创意工作者社区) | IP |
+| 5 | [[推广] 福利继续送 流量免费自取 可用于多业务](https://www.v2ex.com/t/1236340) | V2EX (创意工作者社区) | IP |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -62,10 +66,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Token经济学：谁最赚钱？谁在买单?](https://mp.weixin.qq.com/s?__biz=MjM5NDAzMjk2MA%3D%3D&mid=2653628294&idx=1&sn=6078c7c404bdc5f1a79556c9e8db3eca) | 第一财经YiMagazine | 变现 |
-| 2 | [一项真金白银的实验发现：耐心能带来更长的求学之路和更快的收入增长](https://phys.org/news/2026-08-patience-longer-paths-faster-growth.html) | phys.org | 变现 |
-| 3 | [中国音数协游戏工委：7 月国内游戏市场实际销售收入同比增长 6.92%](https://www.ithome.com/0/992/836.htm) | IT之家 (ITHome) | 变现 |
-| 4 | [一对夫妇在8年内将一个博客打造成了一家年收入达7位数的企业。他们介绍了4种在线赚钱的方法。](https://www.businessinsider.com/couple-built-seven-figure-business-how-to-make-money-online-2026-8) | www.businessinsider.com | 变现 |
+| 1 | [由人工智能驱动的收入规划革命已经到来](https://finance.yahoo.com/technology/ai/articles/ai-powered-income-planning-revolution-205000947.html) | finance.yahoo.com | AI/变现 |
+| 2 | [“混乱的关税制度造成的损失无法通过退税弥补”：这1000亿美元的退税已抵消了自5月以来进口税带来的所有收入 - Fortune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTXc1SFVjRlVfRU1STFZxYWw5RXJNZkZJOEhtXzNFRXJ0NXZ2RkxUSmlLaVRNZjVPdFJGNkFhdDBHVnVMNkdGQU1mZEhYbFIxa0VySG11Q2dtUUxfS2V0ZHFDUWotTXpab1A2MGRVMEkyTEFTbWFfbEFNQkYwWVJfZDBlcU9Nb0RmeURacG9vUTFJRzVNZ0ZQU3BvYXZvOHVOaGwwNFJPcks?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
+| 3 | [Token经济学：谁最赚钱？谁在买单?](https://mp.weixin.qq.com/s?__biz=MjM5NDAzMjk2MA%3D%3D&mid=2653628294&idx=1&sn=6078c7c404bdc5f1a79556c9e8db3eca) | 第一财经YiMagazine | 变现 |
+| 4 | [一项真金白银的实验发现：耐心能带来更长的求学之路和更快的收入增长](https://phys.org/news/2026-08-patience-longer-paths-faster-growth.html) | phys.org | 变现 |
+| 5 | [一对夫妇在8年内将一个博客打造成了一家年收入达7位数的企业。他们介绍了4种在线赚钱的方法。](https://www.businessinsider.com/couple-built-seven-figure-business-how-to-make-money-online-2026-8) | www.businessinsider.com | 变现 |
 
 ---
 
@@ -77,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-22T00:27:13.804Z
-- **总资讯数**：4367 条原始 → 611 条筛选后
+- **聚合时间**：2026-08-22T02:44:07.451Z
+- **总资讯数**：4372 条原始 → 607 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
