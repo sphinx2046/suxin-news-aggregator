@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [DeepSeek Harness 插件：HTML 实时可视化编辑](https://juejin.cn/post/7675247670898032692) | juejin | AI |
-| 2 | [挖掘我技能的坟墓：好莱坞创意人员训练人工智能来完成他们的工作 / Digging the grave of my skills: Hollywood creatives training AI to do their jobs](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs) | Hacker News | AI |
-| 3 | [蒙德·迪夫林——特工装备，助你管理由克隆人组成的办公室 / Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/) | Hacker News | AI |
-| 4 | [嵌入式人工智能 / Embedded AI](https://nostarch.com/embedded-ai) | Hacker News | AI |
-| 5 | [GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction](https://developers.openai.com/api/docs/models/gpt-5.6-sol) | Hacker News | AI |
+| 1 | [社区版 Dart macros？一个可以解决 JSON 序列化的Fluter “宏编程”第三方包](https://juejin.cn/post/7675265690036273158) | juejin | 其他 |
+| 2 | [DeepSeek Harness 插件：HTML 实时可视化编辑](https://juejin.cn/post/7675247670898032692) | juejin | AI |
+| 3 | [「速通Shell」Shell编程的错误处理与日志](https://juejin.cn/post/7675540232994783251) | juejin | 其他 |
+| 4 | [在这个独属于ai的时代，我终究是被裁员了](https://juejin.cn/post/7676301268526530560) | juejin | AI |
+| 5 | [爽用 DeepSeek V4 Flash、GLM-5.2、Qwen3.8 Max、GPT 5.6 Luna，OpenCode 太香了！](https://juejin.cn/post/7675412802417639462) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 2 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | 掘金 · 人工智能本周最热 | AI |
-| 3 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
-| 4 | [我用 DeepSeek-V4-Pro，完美复刻了苹果官网](https://juejin.cn/post/7676098169973473330) | juejin | AI |
-| 5 | [[程序员] Ox Alpha 公益模型，最近讨论挺火的模型，据说挺强，大家可以试试。](https://www.v2ex.com/t/1236455) | V2EX (创意工作者社区) | AI |
+| 1 | [我用 DeepSeek-V4-Pro，完美复刻了苹果官网](https://juejin.cn/post/7676098169973473330) | juejin | AI |
+| 2 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 3 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [Flock is Secretly Building a Powerful New Prompt-Based AI Tool for Police](https://yro.slashdot.org/story/26/08/22/0526219/flock-is-secretly-building-a-powerful-new-prompt-based-ai-tool-for-police) | Slashdot (科技资讯) | AI |
+| 5 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
 
-> 共 10 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [美光在博伊西开设价值 100 亿美元的人工智能内存研究实验室 / Micron Unveils $10 Billion AI Memory Research Lab In Boise](https://hardware.slashdot.org/story/26/08/21/1752224/micron-unveils-10-billion-ai-memory-research-lab-in-boise) | Slashdot | AI |
-| 2 | [人工智能会计初创公司 Rillet 如何在 48 小时内筹集 1 亿美元并成为独角兽 / How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours](https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours) | TechCrunch | AI |
-| 3 | [Anthropic 可能筹集 1000 亿美元，是欧洲数十年来最大上市规模的十倍 / Anthropic could raise $100bn, ten times Europe’s largest listing in decades](https://thenextweb.com/news/anthropic-ipo-100-billion-two-trillion-valuation) | The Next Web | AI |
-| 4 | [看看不断缩小的中美人工智能差距，一系列引人注目的低成本发布使中国人工智能模型对企业越来越有吸引力（彭博社） / A look at the narrowing US-China AI gap, as a spate of compelling, low-cost releases makes Chinese AI models increasingly attractive to businesses (Bloomberg)](https://www.techmeme.com/260822/p8) | Techmeme | AI |
-| 5 | [Ox Alpha 是一个来自未知 AI 实验室的“隐形模型”，具有 1M 代币多模式环境和每天 100T 代币的容量，在 OpenRouter 上发布后迅速走红（Rohail Saleem/Wccftech） / Ox Alpha, a "stealth model" from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter (Rohail Saleem/Wccftech)](https://www.techmeme.com/260822/p7) | Techmeme | AI |
+| 1 | [国产模型越来越强了：DeepSeek V4、Kimi K3 与 GLM 最新进展](https://juejin.cn/post/7675272903248920595) | juejin | AI |
+| 2 | [Micron Unveils $10 Billion AI Memory Research Lab In Boise](https://hardware.slashdot.org/story/26/08/21/1752224/micron-unveils-10-billion-ai-memory-research-lab-in-boise) | Slashdot | AI |
+| 3 | [How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours](https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours) | TechCrunch | AI |
+| 4 | [A look at the narrowing US-China AI gap, as a spate of compelling, low-cost releases makes Chinese AI models increasingly attractive to businesses (Bloomberg)](https://www.techmeme.com/260822/p8) | Techmeme | AI |
+| 5 | [Ox Alpha, a "stealth model" from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter (Rohail Saleem/Wccftech)](https://www.techmeme.com/260822/p7) | Techmeme | AI |
 
-> 共 69 条，以上为 TOP 5。
+> 共 68 条，以上为 TOP 5。
 
 ---
 
@@ -62,9 +62,8 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI领域的荒谬支出热潮？超大规模云服务商将102%的云收入用于资本支出](https://finance.yahoo.com/technology/ai/articles/ai-absurd-spending-boom-hyperscalers-162709082.html) | finance.yahoo.com | AI/变现 |
-| 2 | [我大学辍学了，现在作为一名工程师，年收入159,000美元。由于生活水平不断攀升，我背上了30,000美元的债务。](https://www.businessinsider.com/software-engineer-cost-of-living-in-nyc-2026-8) | www.businessinsider.com | 变现 |
-| 3 | [Token经济学：谁最赚钱？谁在买单?](https://mp.weixin.qq.com/s?__biz=MjM5NDAzMjk2MA%3D%3D&mid=2653628294&idx=1&sn=6078c7c404bdc5f1a79556c9e8db3eca) | 第一财经YiMagazine | 变现 |
+| 1 | [我大学辍学了，现在作为一名工程师，年收入159,000美元。由于生活水平不断攀升，我背上了30,000美元的债务。](https://www.businessinsider.com/software-engineer-cost-of-living-in-nyc-2026-8) | www.businessinsider.com | 变现 |
+| 2 | [Token经济学：谁最赚钱？谁在买单?](https://mp.weixin.qq.com/s?__biz=MjM5NDAzMjk2MA%3D%3D&mid=2653628294&idx=1&sn=6078c7c404bdc5f1a79556c9e8db3eca) | 第一财经YiMagazine | 变现 |
 
 ---
 
@@ -76,8 +75,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-22T18:10:08.884Z
-- **总资讯数**：4195 条原始 → 566 条筛选后
+- **聚合时间**：2026-08-22T20:08:07.570Z
+- **总资讯数**：4181 条原始 → 561 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
