@@ -14,7 +14,7 @@
 | 2 | [Claude Code 被轻易攻破，仅需一个假工具](https://aiera.com.cn/2026/08/22/other/admin/110112/claude-code-%e8%a2%ab%e8%bd%bb%e6%98%93%e6%94%bb%e7%a0%b4%ef%bc%8c%e4%bb%85%e9%9c%80%e4%b8%80%e4%b8%aa%e5%81%87%e5%b7%a5%e5%85%b7) | 新智元 | AI |
 | 3 | [Show HN: OzBrain——代理与您的团队之间共享知识的“集体智慧” / Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com/) | Hacker News | AI |
 | 4 | [快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude) | Hacker News | AI |
-| 5 | [谢尔盖·布林 (Sergey Brin) 表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 5 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -25,12 +25,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 2 | [零基础速通DeepSeek Harness，带你玩转赛博乐高](https://www.36kr.com/p/3948691750059394) | 36氪 · 24小时热榜 | AI |
-| 3 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [小白都看得懂的 Skill 教程 - 创建第一个 Skill](https://juejin.cn/post/7673674128557326374) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [From Atari to EVE Online: Building on 15 Years of AI Research in Games](https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games) | Readhub · AI | AI |
+| 2 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | 掘金 · 人工智能本周最热 | AI |
+| 3 | [小白都看得懂的 Skill 教程 - 创建第一个 Skill](https://juejin.cn/post/7673674128557326374) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [我用 DeepSeek-V4-Pro，完美复刻了苹果官网](https://juejin.cn/post/7676098169973473330) | juejin | AI |
+| 5 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
 
-> 共 13 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [Anthropic 的企业风险投资公司在四个月内收购了第二家咨询公司 / Anthropic’s enterprise venture has bought its second consultancy in four months](https://thenextweb.com/news/anthropic-ode-acquires-casper-studios-enterprise-ai) | The Next Web | AI |
 | 5 | [OpenAI makes ChatGPT less 'human' for teens in new safety update](https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
 
-> 共 59 条，以上为 TOP 5。
+> 共 60 条，以上为 TOP 5。
 
 ---
 
@@ -81,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-22T04:18:59.740Z
-- **总资讯数**：4380 条原始 → 616 条筛选后
+- **聚合时间**：2026-08-22T06:16:55.043Z
+- **总资讯数**：4390 条原始 → 622 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
