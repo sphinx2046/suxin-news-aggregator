@@ -14,7 +14,7 @@
 | 2 | [GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction](https://developers.openai.com/api/docs/models/gpt-5.6-sol) | Hacker News | AI |
 | 3 | [显示 HN：OzBrain，代理和团队之间的知识共享大脑 / Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com/) | Hacker News | AI |
 | 4 | [快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude) | Hacker News | AI |
-| 5 | [谢尔盖·布林表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 5 | [谢尔盖·布林 (Sergey Brin) 表示管理是“利用人工智能做的最简单的事情” / Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -26,11 +26,11 @@
 |---|------|------|------|
 | 1 | [人工智能模型已经学会了如何作弊。这实际上可能是一件好事。 / AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
 | 2 | [让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南](https://juejin.cn/post/7673875524200808494) | 掘金 · 人工智能本周最热 | AI |
-| 3 | [小白都看得懂的 Skill 教程 - 创建第一个 Skill](https://juejin.cn/post/7673674128557326374) | 掘金 · 人工智能本周最热 | AI |
+| 3 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
 | 4 | [我用 DeepSeek-V4-Pro，完美复刻了苹果官网](https://juejin.cn/post/7676098169973473330) | juejin | AI |
-| 5 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
+| 5 | [[分享发现] 关于一个老哥帖子里认为的程序员指挥 ai 是弯路的话题下我的看法](https://www.v2ex.com/t/1236380) | V2EX (创意工作者社区) | AI |
 
-> 共 12 条，以上为 TOP 5。
+> 共 9 条，以上为 TOP 5。
 
 ---
 
@@ -42,9 +42,9 @@
 | 2 | [人工智能会计初创公司 Rillet 如何在 48 小时内筹集 1 亿美元并成为独角兽 / How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours](https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours) | TechCrunch | AI |
 | 3 | [Anthropic 的企业风险投资公司在四个月内收购了第二家咨询公司 / Anthropic’s enterprise venture has bought its second consultancy in four months](https://thenextweb.com/news/anthropic-ode-acquires-casper-studios-enterprise-ai) | The Next Web | AI |
 | 4 | [Rundoo 是一家为独立供应商店提供人工智能驱动的业务运营软件的提供商，筹集了由 Battery Ventures（Mike Wheatley/SiliconANGLE）领投的 3000 万美元 B 轮融资 / Rundoo, a provider of AI-powered business operations software for independent supply stores, raised a $30M Series B led by Battery Ventures (Mike Wheatley/SiliconANGLE)](https://www.techmeme.com/260822/p3) | Techmeme | AI |
-| 5 | [OpenAI makes ChatGPT less 'human' for teens in new safety update](https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
+| 5 | [假 Drakes 和假 Kanyes：互联网突然充斥着人工智能生成的嘻哈音乐 / Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop](https://www.buzzfeed.com/chrisstokelwalker/ai-hip-hop-rap-music-drake-kanye-weeknd-rihanna-jay-z) | BuzzFeed News | AI |
 
-> 共 63 条，以上为 TOP 5。
+> 共 66 条，以上为 TOP 5。
 
 ---
 
@@ -53,9 +53,9 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [[推广] [福利] 500M 住宅 IP 免费领，流量永不过期！](https://www.v2ex.com/t/1236398) | V2EX (创意工作者社区) | IP |
-| 3 | [困在流量“系统”里](https://www.huxiu.com/article/4885130.html?f=rss) | 虎嗅 (Huxiu) | IP |
-| 4 | [[推广] 周末福利！动态住宅流量免费送，有需要的来领](https://www.v2ex.com/t/1236352) | V2EX (创意工作者社区) | IP |
+| 2 | [[酷工作] 创作者 BD / 创作者运营，市场推广 / 用户增长，测试工程师 / QA 工程师](https://www.v2ex.com/t/1236419) | V2EX (创意工作者社区) | IP |
+| 3 | [[推广] [福利] 500M 住宅 IP 免费领，流量永不过期！](https://www.v2ex.com/t/1236398) | V2EX (创意工作者社区) | IP |
+| 4 | [困在流量“系统”里](https://www.huxiu.com/article/4885130.html?f=rss) | 虎嗅 (Huxiu) | IP |
 | 5 | [莫迪花了数年时间塑造自己强硬的形象——他为什么现在要制作面向Z世代的短视频呢？](https://www.bbc.co.uk/news/articles/cnvn0n1nld6o?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | IP |
 
 > 共 6 条，以上为 TOP 5。
@@ -66,10 +66,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [“混乱的关税制度造成的损失无法通过退税弥补”：这1000亿美元的退税已抵消了自5月以来进口税带来的所有收入 - Fortune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTXc1SFVjRlVfRU1STFZxYWw5RXJNZkZJOEhtXzNFRXJ0NXZ2RkxUSmlLaVRNZjVPdFJGNkFhdDBHVnVMNkdGQU1mZEhYbFIxa0VySG11Q2dtUUxfS2V0ZHFDUWotTXpab1A2MGRVMEkyTEFTbWFfbEFNQkYwWVJfZDBlcU9Nb0RmeURacG9vUTFJRzVNZ0ZQU3BvYXZvOHVOaGwwNFJPcks?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
+| 1 | [想通过股票获得被动收入吗？3只值得立即买入的优质高股息率股票 - The Motley Fool](https://news.google.com/rss/articles/CBMihgFBVV95cUxQQVNUcm1OSHpuY1dBUUszNjEwb0FBem5ucURiRFZaWWZrcTdhRU9sNm1XanA4d0xjNTRWQ09pTEtnbUJNMmxoRWk2TUlVTko1c0ZYSUVQcmdiNjNDeE5FVnR3dFVJMzk4VWNBMlNXc2Z3UHI1ZFVLV09ocUhHRVU2UUNIX2FCQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
 | 2 | [Token经济学：谁最赚钱？谁在买单?](https://mp.weixin.qq.com/s?__biz=MjM5NDAzMjk2MA%3D%3D&mid=2653628294&idx=1&sn=6078c7c404bdc5f1a79556c9e8db3eca) | 第一财经YiMagazine | 变现 |
 | 3 | [一项真金白银的实验发现：耐心能带来更长的求学之路和更快的收入增长](https://phys.org/news/2026-08-patience-longer-paths-faster-growth.html) | phys.org | 变现 |
-| 4 | [一对夫妇在8年内将一个博客打造成了一家年收入达7位数的企业。他们介绍了4种在线赚钱的方法。](https://www.businessinsider.com/couple-built-seven-figure-business-how-to-make-money-online-2026-8) | www.businessinsider.com | 变现 |
 
 ---
 
@@ -81,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-22T08:14:08.029Z
-- **总资讯数**：4380 条原始 → 606 条筛选后
+- **聚合时间**：2026-08-22T10:10:08.522Z
+- **总资讯数**：4364 条原始 → 601 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
