@@ -28,7 +28,7 @@
 | 2 | [How to limit Instagram from using your data for AI and ads](https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads) | Engadget | AI |
 | 3 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
 | 4 | [Sources: Nvidia plans to use its $6B deal with Poolside to build an open-weight AI model to compete with Chinese models like DeepSeek and Kimi (Robbie Whelan/Wall Street Journal)](https://www.techmeme.com/260822/p16) | Techmeme | AI |
-| 5 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
+| 5 | [没想到吧！Skill 也可以测试 — 小白都看得懂的 Skill 教程](https://juejin.cn/post/7675447922213568558) | 掘金 · 人工智能本周最热 | AI |
 
 > 共 10 条，以上为 TOP 5。
 
@@ -44,7 +44,7 @@
 | 4 | [A look at the narrowing US-China AI gap, as a spate of compelling, low-cost releases makes Chinese AI models increasingly attractive to businesses (Bloomberg)](https://www.techmeme.com/260822/p8) | Techmeme | AI |
 | 5 | [Ox Alpha, a "stealth model" from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter (Rohail Saleem/Wccftech)](https://www.techmeme.com/260822/p7) | Techmeme | AI |
 
-> 共 55 条，以上为 TOP 5。
+> 共 52 条，以上为 TOP 5。
 
 ---
 
@@ -54,8 +54,9 @@
 |---|------|------|------|
 | 1 | [越失败越上瘾，年轻人爱上“用身体刷短视频”，一年消费五六千](https://www.36kr.com/p/3950704961994113) | 36氪 · 24小时热榜 | IP |
 | 2 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 3 | [[Virtual YouTubers] 为四时小路和小路泥们开发了一个粉丝向网站 [小路泥加油站] +](https://www.v2ex.com/t/1236525) | V2EX (创意工作者社区) | IP |
-| 4 | [事已至此，年轻创作者干就完了](https://www.huxiu.com/article/4885225.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 3 | [铁路爱好者对恢复农村地区列车服务的计划意见不一](https://www.ft.com/content/6fc8d072-5a2c-4431-895a-e3d4eb03329d?syn-25a6b1a6=1) | www.ft.com | 回乡 |
+| 4 | [[Virtual YouTubers] 为四时小路和小路泥们开发了一个粉丝向网站 [小路泥加油站] +](https://www.v2ex.com/t/1236525) | V2EX (创意工作者社区) | IP |
+| 5 | [事已至此，年轻创作者干就完了](https://www.huxiu.com/article/4885225.html?f=rss) | 虎嗅 (Huxiu) | IP |
 
 ---
 
@@ -76,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-23T04:24:30.333Z
-- **总资讯数**：4132 条原始 → 565 条筛选后
+- **聚合时间**：2026-08-23T06:18:16.959Z
+- **总资讯数**：4132 条原始 → 564 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
