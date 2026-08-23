@@ -12,8 +12,8 @@
 |---|------|------|------|
 | 1 | [Flutter A2UI 的正确用法，怎么把 AI 和动态 UI 结合有效生产](https://juejin.cn/post/7675633667490267179) | juejin | AI |
 | 2 | [这个本地模型，让我 token 自由了](https://juejin.cn/post/7676709710489419786) | juejin | AI |
-| 3 | [从零开发一个 Coding Agent（十三）：实现安全的 read 文件读取工具](https://juejin.cn/post/7676098169944047643) | juejin | AI |
-| 4 | [AI 时代写给前端同行：什么在贬值，什么在涨价](https://juejin.cn/post/7676369124041654307) | juejin | AI |
+| 3 | [AI 时代写给前端同行：什么在贬值，什么在涨价](https://juejin.cn/post/7676369124041654307) | juejin | AI |
+| 4 | [从零开发一个 Coding Agent（十三）：实现安全的 read 文件读取工具](https://juejin.cn/post/7676098169944047643) | juejin | AI |
 | 5 | [给 AI 时代找工作的同学一些实用建议](https://juejin.cn/post/7676277362519113763) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [一份Token Plan套餐接通 Claude Code 和 Codex：国产模型统一额度池实测指南](https://juejin.cn/post/7676295909912215561) | juejin | AI |
-| 2 | [Agent 如何快速调用公司接口？——CLI + Skill 实践与踩坑](https://juejin.cn/post/7675945712746446894) | juejin | AI |
+| 1 | [Agent 如何快速调用公司接口？——CLI + Skill 实践与踩坑](https://juejin.cn/post/7675945712746446894) | juejin | AI |
+| 2 | [一份Token Plan套餐接通 Claude Code 和 Codex：国产模型统一额度池实测指南](https://juejin.cn/post/7676295909912215561) | juejin | AI |
 | 3 | [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730) | sspai | AI |
 | 4 | [Flock is Secretly Building a Powerful New Prompt-Based AI Tool for Police](https://yro.slashdot.org/story/26/08/22/0526219/flock-is-secretly-building-a-powerful-new-prompt-based-ai-tool-for-police) | Slashdot | AI |
 | 5 | [How to limit Instagram from using your data for AI and ads](https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads) | Engadget | AI |
 
-> 共 20 条，以上为 TOP 5。
+> 共 21 条，以上为 TOP 5。
 
 ---
 
@@ -42,9 +42,9 @@
 | 2 | [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787) | sspai | AI/认知 |
 | 3 | [How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours](https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours) | TechCrunch | AI |
 | 4 | [A look at the narrowing US-China AI gap, as a spate of compelling, low-cost releases makes Chinese AI models increasingly attractive to businesses (Bloomberg)](https://www.techmeme.com/260822/p8) | Techmeme | AI |
-| 5 | [Ox Alpha, a "stealth model" from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter (Rohail Saleem/Wccftech)](https://www.techmeme.com/260822/p7) | Techmeme | AI |
+| 5 | [Why are ‘paranoid’ Claude agents launching a turf war and deploying self-replicating malware against each other? The experts weigh in](https://www.techradar.com/pro/security/why-are-paranoid-claude-agents-launching-a-turf-war-and-deploying-self-replicating-malware-against-each-other-the-experts-weigh-in) | TechRadar | AI |
 
-> 共 62 条，以上为 TOP 5。
+> 共 53 条，以上为 TOP 5。
 
 ---
 
@@ -55,10 +55,10 @@
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
 | 2 | [越失败越上瘾，年轻人爱上“用身体刷短视频”，一年消费五六千](https://www.36kr.com/p/3950704961994113) | 36氪 · 24小时热榜 | IP |
 | 3 | [AI 即将接管流量，而广告正在疯狂「末日反扑」](https://www.36kr.com/p/3951561851534723) | 36氪 · 24小时热榜 | AI/IP |
-| 4 | [杜撰某互联网企业“上市失败”，自媒体博主拼凑信息博眼球被行政拘留](https://www.ithome.com/0/993/298.htm) | IT之家 (ITHome) | IP |
-| 5 | [你骂你的，它火它的：一部“粉丝定制剧”的生存逻辑](https://www.huxiu.com/article/4885286.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 4 | [[推广] 把流量当目的，动作就开始变形--Tison009](https://www.v2ex.com/t/1236634) | V2EX (创意工作者社区) | IP |
+| 5 | [杜撰某互联网企业“上市失败”，自媒体博主拼凑信息博眼球被行政拘留](https://www.ithome.com/0/993/298.htm) | IT之家 (ITHome) | IP |
 
-> 共 8 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -67,9 +67,8 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [黑莓不卖手机后，反而更赚钱了](https://www.36kr.com/p/3950851911204230) | 36氪 · 24小时热榜 | 变现 |
-| 2 | [被动收入：需要投资多少Realty Income (O)股票，才能获得1,000美元的年度股息？](https://finance.yahoo.com/real-estate/articles/passive-income-much-invest-realty-120500018.html) | finance.yahoo.com | 变现 |
-| 3 | [[问与答] 没事想折腾做个小型公益 CDN 5-6 个 BGP 节点物理机 感觉咋样 不为赚钱 就为了折腾](https://www.v2ex.com/t/1236581) | V2EX (创意工作者社区) | 变现 |
-| 4 | [我大学辍学了，现在作为一名工程师，年收入159,000美元。由于生活水平不断攀升，我背上了30,000美元的债务。](https://www.businessinsider.com/software-engineer-cost-of-living-in-nyc-2026-8) | www.businessinsider.com | 变现 |
+| 2 | [如何通过三个收入来源实现每月6,600美元的股息收入](https://finance.yahoo.com/markets/stocks/articles/build-6-600-month-dividend-150621364.html) | finance.yahoo.com | 变现 |
+| 3 | [如何在不卖出一股的情况下，实现每月11,800美元的股息收入](https://finance.yahoo.com/markets/stocks/articles/build-11-800-month-dividend-135742067.html) | finance.yahoo.com | 变现 |
 
 ---
 
@@ -81,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-23T14:10:52.197Z
-- **总资讯数**：4244 条原始 → 607 条筛选后
+- **聚合时间**：2026-08-23T16:09:49.809Z
+- **总资讯数**：4179 条原始 → 580 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
