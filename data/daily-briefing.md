@@ -13,8 +13,8 @@
 | 1 | [Flutter A2UI 的正确用法，怎么把 AI 和动态 UI 结合有效生产](https://juejin.cn/post/7675633667490267179) | juejin | AI |
 | 2 | [这个本地模型，让我 token 自由了](https://juejin.cn/post/7676709710489419786) | juejin | AI |
 | 3 | [从零开发一个 Coding Agent（十三）：实现安全的 read 文件读取工具](https://juejin.cn/post/7676098169944047643) | juejin | AI |
-| 4 | [给 AI 时代找工作的同学一些实用建议](https://juejin.cn/post/7676277362519113763) | juejin | AI |
-| 5 | [AI 时代写给前端同行：什么在贬值，什么在涨价](https://juejin.cn/post/7676369124041654307) | juejin | AI |
+| 4 | [AI 时代写给前端同行：什么在贬值，什么在涨价](https://juejin.cn/post/7676369124041654307) | juejin | AI |
+| 5 | [给 AI 时代找工作的同学一些实用建议](https://juejin.cn/post/7676277362519113763) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -30,7 +30,7 @@
 | 4 | [Flock is Secretly Building a Powerful New Prompt-Based AI Tool for Police](https://yro.slashdot.org/story/26/08/22/0526219/flock-is-secretly-building-a-powerful-new-prompt-based-ai-tool-for-police) | Slashdot | AI |
 | 5 | [How to limit Instagram from using your data for AI and ads](https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads) | Engadget | AI |
 
-> 共 19 条，以上为 TOP 5。
+> 共 20 条，以上为 TOP 5。
 
 ---
 
@@ -55,10 +55,10 @@
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
 | 2 | [越失败越上瘾，年轻人爱上“用身体刷短视频”，一年消费五六千](https://www.36kr.com/p/3950704961994113) | 36氪 · 24小时热榜 | IP |
 | 3 | [AI 即将接管流量，而广告正在疯狂「末日反扑」](https://www.36kr.com/p/3951561851534723) | 36氪 · 24小时热榜 | AI/IP |
-| 4 | [你骂你的，它火它的：一部“粉丝定制剧”的生存逻辑](https://www.huxiu.com/article/4885286.html?f=rss) | 虎嗅 (Huxiu) | IP |
-| 5 | [在“逼空行情”推动的上涨中，比特币和以太坊空头遭受重创；马斯克旗下的X平台计划用稳定币向创作者支付报酬：本周加密货币行业五大要闻 - CoinDesk](https://news.google.com/rss/articles/CBMijAJBVV95cUxQeUR6WG5mSEpNUWtmSmNMMkhEeWxNeEhwR2ZubkczRHlPbnJBQVJURXRNZ0F2R3U3cVZ4QVVCNHZpelhBQ3NWeUphRF9qZjFPSl9xUTE1WTRpeXZIeXdiUEdabXBKa2dfdEhrNDAwNVpEVFk4LXFNOTR4SnBwVFE4YXpnZFpmVEY5ZEhPWVVjRkE0Z3BmeWdmc0RxUWhsZHUyZWk1R0pjanQ4R0JUazZycDVmT040dndGaXVrd29Zczc4NjRSUnhCMDd0NGdQY25BTXRrTFBkTVFrWG54c1NpUjhMVndJZHlLMzBKOUdYSTZubHZhT1NEckJDc1drRWxzVnVRY1lrbjB2dGNT?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
+| 4 | [杜撰某互联网企业“上市失败”，自媒体博主拼凑信息博眼球被行政拘留](https://www.ithome.com/0/993/298.htm) | IT之家 (ITHome) | IP |
+| 5 | [你骂你的，它火它的：一部“粉丝定制剧”的生存逻辑](https://www.huxiu.com/article/4885286.html?f=rss) | 虎嗅 (Huxiu) | IP |
 
-> 共 7 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -67,8 +67,9 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [黑莓不卖手机后，反而更赚钱了](https://www.36kr.com/p/3950851911204230) | 36氪 · 24小时热榜 | 变现 |
-| 2 | [[问与答] 没事想折腾做个小型公益 CDN 5-6 个 BGP 节点物理机 感觉咋样 不为赚钱 就为了折腾](https://www.v2ex.com/t/1236581) | V2EX (创意工作者社区) | 变现 |
-| 3 | [我大学辍学了，现在作为一名工程师，年收入159,000美元。由于生活水平不断攀升，我背上了30,000美元的债务。](https://www.businessinsider.com/software-engineer-cost-of-living-in-nyc-2026-8) | www.businessinsider.com | 变现 |
+| 2 | [被动收入：需要投资多少Realty Income (O)股票，才能获得1,000美元的年度股息？](https://finance.yahoo.com/real-estate/articles/passive-income-much-invest-realty-120500018.html) | finance.yahoo.com | 变现 |
+| 3 | [[问与答] 没事想折腾做个小型公益 CDN 5-6 个 BGP 节点物理机 感觉咋样 不为赚钱 就为了折腾](https://www.v2ex.com/t/1236581) | V2EX (创意工作者社区) | 变现 |
+| 4 | [我大学辍学了，现在作为一名工程师，年收入159,000美元。由于生活水平不断攀升，我背上了30,000美元的债务。](https://www.businessinsider.com/software-engineer-cost-of-living-in-nyc-2026-8) | www.businessinsider.com | 变现 |
 
 ---
 
@@ -80,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-23T12:12:53.005Z
-- **总资讯数**：4224 条原始 → 588 条筛选后
+- **聚合时间**：2026-08-23T14:10:52.197Z
+- **总资讯数**：4244 条原始 → 607 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
