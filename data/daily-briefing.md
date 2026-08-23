@@ -10,8 +10,8 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [这个本地模型，让我 token 自由了](https://juejin.cn/post/7676709710489419786) | juejin | AI |
-| 2 | [Flutter A2UI 的正确用法，怎么把 AI 和动态 UI 结合有效生产](https://juejin.cn/post/7675633667490267179) | juejin | AI |
+| 1 | [Flutter A2UI 的正确用法，怎么把 AI 和动态 UI 结合有效生产](https://juejin.cn/post/7675633667490267179) | juejin | AI |
+| 2 | [这个本地模型，让我 token 自由了](https://juejin.cn/post/7676709710489419786) | juejin | AI |
 | 3 | [AI 时代写给前端同行：什么在贬值，什么在涨价](https://juejin.cn/post/7676369124041654307) | juejin | AI |
 | 4 | [从零开发一个 Coding Agent（十三）：实现安全的 read 文件读取工具](https://juejin.cn/post/7676098169944047643) | juejin | AI |
 | 5 | [给 AI 时代找工作的同学一些实用建议](https://juejin.cn/post/7676277362519113763) | juejin | AI |
@@ -39,12 +39,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [GitHub 本周热门开源项目：Agent Infra与端侧 AI｜8.17–8.23](https://juejin.cn/post/7676110932394098731) | juejin | AI |
-| 2 | [A look at the narrowing US-China AI gap, as a spate of compelling, low-cost releases makes Chinese AI models increasingly attractive to businesses (Bloomberg)](https://www.techmeme.com/260822/p8) | Techmeme | AI |
+| 2 | [Ramp data: Fable 5, launched in June, has plateaued at ~11% of spending on Anthropic tools, as companies shift to cheaper models; Opus 5 surpassed Fable 5 (George Hammond/Financial Times)](https://www.techmeme.com/260823/p8) | Techmeme | AI |
 | 3 | [Why are ‘paranoid’ Claude agents launching a turf war and deploying self-replicating malware against each other? The experts weigh in](https://www.techradar.com/pro/security/why-are-paranoid-claude-agents-launching-a-turf-war-and-deploying-self-replicating-malware-against-each-other-the-experts-weigh-in) | TechRadar | AI |
 | 4 | [OpenAI makes ChatGPT less 'human' for teens in new safety update](https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
 | 5 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
 
-> 共 49 条，以上为 TOP 5。
+> 共 51 条，以上为 TOP 5。
 
 ---
 
@@ -67,7 +67,8 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [黑莓不卖手机后，反而更赚钱了](https://www.36kr.com/p/3950851911204230) | 36氪 · 24小时热榜 | 变现 |
-| 2 | [瑞秋·克鲁兹和乔治·卡梅尔分享了能揭示你是否身无分文、收入普通还是家境富裕的消费“线索”](https://finance.yahoo.com/markets/articles/rachel-cruze-george-kamel-share-170000908.html) | finance.yahoo.com | 变现 |
+| 2 | [为什么社会保障不能成为您退休收入计划的核心](https://finance.yahoo.com/markets/articles/why-social-security-cant-center-185600538.html) | finance.yahoo.com | 变现 |
+| 3 | [据国家通讯社报道，阿曼因石油收入增加而获得提振](https://www.reuters.com/pt/negocio/GRL2P5AWSRN5PL4GABKNLSFEL4-2026-08-23) | www.reuters.com | 变现 |
 
 ---
 
@@ -79,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-23T18:10:07.539Z
-- **总资讯数**：4173 条原始 → 571 条筛选后
+- **聚合时间**：2026-08-23T20:07:44.632Z
+- **总资讯数**：4163 条原始 → 577 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
