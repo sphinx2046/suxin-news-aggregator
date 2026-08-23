@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Flutter A2UI 的正确用法，怎么把 AI 和动态 UI 结合有效生产](https://juejin.cn/post/7675633667490267179) | juejin | AI |
-| 2 | [这个本地模型，让我 token 自由了](https://juejin.cn/post/7676709710489419786) | juejin | AI |
-| 3 | [AI 时代写给前端同行：什么在贬值，什么在涨价](https://juejin.cn/post/7676369124041654307) | juejin | AI |
-| 4 | [从零开发一个 Coding Agent（十三）：实现安全的 read 文件读取工具](https://juejin.cn/post/7676098169944047643) | juejin | AI |
-| 5 | [给 AI 时代找工作的同学一些实用建议](https://juejin.cn/post/7676277362519113763) | juejin | AI |
+| 1 | [EP-Harness：从个人 AI Coding 到团队级 Agent 工作流｜得物技术](https://juejin.cn/post/7675676910077329414) | juejin | AI |
+| 2 | [Flutter A2UI 的正确用法，怎么把 AI 和动态 UI 结合有效生产](https://juejin.cn/post/7675633667490267179) | juejin | AI |
+| 3 | [DeepSeek再度调价；英伟达Al服务器涨价超15%；“AI红娘”承诺三年不结婚...](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665974&idx=1&sn=837158914dfc48fe0c1a206327ecc47f) | AI前线 | AI |
+| 4 | [Netflix详述其基于 Triton 与vLLM 的内部 LLM服务平台](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665974&idx=2&sn=0de263ccee49b3fa1c5f3477254dd5f4) | AI前线 | AI |
+| 5 | [Stripe花 100 亿买 OpenRouter，模型Router 会成为一个新赛道吗?](https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA%3D%3D&mid=2247516581&idx=1&sn=b28218c04da5f5fb3543b6cddf1850fb) | FounderPark | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Agent 如何快速调用公司接口？——CLI + Skill 实践与踩坑](https://juejin.cn/post/7675945712746446894) | juejin | AI |
-| 2 | [一份Token Plan套餐接通 Claude Code 和 Codex：国产模型统一额度池实测指南](https://juejin.cn/post/7676295909912215561) | juejin | AI |
-| 3 | [Flock is Secretly Building a Powerful New Prompt-Based AI Tool for Police](https://yro.slashdot.org/story/26/08/22/0526219/flock-is-secretly-building-a-powerful-new-prompt-based-ai-tool-for-police) | Slashdot | AI |
-| 4 | [How to limit Instagram from using your data for AI and ads](https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads) | Engadget | AI |
+| 1 | [智识涌现的结构：人工智能哲学的“第一机称”方法论|「人工智能与哲学」…](https://mp.weixin.qq.com/s?__biz=MzIzMjQyNzQ5MA%3D%3D&mid=2247735405&idx=2&sn=27f4793fad6c7cbeafd47aee8f83c74d) | 集智俱乐部 | AI |
+| 2 | [Agent 如何快速调用公司接口？——CLI + Skill 实践与踩坑](https://juejin.cn/post/7675945712746446894) | juejin | AI |
+| 3 | [一份Token Plan套餐接通 Claude Code 和 Codex：国产模型统一额度池实测指南](https://juejin.cn/post/7676295909912215561) | juejin | AI |
+| 4 | [Flock is Secretly Building a Powerful New Prompt-Based AI Tool for Police](https://yro.slashdot.org/story/26/08/22/0526219/flock-is-secretly-building-a-powerful-new-prompt-based-ai-tool-for-police) | Slashdot | AI |
 | 5 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
 
-> 共 21 条，以上为 TOP 5。
+> 共 20 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [GitHub 本周热门开源项目：Agent Infra与端侧 AI｜8.17–8.23](https://juejin.cn/post/7676110932394098731) | juejin | AI |
-| 2 | [Ramp data: Fable 5, launched in June, has plateaued at ~11% of spending on Anthropic tools, as companies shift to cheaper models; Opus 5 surpassed Fable 5 (George Hammond/Financial Times)](https://www.techmeme.com/260823/p8) | Techmeme | AI |
-| 3 | [Why are ‘paranoid’ Claude agents launching a turf war and deploying self-replicating malware against each other? The experts weigh in](https://www.techradar.com/pro/security/why-are-paranoid-claude-agents-launching-a-turf-war-and-deploying-self-replicating-malware-against-each-other-the-experts-weigh-in) | TechRadar | AI |
-| 4 | [OpenAI makes ChatGPT less 'human' for teens in new safety update](https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
-| 5 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
+| 1 | [DeepSeekAPl计费调整：加拿大宣布对美商品征收报复性关税|科股快报](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA%3D%3D&mid=2661077198&idx=3&sn=537e977070ffa1101a0e87e7a8d07dc9) | 钛媒体 | AI |
+| 2 | [Github万星Agent整锅端进OpenAl!「AI版Firebase」宣布全队加入](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652719944&idx=2&sn=465ee60e28134a5fe1fb635b01312e62) | 新智元 | AI |
+| 3 | [mRNA疫苗太慢，狗主人痛失爱犬！全球首个AI定制狗癌疫苗来了](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652719661&idx=1&sn=23f3dba5403a5aeb80b79c53557e2f69) | 新智元 | AI |
+| 4 | [匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw%3D%3D&mid=2247914338&idx=2&sn=2ff9bfd49e1df185bba2332ffe2db8de) | 量子位 | AI |
+| 5 | [突发！DeepSeek宣布周末全天谷价，以后周末上班更划算?](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051783&idx=1&sn=83423914be1194f886a365bb24ed78a1) | 机器之心 | AI |
 
-> 共 51 条，以上为 TOP 5。
+> 共 46 条，以上为 TOP 5。
 
 ---
 
@@ -52,9 +52,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [越失败越上瘾，年轻人爱上“用身体刷短视频”，一年消费五六千](https://www.36kr.com/p/3950704961994113) | 36氪 · 24小时热榜 | IP |
-| 3 | [AI 即将接管流量，而广告正在疯狂「末日反扑」](https://www.36kr.com/p/3951561851534723) | 36氪 · 24小时热榜 | AI/IP |
+| 1 | [AI即将接管流量，而广告正在疯狂「末日反扑」](https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA%3D%3D&mid=2652461759&idx=1&sn=1b553647bba83b92b5603b4b2ffca02a) | 爱范儿 | AI/IP |
+| 2 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
+| 3 | [越失败越上瘾，年轻人爱上“用身体刷短视频”，一年消费五六千](https://www.36kr.com/p/3950704961994113) | 36氪 · 24小时热榜 | IP |
 | 4 | [[推广] 把流量当目的，动作就开始变形--Tison009](https://www.v2ex.com/t/1236634) | V2EX (创意工作者社区) | IP |
 | 5 | [杜撰某互联网企业“上市失败”，自媒体博主拼凑信息博眼球被行政拘留](https://www.ithome.com/0/993/298.htm) | IT之家 (ITHome) | IP |
 
@@ -67,8 +67,6 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [黑莓不卖手机后，反而更赚钱了](https://www.36kr.com/p/3950851911204230) | 36氪 · 24小时热榜 | 变现 |
-| 2 | [为什么社会保障不能成为您退休收入计划的核心](https://finance.yahoo.com/markets/articles/why-social-security-cant-center-185600538.html) | finance.yahoo.com | 变现 |
-| 3 | [据国家通讯社报道，阿曼因石油收入增加而获得提振](https://www.reuters.com/pt/negocio/GRL2P5AWSRN5PL4GABKNLSFEL4-2026-08-23) | www.reuters.com | 变现 |
 
 ---
 
@@ -80,8 +78,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-23T20:07:44.632Z
-- **总资讯数**：4163 条原始 → 577 条筛选后
+- **聚合时间**：2026-08-23T22:07:46.162Z
+- **总资讯数**：4128 条原始 → 576 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
