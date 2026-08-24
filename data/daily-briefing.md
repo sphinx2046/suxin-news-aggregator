@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam](https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc) | Hacker News | 其他 |
-| 2 | [Public services are increasingly strained by LLM-written appeals for benefits](https://arxiv.org/abs/2608.16603) | Hacker News | AI |
-| 3 | [人工智能编程将阻碍专业知识的发展 拉斯·费伊 / Coding expertise is going to collapse from AI reliance](https://larsfaye.com/articles/ai-coding-will-prevent-expertise) | Hacker News | AI |
-| 4 | [Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
-| 5 | [House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
+| 1 | [这个本地模型，让我 token 自由了](https://juejin.cn/post/7676709710489419786) | juejin | AI |
+| 2 | [为啥Agent在coding表现这么好，但是在别的领域就是差的不少？](https://juejin.cn/post/7676901441995391014) | juejin | AI |
+| 3 | [爽用 DeepSeek V4 Flash、GLM-5.2、Qwen3.8 Max、GPT-5.6 Sol，EvoX 够猛](https://juejin.cn/post/7677124067654893622) | juejin | AI |
+| 4 | [图解 AI Agent ①：大模型接上 API，为什么还不算 Agent？](https://juejin.cn/post/7677170455305879562) | juejin | AI |
+| 5 | [DeepSeek终于能看图了：V4 Flash Vision实测，1分钱9张图但有个大坑](https://juejin.cn/post/7676392949266923546) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,11 +24,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [OpenAI is building AI agents for everything. Will everyone use them?](https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them) | TechCrunch | AI |
-| 2 | [How to cancel your ChatGPT subscription (and why you might want to)](https://www.engadget.com/2240311/how-to-cancel-chatgpt-subscription-why-might-want-to) | Engadget | AI |
-| 3 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 4 | [没想到吧！Skill 也可以测试 — 小白都看得懂的 Skill 教程](https://juejin.cn/post/7675447922213568558) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [从 0 到 1，DeepSeek Harness 保姆级安装与使用教程！](https://juejin.cn/post/7675266921491267611) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [一份Token Plan套餐接通 Claude Code 和 Codex：国产模型统一额度池实测指南](https://juejin.cn/post/7676295909912215561) | juejin | AI |
+| 2 | [OpenAI is building AI agents for everything. Will everyone use them?](https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them) | TechCrunch | AI |
+| 3 | [How to cancel your ChatGPT subscription (and why you might want to)](https://www.engadget.com/2240311/how-to-cancel-chatgpt-subscription-why-might-want-to) | Engadget | AI |
+| 4 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 5 | [没想到吧！Skill 也可以测试 — 小白都看得懂的 Skill 教程](https://juejin.cn/post/7675447922213568558) | 掘金 · 人工智能本周最热 | AI |
 
 > 共 12 条，以上为 TOP 5。
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [OpenAI makes ChatGPT less 'human' for teens in new safety update](https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
-| 2 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
-| 3 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
-| 4 | [正式开源！美团 LongCat-2.0 同步开放国产卡推理代码](https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html) | 美团技术团队 (Meituan Tech) | AI |
-| 5 | [美团 LongCat-2.0 正式发布：在国产算力集群上完成全流程训练与推理的万亿参数模型](https://tech.meituan.com/2026/06/30/LongCat2.0.html) | 美团技术团队 (Meituan Tech) | AI |
+| 1 | [一个人 + AI 做的小程序，上线 15 天赚了 10 块 5](https://juejin.cn/post/7677077660528001070) | juejin | AI |
+| 2 | [DeepSeek Harness 发布一周，登顶 Top10 的插件，暴露了哪些真实需求？](https://juejin.cn/post/7676498957653803008) | juejin | AI |
+| 3 | [期待已久的DeepSeek多模态视觉模型终于上线了](https://juejin.cn/post/7676330290206244870) | juejin | AI |
+| 4 | [腾讯正式上线AI应用生成平台：一句话生成 App，还能直接上架商店](https://juejin.cn/post/7676809743765241862) | juejin | AI |
+| 5 | [Alabama AG Steve Marshall launches an investigation into OpenAI's security procedures following the Hugging Face breach in July (Cassandre Coyer/Bloomberg Law)](https://www.techmeme.com/260824/p29) | Techmeme | AI |
 
-> 共 47 条，以上为 TOP 5。
+> 共 46 条，以上为 TOP 5。
 
 ---
 
@@ -62,10 +62,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [《拉姆齐秀》的一位来电者年收入9.5万美元，却连1,000美元都存不下来——他背负的13.1万美元债务让他深陷现金预支的恶性循环中](https://finance.yahoo.com/markets/articles/ramsey-show-caller-earns-95k-120000539.html) | finance.yahoo.com | 变现 |
-| 2 | [随着农业收入下降2.6%，新收割机的标价已达100万美元——这迫使农民不得不依赖70年代的机器和废旧零部件](https://finance.yahoo.com/economy/articles/combines-now-list-1-million-100000884.html) | finance.yahoo.com | 变现 |
-| 3 | [[AdSense] 关于 Adsense 变现引流的问题](https://www.v2ex.com/t/1236884) | V2EX (创意工作者社区) | 变现 |
-| 4 | [[独立开发者 👨‍💻] 独立开发周记 184：主角与否，身不由己](https://www.v2ex.com/t/1236882) | V2EX (创意工作者社区) | 变现 |
+| 1 | [来认识这位18岁的废品清理员：他用Vibe编程语言编写了自己的定价计算器，月收入最高可达15,000美元](https://finance.yahoo.com/small-business/articles/meet-18-old-junk-remover-110000550.html) | finance.yahoo.com | 变现 |
+| 2 | [Ask HN: 2026年靠副业每月赚500美元的人——成果展示](https://news.ycombinator.com/item?id=49417766) | news.ycombinator.com | 变现 |
+| 3 | [西班牙某乡村正张开双臂欢迎数字游民](https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms) | www.cntraveler.com | 变现/回乡 |
+| 4 | [[AdSense] 关于 Adsense 变现引流的问题](https://www.v2ex.com/t/1236884) | V2EX (创意工作者社区) | 变现 |
+| 5 | [[独立开发者 👨‍💻] 独立开发周记 184：主角与否，身不由己](https://www.v2ex.com/t/1236882) | V2EX (创意工作者社区) | 变现 |
 
 ---
 
@@ -77,8 +78,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-24T18:20:10.914Z
-- **总资讯数**：4171 条原始 → 498 条筛选后
+- **聚合时间**：2026-08-24T20:15:00.819Z
+- **总资讯数**：4324 条原始 → 597 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
