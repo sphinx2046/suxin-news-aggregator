@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [一份Token Plan套餐接通 Claude Code 和 Codex：国产模型统一额度池实测指南](https://juejin.cn/post/7676295909912215561) | juejin | AI |
-| 2 | [从零搭建越用越聪明的 AI 第二大脑：Claude Code + Obsidian 9 步实战](https://juejin.cn/post/7676110932393082923) | juejin | AI |
-| 3 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 4 | [没想到吧！Skill 也可以测试 — 小白都看得懂的 Skill 教程](https://juejin.cn/post/7675447922213568558) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [从 0 到 1，DeepSeek Harness 保姆级安装与使用教程！](https://juejin.cn/post/7675266921491267611) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 2 | [没想到吧！Skill 也可以测试 — 小白都看得懂的 Skill 教程](https://juejin.cn/post/7675447922213568558) | 掘金 · 人工智能本周最热 | AI |
+| 3 | [从 0 到 1，DeepSeek Harness 保姆级安装与使用教程！](https://juejin.cn/post/7675266921491267611) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [RAG检索优化实战：从67%到92%，我做了这4步](https://juejin.cn/post/7674794074012893238) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [Guidelight评估五大AI实验室，OpenAI遏制能力排名第一](https://www.aibase.com/news/30545) | AIbase | AI |
 
-> 共 16 条，以上为 TOP 5。
+> 共 13 条，以上为 TOP 5。
 
 ---
 
@@ -40,11 +40,11 @@
 |---|------|------|------|
 | 1 | [mRNA疫苗太慢，狗主人痛失爱犬！全球首个AI定制狗癌疫苗来了](https://aiera.com.cn/2026/08/24/other/admin/110380/mrna%e7%96%ab%e8%8b%97%e5%a4%aa%e6%85%a2%ef%bc%8c%e7%8b%97%e4%b8%bb%e4%ba%ba%e7%97%9b%e5%a4%b1%e7%88%b1%e7%8a%ac%ef%bc%81%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aaai%e5%ae%9a%e5%88%b6%e7%8b%97%e7%99%8c) | 新智元 | AI |
 | 2 | [Github万星Agent整锅端进OpenAI！「AI版Firebase」宣布全队加入](https://aiera.com.cn/2026/08/24/other/admin/110281/github%e4%b8%87%e6%98%9fagent%e6%95%b4%e9%94%85%e7%ab%af%e8%bf%9bopenai%ef%bc%81%e3%80%8cai%e7%89%88firebase%e3%80%8d%e5%ae%a3%e5%b8%83%e5%85%a8%e9%98%9f%e5%8a%a0%e5%85%a5) | 新智元 | AI |
-| 3 | [期待已久的DeepSeek多模态视觉模型终于上线了](https://juejin.cn/post/7676330290206244870) | juejin | AI |
-| 4 | [GitHub 本周热门开源项目：Agent Infra与端侧 AI｜8.17–8.23](https://juejin.cn/post/7676110932394098731) | juejin | AI |
-| 5 | [SoftBank plans a $6.3B retail bond sale, a record for any Japanese issuer and its third this year, as the conglomerate raises funds for its OpenAI commitments (Bloomberg)](https://www.techmeme.com/260823/p15) | Techmeme | AI |
+| 3 | [SoftBank plans a $6.3B retail bond sale, a record for any Japanese issuer and its third this year, as the conglomerate raises funds for its OpenAI commitments (Bloomberg)](https://www.techmeme.com/260823/p15) | Techmeme | AI |
+| 4 | [Ramp data: Fable 5, launched in June, has plateaued at ~11% of spending on Anthropic tools, as companies shift to cheaper models; Opus 5 surpassed Fable 5 (George Hammond/Financial Times)](https://www.techmeme.com/260823/p8) | Techmeme | AI |
+| 5 | [OpenAI makes ChatGPT less 'human' for teens in new safety update](https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
 
-> 共 38 条，以上为 TOP 5。
+> 共 46 条，以上为 TOP 5。
 
 ---
 
@@ -52,13 +52,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [AI 即将接管流量，而广告正在疯狂「末日反扑」](https://www.36kr.com/p/3951561851534723) | 36氪 · 24小时热榜 | AI/IP |
-| 3 | [[生活] 周末回了躺老家，两件小事打破了县城低价养老的幻想](https://www.v2ex.com/t/1236691) | V2EX (创意工作者社区) | 回乡 |
-| 4 | [[推广] 流量免费送， 0 成本领取使用](https://www.v2ex.com/t/1236683) | V2EX (创意工作者社区) | IP |
-| 5 | [[推广] 10 个住宅 ip 免费流量 继续送](https://www.v2ex.com/t/1236672) | V2EX (创意工作者社区) | IP |
-
-> 共 6 条，以上为 TOP 5。
+| 1 | [AI 即将接管流量，而广告正在疯狂「末日反扑」](https://www.36kr.com/p/3951561851534723) | 36氪 · 24小时热榜 | AI/IP |
+| 2 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
+| 3 | [县域消费18条，2类县城的机遇来了](https://www.huxiu.com/article/4885341.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
 
 ---
 
@@ -68,7 +64,8 @@
 |---|------|------|------|
 | 1 | [黑莓不卖手机后，反而更赚钱了](https://www.36kr.com/p/3950851911204230) | 36氪 · 24小时热榜 | 变现 |
 | 2 | [IPO 前商业模式遭质疑：Anthropic 最强模型遇冷，中国实惠模型受青睐](https://www.aibase.com/news/30554) | AIbase | AI/变现 |
-| 3 | [从 NFT 到 AI，他的赚钱逻辑从未变过](https://www.huxiu.com/article/4884934.html?f=rss) | 虎嗅 (Huxiu) | AI/变现 |
+| 3 | [[推广] 独立开发者 = 独立开发 + 独立使用？](https://www.v2ex.com/t/1236740) | V2EX (创意工作者社区) | 变现 |
+| 4 | [从 NFT 到 AI，他的赚钱逻辑从未变过](https://www.huxiu.com/article/4884934.html?f=rss) | 虎嗅 (Huxiu) | AI/变现 |
 
 ---
 
@@ -80,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-24T02:53:00.953Z
-- **总资讯数**：4159 条原始 → 546 条筛选后
+- **聚合时间**：2026-08-24T04:32:36.179Z
+- **总资讯数**：4219 条原始 → 534 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
