@@ -30,7 +30,7 @@
 | 4 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
 | 5 | [没想到吧！Skill 也可以测试 — 小白都看得懂的 Skill 教程](https://juejin.cn/post/7675447922213568558) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 16 条，以上为 TOP 5。
+> 共 21 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [Siri AI Will Have a Waitlist When iOS 27 Launches](https://www.macrumors.com/2026/08/24/siri-ai-ios-27-waitlist) | Mac Rumors | AI |
 | 5 | [Docs: Meta plans to launch its version of OpenClaw, codenamed Hatch, in late August or early September and its latest AI model, Watermelon, in October (Jyoti Mann/The Information)](https://www.techmeme.com/260824/p37) | Techmeme | AI |
 
-> 共 62 条，以上为 TOP 5。
+> 共 67 条，以上为 TOP 5。
 
 ---
 
@@ -53,8 +53,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [[推广] [福利赠送] --十条流量免费送](https://www.v2ex.com/t/1236948) | V2EX (创意工作者社区) | IP |
-| 3 | [吐槽校区在县城里的大学生，到底想要一所怎样的“大学”？](https://www.huxiu.com/article/4885668.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 2 | [研究显示，安达卢西亚农村地区的双语教育普及程度仍显滞后](https://phys.org/news/2026-08-access-bilingual-lags-andalusia-rural.html) | phys.org | 回乡 |
+| 3 | [[推广] BifrostNetwork | 住宅代理$0.5/GB | 注册送 0.5G 免费流量](https://www.v2ex.com/t/1237016) | V2EX (创意工作者社区) | IP |
+| 4 | [Show HN: Aquifer——针对突发性vLLM流量的接入控制](https://github.com/rjpruitt16/aquifer) | github.com | AI/IP |
+| 5 | [吐槽校区在县城里的大学生，到底想要一所怎样的“大学”？](https://www.huxiu.com/article/4885668.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
 
 ---
 
@@ -77,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-25T02:48:03.634Z
-- **总资讯数**：4430 条原始 → 653 条筛选后
+- **聚合时间**：2026-08-25T04:26:16.913Z
+- **总资讯数**：4439 条原始 → 667 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
