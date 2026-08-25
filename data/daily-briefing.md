@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Anthropic新模型偷「吃瓜」！最强Fable 5爆冷](https://aiera.com.cn/2026/08/25/other/admin/110572/anthropic%e6%96%b0%e6%a8%a1%e5%9e%8b%e5%81%b7%e3%80%8c%e5%90%83%e7%93%9c%e3%80%8d%ef%bc%81%e6%9c%80%e5%bc%bafable-5%e7%88%86%e5%86%b7) | 新智元 | AI |
-| 2 | [Anthropic滑跪认错！Claude暗中降智实锤](https://aiera.com.cn/2026/08/25/other/admin/110554/anthropic%e6%bb%91%e8%b7%aa%e8%ae%a4%e9%94%99%ef%bc%81claude%e6%9a%97%e4%b8%ad%e9%99%8d%e6%99%ba%e5%ae%9e%e9%94%a4) | 新智元 | AI |
-| 3 | [突发！Hugging Face 要被卖了：最新报价约870亿元](https://aiera.com.cn/2026/08/25/other/admin/110508/%e7%aa%81%e5%8f%91%ef%bc%81hugging-face-%e8%a6%81%e8%a2%ab%e5%8d%96%e4%ba%86%ef%bc%9a%e6%9c%80%e6%96%b0%e6%8a%a5%e4%bb%b7%e7%ba%a6870%e4%ba%bf%e5%85%83) | 新智元 | AI |
-| 4 | [英伟达都摁不住了！内存疯涨，AI服务器被曝涨价超15%](https://aiera.com.cn/2026/08/25/other/admin/110493/%e8%8b%b1%e4%bc%9f%e8%be%be%e9%83%bd%e6%91%81%e4%b8%8d%e4%bd%8f%e4%ba%86%ef%bc%81%e5%86%85%e5%ad%98%e7%96%af%e6%b6%a8%ef%bc%8cai%e6%9c%8d%e5%8a%a1%e5%99%a8%e8%a2%ab%e6%9b%9d%e6%b6%a8%e4%bb%b7%e8%b6%85) | 新智元 | AI |
-| 5 | [菲尔兹奖得主都栽了！Claude终结78年悬案，或成最重要AI数学成果](https://aiera.com.cn/2026/08/25/other/admin/110481/%e8%8f%b2%e5%b0%94%e5%85%b9%e5%a5%96%e5%be%97%e4%b8%bb%e9%83%bd%e6%a0%bd%e4%ba%86%ef%bc%81claude%e7%bb%88%e7%bb%9378%e5%b9%b4%e6%82%ac%e6%a1%88%ef%bc%8c%e6%88%96%e6%88%90%e6%9c%80%e9%87%8d%e8%a6%81ai) | 新智元 | AI |
+| 1 | [Headlong: A Microharness for Persistent Agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents) | Hacker News | AI |
+| 2 | [SiFive's First Server Platform](https://chipsandcheese.com/p/sifives-first-server-platform) | Hacker News | 其他 |
+| 3 | [What languages are agent skills written in?](https://plicara.ai/research/agent-skill-languages) | Hacker News | AI |
+| 4 | [iCloud 的“隐藏我的电子邮件地址”功能将保留在 icloud.com 上 / iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm) | Hacker News | 其他 |
+| 5 | [Vintage Artificial Intelligence: Before It Got Awkward](https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -30,7 +30,7 @@
 | 4 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
 | 5 | [没想到吧！Skill 也可以测试 — 小白都看得懂的 Skill 教程](https://juejin.cn/post/7675447922213568558) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 20 条，以上为 TOP 5。
+> 共 16 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [刚刚，奥特曼炮轰达里奥「反人类」！绝密模型同日曝光](https://aiera.com.cn/2026/08/25/other/admin/110537/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%a5%a5%e7%89%b9%e6%9b%bc%e7%82%ae%e8%bd%b0%e8%be%be%e9%87%8c%e5%a5%a5%e3%80%8c%e5%8f%8d%e4%ba%ba%e7%b1%bb%e3%80%8d%ef%bc%81%e7%bb%9d%e5%af%86%e6%a8%a1%e5%9e%8b%e5%90%8c) | 新智元 | AI |
-| 2 | [老黄斥资60亿美元，打造全球顶尖开源模型！](https://aiera.com.cn/2026/08/25/other/admin/110460/%e8%80%81%e9%bb%84%e6%96%a5%e8%b5%8460%e4%ba%bf%e7%be%8e%e5%85%83%ef%bc%8c%e6%89%93%e9%80%a0%e5%85%a8%e7%90%83%e9%a1%b6%e5%b0%96%e5%bc%80%e6%ba%90%e6%a8%a1%e5%9e%8b%ef%bc%81) | 新智元 | AI |
-| 3 | [Alabama launches investigation into OpenAI’s hack of Hugging Face](https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face) | TechCrunch | AI |
-| 4 | [Siri AI Will Have a Waitlist When iOS 27 Launches](https://www.macrumors.com/2026/08/24/siri-ai-ios-27-waitlist) | Mac Rumors | AI |
-| 5 | [Bengaluru-based autonomous drone startup Airbound raised a $37M Series A led by Greenoaks, less than a year after an $8.65M seed, taking total funding to ~$50M (Jagmeet Singh/TechCrunch)](https://www.techmeme.com/260825/p2) | Techmeme | AI |
+| 1 | [Alabama launches investigation into OpenAI’s hack of Hugging Face](https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face) | TechCrunch | AI |
+| 2 | [Siri AI Will Have a Waitlist When iOS 27 Launches](https://www.macrumors.com/2026/08/24/siri-ai-ios-27-waitlist) | Mac Rumors | AI |
+| 3 | [Bengaluru-based autonomous drone startup Airbound raised a $37M Series A led by Greenoaks, less than a year after an $8.65M seed, taking total funding to ~$50M (Jagmeet Singh/TechCrunch)](https://www.techmeme.com/260825/p2) | Techmeme | AI |
+| 4 | [Docs: Meta plans to launch its version of OpenClaw, codenamed Hatch, in late August or early September and its latest AI model, Watermelon, in October (Jyoti Mann/The Information)](https://www.techmeme.com/260824/p37) | Techmeme | AI |
+| 5 | [Source: robotics startup Generalist, which released its GEN-1 model to complete physical tasks in April, raised ~$200M led by 8VC, after raising $400M in June (Dan Primack/Axios)](https://www.techmeme.com/260824/p34) | Techmeme | AI |
 
-> 共 61 条，以上为 TOP 5。
+> 共 54 条，以上为 TOP 5。
 
 ---
 
@@ -53,9 +53,9 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [[OpenAI] 计划明天恢复 plus 用户 5 小时限制，附 tibo 重要推文搬运公众号](https://www.v2ex.com/t/1237035) | V2EX (创意工作者社区) | AI/IP |
-| 3 | [研究显示，安达卢西亚农村地区的双语教育普及程度仍显滞后](https://phys.org/news/2026-08-access-bilingual-lags-andalusia-rural.html) | phys.org | 回乡 |
-| 4 | [[推广] BifrostNetwork | 住宅代理$0.5/GB | 注册送 0.5G 免费流量](https://www.v2ex.com/t/1237016) | V2EX (创意工作者社区) | IP |
+| 2 | [[推广] 重生之我有用不完的流量，免费送给大家](https://www.v2ex.com/t/1237087) | V2EX (创意工作者社区) | IP |
+| 3 | [[推广] 送点流量 CDK，纯净住宅 IP 动态流量](https://www.v2ex.com/t/1237062) | V2EX (创意工作者社区) | IP |
+| 4 | [研究显示，安达卢西亚农村地区的双语教育普及程度仍显滞后](https://phys.org/news/2026-08-access-bilingual-lags-andalusia-rural.html) | phys.org | 回乡 |
 | 5 | [Show HN: Aquifer——针对突发性vLLM流量的接入控制](https://github.com/rjpruitt16/aquifer) | github.com | AI/IP |
 
 > 共 6 条，以上为 TOP 5。
@@ -66,10 +66,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [全球第三之后，深天马的OLED为什么还这么难赚钱？](https://www.huxiu.com/article/4885686.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 2 | [所有人都在抱团赚钱时，亏损只是被藏起来了](https://www.huxiu.com/article/4884896.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 3 | [如何定价——自由职业/合同工作——网页/用户体验/开发/营销（任何细分领域）（2026）](https://news.ycombinator.com/item?id=49427649) | news.ycombinator.com | 变现 |
-| 4 | [黑莓不卖手机后，反而更赚钱了](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw%3D%3D&mid=2248900145&idx=4&sn=6cdfd2bcb35eebdd1f8e077962ebc318) | 36氪 | 变现 |
+| 1 | [[分享创造] 独立开发者的真实困境：产品做出来了，但没人知道](https://www.v2ex.com/t/1237057) | V2EX (创意工作者社区) | 变现 |
+| 2 | [全球第三之后，深天马的OLED为什么还这么难赚钱？](https://www.huxiu.com/article/4885686.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 3 | [所有人都在抱团赚钱时，亏损只是被藏起来了](https://www.huxiu.com/article/4884896.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 4 | [如何定价——自由职业/合同工作——网页/用户体验/开发/营销（任何细分领域）（2026）](https://news.ycombinator.com/item?id=49427649) | news.ycombinator.com | 变现 |
+| 5 | [黑莓不卖手机后，反而更赚钱了](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw%3D%3D&mid=2248900145&idx=4&sn=6cdfd2bcb35eebdd1f8e077962ebc318) | 36氪 | 变现 |
 
 ---
 
@@ -81,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-25T06:21:45.460Z
-- **总资讯数**：4386 条原始 → 655 条筛选后
+- **聚合时间**：2026-08-25T08:25:56.276Z
+- **总资讯数**：4453 条原始 → 655 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
