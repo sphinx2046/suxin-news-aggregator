@@ -30,7 +30,7 @@
 | 4 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
 | 5 | [没想到吧！Skill 也可以测试 — 小白都看得懂的 Skill 教程](https://juejin.cn/post/7675447922213568558) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 21 条，以上为 TOP 5。
+> 共 20 条，以上为 TOP 5。
 
 ---
 
@@ -42,9 +42,9 @@
 | 2 | [老黄斥资60亿美元，打造全球顶尖开源模型！](https://aiera.com.cn/2026/08/25/other/admin/110460/%e8%80%81%e9%bb%84%e6%96%a5%e8%b5%8460%e4%ba%bf%e7%be%8e%e5%85%83%ef%bc%8c%e6%89%93%e9%80%a0%e5%85%a8%e7%90%83%e9%a1%b6%e5%b0%96%e5%bc%80%e6%ba%90%e6%a8%a1%e5%9e%8b%ef%bc%81) | 新智元 | AI |
 | 3 | [Alabama launches investigation into OpenAI’s hack of Hugging Face](https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face) | TechCrunch | AI |
 | 4 | [Siri AI Will Have a Waitlist When iOS 27 Launches](https://www.macrumors.com/2026/08/24/siri-ai-ios-27-waitlist) | Mac Rumors | AI |
-| 5 | [Docs: Meta plans to launch its version of OpenClaw, codenamed Hatch, in late August or early September and its latest AI model, Watermelon, in October (Jyoti Mann/The Information)](https://www.techmeme.com/260824/p37) | Techmeme | AI |
+| 5 | [Bengaluru-based autonomous drone startup Airbound raised a $37M Series A led by Greenoaks, less than a year after an $8.65M seed, taking total funding to ~$50M (Jagmeet Singh/TechCrunch)](https://www.techmeme.com/260825/p2) | Techmeme | AI |
 
-> 共 67 条，以上为 TOP 5。
+> 共 61 条，以上为 TOP 5。
 
 ---
 
@@ -53,10 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901) | sspai | IP |
-| 2 | [研究显示，安达卢西亚农村地区的双语教育普及程度仍显滞后](https://phys.org/news/2026-08-access-bilingual-lags-andalusia-rural.html) | phys.org | 回乡 |
-| 3 | [[推广] BifrostNetwork | 住宅代理$0.5/GB | 注册送 0.5G 免费流量](https://www.v2ex.com/t/1237016) | V2EX (创意工作者社区) | IP |
-| 4 | [Show HN: Aquifer——针对突发性vLLM流量的接入控制](https://github.com/rjpruitt16/aquifer) | github.com | AI/IP |
-| 5 | [吐槽校区在县城里的大学生，到底想要一所怎样的“大学”？](https://www.huxiu.com/article/4885668.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 2 | [[OpenAI] 计划明天恢复 plus 用户 5 小时限制，附 tibo 重要推文搬运公众号](https://www.v2ex.com/t/1237035) | V2EX (创意工作者社区) | AI/IP |
+| 3 | [研究显示，安达卢西亚农村地区的双语教育普及程度仍显滞后](https://phys.org/news/2026-08-access-bilingual-lags-andalusia-rural.html) | phys.org | 回乡 |
+| 4 | [[推广] BifrostNetwork | 住宅代理$0.5/GB | 注册送 0.5G 免费流量](https://www.v2ex.com/t/1237016) | V2EX (创意工作者社区) | IP |
+| 5 | [Show HN: Aquifer——针对突发性vLLM流量的接入控制](https://github.com/rjpruitt16/aquifer) | github.com | AI/IP |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -79,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-25T04:26:16.913Z
-- **总资讯数**：4439 条原始 → 667 条筛选后
+- **聚合时间**：2026-08-25T06:21:45.460Z
+- **总资讯数**：4386 条原始 → 655 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
