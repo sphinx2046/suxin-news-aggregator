@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-08-25（周二）
+# 素心拾穗 · 每日情报 · 2026-08-26（周三）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -11,10 +11,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [DeepSeek终于能看图了：V4 Flash Vision实测，1分钱9张图但有个大坑](https://juejin.cn/post/7676392949266923546) | juejin | AI |
-| 2 | [英伟达盯上过气老网红Perplexity，300亿美元估值在谈](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247619842&idx=1&sn=54a36d4fbe07c29d438a343692e3c078) | 夕小瑶科技说 | 其他 |
-| 3 | [HuggingFace也要卖身了？估值或达130亿美元](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247619830&idx=1&sn=c2bd79876b31e64f9741cbca25e83026) | 夕小瑶科技说 | 其他 |
-| 4 | [DeepSeekV4 Pro被曝思维链突变，消失的满血版回来了?](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247619684&idx=1&sn=868602e4b93a1f7965bed940b305ed0a) | 夕小瑶科技说 | AI |
-| 5 | [涨价3O倍仍是最便宜的模型，DeepSeek可能有这个底气](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665545&idx=1&sn=f969a204e09e8efe5d0444c7029a5f62) | AI前线 | AI |
+| 2 | [让Claude改报错，它却把红灯换成了黄灯！三星芯片验证，AI三次闯祸](https://aiera.com.cn/2026/08/26/other/admin/110715/%e8%ae%a9claude%e6%94%b9%e6%8a%a5%e9%94%99%ef%bc%8c%e5%ae%83%e5%8d%b4%e6%8a%8a%e7%ba%a2%e7%81%af%e6%8d%a2%e6%88%90%e4%ba%86%e9%bb%84%e7%81%af%ef%bc%81%e4%b8%89%e6%98%9f%e8%8a%af%e7%89%87%e9%aa%8c) | 新智元 | AI |
+| 3 | [英伟达震撼首测Vera Rubin，DeepSeek吞吐暴涨30倍！](https://aiera.com.cn/2026/08/26/other/admin/110705/%e8%8b%b1%e4%bc%9f%e8%be%be%e9%9c%87%e6%92%bc%e9%a6%96%e6%b5%8bvera-rubin%ef%bc%8cdeepseek%e5%90%9e%e5%90%90%e6%9a%b4%e6%b6%a830%e5%80%8d%ef%bc%81) | 新智元 | AI |
+| 4 | [AI开始替人类调用AI！token用量已是人类5.2倍](https://aiera.com.cn/2026/08/26/other/admin/110666/ai%e5%bc%80%e5%a7%8b%e6%9b%bf%e4%ba%ba%e7%b1%bb%e8%b0%83%e7%94%a8ai%ef%bc%81token%e7%94%a8%e9%87%8f%e5%b7%b2%e6%98%af%e4%ba%ba%e7%b1%bb5-2%e5%80%8d) | 新智元 | AI |
+| 5 | [叛变！OpenAI亲儿子竟然选了Kimi K3](https://aiera.com.cn/2026/08/26/other/admin/110634/%e5%8f%9b%e5%8f%98%ef%bc%81openai%e4%ba%b2%e5%84%bf%e5%ad%90%e7%ab%9f%e7%84%b6%e9%80%89%e4%ba%86kimi-k3) | 新智元 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -30,7 +30,7 @@
 | 4 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
 | 5 | [什么是“肉代理”？这是指那些盲目分享AI生成的内容的同事，这一新词由此而来。 / What is a 'meat proxy'? The new term for coworkers who blindly share AI output](https://www.businessinsider.com/meat-proxy-tech-new-term-ai-2026-8) | Business Insider | AI |
 
-> 共 13 条，以上为 TOP 5。
+> 共 12 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [2026 新款Mac mini来了！价格上涨2000，AI性能最高提升4倍](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247619887&idx=1&sn=4cb62ad12e9bf05971d9d90a9adaa550) | 夕小瑶科技说 | AI |
-| 2 | [DeepSeekHarness负责人吐槽“融资材料”吹过头：V4-Pro编程能力仅差Clau...](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665538&idx=1&sn=02987dc5815ebf00d8d043c5aad5f330) | AI前线 | AI |
-| 3 | [字节跳动发布“豆包工作”，大厂AI办公竞争加剧](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ%3D%3D&mid=2653731041&idx=1&sn=23dabe06f745595622dcf8285d7fdeea) | 财经杂志 | AI |
-| 4 | [只有8B，效果惊艳的国产AI图像神器，开源了！](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ%3D%3D&mid=2457995331&idx=1&sn=0504b548db5226ccf70c6b583f446618) | GitHubDaily | AI |
-| 5 | [Wiley选刊工具上线摘要匹配功能：AI技术赋能，可快速生成候选清单](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw%3D%3D&mid=2247722417&idx=2&sn=ce7e269a92a7a94dc0775b1c27e185a9) | PaperWeekly | AI |
+| 1 | [全球首个！10万小时人类数据全开源，Hugging Face罕见站台](https://aiera.com.cn/2026/08/26/other/admin/110655/%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aa%ef%bc%8110%e4%b8%87%e5%b0%8f%e6%97%b6%e4%ba%ba%e7%b1%bb%e6%95%b0%e6%8d%ae%e5%85%a8%e5%bc%80%e6%ba%90%ef%bc%8chugging-face%e7%bd%95%e8%a7%81%e7%ab%99%e5%8f%b0) | 新智元 | AI |
+| 2 | [Ilya交卷！黄仁勋砸50亿押注SSI，首个模型疑本周发布](https://aiera.com.cn/2026/08/26/other/admin/110601/ilya%e4%ba%a4%e5%8d%b7%ef%bc%81%e9%bb%84%e4%bb%81%e5%8b%8b%e7%a0%b850%e4%ba%bf%e6%8a%bc%e6%b3%a8ssi%ef%bc%8c%e9%a6%96%e4%b8%aa%e6%a8%a1%e5%9e%8b%e7%96%91%e6%9c%ac%e5%91%a8%e5%8f%91%e5%b8%83) | 新智元 | AI |
+| 3 | [中国AI突破「造芯方法论」！Agent军团接管芯片设计全流程](https://aiera.com.cn/2026/08/26/other/admin/110583/%e4%b8%ad%e5%9b%bdai%e7%aa%81%e7%a0%b4%e3%80%8c%e9%80%a0%e8%8a%af%e6%96%b9%e6%b3%95%e8%ae%ba%e3%80%8d%ef%bc%81agent%e5%86%9b%e5%9b%a2%e6%8e%a5%e7%ae%a1%e8%8a%af%e7%89%87%e8%ae%be%e8%ae%a1%e5%85%a8) | 新智元 | AI |
+| 4 | [2026 新款Mac mini来了！价格上涨2000，AI性能最高提升4倍](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247619887&idx=1&sn=4cb62ad12e9bf05971d9d90a9adaa550) | 夕小瑶科技说 | AI |
+| 5 | [DeepSeekHarness负责人吐槽“融资材料”吹过头：V4-Pro编程能力仅差Clau...](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA%3D%3D&mid=2247665538&idx=1&sn=02987dc5815ebf00d8d043c5aad5f330) | AI前线 | AI |
 
-> 共 69 条，以上为 TOP 5。
+> 共 66 条，以上为 TOP 5。
 
 ---
 
@@ -54,11 +54,11 @@
 |---|------|------|------|
 | 1 | [本公众号暂停更新两个月](https://mp.weixin.qq.com/s?__biz=MzAwMzc4MTQxNA%3D%3D&mid=2247488773&idx=1&sn=b6a5578f5d95947c4b52f0ae477ad9df) | 产品犬舍 | IP |
 | 2 | [A短片节创作者招募：带着故事来崇礼|甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg%3D%3D&mid=2247557103&idx=2&sn=e7110b4f844dd13d2b038e9f1fd70d1a) | 甲子光年 | IP |
-| 3 | [乡村音乐女王多莉·帕顿去世，享年80岁](https://www.reuters.com/pt/entretenimento/MGSN2SHSEBPDRNI2MOM3BNL5TA-2026-08-25) | www.reuters.com | 回乡 |
-| 4 | [乡村歌手多莉·帕顿去世，享年80岁，各界反应与悼念](https://www.reuters.com/world/us/live-updates-country-music-star-dolly-parton-has-died-2026-08-25) | www.reuters.com | 回乡 |
-| 5 | [各界名流对乡村歌手多莉·帕顿去世的反应](https://reut.rs/4gyRUdW) | reut.rs | 回乡 |
+| 3 | [各界名流对乡村歌手多莉·帕顿去世的反应](https://reut.rs/4gyRUdW) | reut.rs | 回乡 |
+| 4 | [乡村音乐传奇多莉·帕顿去世，享年80岁，各界致哀如潮：“感谢主赐予我们多莉”——最新动态](https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live) | www.theguardian.com | 回乡 |
+| 5 | [直播：粉丝们在已故多莉·帕顿的好莱坞星光大道星形奖章前献花](https://youtube.com/live/Ai-AhMSykwA) | youtube.com | IP |
 
-> 共 10 条，以上为 TOP 5。
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-25T22:12:15.973Z
-- **总资讯数**：4381 条原始 → 660 条筛选后
+- **聚合时间**：2026-08-26T00:29:03.446Z
+- **总资讯数**：4406 条原始 → 647 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
