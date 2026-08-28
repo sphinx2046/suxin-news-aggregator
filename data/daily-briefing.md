@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [OpenAI: Migrating to HTTPX2](https://github.com/openai/openai-python/blob/main/httpx2.md) | Hacker News | AI |
-| 2 | [Pentagon's blacklisting of Anthropic was unlawful, US judge rules](https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28) | Hacker News | AI |
-| 3 | [South Korea's 'AI for All' Push Gives Free Access to Every Citizen](https://www.wsj.com/tech/ai/south-koreas-ai-for-all-push-gives-free-access-to-every-citizen-451f6b2c) | Hacker News | AI |
-| 4 | [Overcooked? Why robotic pizza makers are failing](https://www.bbc.com/news/articles/czxq0wgkkdjo) | Hacker News | 其他 |
-| 5 | [Luanti removed from Google Play due to baseless AI copyright notice](https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai) | Hacker News | AI |
+| 1 | [46块奖牌全部来自量产机，智元全场第一，拆解了18金背后的具身AI](https://mp.weixin.qq.com/s/X9tvJbmz_6KCvWQGJ5a0jA) | 夕小瑶科技说 | AI |
+| 2 | [刚刚，OpenAI拉上Anthropic和100多家机构联名警告：行动时间不多了](https://mp.weixin.qq.com/s/Ff_WG1OY0rkO8ALKLdYPvg) | 夕小瑶科技说 | AI |
+| 3 | [Token消耗减少75%，千问办公创造了新的“省钱模式”](https://mp.weixin.qq.com/s/bMwKLfV8JDe40jwAL1WV3w) | AI前线 | AI |
+| 4 | [大模型和硬件之间，长出了一层新生意](https://mp.weixin.qq.com/s/BJa0DljQfs05VwccwErpGg) | AI前线 | AI |
+| 5 | [OpenAl 之后又是 Anthropic，Claude将攻击延伸至公共互联网](https://mp.weixin.qq.com/s/Xvcl268V3yI-HYJPcmIuDA) | AI前线 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick](https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick) | TechCrunch | AI |
-| 2 | [What’s next for AI and how to get there](https://thenextweb.com/news/whats-next-ai-how-to-get-there) | The Next Web | AI |
+| 1 | [AI产品经理转型正确方法：做对这4点，涨薪30%不难！](https://mp.weixin.qq.com/s/Y-hyclDD_3WNsmRodBilfQ) | 人人都是产品经理 | AI |
+| 2 | [a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’](https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai) | TechCrunch | AI |
 | 3 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 4 | [How to accelerate AI adoption without creating unnecessary security risk](https://www.techradar.com/pro/how-to-accelerate-ai-adoption-without-creating-unnecessary-security-risk) | TechRadar | AI |
+| 4 | [a16z creates a $1.1B Machine Age fund focusing on hardware to "open the throttle and accelerate the physical buildout of AI" (Sean O'Kane/TechCrunch)](https://www.techmeme.com/260828/p14) | Techmeme | AI |
 | 5 | [我拿 4 个真实前端任务试了 GLM-5.3 Flash：代码一遍跑通，账单 4 分钱](https://juejin.cn/post/7678531174247874586) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 11 条，以上为 TOP 5。
+> 共 12 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Plaud is launching AI earbuds](https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability) | The Verge | AI |
-| 2 | [报道：英伟达将以130亿美元收购AI模型库Hugging Face / Report: Nvidia to acquire AI model repository Hugging Face for $13 billion](https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion) | Ars Technica | AI |
-| 3 | [South Korea unveils a project with KT, SK Telecom, and Kakao to provide premium AI tools to the public for free, a move that treats AI like a public utility (Jiyoung Sohn/Wall Street Journal)](https://www.techmeme.com/260828/p6) | Techmeme | AI |
-| 4 | [Tencent releases Hy4 Preview, a 770B-parameter foundational model with a 1M context window that it says outperforms Z.AI and Moonshot models in internal tests (Bloomberg)](https://www.techmeme.com/260828/p3) | Techmeme | AI |
-| 5 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
+| 1 | [Anthropic发布“硬件版MCP”：Claude 操控物理世界，8小时跑...](https://mp.weixin.qq.com/s/i7E9IHdiMyh_mOQ2xNF30A) | AI前线 | AI |
+| 2 | [腾讯混元 Hy4preview发布，稳居开源模型第一梯队](https://mp.weixin.qq.com/s/c9rNyCQ7UfmcizMUCCEClQ) | 腾讯技术工程 | AI |
+| 3 | [机器人融资热超AI与硬件之和，小鹏机器人9亿美元融资创纪录|创投周报](https://mp.weixin.qq.com/s/Zu-wa947AA0Wgcd9RZBQMw) | 36氪Pro | AI |
+| 4 | [谷歌突然发布“最强听写模型”：Agent时代的落伍产品，还是关键拼图?](https://mp.weixin.qq.com/s/n7AVuOExJokBbf1LhhywBg) | InfoQ | AI |
+| 5 | [Netflix 开源了一个用于因果推理的智能代理工作流](https://mp.weixin.qq.com/s/X-pVE1ONCIIgriYz7SfMlg) | InfoQ | AI |
 
-> 共 62 条，以上为 TOP 5。
+> 共 54 条，以上为 TOP 5。
 
 ---
 
@@ -52,11 +52,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [Show HN: 面向创作者和产品的付费排名榜单](https://www.cuntent.lol/) | www.cuntent.lol | IP |
-| 3 | [[分享创造] 做了个独立开发机会雷达：从 Stripe / Creem 等支付与流量信号里找选题](https://www.v2ex.com/t/1237944) | V2EX (创意工作者社区) | IP |
-| 4 | [白宫发布了一段蒂姆和莫比戴着“让美国再次伟大”（MAGA）帽子的视频。他们的创作者则以此为契机，上了一堂关于版权的课。](https://www.businessinsider.com/tim-and-moby-trump-maga-white-house-lesson-copyright-law-2026-8) | www.businessinsider.com | IP |
-| 5 | [我的自媒体搭子太能卷，一顿饭功夫17份成品](https://mp.weixin.qq.com/s/X3M6LMHe03YSH4kmYbr1XA) | 量子位 | IP |
+| 1 | [我的自媒体搭子太能卷，一顿饭功夫17份成品](https://www.qbitai.com/2026/08/480700.html) | 量子位 · 每日最新 | IP |
+| 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 3 | [看看粉丝们最常播放的多莉·帕顿的哪些歌曲](https://reut.rs/4cAjHtB) | reut.rs | IP |
+| 4 | [[分享创造] 做了个独立开发机会雷达：从 Stripe / Creem 等支付与流量信号里找选题](https://www.v2ex.com/t/1237944) | V2EX (创意工作者社区) | IP |
+| 5 | [白宫发布了一段蒂姆和莫比戴着“让美国再次伟大”（MAGA）帽子的视频。他们的创作者则以此为契机，上了一堂关于版权的课。](https://www.businessinsider.com/tim-and-moby-trump-maga-white-house-lesson-copyright-law-2026-8) | www.businessinsider.com | IP |
 
 ---
 
@@ -64,13 +64,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [好莱坞与字节握手言和，既然挡不住AI视频浪潮，那就一起赚钱](https://www.36kr.com/p/3957628893337480) | 36氪 · 24小时热榜 | AI/变现 |
-| 2 | [刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%](https://www.qbitai.com/2026/08/480600.html) | 量子位 · 每日最新 | AI/变现 |
-| 3 | [电池如何重塑太阳能商业模式](https://www.ft.com/content/3f170d25-190f-4deb-9906-431916b1eb1d?syn-25a6b1a6=1) | www.ft.com | 变现 |
-| 4 | [[分享创造] 安卓版 airtag，寻找变现机会](https://www.v2ex.com/t/1237938) | V2EX (创意工作者社区) | 变现 |
-| 5 | [基金净值涨68%，仅15%基民赚钱，基金中报新指标曝光，揭穿基金赚钱真相](https://www.huxiu.com/article/4886767.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-
-> 共 8 条，以上为 TOP 5。
+| 1 | [2个人的团队，为什么能用3篇文章，就做到1000万的收入？](https://mp.weixin.qq.com/s/5W_hXQfPhfsevp-QU_nsEw) | 刘润 | 变现 |
+| 2 | [刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入...](https://mp.weixin.qq.com/s/oNL6OKFJ1Mlqaym_BxQohw) | 量子位 | AI/变现 |
+| 3 | [基民到底赚没赚钱？糊涂账终于有了答案](https://mp.weixin.qq.com/s/8rqXerdOAMwQkaH92PohXw) | 36氪 | 变现 |
+| 4 | [“Meta和解协议将如何改变互联网”——尽管拒绝承认法律上的过错，但Facebook和Instagram的母公司首次承认，其商业模式的许多方面对儿童而言是不可接受的。](https://www.newyorker.com/news/the-lede/how-the-meta-settlement-could-change-the-internet) | www.newyorker.com | 变现 |
+| 5 | [[分享创造] 安卓版 airtag，寻找变现机会](https://www.v2ex.com/t/1237938) | V2EX (创意工作者社区) | 变现 |
 
 ---
 
@@ -82,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-28T13:25:36.346Z
-- **总资讯数**：4507 条原始 → 653 条筛选后
+- **聚合时间**：2026-08-28T23:14:15.762Z
+- **总资讯数**：4371 条原始 → 638 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
