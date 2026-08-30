@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Warp builds self-improving agents on Claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude) | Hacker News | AI |
+| 1 | [手把手书写你的第一个 AI Agent：当 Skill 有了记忆、角色和主动性](https://juejin.cn/post/7678535429227200563) | juejin | AI |
 | 2 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
 | 3 | [Job listings and other indicators: SpaceX is working on a Bastrop, TX foundry to build blades for large gas turbines, which could ease its AI power crunch (Ann Davis Vaughan/The Information)](https://www.techmeme.com/260829/p14) | Techmeme | AI |
 | 4 | [我拿 4 个真实前端任务试了 GLM-5.3 Flash：代码一遍跑通，账单 4 分钱](https://juejin.cn/post/7678531174247874586) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [手把手书写你的第一个 AI Agent：当 Skill 有了记忆、角色和主动性](https://juejin.cn/post/7678535429227200563) | juejin | AI |
+| 5 | [[分享创造] AI 音乐现在效果是真好，顺手做了个可以送礼物的网站](https://www.v2ex.com/t/1238156) | V2EX (创意工作者社区) | AI |
 
-> 共 8 条，以上为 TOP 5。
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -39,12 +39,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [终于，Claude Code打通了桌面端与终端！](https://aiera.com.cn/2026/08/30/other/admin/111287/%e7%bb%88%e4%ba%8e%ef%bc%8cclaude-code%e6%89%93%e9%80%9a%e4%ba%86%e6%a1%8c%e9%9d%a2%e7%ab%af%e4%b8%8e%e7%bb%88%e7%ab%af%ef%bc%81) | 新智元 | AI |
-| 2 | [Anthropic发布Al-Native 软件开发流程：时代变了，该换套模式了](https://mp.weixin.qq.com/s/YeAL7XBmltR4n3rUnz3Pag) | FounderPark | AI |
-| 3 | [报道：英伟达将以130亿美元收购AI模型库Hugging Face / Report: Nvidia to acquire AI model repository Hugging Face for $13 billion](https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion) | Ars Technica | AI |
-| 4 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
-| 5 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
+| 2 | [我做了一个开源项目，让 AI 记住我们解决过的问题：Usora](https://juejin.cn/post/7679020474672660526) | juejin | AI |
+| 3 | [英伟达129亿美元收购Hugging Face](https://juejin.cn/post/7678516020860960831) | juejin | AI |
+| 4 | [报道：英伟达将以130亿美元收购AI模型库Hugging Face / Report: Nvidia to acquire AI model repository Hugging Face for $13 billion](https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion) | Ars Technica | AI |
+| 5 | [Faro, which develops data models and AI tools to speed up clinical trials, raised a $37.3M Series B co-led by Merck Global Health Innovation Fund and S32 (Dealroom.co)](https://www.techmeme.com/260830/p3) | Techmeme | AI |
 
-> 共 52 条，以上为 TOP 5。
+> 共 47 条，以上为 TOP 5。
 
 ---
 
@@ -55,8 +55,7 @@
 | 1 | [我的自媒体搭子太能卷，一顿饭功夫17份成品](https://www.qbitai.com/2026/08/480700.html) | 量子位 · 每日最新 | IP |
 | 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
 | 3 | [聊一聊：说一句你老家最出名的方言。](https://mp.weixin.qq.com/s/4Z8JfWeIag-ji9gjkPY__g) | 差评 | 回乡 |
-| 4 | [在极具英伦风情的乡村音乐节上，随处可见斯特森帽和防水外套](https://www.theguardian.com/artanddesign/gallery/2026/aug/29/stetsons-waterproofs-long-road-country-music-festival) | www.theguardian.com | 回乡 |
-| 5 | [这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。](https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8) | www.businessinsider.com | AI/IP |
+| 4 | [这位创作者因宣传克劳德而遭到“微抵制”。她表示，使用人工智能正逐渐成为一种社会禁忌。](https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8) | www.businessinsider.com | AI/IP |
 
 ---
 
@@ -64,10 +63,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%](https://www.qbitai.com/2026/08/480600.html) | 量子位 · 每日最新 | AI/变现 |
-| 2 | [开营 10 天变现率 20%：我用一套 Skill，把小红书虚拟资料跑成了可复制流程](https://juejin.cn/post/7678539625379545128) | juejin | 变现 |
-| 3 | [一个老老实实赚钱的时代，正在到来](https://mp.weixin.qq.com/s/sQiAFi4WlycOM4p70EaLzg) | 刘润 | 变现 |
-| 4 | [企业利润占总收入的比例达到二战以来的最高水平，而员工薪酬却在萎缩](https://www.ft.com/content/6f3ada65-c56c-499c-8eb6-008fac58949d) | www.ft.com | 变现 |
+| 1 | [开营 10 天变现率 20%：我用一套 Skill，把小红书虚拟资料跑成了可复制流程](https://juejin.cn/post/7678539625379545128) | juejin | 变现 |
+| 2 | [刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%](https://www.qbitai.com/2026/08/480600.html) | 量子位 · 每日最新 | AI/变现 |
+| 3 | [Veeva（VEEV）订阅收入增长16%，GAAP营业利润增长40%。利润率的提升能否持续？](https://finance.yahoo.com/technology/ai/articles/veeva-veev-grew-subscription-revenue-024322293.html) | finance.yahoo.com | 变现 |
+| 4 | [国家数据局局长刘烈宏：要围绕国民经济重大场景，研究探索词元增值订阅、按效付费等商业模式](https://www.ithome.com/0/996/119.htm) | IT之家 (ITHome) | 变现 |
+| 5 | [一个老老实实赚钱的时代，正在到来](https://mp.weixin.qq.com/s/sQiAFi4WlycOM4p70EaLzg) | 刘润 | 变现 |
 
 ---
 
@@ -79,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-30T01:52:12.418Z
-- **总资讯数**：4130 条原始 → 538 条筛选后
+- **聚合时间**：2026-08-30T07:33:45.244Z
+- **总资讯数**：4157 条原始 → 546 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
