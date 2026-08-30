@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [「速通Shell」Shell 编程性能优化](https://juejin.cn/post/7678975240300773428) | juejin | 其他 |
-| 2 | [我的开源项目登顶 GitHub 趋势榜 No1 了！](https://juejin.cn/post/7678618678956163078) | juejin | 其他 |
-| 3 | [VisActor  全新图可视化开源项目：VGraph](https://juejin.cn/post/7678646261258043428) | juejin | 其他 |
-| 4 | [AI问诊5秒出结果，医生反而更忙了](https://juejin.cn/post/7678607362015477814) | juejin | AI |
-| 5 | [4.8K Star！一套规则让 AI 帮你写出“像人写的”前端代码](https://juejin.cn/post/7678586341091049508) | juejin | AI |
+| 1 | [Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver](https://github.com/KodeMunkie/sm750hdmifb) | Hacker News | 其他 |
+| 2 | [默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default](https://github.com/anthropics/claude-code/issues/66504) | Hacker News | AI |
+| 3 | [“无AI星期五” / No AI Fridays](https://noaifridays.com/) | Hacker News | AI |
+| 4 | [Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 5 | [House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -28,7 +28,7 @@
 | 2 | [Job listings and other indicators: SpaceX is working on a Bastrop, TX foundry to build blades for large gas turbines, which could ease its AI power crunch (Ann Davis Vaughan/The Information)](https://www.techmeme.com/260829/p14) | Techmeme | AI |
 | 3 | [我拿 4 个真实前端任务试了 GLM-5.3 Flash：代码一遍跑通，账单 4 分钱](https://juejin.cn/post/7678531174247874586) | 掘金 · 人工智能本周最热 | AI |
 | 4 | [我带着DeepSeek Harness跑了一周真实需求——这份避坑速查表请收好](https://juejin.cn/post/7677441124442570761) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [一个很酷的小技巧：利用 Claude Code 配合 tail -f 实时监控文件](https://news.ycombinator.com/item?id=49499700) | news.ycombinator.com | AI |
+| 5 | [[分享创造] 分享下最近 vibe 的大模型 API 测试工具，一套 Rust+vue 同时支持服务器部署和 tauri 桌面端](https://www.v2ex.com/t/1238249) | V2EX (创意工作者社区) | AI |
 
 > 共 7 条，以上为 TOP 5。
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [我做了一个开源项目，让 AI 记住我们解决过的问题：Usora](https://juejin.cn/post/7679020474672660526) | juejin | AI |
-| 2 | [【AI工具】你敢看自己一个月烧了多少 Token 吗？Juejin Usage来了](https://juejin.cn/post/7678867694069874726) | juejin | AI |
-| 3 | [Faro, which develops data models and AI tools to speed up clinical trials, raised a $37.3M Series B co-led by Merck Global Health Innovation Fund and S32 (Dealroom.co)](https://www.techmeme.com/260830/p3) | Techmeme | AI |
-| 4 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
-| 5 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
+| 1 | [Faro, which develops data models and AI tools to speed up clinical trials, raised a $37.3M Series B co-led by Merck Global Health Innovation Fund and S32 (Dealroom.co)](https://www.techmeme.com/260830/p3) | Techmeme | AI |
+| 2 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
+| 3 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
+| 4 | [正式开源！美团 LongCat-2.0 同步开放国产卡推理代码](https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html) | 美团技术团队 (Meituan Tech) | AI |
+| 5 | [美团 LongCat-2.0 正式发布：在国产算力集群上完成全流程训练与推理的万亿参数模型](https://tech.meituan.com/2026/06/30/LongCat2.0.html) | 美团技术团队 (Meituan Tech) | AI |
 
-> 共 50 条，以上为 TOP 5。
+> 共 51 条，以上为 TOP 5。
 
 ---
 
@@ -65,9 +65,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%](https://www.qbitai.com/2026/08/480600.html) | 量子位 · 每日最新 | AI/变现 |
-| 2 | [高收入人群利用的4种资产，无需打第二份工也能积累财富](https://finance.yahoo.com/markets/stocks/articles/4-assets-high-earners-build-170026095.html) | finance.yahoo.com | 变现 |
-| 3 | [帮助一对夫妇实现财务自由的3条理财法则](https://www.businessinsider.com/3-money-rules-that-helped-one-couple-hit-financial-independence-2026-8) | www.businessinsider.com | 变现 |
-| 4 | [一个老老实实赚钱的时代，正在到来](https://mp.weixin.qq.com/s/sQiAFi4WlycOM4p70EaLzg) | 刘润 | 变现 |
+| 2 | [这款月收入6.9万美元的SaaS背后那个显而易见的秘密](https://finance.yahoo.com/video/insanely-obvious-secret-behind-69k-193123747.html) | finance.yahoo.com | 变现 |
+| 3 | [Show HN: Invovanta——面向自由职业者的开票与业务管理平台](https://invoiceflowdesign.app/) | invoiceflowdesign.app | 变现 |
+| 4 | [“一人公司”（OPC）只是优步司机的一种类型吗？](https://news.ycombinator.com/item?id=49501729) | news.ycombinator.com | 变现 |
+| 5 | [帮助一对夫妇实现财务自由的3条理财法则](https://www.businessinsider.com/3-money-rules-that-helped-one-couple-hit-financial-independence-2026-8) | www.businessinsider.com | 变现 |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -79,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-30T17:48:22.291Z
-- **总资讯数**：4185 条原始 → 525 条筛选后
+- **聚合时间**：2026-08-30T20:08:38.992Z
+- **总资讯数**：4180 条原始 → 526 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
