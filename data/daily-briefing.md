@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [百万小时真实数据，构建物理AI规模化数据供给](https://aiera.com.cn/2026/08/31/other/admin/111522/%e7%99%be%e4%b8%87%e5%b0%8f%e6%97%b6%e7%9c%9f%e5%ae%9e%e6%95%b0%e6%8d%ae%ef%bc%8c%e6%9e%84%e5%bb%ba%e7%89%a9%e7%90%86ai%e8%a7%84%e6%a8%a1%e5%8c%96%e6%95%b0%e6%8d%ae%e4%be%9b%e7%bb%99) | 新智元 | AI |
-| 2 | [Breaking Claude Code Opus 5 Auto Mode](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode) | Hacker News | AI |
-| 3 | [Meta Security Researcher's AI Agent Accidentally Deleted Her Emails](https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails) | Hacker News | AI |
-| 4 | [The EU has begun enforcing the AI Act: first RFIs to model providers](https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis) | Hacker News | AI |
-| 5 | [OpenClaw 2.0, Accidentally](https://openclaw.ai/blog/openclaw-2-accidentally) | Hacker News | 其他 |
+| 1 | [Agentic Trust Controls](https://trustcontrols.ai/) | Hacker News | AI |
+| 2 | [Marx, Keynes, and A.I](https://www.unpopularfront.news/p/marx-keynes-and-ai) | Hacker News | 其他 |
+| 3 | [Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 4 | [House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
+| 5 | [You Know Who Really Hates AI? Insurance Claims Adjusters](https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai) | Wired | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,11 +24,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 2 | [我拿 4 个真实前端任务试了 GLM-5.3 Flash：代码一遍跑通，账单 4 分钱](https://juejin.cn/post/7678531174247874586) | 掘金 · 人工智能本周最热 | AI |
-| 3 | [我带着DeepSeek Harness跑了一周真实需求——这份避坑速查表请收好](https://juejin.cn/post/7677441124442570761) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [香港遴选出36个金融业生成式人工智能（GenAI）试点应用案例](https://finance.yahoo.com/technology/ai/articles/hong-kong-selects-36-ai-093920080.html) | finance.yahoo.com | AI |
-| 5 | [我们测试了人工智能聊天机器人如何应对外国宣传。结果出人意料地好。 - NPR](https://news.google.com/rss/articles/CBMie0FVX3lxTFBjLV9wM1lGbENCcndueTBnQ2JrTFNlc1VOQ3pybHl6eWppMzdYNTdrcEZtVmtHS1hPdmdCTVJRSktjcHotb2h1aFN0eHA4TzFaSEVrdEU1c21GNVRCOVAtTlFYN3g4X0NDNmJzRDAwR2J4ajhTdE9BNHFnSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | AI |
+| 1 | [Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout](https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout) | TechCrunch | AI |
+| 2 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 3 | [我拿 4 个真实前端任务试了 GLM-5.3 Flash：代码一遍跑通，账单 4 分钱](https://juejin.cn/post/7678531174247874586) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [ChatGPT 教你 4 种方法，每周在 Taskrabbit 上赚取 500 美元以上](https://finance.yahoo.com/small-business/articles/4-ways-earn-500-week-170025304.html) | finance.yahoo.com | AI |
+| 5 | [如何构建扩散式语言模型 / How to build a diffusion language model](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model) | Hacker News · 24h最热 | AI |
 
 > 共 6 条，以上为 TOP 5。
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Chess.com Launches New Poker Site, Plans More Classic Game Sites with Player Ratings - Thanks to   AI Protyping](https://games.slashdot.org/story/26/08/30/2017215/chesscom-launches-new-poker-site-plans-more-classic-game-sites-with-player-ratings---thanks-to-ai-protyping) | Slashdot | AI |
-| 2 | [Chip design startup Agentrys has raised a $19.1M seed round led by Etna Labs and a $5.4M pre-seed led by MediaTek (Chris Metinko/Axios)](https://www.techmeme.com/260830/p12) | Techmeme | AI |
-| 3 | [爆火的《牛来》模型正式发布！DeepSeek 的排名又下降了。。](https://juejin.cn/post/7678618274796961843) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [我的开源项目登顶 GitHub 趋势榜 No1 了！](https://juejin.cn/post/7678618678956163078) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [GLM-5.3-Flash 发布：追平 Opus 4.8 的智力，1/40 的价格，跑在国产芯片上](https://juejin.cn/post/7678214547980582952) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [Launch HN: Almanac (YC S26) – AI that knows your company](https://usealmanac.com/) | Hacker News | AI |
+| 2 | [Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines](https://github.com/Hebbian-Robotics/hflow) | Hacker News | AI |
+| 3 | [Chess.com Launches New Poker Site, Plans More Classic Game Sites with Player Ratings - Thanks to   AI Protyping](https://games.slashdot.org/story/26/08/30/2017215/chesscom-launches-new-poker-site-plans-more-classic-game-sites-with-player-ratings---thanks-to-ai-protyping) | Slashdot | AI |
+| 4 | [OpenClaw 2.0 is here: A Crowdsourced update to the AI agent is now live](https://mashable.com/tech/openclaw-2-0-released-agentic-ai) | Mashable | AI |
+| 5 | [Reframe, which uses AI and industrial robot arms to make modular homes in a factory, raised a $40M Series A extension round led by Energy Impact Partners (Rocket Drew/The Information)](https://www.techmeme.com/260831/p30) | Techmeme | AI |
 
-> 共 36 条，以上为 TOP 5。
+> 共 38 条，以上为 TOP 5。
 
 ---
 
@@ -61,7 +61,7 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [“一人公司”（OPC）只是优步司机的一种类型吗？](https://news.ycombinator.com/item?id=49501729) | news.ycombinator.com | 变现 |
+| 1 | [ChatGPT Ads年化收入达10亿美元并全球扩展，助力AI普及](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads) | Readhub · AI | AI/变现 |
 
 ---
 
@@ -73,8 +73,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-08-31T10:08:33.956Z
-- **总资讯数**：3992 条原始 → 513 条筛选后
+- **聚合时间**：2026-08-31T18:15:31.759Z
+- **总资讯数**：4059 条原始 → 523 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
