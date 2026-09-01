@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [OpenJDK 全面禁止 AI 生成代码！](https://juejin.cn/post/7680074643861291034) | juejin | AI |
-| 2 | [AI 时代，一个优化 Flutter 的重复代码工具 Deslop](https://juejin.cn/post/7679542577553571894) | juejin | AI |
-| 3 | [用了两年 AI 编程工具后，我重新理解了什么是「资深工程师」](https://juejin.cn/post/7679059713533640747) | juejin | AI |
-| 4 | [整理了一份 DeepSeek Harness 必备插件清单！](https://juejin.cn/post/7679542577553473590) | juejin | AI |
-| 5 | [栗子前端技术周刊第 144 期 - Rspack 2.2、pnpm 12、Solid 2.0 RC...](https://juejin.cn/post/7679542577553506358) | juejin | 其他 |
+| 1 | [200天狂飙10亿美元，ChatGPT广告还是没追上自己吹的牛](https://mp.weixin.qq.com/s/_7kf62j8gOudX1owDdHpIA) | 夕小瑶科技说 | AI |
+| 2 | [700个AI、7万条密语、0人指挥、串通两周，攻进了Hugging Face….](https://mp.weixin.qq.com/s/onV5gGHWc4oMAxtjETboPw) | 夕小瑶科技说 | AI |
+| 3 | [1200个Agent围攻HuggingFace始末：7天发7万条密信，最终目标..](https://mp.weixin.qq.com/s/bzCSs4Pt01WmjMCFFnFzjw) | AI前线 | AI |
+| 4 | [机器人的下一站，或许是乐高化](https://mp.weixin.qq.com/s/hZ0x9Des5vRIqXDEtDC0kA) | AI前线 | AI |
+| 5 | [Cloudflare 将工程规范改造为Al 强制执行的管控系统](https://mp.weixin.qq.com/s/x7wJdCur4OgUQ1X_QJ8OqQ) | AI前线 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [企业级 AI Coding 的 Harness 工程实战：8 个 Skill 串起全链路](https://juejin.cn/post/7680079424891011124) | juejin | AI |
-| 2 | [The US will ask the G20 not to build anything to govern AI](https://thenextweb.com/news/us-g20-hands-off-ai-regulation) | The Next Web | AI |
-| 3 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 4 | [Air Security, which builds a security service for extensions and other tools installed on AI agents, emerges from stealth with $50M led by Sequoia and Greenoaks (Meir Orbach/CTech)](https://www.techmeme.com/260901/p27) | Techmeme | AI |
-| 5 | [我拿 4 个真实前端任务试了 GLM-5.3 Flash：代码一遍跑通，账单 4 分钱](https://juejin.cn/post/7678531174247874586) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [The US will ask the G20 not to build anything to govern AI](https://thenextweb.com/news/us-g20-hands-off-ai-regulation) | The Next Web | AI |
+| 2 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 3 | [我拿 4 个真实前端任务试了 GLM-5.3 Flash：代码一遍跑通，账单 4 分钱](https://juejin.cn/post/7678531174247874586) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [我用 Qwen3.8-Max 搭了一个电商商品资料包体检助手，6 份资料和 1 张商品图一次查出 27 个问题](https://juejin.cn/post/7680143535669198858) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [How AI-native companies turn workflows into operating capability](https://openai.com/index/ai-native-company-workflows) | Readhub · AI | AI |
 
-> 共 13 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [豆包工作Agent正式发布，直接给到夯。](https://juejin.cn/post/7679623224678613034) | juejin | AI |
-| 2 | [Redis已正式接入AI](https://juejin.cn/post/7680014875347255334) | juejin | AI |
-| 3 | [看懂大模型架构术语，帮助你理解目前常见的大模型开源架构](https://juejin.cn/post/7679247792172433423) | juejin | AI |
-| 4 | [微信内部的生产级模型，居然开源了](https://juejin.cn/post/7680023541135507497) | juejin | AI |
-| 5 | [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/) | Hacker News | AI |
+| 1 | [从模型突破到应用繁荣：AI价值兑现与下一轮投资机会|甲子引力X](https://mp.weixin.qq.com/s/ReSD0_LAkZPVbNi5uSIp4w) | 甲子光年 | AI |
+| 2 | [豆包Agent 上线，效果出乎意料！](https://mp.weixin.qq.com/s/H0vMBLcKBFQXcQOEOe_gww) | GitHubDaily | AI |
+| 3 | [—个神级Coding Agent记忆系统，开源了！](https://mp.weixin.qq.com/s/PGQyPK-_8IFJqc-8t4ALAw) | GitHubDaily | AI |
+| 4 | [Lovart 悄悄大更新，这一次轮到AI适应设计师了](https://mp.weixin.qq.com/s/BfDEAy_S1_1hhW0l7NuSfQ) | APPSO | AI |
+| 5 | [世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！](https://mp.weixin.qq.com/s/wuE8zuAnRJwdGf7f4qSBLw) | 量子位 | AI |
 
-> 共 61 条，以上为 TOP 5。
+> 共 71 条，以上为 TOP 5。
 
 ---
 
@@ -53,10 +53,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [《森林里的日与夜》从阴影中浮现——这部由萨蒂亚吉特·雷执导的充满激情的剧情片，讲述了四名中产阶级男子在乡村肆无忌惮地纵情狂欢的故事，生动展现了社会分裂与不公的百态。](https://www.newyorker.com/culture/the-front-row/days-and-nights-in-the-forest-emerges-from-the-shadows) | www.newyorker.com | 回乡 |
-| 3 | [MrBeast的新挑战：说服粉丝购买他的第一本书](https://www.businessinsider.com/mrbeast-next-stunt-is-convincing-fans-to-read-his-book-2026-9) | www.businessinsider.com | IP |
-| 4 | [流量红利退潮，快手想用AI 和老友们破局](https://mp.weixin.qq.com/s/DGg7KbTEy26HRxx5N8OTfg) | 极客公园 | AI/IP |
-| 5 | [小县城可能即将迎来重大发展](https://mp.weixin.qq.com/s/-o8QB4Tl0_sLHz2xrXVd8w) | 刘润 | 回乡 |
+| 2 | [East River Source Control 任命《Jujutsu》创作者马丁·冯·茨维格伯克为首席技术官 // ERSC](https://ersc.io/blog/martin-joins-ersc) | ersc.io | IP |
+| 3 | [《矮人要塞》的创作者表示，游戏行业因人工智能问题而陷入混乱](https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis) | www.pcgamer.com | AI/IP |
+| 4 | [《森林里的日与夜》从阴影中浮现——这部由萨蒂亚吉特·雷执导的充满激情的剧情片，讲述了四名中产阶级男子在乡村肆无忌惮地纵情狂欢的故事，生动展现了社会分裂与不公的百态。](https://www.newyorker.com/culture/the-front-row/days-and-nights-in-the-forest-emerges-from-the-shadows) | www.newyorker.com | 回乡 |
+| 5 | [MrBeast的新挑战：说服粉丝购买他的第一本书](https://www.businessinsider.com/mrbeast-next-stunt-is-convincing-fans-to-read-his-book-2026-9) | www.businessinsider.com | IP |
 
 ---
 
@@ -64,10 +64,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [尽管收入有所增加，但越来越多的美国人仍将自己视为工人阶级](https://www.businessinsider.com/americans-increasingly-view-themselves-working-class-middle-class-affordability-2026-9) | www.businessinsider.com | 变现 |
-| 2 | [CD卷土重来，推动美国录音音乐收入增长](https://reut.rs/4gOum55) | reut.rs | 变现 |
-| 3 | [Ask HN: 自由职业者？正在寻找自由职业者？（2026年9月）](https://news.ycombinator.com/item?id=49521942) | news.ycombinator.com | 变现 |
-| 4 | [被消费者抛弃的黑莓手机，正在另一个赛道悄悄赚钱](https://mp.weixin.qq.com/s/FnzeMo4DurT0-SLV90i9sQ) | DeepTech深科技 | 变现 |
+| 1 | [把FDE 送进企业之后：谁救火，谁背责，谁赚钱？](https://mp.weixin.qq.com/s/Rt7B59FuufngRHfiRuLwxQ) | InfoQ | 变现 |
+| 2 | [3名开发者做出来的副业项目，半年冲进4万人！亚马逊云科技把内部...](https://mp.weixin.qq.com/s/GfSVsYSC5Lb9x5uDqvRf6A) | InfoQ | 变现 |
+| 3 | [有用户，有收入，AI应用却不是好生意](https://mp.weixin.qq.com/s/EANN8gVcsrRm4opUU3X58Q) | 晚点LatePost | AI/变现 |
+| 4 | [阿根廷8月份税收收入同比增长33.5%：政府](https://www.reuters.com/es/mundo/Q5RSGN7PTFNYJP2ZIGLBRBJD4I-2026-09-01) | www.reuters.com | 变现 |
+| 5 | [尽管收入有所增加，但越来越多的美国人仍将自己视为工人阶级](https://www.businessinsider.com/americans-increasingly-view-themselves-working-class-middle-class-affordability-2026-9) | www.businessinsider.com | 变现 |
+
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -79,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-01T18:54:28.174Z
-- **总资讯数**：4370 条原始 → 595 条筛选后
+- **聚合时间**：2026-09-01T22:07:45.338Z
+- **总资讯数**：4350 条原始 → 642 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
