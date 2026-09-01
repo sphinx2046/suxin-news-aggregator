@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Computable GPU Index (CGI)](https://www.producthunt.com/products/computable-gpu-index-cgi) | producthunt | 其他 |
-| 2 | [Gauth AI Course](https://www.producthunt.com/products/gauth-ai-course) | producthunt | AI |
-| 3 | [HONOR Robot Phone](https://www.producthunt.com/products/honor-robot-phone) | producthunt | AI |
-| 4 | [Cosmic Agent Plugins](https://www.producthunt.com/products/cosmic) | producthunt | AI |
-| 5 | [Tovel AI](https://www.producthunt.com/products/tovel-ai) | producthunt | AI |
+| 1 | [OpenJDK 全面禁止 AI 生成代码！](https://juejin.cn/post/7680074643861291034) | juejin | AI |
+| 2 | [AI 时代，一个优化 Flutter 的重复代码工具 Deslop](https://juejin.cn/post/7679542577553571894) | juejin | AI |
+| 3 | [用了两年 AI 编程工具后，我重新理解了什么是「资深工程师」](https://juejin.cn/post/7679059713533640747) | juejin | AI |
+| 4 | [整理了一份 DeepSeek Harness 必备插件清单！](https://juejin.cn/post/7679542577553473590) | juejin | AI |
+| 5 | [栗子前端技术周刊第 144 期 - Rspack 2.2、pnpm 12、Solid 2.0 RC...](https://juejin.cn/post/7679542577553506358) | juejin | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 2 | [I work on AI at Amazon. My biggest career regret is waiting years to build a reputation outside the company.](https://www.businessinsider.com/amazon-ai-scientist-regrets-not-building-an-external-reputation-sooner-2026-8) | Business Insider | AI |
-| 3 | [我拿 4 个真实前端任务试了 GLM-5.3 Flash：代码一遍跑通，账单 4 分钱](https://juejin.cn/post/7678531174247874586) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [我用 Qwen3.8-Max 搭了一个电商商品资料包体检助手，6 份资料和 1 张商品图一次查出 27 个问题](https://juejin.cn/post/7680143535669198858) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [企业级 AI Coding 的 Harness 工程实战：8 个 Skill 串起全链路](https://juejin.cn/post/7680079424891011124) | juejin | AI |
+| 1 | [企业级 AI Coding 的 Harness 工程实战：8 个 Skill 串起全链路](https://juejin.cn/post/7680079424891011124) | juejin | AI |
+| 2 | [The US will ask the G20 not to build anything to govern AI](https://thenextweb.com/news/us-g20-hands-off-ai-regulation) | The Next Web | AI |
+| 3 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 4 | [Air Security, which builds a security service for extensions and other tools installed on AI agents, emerges from stealth with $50M led by Sequoia and Greenoaks (Meir Orbach/CTech)](https://www.techmeme.com/260901/p27) | Techmeme | AI |
+| 5 | [我拿 4 个真实前端任务试了 GLM-5.3 Flash：代码一遍跑通，账单 4 分钱](https://juejin.cn/post/7678531174247874586) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 8 条，以上为 TOP 5。
+> 共 13 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Dyson unveils the $499 CameraJet, an AI-powered toothbrush with a 100K-pixel macro lens that scans at 28 images per second and is trained on nearly 470K images (Samantha Kelly/Bloomberg)](https://www.techmeme.com/260901/p11) | Techmeme | AI |
-| 2 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
-| 3 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
-| 4 | [正式开源！美团 LongCat-2.0 同步开放国产卡推理代码](https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html) | 美团技术团队 (Meituan Tech) | AI |
-| 5 | [美团 LongCat-2.0 正式发布：在国产算力集群上完成全流程训练与推理的万亿参数模型](https://tech.meituan.com/2026/06/30/LongCat2.0.html) | 美团技术团队 (Meituan Tech) | AI |
+| 1 | [豆包工作Agent正式发布，直接给到夯。](https://juejin.cn/post/7679623224678613034) | juejin | AI |
+| 2 | [Redis已正式接入AI](https://juejin.cn/post/7680014875347255334) | juejin | AI |
+| 3 | [看懂大模型架构术语，帮助你理解目前常见的大模型开源架构](https://juejin.cn/post/7679247792172433423) | juejin | AI |
+| 4 | [微信内部的生产级模型，居然开源了](https://juejin.cn/post/7680023541135507497) | juejin | AI |
+| 5 | [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/) | Hacker News | AI |
 
-> 共 63 条，以上为 TOP 5。
+> 共 61 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [爱尔兰乡村的一家工厂成为围绕俄罗斯问题争议的焦点 - The New York Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxNRmJJdVRlb1BaVVhSTG1Jdl92QlpCOWlMak50RGFSVURDNVFLUFZya3U4VHhuQlphZlNwcHZIcjBIZzhvMkxhRFdqN0hIck5RdEMtd3ZuOFpSV0RFNndiTU4tN04zRTJiNUJUMG1nV1VMaG1YZ2l0ZUZlX2wxU01vZHlFOHdDVHIyZktScWRtS0pERHhucVE?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 回乡 |
-| 3 | [古代县城里都是什么人居住？](https://www.huxiu.com/article/4887706.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
-| 4 | [“更诡异，更放得开”：另类乡村音乐如何俘获了新一代听众](https://www.theguardian.com/music/2026/sep/01/how-alt-country-won-over-a-new-generation) | www.theguardian.com | 回乡 |
-| 5 | [MrBeast的新挑战：说服粉丝购买他的第一本书](https://www.businessinsider.com/mrbeast-next-stunt-is-convincing-fans-to-read-his-book-2026-9) | www.businessinsider.com | IP |
-
-> 共 7 条，以上为 TOP 5。
+| 2 | [《森林里的日与夜》从阴影中浮现——这部由萨蒂亚吉特·雷执导的充满激情的剧情片，讲述了四名中产阶级男子在乡村肆无忌惮地纵情狂欢的故事，生动展现了社会分裂与不公的百态。](https://www.newyorker.com/culture/the-front-row/days-and-nights-in-the-forest-emerges-from-the-shadows) | www.newyorker.com | 回乡 |
+| 3 | [MrBeast的新挑战：说服粉丝购买他的第一本书](https://www.businessinsider.com/mrbeast-next-stunt-is-convincing-fans-to-read-his-book-2026-9) | www.businessinsider.com | IP |
+| 4 | [流量红利退潮，快手想用AI 和老友们破局](https://mp.weixin.qq.com/s/DGg7KbTEy26HRxx5N8OTfg) | 极客公园 | AI/IP |
+| 5 | [小县城可能即将迎来重大发展](https://mp.weixin.qq.com/s/-o8QB4Tl0_sLHz2xrXVd8w) | 刘润 | 回乡 |
 
 ---
 
@@ -66,13 +64,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [即使收入超过限额，仍可领取全额福利的社会保障规定](https://finance.yahoo.com/economy/policy/articles/social-security-rule-pays-full-134352829.html) | finance.yahoo.com | 变现 |
-| 2 | [阿根廷8月份农业出口收入同比增长51%：CIARA-CEC商会](https://www.reuters.com/es/mundo/T5O7MCTOWVIL5POZWIEXGWOAYI-2026-09-01) | www.reuters.com | 变现 |
+| 1 | [尽管收入有所增加，但越来越多的美国人仍将自己视为工人阶级](https://www.businessinsider.com/americans-increasingly-view-themselves-working-class-middle-class-affordability-2026-9) | www.businessinsider.com | 变现 |
+| 2 | [CD卷土重来，推动美国录音音乐收入增长](https://reut.rs/4gOum55) | reut.rs | 变现 |
 | 3 | [Ask HN: 自由职业者？正在寻找自由职业者？（2026年9月）](https://news.ycombinator.com/item?id=49521942) | news.ycombinator.com | 变现 |
-| 4 | [单月收入9亿，够智谱敬自己一杯了](https://www.huxiu.com/article/4887743.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 5 | [比音勒芬电商收入翻倍，关闭小红书，重做抖音+得物？](https://www.huxiu.com/article/4887716.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-
-> 共 6 条，以上为 TOP 5。
+| 4 | [被消费者抛弃的黑莓手机，正在另一个赛道悄悄赚钱](https://mp.weixin.qq.com/s/FnzeMo4DurT0-SLV90i9sQ) | DeepTech深科技 | 变现 |
 
 ---
 
@@ -84,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-01T14:20:52.438Z
-- **总资讯数**：4519 条原始 → 615 条筛选后
+- **聚合时间**：2026-09-01T18:54:28.174Z
+- **总资讯数**：4370 条原始 → 595 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
