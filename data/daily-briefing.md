@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI写得太快，人类审不动了！OpenClaw断更7周，一版吞下1.6万个PR](https://aiera.com.cn/2026/09/02/other/admin/111810/ai%e5%86%99%e5%be%97%e5%a4%aa%e5%bf%ab%ef%bc%8c%e4%ba%ba%e7%b1%bb%e5%ae%a1%e4%b8%8d%e5%8a%a8%e4%ba%86%ef%bc%81openclaw%e6%96%ad%e6%9b%b47%e5%91%a8%ef%bc%8c%e4%b8%80%e7%89%88%e5%90%9e%e4%b8%8b1-6) | 新智元 | AI |
-| 2 | [马斯克狂赞！硅谷大佬惊呼：Grok Bot是下一个ChatGPT时刻](https://aiera.com.cn/2026/09/02/other/admin/111784/%e9%a9%ac%e6%96%af%e5%85%8b%e7%8b%82%e8%b5%9e%ef%bc%81%e7%a1%85%e8%b0%b7%e5%a4%a7%e4%bd%ac%e6%83%8a%e5%91%bc%ef%bc%9agrok-bot%e6%98%af%e4%b8%8b%e4%b8%80%e4%b8%aachatgpt%e6%97%b6%e5%88%bb) | 新智元 | AI |
-| 3 | [CUDA 20年护城河被打破！0代码、0人类，AI 14天造出真芯片](https://aiera.com.cn/2026/09/02/other/admin/111761/cuda-20%e5%b9%b4%e6%8a%a4%e5%9f%8e%e6%b2%b3%e8%a2%ab%e6%89%93%e7%a0%b4%ef%bc%810%e4%bb%a3%e7%a0%81%e3%80%810%e4%ba%ba%e7%b1%bb%ef%bc%8cai-14%e5%a4%a9%e9%80%a0%e5%87%ba%e7%9c%9f%e8%8a%af%e7%89%87) | 新智元 | AI |
-| 4 | [Runway把代码干掉了！首个界面世界模型，UI自己长出来](https://aiera.com.cn/2026/09/02/other/admin/111693/runway%e6%8a%8a%e4%bb%a3%e7%a0%81%e5%b9%b2%e6%8e%89%e4%ba%86%ef%bc%81%e9%a6%96%e4%b8%aa%e7%95%8c%e9%9d%a2%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%ef%bc%8cui%e8%87%aa%e5%b7%b1%e9%95%bf%e5%87%ba%e6%9d%a5) | 新智元 | AI |
-| 5 | [刚刚，A社自曝「最坏Claude」！150人紧急转岗，新品开发全停](https://aiera.com.cn/2026/09/02/other/admin/111669/%e5%88%9a%e5%88%9a%ef%bc%8ca%e7%a4%be%e8%87%aa%e6%9b%9d%e3%80%8c%e6%9c%80%e5%9d%8fclaude%e3%80%8d%ef%bc%81150%e4%ba%ba%e7%b4%a7%e6%80%a5%e8%bd%ac%e5%b2%97%ef%bc%8c%e6%96%b0%e5%93%81%e5%bc%80%e5%8f%91) | 新智元 | AI |
+| 1 | [用了两年 AI 编程工具后，我重新理解了什么是「资深工程师」](https://juejin.cn/post/7679059713533640747) | juejin | AI |
+| 2 | [AI写得太快，人类审不动了！OpenClaw断更7周，一版吞下1.6万个PR](https://aiera.com.cn/2026/09/02/other/admin/111810/ai%e5%86%99%e5%be%97%e5%a4%aa%e5%bf%ab%ef%bc%8c%e4%ba%ba%e7%b1%bb%e5%ae%a1%e4%b8%8d%e5%8a%a8%e4%ba%86%ef%bc%81openclaw%e6%96%ad%e6%9b%b47%e5%91%a8%ef%bc%8c%e4%b8%80%e7%89%88%e5%90%9e%e4%b8%8b1-6) | 新智元 | AI |
+| 3 | [马斯克狂赞！硅谷大佬惊呼：Grok Bot是下一个ChatGPT时刻](https://aiera.com.cn/2026/09/02/other/admin/111784/%e9%a9%ac%e6%96%af%e5%85%8b%e7%8b%82%e8%b5%9e%ef%bc%81%e7%a1%85%e8%b0%b7%e5%a4%a7%e4%bd%ac%e6%83%8a%e5%91%bc%ef%bc%9agrok-bot%e6%98%af%e4%b8%8b%e4%b8%80%e4%b8%aachatgpt%e6%97%b6%e5%88%bb) | 新智元 | AI |
+| 4 | [CUDA 20年护城河被打破！0代码、0人类，AI 14天造出真芯片](https://aiera.com.cn/2026/09/02/other/admin/111761/cuda-20%e5%b9%b4%e6%8a%a4%e5%9f%8e%e6%b2%b3%e8%a2%ab%e6%89%93%e7%a0%b4%ef%bc%810%e4%bb%a3%e7%a0%81%e3%80%810%e4%ba%ba%e7%b1%bb%ef%bc%8cai-14%e5%a4%a9%e9%80%a0%e5%87%ba%e7%9c%9f%e8%8a%af%e7%89%87) | 新智元 | AI |
+| 5 | [Runway把代码干掉了！首个界面世界模型，UI自己长出来](https://aiera.com.cn/2026/09/02/other/admin/111693/runway%e6%8a%8a%e4%bb%a3%e7%a0%81%e5%b9%b2%e6%8e%89%e4%ba%86%ef%bc%81%e9%a6%96%e4%b8%aa%e7%95%8c%e9%9d%a2%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%ef%bc%8cui%e8%87%aa%e5%b7%b1%e9%95%bf%e5%87%ba%e6%9d%a5) | 新智元 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -30,7 +30,7 @@
 | 4 | [我拿 4 个真实前端任务试了 GLM-5.3 Flash：代码一遍跑通，账单 4 分钱](https://juejin.cn/post/7678531174247874586) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [我用 Qwen3.8-Max 搭了一个电商商品资料包体检助手，6 份资料和 1 张商品图一次查出 27 个问题](https://juejin.cn/post/7680143535669198858) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 10 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [Anthropic launches Fable 5.1 as AI security worries mount](https://mashable.com/tech/anthropic-fable-5-1-launch-announcment) | Mashable | AI |
 | 5 | [Anthropic releases Claude Fable 5.1 and Mythos 5.1, cutting cache read prices by 75%](https://thenextweb.com/news/claude-fable-mythos-5-1-eu-ai-act-watermark-detection-api-private-preview) | The Next Web | AI |
 
-> 共 67 条，以上为 TOP 5。
+> 共 74 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [日本在人工智能和芯片领域的豪赌，在基奥克西亚的乡村基地面临现实考验](https://www.bloomberg.com/news/features/2026-09-01/japan-s-ai-and-chip-gamble-faces-reality-check-in-kioxia-s-rural-hub) | www.bloomberg.com | AI/回乡 |
-| 3 | [East River Source Control 任命《Jujutsu》创作者马丁·冯·茨维格伯克为首席技术官 // ERSC](https://ersc.io/blog/martin-joins-ersc) | ersc.io | IP |
-| 4 | [《矮人要塞》的创作者表示，游戏行业因人工智能问题而陷入混乱](https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis) | www.pcgamer.com | AI/IP |
-| 5 | [《森林里的日与夜》从阴影中浮现——这部由萨蒂亚吉特·雷执导的充满激情的剧情片，讲述了四名中产阶级男子在乡村肆无忌惮地纵情狂欢的故事，生动展现了社会分裂与不公的百态。](https://www.newyorker.com/culture/the-front-row/days-and-nights-in-the-forest-emerges-from-the-shadows) | www.newyorker.com | 回乡 |
+| 2 | [[问与答] 有哪些靠谱的大流量服务器一个月十几块钱 那种 推荐一下](https://www.v2ex.com/t/1238919) | V2EX (创意工作者社区) | IP |
+| 3 | [[新手求助] 请教 V 友：如何获得有效流量并提高付费用户的转化率？](https://www.v2ex.com/t/1238917) | V2EX (创意工作者社区) | IP |
+| 4 | [江浙沪小县城工资崩塌了，是真的么？](https://www.huxiu.com/article/4887901.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 5 | [vivo 创作者盛典定档 9 月 7 日，X500 系列旗舰新机官宣“本月见”](https://www.ithome.com/0/997/285.htm) | IT之家 (ITHome) | IP |
 
-> 共 6 条，以上为 TOP 5。
+> 共 9 条，以上为 TOP 5。
 
 ---
 
@@ -66,11 +66,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [巴拿马运河2027财年预算提案预计收入为55.6亿美元](https://www.reuters.com/business/energy/panama-canal-sees-556-billion-revenue-fy2027-budget-proposal-2026-09-02) | www.reuters.com | 变现 |
-| 2 | [把FDE 送进企业之后：谁救火，谁背责，谁赚钱？](https://mp.weixin.qq.com/s/Rt7B59FuufngRHfiRuLwxQ) | InfoQ | 变现 |
-| 3 | [3名开发者做出来的副业项目，半年冲进4万人！亚马逊云科技把内部...](https://mp.weixin.qq.com/s/GfSVsYSC5Lb9x5uDqvRf6A) | InfoQ | 变现 |
-| 4 | [有用户，有收入，AI应用却不是好生意](https://mp.weixin.qq.com/s/EANN8gVcsrRm4opUU3X58Q) | 晚点LatePost | AI/变现 |
-| 5 | [尽管收入有所增加，但越来越多的美国人仍将自己视为工人阶级](https://www.businessinsider.com/americans-increasingly-view-themselves-working-class-middle-class-affordability-2026-9) | www.businessinsider.com | 变现 |
+| 1 | [年收入低于45,000英镑的“计划2”毕业生很可能无法还清债务](https://www.ft.com/content/8160b331-35c3-4735-a684-f1f2d95fddde?syn-25a6b1a6=1) | www.ft.com | 变现 |
+| 2 | [这座欧洲城市被评为全球最佳宜居城市——其在安全性、高收入和卓越的生活质量方面均名列前茅 - Travel + Leisure](https://news.google.com/rss/articles/CBMiigFBVV95cUxQOTYxYk15QWJ5a1ZkT3lBbVZ6QXpXMHZUSkIwWnpoTThrSjFndlI5Qy1abGdmQ3NPbnR0VWg0NGcxd1NBN0JSRjVNb1JlN045MHdiNW1Jd0x0TnQ1X3R5MWVib1YwLV9FTkJVVzV0U1NGWVUxaE1PZXh1ZDYxdGpzdm5DcFlKaWdrTEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
+| 3 | [把FDE 送进企业之后：谁救火，谁背责，谁赚钱？](https://mp.weixin.qq.com/s/Rt7B59FuufngRHfiRuLwxQ) | InfoQ | 变现 |
+| 4 | [3名开发者做出来的副业项目，半年冲进4万人！亚马逊云科技把内部...](https://mp.weixin.qq.com/s/GfSVsYSC5Lb9x5uDqvRf6A) | InfoQ | 变现 |
+| 5 | [有用户，有收入，AI应用却不是好生意](https://mp.weixin.qq.com/s/EANN8gVcsrRm4opUU3X58Q) | 晚点LatePost | AI/变现 |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -82,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-02T01:33:46.351Z
-- **总资讯数**：4411 条原始 → 633 条筛选后
+- **聚合时间**：2026-09-02T06:29:45.388Z
+- **总资讯数**：4445 条原始 → 638 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
