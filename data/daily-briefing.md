@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI新经济备受关注，2026外滩大会报名人数破5万，吸引 50 多个国家和地区参与](https://aiera.com.cn/2026/09/03/other/admin/111947/ai%e6%96%b0%e7%bb%8f%e6%b5%8e%e5%a4%87%e5%8f%97%e5%85%b3%e6%b3%a8%ef%bc%8c2026%e5%a4%96%e6%bb%a9%e5%a4%a7%e4%bc%9a%e6%8a%a5%e5%90%8d%e4%ba%ba%e6%95%b0%e7%a0%b45%e4%b8%87%ef%bc%8c%e5%90%b8%e5%bc%95-50) | 新智元 | AI |
-| 2 | [Java切面编程（AOP）详解：从核心概念到实战应用](https://juejin.cn/post/7680496681512042548) | juejin | 其他 |
-| 3 | [OpenJDK 全面禁止 AI 生成代码！](https://juejin.cn/post/7680074643861291034) | juejin | AI |
-| 4 | [AI全栈开发最佳实践💐](https://juejin.cn/post/7680741276414296104) | juejin | AI |
-| 5 | [我装了30多个Skill，给AI安排了8个岗位](https://juejin.cn/post/7680043958139748406) | juejin | AI |
+| 1 | [Omi](https://www.producthunt.com/products/open-source-ai-necklace-friend) | producthunt | 其他 |
+| 2 | [Tabbit AI](https://www.producthunt.com/products/tabbitai) | producthunt | AI |
+| 3 | [Organizational Memory 2.0](https://www.producthunt.com/products/coworker-ai) | producthunt | 其他 |
+| 4 | [Agent Looker](https://www.producthunt.com/products/agent-looker) | producthunt | AI |
+| 5 | [K2 Horizon: Frontier Performance, Radically Open](https://ifm.ai/blog/k2) | Hacker News | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Claude 官方的学习教程，太强了。](https://juejin.cn/post/7680357430018949135) | juejin | AI |
-| 2 | [企业级 AI Coding 的 Harness 工程实战：8 个 Skill 串起全链路](https://juejin.cn/post/7680079424891011124) | juejin | AI |
-| 3 | [Agent Builder by Airtop](https://www.producthunt.com/products/airtop) | producthunt | AI |
-| 4 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 5 | [Several international law firms are seeking to build bespoke AI tools to gain an edge and protect their IP, while using off-the-shelf AI for everyday tasks (Nick Huber/Financial Times)](https://www.techmeme.com/260903/p6) | Techmeme | AI |
+| 1 | [Agent Builder by Airtop](https://www.producthunt.com/products/airtop) | producthunt | AI |
+| 2 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
+| 3 | [我用 Qwen3.8-Max 搭了一个电商商品资料包体检助手，6 份资料和 1 张商品图一次查出 27 个问题](https://juejin.cn/post/7680143535669198858) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [0.25 秒识破未见攻击，这套检测方法没看过任何越狱样本 | EMNLP'26](https://hub.baai.ac.cn/view/57672) | Readhub · AI | AI |
+| 5 | [Claude 官方的学习教程，太强了。](https://juejin.cn/post/7680357430018949135) | juejin | AI |
 
-> 共 15 条，以上为 TOP 5。
+> 共 14 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Redis已正式接入AI](https://juejin.cn/post/7680014875347255334) | juejin | AI |
-| 2 | [微信内部的生产级模型，居然开源了](https://juejin.cn/post/7680023541135507497) | juejin | AI |
-| 3 | [DJI launches new robot vacuums with an eye toward data privacy](https://www.engadget.com/2250009/dji-launches-new-robot-vacuums-with-an-eye-toward-data-privacy) | Engadget | AI |
-| 4 | [Dyson Unveiled at IFA 2026: Live updates as the company shows off new vacuums, purifiers, robotics and more](https://www.engadget.com/2250075/dyson-unveiled-ifa-2026-live-blog-camerajet) | Engadget | AI |
-| 5 | [谷歌发布了 Gemini 3.8 Flash，这是该公司六周内推出的第三个 Flash 模型 / Google releases Gemini 3.8 Flash, its third Flash model in six weeks](https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks) | Ars Technica | AI |
+| 1 | [Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents](https://www.mireye.com/) | Hacker News | AI |
+| 2 | [Google Releases Gemini 3.8 Flash, Its Third Flash Model In Six Weeks](https://tech.slashdot.org/story/26/09/03/1557237/google-releases-gemini-38-flash-its-third-flash-model-in-six-weeks) | Slashdot | AI |
+| 3 | [Nvidia launches free tool that links idle computers into a personal AI data center](https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook) | The Verge | AI |
+| 4 | [Google launches AI voice features in Gmail, Docs and Keep](https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep) | TechCrunch | AI |
+| 5 | [Coworker.ai launches OM2, an organizational memory layer promising to slash enterprise AI token burn by 9x](https://thenextweb.com/news/coworker-ai-om2-organizational-memory-token-costs) | The Next Web | AI |
 
-> 共 74 条，以上为 TOP 5。
+> 共 83 条，以上为 TOP 5。
 
 ---
 
@@ -53,10 +53,7 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [关于农村机器人出租车的“不可能”论点](https://www.bloomberg.com/news/articles/2026-09-03/the-improbable-case-for-the-rural-robotaxi) | www.bloomberg.com | 回乡 |
-| 3 | [“没有方向盘，没有踏板。”特斯拉在备受期待的Cybercab更新发布前向粉丝们抛出悬念 - CNBC](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTdvUi0xU1E3Szc2VzlJak9lSm4ySWZ3S05vVTBjbXFEZWE0XzRFMHJ0UUlZbTN4V0lDUEpyXzJzdlFmX0NuTWFhUkJUNG5xdElVb1VlVUI5eTZqZTU0S01tVE5PTHpNbkF2VUw3RG5KTklpUktHNUN0VVgtdHZtRk8xUmNxWXMtUzNhREEtakhfbnRtUXRuZkluSFZBMTk0VzJlddIBqgFBVV95cUxPSjl2SlZDMXFKanVJT2w5TVJXNF9rRVVsX1FuZW1tdVByam9ha2NXb2VoNS0wVDktWWpRMkFSWDB2bExCa0ZDei1ZcFJabS1pZXppaE9meW53NTdzRmNJcndreU93S0xtcEh1ZUMzMTZlV3ktUjhPVTBCanVFNUFFdlR6dzdCVTRhazFZYW1lcl9OblBMb1pTNk1ySEtGMm5BRVR0WmwxUkdKZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 4 | [战魔田默｜赵长鹏取关孙宇晨！创业者什么不能拿来换流量？](https://www.huxiu.com/article/4888360.html?f=rss) | 虎嗅 (Huxiu) | IP |
-| 5 | [流量生意到头了！移动、电信卖算力，有胜算吗？](https://www.huxiu.com/article/4888275.html?f=rss) | 虎嗅 (Huxiu) | AI/IP |
+| 2 | [[问与答] codex 给全部权限会有大量下载或者上传流量怎么解决?](https://www.v2ex.com/t/1239343) | V2EX (创意工作者社区) | IP |
 
 ---
 
@@ -64,13 +61,8 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [亏掉1000亿后，蔚来终于赚钱了丨深氪](https://www.36kr.com/p/3966195340205313) | 36氪 · 24小时热榜 | 变现 |
-| 2 | [单店年收入跌掉4.7万：蜜雪把中国供应链的红利吃到了尽头](https://www.huxiu.com/article/4888347.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 3 | [[问与答] 小红书笔记爆了，如何变现？](https://www.v2ex.com/t/1239284) | V2EX (创意工作者社区) | 变现 |
-| 4 | [在受厄尔尼诺现象影响的斯里兰卡，随着干旱加剧，水井干涸，农民收入减少](https://reut.rs/4r1GaFJ) | reut.rs | 变现 |
-| 5 | [亏掉1000亿后，蔚来终于赚钱了|深氪](https://mp.weixin.qq.com/s/c9hJln-mER-P8H-cSkJq0A) | 36氪Pro | 变现 |
-
-> 共 6 条，以上为 TOP 5。
+| 1 | [亏掉1000亿后，蔚来终于赚钱了|深氪](https://mp.weixin.qq.com/s/c9hJln-mER-P8H-cSkJq0A) | 36氪Pro | 变现 |
+| 2 | [把 FDE 送进企业之后：谁救火，谁背责，谁赚钱?](https://mp.weixin.qq.com/s/Rt7B59FuufngRHfiRuLwxQ) | InfoQ | 变现 |
 
 ---
 
@@ -82,8 +74,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-03T12:16:54.198Z
-- **总资讯数**：4526 条原始 → 671 条筛选后
+- **聚合时间**：2026-09-03T17:19:54.788Z
+- **总资讯数**：4361 条原始 → 651 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
