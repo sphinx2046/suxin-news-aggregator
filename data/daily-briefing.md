@@ -26,11 +26,11 @@
 |---|------|------|------|
 | 1 | [英伟达官方推理指南来了！6倍无损加速，最优解全是华人写的](https://aiera.com.cn/2026/09/04/other/admin/111956/%e8%8b%b1%e4%bc%9f%e8%be%be%e5%ae%98%e6%96%b9%e6%8e%a8%e7%90%86%e6%8c%87%e5%8d%97%e6%9d%a5%e4%ba%86%ef%bc%816%e5%80%8d%e6%97%a0%e6%8d%9f%e5%8a%a0%e9%80%9f%ef%bc%8c%e6%9c%80%e4%bc%98%e8%a7%a3%e5%85%a8) | 新智元 | AI |
 | 2 | [AI models have learned how to cheat. That might actually be a good thing.](https://www.vox.com/future-perfect/498412/artificial-intelligence-nate-soares-ai-safety-openai-anthropic-hacking) | Recode | AI |
-| 3 | [我用 Qwen3.8-Max 搭了一个电商商品资料包体检助手，6 份资料和 1 张商品图一次查出 27 个问题](https://juejin.cn/post/7680143535669198858) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [Agent Builder by Airtop](https://www.producthunt.com/products/airtop) | Product Hunt · 今日新产品 | AI |
-| 5 | [Claude 官方的学习教程，太强了。](https://juejin.cn/post/7680357430018949135) | juejin | AI |
+| 3 | [A profile of Hugging Face, which started in 2016 to build a sassy chatbot for teens; CEO Clément Delangue says he approached Nvidia this summer to pursue a deal (Wall Street Journal)](https://www.techmeme.com/260904/p1) | Techmeme | AI |
+| 4 | [我用 Qwen3.8-Max 搭了一个电商商品资料包体检助手，6 份资料和 1 张商品图一次查出 27 个问题](https://juejin.cn/post/7680143535669198858) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [Agent Builder by Airtop](https://www.producthunt.com/products/airtop) | Product Hunt · 今日新产品 | AI |
 
-> 共 11 条，以上为 TOP 5。
+> 共 17 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [刚刚，OpenAI新Transformer火了！Astra架构首次曝光](https://aiera.com.cn/2026/09/04/other/admin/112047/%e5%88%9a%e5%88%9a%ef%bc%8copenai%e6%96%b0transformer%e7%81%ab%e4%ba%86%ef%bc%81astra%e6%9e%b6%e6%9e%84%e9%a6%96%e6%ac%a1%e6%9b%9d%e5%85%89) | 新智元 | AI |
-| 2 | [Claude后台接管电脑，真·赛博替身！人机并行时代来了](https://aiera.com.cn/2026/09/04/other/admin/111997/claude%e5%90%8e%e5%8f%b0%e6%8e%a5%e7%ae%a1%e7%94%b5%e8%84%91%ef%bc%8c%e7%9c%9f%c2%b7%e8%b5%9b%e5%8d%9a%e6%9b%bf%e8%ba%ab%ef%bc%81%e4%ba%ba%e6%9c%ba%e5%b9%b6%e8%a1%8c%e6%97%b6%e4%bb%a3%e6%9d%a5) | 新智元 | AI |
-| 3 | [刚刚，Gemini 3.8 Flash发布，Agent与代码的性价比杀器](https://mp.weixin.qq.com/s/RO5w5ahSfTDxvyr1iCEd7g) | 夕小瑶科技说 | AI |
-| 4 | [虚构的百亿份额：中国大模型融资荒诞一幕](https://mp.weixin.qq.com/s/gajRe6RUOmOB5Ajgg62guA) | 财经杂志 | AI |
-| 5 | [OpenAI 开始推出 GPT-6 Astra / OpenAI begins rolling out GPT-6 Astra](https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html) | Hacker News | AI |
+| 1 | [机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理](https://aiera.com.cn/2026/09/04/other/admin/112096/%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%b8%8d%e8%83%bd%e5%81%9c%e4%b8%8b%e6%9d%a5%e7%ad%89%e6%a8%a1%e5%9e%8b%ef%bc%9a%e6%98%9f%e5%b0%98%e5%8f%91%e5%b8%83-smoothrl%ef%bc%8c%e8%ae%a9%e5%9c%a8%e7%ba%bf%e5%bc%ba) | 新智元 | AI |
+| 2 | [刚刚，OpenAI新Transformer火了！Astra架构首次曝光](https://aiera.com.cn/2026/09/04/other/admin/112047/%e5%88%9a%e5%88%9a%ef%bc%8copenai%e6%96%b0transformer%e7%81%ab%e4%ba%86%ef%bc%81astra%e6%9e%b6%e6%9e%84%e9%a6%96%e6%ac%a1%e6%9b%9d%e5%85%89) | 新智元 | AI |
+| 3 | [Claude后台接管电脑，真·赛博替身！人机并行时代来了](https://aiera.com.cn/2026/09/04/other/admin/111997/claude%e5%90%8e%e5%8f%b0%e6%8e%a5%e7%ae%a1%e7%94%b5%e8%84%91%ef%bc%8c%e7%9c%9f%c2%b7%e8%b5%9b%e5%8d%9a%e6%9b%bf%e8%ba%ab%ef%bc%81%e4%ba%ba%e6%9c%ba%e5%b9%b6%e8%a1%8c%e6%97%b6%e4%bb%a3%e6%9d%a5) | 新智元 | AI |
+| 4 | [Nvidia Launches Free Tool That Links Idle Computers Into a Personal AI Data Center](https://tech.slashdot.org/story/26/09/03/1723202/nvidia-launches-free-tool-that-links-idle-computers-into-a-personal-ai-data-center) | Slashdot | AI |
+| 5 | [Google Releases Gemini 3.8 Flash, Its Third Flash Model In Six Weeks](https://tech.slashdot.org/story/26/09/03/1557237/google-releases-gemini-38-flash-its-third-flash-model-in-six-weeks) | Slashdot | AI |
 
-> 共 83 条，以上为 TOP 5。
+> 共 72 条，以上为 TOP 5。
 
 ---
 
@@ -52,11 +52,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [写作？出书？技术人做个人品牌真的难吗？](https://mp.weixin.qq.com/s/gN2DQTNd_b1atP3ye4tnuA) | 架构师之路 | 认知/IP |
-| 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 3 | [从600万创作者到A办公桌：猛玛联名WorkBuddy，打响「Al语音入..](https://mp.weixin.qq.com/s/50az_IyDwC6HJDDcZPw9_A) | 36氪Pro | IP |
-| 4 | [刷不完的短视频，杀死绝味鸭脖](https://mp.weixin.qq.com/s/3rIYTGb9OmQ4DoSJ3oU1eA) | 虎嗅App | IP |
-| 5 | [[问与答] codex 给全部权限会有大量下载或者上传流量怎么解决?](https://www.v2ex.com/t/1239343) | V2EX (创意工作者社区) | IP |
+| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 2 | [数据显示，经霍尔木兹海峡的波斯湾航运流量仍低于10天平均水平](https://www.reuters.com/world/middle-east/gulf-shipping-traffic-via-hormuz-keeps-below-10-day-average-data-shows-2026-09-04) | www.reuters.com | IP |
+| 3 | [写作？出书？技术人做个人品牌真的难吗？](https://mp.weixin.qq.com/s/gN2DQTNd_b1atP3ye4tnuA) | 架构师之路 | 认知/IP |
+| 4 | [从600万创作者到A办公桌：猛玛联名WorkBuddy，打响「Al语音入..](https://mp.weixin.qq.com/s/50az_IyDwC6HJDDcZPw9_A) | 36氪Pro | IP |
+| 5 | [刷不完的短视频，杀死绝味鸭脖](https://mp.weixin.qq.com/s/3rIYTGb9OmQ4DoSJ3oU1eA) | 虎嗅App | IP |
 
 ---
 
@@ -64,8 +64,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [电脑涨15%，工资涨5.2%：打工人三件套不按你的收入涨价](https://www.huxiu.com/article/4888441.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 2 | [把FDE 送进企业之后：谁救火，谁背责，谁赚钱？](https://mp.weixin.qq.com/s/Rt7B59FuufngRHfiRuLwxQ) | InfoQ | 变现 |
+| 1 | [AI正在拿未来的Token收入，为今天的GPU买单](https://www.huxiu.com/article/4888264.html?f=rss) | 虎嗅 (Huxiu) | AI/变现 |
+| 2 | [大A专治股神，巴菲特来了也亏钱？模仿巴菲特炒A股能赚钱吗？](https://www.huxiu.com/article/4888285.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 3 | [电脑涨15%，工资涨5.2%：打工人三件套不按你的收入涨价](https://www.huxiu.com/article/4888441.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 4 | [把FDE 送进企业之后：谁救火，谁背责，谁赚钱？](https://mp.weixin.qq.com/s/Rt7B59FuufngRHfiRuLwxQ) | InfoQ | 变现 |
 
 ---
 
@@ -77,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-04T01:30:57.284Z
-- **总资讯数**：4386 条原始 → 672 条筛选后
+- **聚合时间**：2026-09-04T06:35:30.200Z
+- **总资讯数**：4450 条原始 → 666 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
