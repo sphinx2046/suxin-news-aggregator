@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [智能体请求暴增9.4倍，token账单却没涨：Uber公开AI软件工厂省钱方法](https://mp.weixin.qq.com/s/C3Ag8_XxTgMosAcOoYa0Ng) | AI前线 | AI |
-| 2 | [How to edit Claude's memory](https://www.engadget.com/2246397/how-to-edit-claude-memory) | Engadget | AI |
-| 3 | [OpenAI的智能体在公共维基上讨论了逃离沙盒的方法 / OpenAI agents discussed ways to escape their sandbox on public wiki](https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki) | Ars Technica | AI |
-| 4 | [我用 Qwen3.8-Max 搭了一个电商商品资料包体检助手，6 份资料和 1 张商品图一次查出 27 个问题](https://juejin.cn/post/7680143535669198858) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）](https://juejin.cn/post/7680471403955191814) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [How to edit Claude's memory](https://www.engadget.com/2246397/how-to-edit-claude-memory) | Engadget | AI |
+| 2 | [OpenAI的智能体在公共维基上讨论了逃离沙盒的方法 / OpenAI agents discussed ways to escape their sandbox on public wiki](https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki) | Ars Technica | AI |
+| 3 | [我用 Qwen3.8-Max 搭了一个电商商品资料包体检助手，6 份资料和 1 张商品图一次查出 27 个问题](https://juejin.cn/post/7680143535669198858) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）](https://juejin.cn/post/7680471403955191814) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [Agent Builder by Airtop](https://www.producthunt.com/products/airtop) | Product Hunt · 今日新产品 | AI |
 
-> 共 17 条，以上为 TOP 5。
+> 共 15 条，以上为 TOP 5。
 
 ---
 
@@ -41,10 +41,10 @@
 | 1 | [刚刚，全球最强GPT-6 Astra来了！人类进入AGI时代](https://aiera.com.cn/2026/09/05/other/admin/112258/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%85%a8%e7%90%83%e6%9c%80%e5%bc%bagpt-6-astra%e6%9d%a5%e4%ba%86%ef%bc%81%e4%ba%ba%e7%b1%bb%e8%bf%9b%e5%85%a5agi%e6%97%b6%e4%bb%a3) | 新智元 | AI |
 | 2 | [实测GPT-6：AGI真来了！OpenAI缔造者都摸不到天花板](https://aiera.com.cn/2026/09/05/other/admin/112172/%e5%ae%9e%e6%b5%8bgpt-6%ef%bc%9aagi%e7%9c%9f%e6%9d%a5%e4%ba%86%ef%bc%81openai%e7%bc%94%e9%80%a0%e8%80%85%e9%83%bd%e6%91%b8%e4%b8%8d%e5%88%b0%e5%a4%a9%e8%8a%b1%e6%9d%bf) | 新智元 | AI |
 | 3 | [GPT-6来了，立摘ASI坐标系今日金牌！](https://aiera.com.cn/2026/09/05/other/admin/112143/gpt-6%e6%9d%a5%e4%ba%86%ef%bc%8c%e7%ab%8b%e6%91%98asi%e5%9d%90%e6%a0%87%e7%b3%bb%e4%bb%8a%e6%97%a5%e9%87%91%e7%89%8c%ef%bc%81) | 新智元 | AI |
-| 4 | [OpenAI发布GPT-6Astra，全球最强，AGI时代开启](https://mp.weixin.qq.com/s/z_XtD7YJ77x5JVrg2jTBAw) | 夕小瑶科技说 | AI |
-| 5 | [Anthropic 正式发布Fable 5.1：更强、更便宜，超越GPT-5.6Sol](https://mp.weixin.qq.com/s/-vFP-GV78bOJcyJh78ouig) | 夕小瑶科技说 | AI |
+| 4 | [Nvidia Launches Free Tool That Links Idle Computers Into a Personal AI Data Center](https://tech.slashdot.org/story/26/09/03/1723202/nvidia-launches-free-tool-that-links-idle-computers-into-a-personal-ai-data-center) | Slashdot | AI |
+| 5 | [Google Releases Gemini 3.8 Flash, Its Third Flash Model In Six Weeks](https://tech.slashdot.org/story/26/09/03/1557237/google-releases-gemini-38-flash-its-third-flash-model-in-six-weeks) | Slashdot | AI |
 
-> 共 80 条，以上为 TOP 5。
+> 共 83 条，以上为 TOP 5。
 
 ---
 
@@ -53,7 +53,9 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [写作？出书？技术人做个人品牌真的难吗？](https://mp.weixin.qq.com/s/gN2DQTNd_b1atP3ye4tnuA) | 架构师之路 | 认知/IP |
+| 2 | [“现在每个女孩都想当拳击手”：凯蒂·泰勒的家乡为她的告别战而沸腾](https://www.theguardian.com/world/2026/sep/05/katie-taylor-boxing-valedictory-bout-croke-park-ireland) | www.theguardian.com | 回乡 |
+| 3 | [小米推出米家富矿净水器 2：1200G 大流量 + 8 年长效 RO 滤芯，首发 2199 元](https://www.ithome.com/0/998/678.htm) | IT之家 (ITHome) | IP |
+| 4 | [[推广] 🎁周末了发点福利，纯净住宅 IP 多场景适用，流量随机取用](https://www.v2ex.com/t/1239637) | V2EX (创意工作者社区) | IP |
 
 ---
 
@@ -61,8 +63,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [科沃斯 IFA 2026 官宣成为“全球第一大家用机器人品牌”，2026 年 Q2 国际市场收入已占总营收 51%](https://www.ithome.com/0/998/651.htm) | IT之家 (ITHome) | 变现 |
-| 2 | [尽管低收入群体的工资增幅显著，但纽约市的收入不平等现象仍在加剧](https://www.businessinsider.com/nycs-rich-grow-richer-even-wages-increase-for-low-earners-2026-9) | www.businessinsider.com | 变现 |
+| 1 | [如何入门2026年最热门的7种AI副业](https://finance.yahoo.com/small-business/articles/started-7-ai-side-hustles-224500978.html) | finance.yahoo.com | AI/变现 |
+| 2 | [科沃斯 IFA 2026 官宣成为“全球第一大家用机器人品牌”，2026 年 Q2 国际市场收入已占总营收 51%](https://www.ithome.com/0/998/651.htm) | IT之家 (ITHome) | 变现 |
+| 3 | [尽管低收入群体的工资增幅显著，但纽约市的收入不平等现象仍在加剧](https://www.businessinsider.com/nycs-rich-grow-richer-even-wages-increase-for-low-earners-2026-9) | www.businessinsider.com | 变现 |
 
 ---
 
@@ -74,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-05T01:32:15.398Z
-- **总资讯数**：4355 条原始 → 646 条筛选后
+- **聚合时间**：2026-09-05T06:22:23.554Z
+- **总资讯数**：4369 条原始 → 641 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
