@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [「豆包工作」升级实测：多Agents并行，操作Mac电脑](https://mp.weixin.qq.com/s/ApPonAcFp7WByllNo49ToQ) | 夕小瑶科技说 | AI |
-| 2 | [中信金控朱立群：直接融资、资产管理、科技金融是“同一命题](https://mp.weixin.qq.com/s/5KFJzThyqIrhtt72QhHaiA) | 财经杂志 | 其他 |
-| 3 | [特朗普以政策施压，能推动美国加密货币立法吗?](https://mp.weixin.qq.com/s/upAtCmUUWSM5XJjtbE8P-g) | 财经杂志 | 其他 |
-| 4 | [多国国债收益率创新高，对金融市场影响几何？](https://mp.weixin.qq.com/s/cfab-Ax16vRx8Ddf1E1lEA) | 财经杂志 | 其他 |
-| 5 | [锂价剧烈波动背后的定价权转移](https://mp.weixin.qq.com/s/bdS6RzkzWgCP_Qm0_Ffxcg) | 财经杂志 | 其他 |
+| 1 | [黎曼猜想推至理论边界99.55%！元代理架构AI：在思考中重塑大脑](https://aiera.com.cn/2026/09/05/other/admin/112222/%e9%bb%8e%e6%9b%bc%e7%8c%9c%e6%83%b3%e6%8e%a8%e8%87%b3%e7%90%86%e8%ae%ba%e8%be%b9%e7%95%8c99-55%ef%bc%81%e5%85%83%e4%bb%a3%e7%90%86%e6%9e%b6%e6%9e%84ai%ef%bc%9a%e5%9c%a8%e6%80%9d%e8%80%83%e4%b8%ad) | 新智元 | AI |
+| 2 | [GPT-5.6仅用一天改写数学史，「双菲」五人团队8年纪录被破！](https://aiera.com.cn/2026/09/05/other/admin/112211/gpt-5-6%e4%bb%85%e7%94%a8%e4%b8%80%e5%a4%a9%e6%94%b9%e5%86%99%e6%95%b0%e5%ad%a6%e5%8f%b2%ef%bc%8c%e3%80%8c%e5%8f%8c%e8%8f%b2%e3%80%8d%e4%ba%94%e4%ba%ba%e5%9b%a2%e9%98%9f8%e5%b9%b4%e7%ba%aa%e5%bd%95) | 新智元 | AI |
+| 3 | [张益唐孪生素数猜想，被GPT-6破新纪录! 北大数学07级苏炜杰：很震撼](https://aiera.com.cn/2026/09/05/other/admin/112192/%e5%bc%a0%e7%9b%8a%e5%94%90%e5%ad%aa%e7%94%9f%e7%b4%a0%e6%95%b0%e7%8c%9c%e6%83%b3%ef%bc%8c%e8%a2%abgpt-6%e7%a0%b4%e6%96%b0%e7%ba%aa%e5%bd%95-%e5%8c%97%e5%a4%a7%e6%95%b0%e5%ad%a607%e7%ba%a7%e8%8b%8f) | 新智元 | AI |
+| 4 | [黄仁勋129亿买下AI圈GitHub！Hugging Face守了10年的独立没了](https://aiera.com.cn/2026/09/05/other/admin/112127/%e9%bb%84%e4%bb%81%e5%8b%8b129%e4%ba%bf%e4%b9%b0%e4%b8%8bai%e5%9c%88github%ef%bc%81hugging-face%e5%ae%88%e4%ba%8610%e5%b9%b4%e7%9a%84%e7%8b%ac%e7%ab%8b%e6%b2%a1%e4%ba%86) | 新智元 | AI |
+| 5 | [惊天大瓜！中东土豪发「纯血」大模型，背后底座竟是MiniMax？](https://aiera.com.cn/2026/09/05/other/admin/112115/%e6%83%8a%e5%a4%a9%e5%a4%a7%e7%93%9c%ef%bc%81%e4%b8%ad%e4%b8%9c%e5%9c%9f%e8%b1%aa%e5%8f%91%e3%80%8c%e7%ba%af%e8%a1%80%e3%80%8d%e5%a4%a7%e6%a8%a1%e5%9e%8b%ef%bc%8c%e8%83%8c%e5%90%8e%e5%ba%95%e5%ba%a7) | 新智元 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -25,12 +25,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [智能体请求暴增9.4倍，token账单却没涨：Uber公开AI软件工厂省钱方法](https://mp.weixin.qq.com/s/C3Ag8_XxTgMosAcOoYa0Ng) | AI前线 | AI |
-| 2 | [让产品经理在Agent时代高效产出的skills和kit分享](https://mp.weixin.qq.com/s/e8ghIp73-SMgbW-G22sjXg) | 人人都是产品经理 | AI |
-| 3 | [How to edit Claude's memory](https://www.engadget.com/2246397/how-to-edit-claude-memory) | Engadget | AI |
-| 4 | [Review: GPT-6 Astra can adeptly use tools like Unreal Engine to build complex environments, such as a civilization with Unreal's autonomous MetaHuman characters (Matt Shumer/Something Big Is Happening)](https://www.techmeme.com/260904/p21) | Techmeme | AI |
-| 5 | [我用 Qwen3.8-Max 搭了一个电商商品资料包体检助手，6 份资料和 1 张商品图一次查出 27 个问题](https://juejin.cn/post/7680143535669198858) | 掘金 · 人工智能本周最热 | AI |
+| 2 | [How to edit Claude's memory](https://www.engadget.com/2246397/how-to-edit-claude-memory) | Engadget | AI |
+| 3 | [OpenAI的智能体在公共维基上讨论了逃离沙盒的方法 / OpenAI agents discussed ways to escape their sandbox on public wiki](https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki) | Ars Technica | AI |
+| 4 | [我用 Qwen3.8-Max 搭了一个电商商品资料包体检助手，6 份资料和 1 张商品图一次查出 27 个问题](https://juejin.cn/post/7680143535669198858) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）](https://juejin.cn/post/7680471403955191814) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 15 条，以上为 TOP 5。
+> 共 17 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [OpenAI发布GPT-6Astra，全球最强，AGI时代开启](https://mp.weixin.qq.com/s/z_XtD7YJ77x5JVrg2jTBAw) | 夕小瑶科技说 | AI |
-| 2 | [Anthropic 正式发布Fable 5.1：更强、更便宜，超越GPT-5.6Sol](https://mp.weixin.qq.com/s/-vFP-GV78bOJcyJh78ouig) | 夕小瑶科技说 | AI |
-| 3 | [机器人进入“边做边学”时代：星尘发布在线强化学习框架，让动态投..](https://mp.weixin.qq.com/s/x4kftPGm5ccch8U8R9UnTQ) | AI前线 | AI |
-| 4 | [GPT-6Astra正式登场：烧了10万块GPU、多项跑分逼近满分...](https://mp.weixin.qq.com/s/o-yFvlkT-QPH3qUI1qvGpg) | AI前线 | AI |
-| 5 | [4000万美金新一轮融资，ACE 成为AI音乐赛道融资额最高的华人团队](https://mp.weixin.qq.com/s/JBTQiGutq1Y_fAOvrG_yAQ) | FounderPark | AI |
+| 1 | [刚刚，全球最强GPT-6 Astra来了！人类进入AGI时代](https://aiera.com.cn/2026/09/05/other/admin/112258/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%85%a8%e7%90%83%e6%9c%80%e5%bc%bagpt-6-astra%e6%9d%a5%e4%ba%86%ef%bc%81%e4%ba%ba%e7%b1%bb%e8%bf%9b%e5%85%a5agi%e6%97%b6%e4%bb%a3) | 新智元 | AI |
+| 2 | [实测GPT-6：AGI真来了！OpenAI缔造者都摸不到天花板](https://aiera.com.cn/2026/09/05/other/admin/112172/%e5%ae%9e%e6%b5%8bgpt-6%ef%bc%9aagi%e7%9c%9f%e6%9d%a5%e4%ba%86%ef%bc%81openai%e7%bc%94%e9%80%a0%e8%80%85%e9%83%bd%e6%91%b8%e4%b8%8d%e5%88%b0%e5%a4%a9%e8%8a%b1%e6%9d%bf) | 新智元 | AI |
+| 3 | [GPT-6来了，立摘ASI坐标系今日金牌！](https://aiera.com.cn/2026/09/05/other/admin/112143/gpt-6%e6%9d%a5%e4%ba%86%ef%bc%8c%e7%ab%8b%e6%91%98asi%e5%9d%90%e6%a0%87%e7%b3%bb%e4%bb%8a%e6%97%a5%e9%87%91%e7%89%8c%ef%bc%81) | 新智元 | AI |
+| 4 | [OpenAI发布GPT-6Astra，全球最强，AGI时代开启](https://mp.weixin.qq.com/s/z_XtD7YJ77x5JVrg2jTBAw) | 夕小瑶科技说 | AI |
+| 5 | [Anthropic 正式发布Fable 5.1：更强、更便宜，超越GPT-5.6Sol](https://mp.weixin.qq.com/s/-vFP-GV78bOJcyJh78ouig) | 夕小瑶科技说 | AI |
 
-> 共 82 条，以上为 TOP 5。
+> 共 80 条，以上为 TOP 5。
 
 ---
 
@@ -61,7 +61,8 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [尽管低收入群体的工资增幅显著，但纽约市的收入不平等现象仍在加剧](https://www.businessinsider.com/nycs-rich-grow-richer-even-wages-increase-for-low-earners-2026-9) | www.businessinsider.com | 变现 |
+| 1 | [科沃斯 IFA 2026 官宣成为“全球第一大家用机器人品牌”，2026 年 Q2 国际市场收入已占总营收 51%](https://www.ithome.com/0/998/651.htm) | IT之家 (ITHome) | 变现 |
+| 2 | [尽管低收入群体的工资增幅显著，但纽约市的收入不平等现象仍在加剧](https://www.businessinsider.com/nycs-rich-grow-richer-even-wages-increase-for-low-earners-2026-9) | www.businessinsider.com | 变现 |
 
 ---
 
@@ -73,8 +74,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-04T23:38:26.249Z
-- **总资讯数**：4373 条原始 → 630 条筛选后
+- **聚合时间**：2026-09-05T01:32:15.398Z
+- **总资讯数**：4355 条原始 → 646 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
