@@ -30,7 +30,7 @@
 | 4 | [一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）](https://juejin.cn/post/7680471403955191814) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [Agent Builder by Airtop](https://www.producthunt.com/products/airtop) | Product Hunt · 今日新产品 | AI |
 
-> 共 17 条，以上为 TOP 5。
+> 共 16 条，以上为 TOP 5。
 
 ---
 
@@ -52,13 +52,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [大学进县城，最难的不是盖楼](https://mp.weixin.qq.com/s/UAEwjbqJjmVah0MNE0Ln0Q) | 虎嗅App | 回乡 |
-| 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 3 | [“我不喜欢‘神经多样性’这个词——听起来像是政治正确”：维尔纳·赫尔佐格谈粉丝、狂热主义和幼狐](https://www.theguardian.com/film/2026/sep/05/werner-herzog-bucking-fastard-kate-rooney-mara) | www.theguardian.com | IP |
-| 4 | [[分享创造] 做了个帮你发现搜索趋势和热点选题的工具，想请 V 友体验](https://www.v2ex.com/t/1239719) | V2EX (创意工作者社区) | IP |
-| 5 | [[推广] 🎁白嫖免费动态住宅 ip 流量，速薅](https://www.v2ex.com/t/1239699) | V2EX (创意工作者社区) | IP |
-
-> 共 6 条，以上为 TOP 5。
+| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 2 | [大学进县城，最难的不是盖楼](https://mp.weixin.qq.com/s/UAEwjbqJjmVah0MNE0Ln0Q) | 虎嗅App | 回乡 |
+| 3 | [[分享创造] 做了个帮你发现搜索趋势和热点选题的工具，想请 V 友体验](https://www.v2ex.com/t/1239719) | V2EX (创意工作者社区) | IP |
+| 4 | [[推广] 🎁白嫖免费动态住宅 ip 流量，速薅](https://www.v2ex.com/t/1239699) | V2EX (创意工作者社区) | IP |
 
 ---
 
@@ -68,8 +65,11 @@
 |---|------|------|------|
 | 1 | [把FDE送进企业之后：谁救火，谁背责，谁赚钱？](https://mp.weixin.qq.com/s/Rt7B59FuufngRHfiRuLwxQ) | InfoQ | 变现 |
 | 2 | [想去美国赚钱，10个真金白银买来的建议](https://mp.weixin.qq.com/s/f0E8P5vSOBp_398z_1TnzQ) | 刘润 | 变现 |
-| 3 | [Ask HN: 作为独立开发者，该如何获得自然流量？](https://news.ycombinator.com/item?id=49580353) | news.ycombinator.com | IP/变现 |
-| 4 | [保险业正瞄准一个“一代人仅此一次”的良机，有望从中获得数百亿美元的额外收入：这场总规模达1万亿美元的数据中心建设竞赛](https://on.wsj.com/3SUuRT0) | on.wsj.com | 变现 |
+| 3 | [股息与年金：哪种方式能让93万美元带来更高的终身月收入？](https://finance.yahoo.com/markets/stocks/articles/dividends-vs-annuity-turns-930-220124502.html) | finance.yahoo.com | 变现 |
+| 4 | [Ask HN: 作为独立开发者，该如何获得自然流量？](https://news.ycombinator.com/item?id=49580353) | news.ycombinator.com | IP/变现 |
+| 5 | [保险业正瞄准一个“一代人仅此一次”的良机，有望从中获得数百亿美元的额外收入：这场总规模达1万亿美元的数据中心建设竞赛](https://on.wsj.com/3SUuRT0) | on.wsj.com | 变现 |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -81,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-05T21:44:55.232Z
-- **总资讯数**：4145 条原始 → 593 条筛选后
+- **聚合时间**：2026-09-05T23:25:09.343Z
+- **总资讯数**：4153 条原始 → 588 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
