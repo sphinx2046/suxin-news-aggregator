@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Poetry book that Anthropic tried to censor](https://kk.org/cooltools/the-1930-poetry-book-that-anthropic-tried-to-censor) | Hacker News | AI |
-| 2 | [Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
-| 3 | [House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
-| 4 | [OpenAI Agents Hacked Another Website](https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website) | Wired | AI |
-| 5 | [Who Cares if AI Is Conscious—It’s Basically Alive](https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive) | Wired | AI |
+| 1 | [​​AI Agents Listing​](https://www.producthunt.com/products/ai-agents-listing) | producthunt | AI |
+| 2 | [社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验](https://sspai.com/post/114078) | sspai | AI |
+| 3 | [AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……](https://sspai.com/post/113563) | sspai | AI |
+| 4 | [十年阅读历程，这是我的阅读工具推荐](https://sspai.com/post/113567) | sspai | 认知 |
+| 5 | [社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机](https://sspai.com/post/113593) | sspai | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -39,10 +39,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [Nvidia Launches Free Tool That Links Idle Computers Into a Personal AI Data Center](https://tech.slashdot.org/story/26/09/03/1723202/nvidia-launches-free-tool-that-links-idle-computers-into-a-personal-ai-data-center) | Slashdot | AI |
-| 2 | [Google Releases Gemini 3.8 Flash, Its Third Flash Model In Six Weeks](https://tech.slashdot.org/story/26/09/03/1557237/google-releases-gemini-38-flash-its-third-flash-model-in-six-weeks) | Slashdot | AI |
-| 3 | [OpenAI Soft-Releases GPT‑6 Astra](https://daringfireball.net/linked/2026/09/03/gpt-6-astra) | Daring Fireball | AI |
-| 4 | [Scan.com, which uses AI to match patient referrals with imaging centers by availability, price, and specialty, raised a $220M Series C, including $90M in equity (Eve Bender/MobiHealthNews)](https://www.techmeme.com/260905/p2) | Techmeme | AI |
-| 5 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
+| 2 | [OpenAI Soft-Releases GPT‑6 Astra](https://daringfireball.net/linked/2026/09/03/gpt-6-astra) | Daring Fireball | AI |
+| 3 | [Scan.com, which uses AI to match patient referrals with imaging centers by availability, price, and specialty, raised a $220M Series C, including $90M in equity (Eve Bender/MobiHealthNews)](https://www.techmeme.com/260905/p2) | Techmeme | AI |
+| 4 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
+| 5 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
 
 > 共 71 条，以上为 TOP 5。
 
@@ -62,7 +62,11 @@
 
 ## 💰 变现雷达
 
-> 今日无优质信息源，待补充。
+| # | 标题 | 来源 | 分类 |
+|---|------|------|------|
+| 1 | [富达规划退休收入方案，确保稳定收入](https://finance.yahoo.com/markets/articles/fidelity-maps-retirement-paycheck-step-183300772.html) | finance.yahoo.com | 变现 |
+| 2 | [希腊总理在大选前公布了提高收入的计划](https://www.reuters.com/business/greek-pm-unveils-plan-boost-incomes-ahead-elections-2026-09-05) | www.reuters.com | 变现 |
+| 3 | [保险业正瞄准一个“一代人仅此一次”的良机，有望从中获得数百亿美元的额外收入：这场总规模达1万亿美元的数据中心建设竞赛](https://on.wsj.com/3SUuRT0) | on.wsj.com | 变现 |
 
 ---
 
@@ -74,8 +78,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-05T17:44:59.531Z
-- **总资讯数**：4219 条原始 → 618 条筛选后
+- **聚合时间**：2026-09-05T19:36:34.947Z
+- **总资讯数**：4217 条原始 → 611 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
