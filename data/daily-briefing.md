@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [阿里前销售总监在美失踪逾半月后确认身亡；5天10万元！外国高管...](https://mp.weixin.qq.com/s/MnpGr_X_KhqYE0ooreQY7g) | AI前线 | AI |
-| 2 | [对话景鲲：Al产品的All in One，是上下文的All in One](https://mp.weixin.qq.com/s/IiNqeL8kREaVhoIFn3u86Q) | FounderPark | 其他 |
-| 3 | [无限想象线下闭门I跟人聊聊你的Agent idea吧！](https://mp.weixin.qq.com/s/7KNb42NK-wIc53f-kuRhUQ) | FounderPark | AI |
-| 4 | [钉钉装不下千问办公](https://mp.weixin.qq.com/s/lVM4zJqOcApzsCacU1vFcA) | 财经杂志 | 其他 |
-| 5 | [中国为耕地立法，从“守红线”到“提质量”](https://mp.weixin.qq.com/s/TqWXVqTHLR01wNrRIWyyBg) | 财经杂志 | 其他 |
+| 1 | [AI 时代，也许你的 Flutter 需要一套 Dartastic OpenTelemetry 监控](https://juejin.cn/post/7680757400489738276) | juejin | AI |
+| 2 | [阿里前销售总监在美失踪逾半月后确认身亡；5天10万元！外国高管...](https://mp.weixin.qq.com/s/MnpGr_X_KhqYE0ooreQY7g) | AI前线 | AI |
+| 3 | [对话景鲲：Al产品的All in One，是上下文的All in One](https://mp.weixin.qq.com/s/IiNqeL8kREaVhoIFn3u86Q) | FounderPark | 其他 |
+| 4 | [无限想象线下闭门I跟人聊聊你的Agent idea吧！](https://mp.weixin.qq.com/s/7KNb42NK-wIc53f-kuRhUQ) | FounderPark | AI |
+| 5 | [钉钉装不下千问办公](https://mp.weixin.qq.com/s/lVM4zJqOcApzsCacU1vFcA) | 财经杂志 | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -44,7 +44,7 @@
 | 4 | [果蝇版黑客帝国来了！谷歌十年画出果蝇大脑，硕士生用GPT-6两天..](https://mp.weixin.qq.com/s/2nxOzyMmyIi0Qupuyg2RbQ) | 新智元 | AI |
 | 5 | [突发！Claude黎曼猜想最大突破，已被人类数学家验证](https://mp.weixin.qq.com/s/vZpe18dDzyZFpZ-81Yj-uA) | 新智元 | AI |
 
-> 共 55 条，以上为 TOP 5。
+> 共 51 条，以上为 TOP 5。
 
 ---
 
@@ -75,8 +75,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-06T21:47:02.348Z
-- **总资讯数**：4111 条原始 → 535 条筛选后
+- **聚合时间**：2026-09-06T23:17:41.936Z
+- **总资讯数**：4145 条原始 → 534 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
