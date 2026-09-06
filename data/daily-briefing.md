@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI Toolbox 3.0](https://www.producthunt.com/products/chatgpt-toolbox) | producthunt | AI |
-| 2 | [Agentic Video Understanding in Gemini](https://www.producthunt.com/products/google) | producthunt | AI |
-| 3 | [H3 Max by fal](https://www.producthunt.com/products/fal-ai) | producthunt | 其他 |
-| 4 | [Second Brain for Teams](https://www.producthunt.com/products/second-brain-cloudflare) | producthunt | 其他 |
-| 5 | [SyncAgents](https://www.producthunt.com/products/syncagents) | producthunt | AI |
+| 1 | [阿里前销售总监在美失踪逾半月后确认身亡；5天10万元！外国高管...](https://mp.weixin.qq.com/s/MnpGr_X_KhqYE0ooreQY7g) | AI前线 | AI |
+| 2 | [对话景鲲：Al产品的All in One，是上下文的All in One](https://mp.weixin.qq.com/s/IiNqeL8kREaVhoIFn3u86Q) | FounderPark | 其他 |
+| 3 | [无限想象线下闭门I跟人聊聊你的Agent idea吧！](https://mp.weixin.qq.com/s/7KNb42NK-wIc53f-kuRhUQ) | FounderPark | AI |
+| 4 | [钉钉装不下千问办公](https://mp.weixin.qq.com/s/lVM4zJqOcApzsCacU1vFcA) | 财经杂志 | 其他 |
+| 5 | [中国为耕地立法，从“守红线”到“提质量”](https://mp.weixin.qq.com/s/TqWXVqTHLR01wNrRIWyyBg) | 财经杂志 | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -27,10 +27,10 @@
 | 1 | [How to set up ChatGPT's parental controls to protect your teen](https://www.engadget.com/2247843/how-to-set-up-chatgpt-parental-controls) | Engadget | AI |
 | 2 | [WorkOS: How to Give an Agent a Task Instead of a Token](https://daringfireball.net/linked/2026/09/06/workos-agent-task) | Daring Fireball | AI |
 | 3 | [OpenAI的智能体在公共维基上讨论了逃离沙盒的方法 / OpenAI agents discussed ways to escape their sandbox on public wiki](https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki) | Ars Technica | AI |
-| 4 | [一些求职者为了引起注意而尝试的、风险颇高的新简历“技巧” / Job applicants are hiding secret AI messages in their résumés](https://www.businessinsider.com/resume-ai-prompt-injection-applicants-job-search-2026-9) | Business Insider | AI |
-| 5 | [We opened a taco shop because Meta is building an AI data center nearby. Now 40% of our business is tied to it.](https://www.businessinsider.com/meta-ai-data-center-louisiana-economy-taco-restaurant-2026-9) | Business Insider | AI |
+| 4 | [我用 Qwen3.8-Max 搭了一个电商商品资料包体检助手，6 份资料和 1 张商品图一次查出 27 个问题](https://juejin.cn/post/7680143535669198858) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）](https://juejin.cn/post/7680471403955191814) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 12 条，以上为 TOP 5。
+> 共 9 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Kenya bet its graduates on gig work in 2022. ChatGPT launched that year](https://thenextweb.com/news/kenya-essay-writing-industry-ai-gig-work-collapse) | The Next Web | AI |
-| 2 | [OpenAI Soft-Releases GPT‑6 Astra](https://daringfireball.net/linked/2026/09/03/gpt-6-astra) | Daring Fireball | AI |
-| 3 | [OpenAI quietly updates its evaluation metrics for GPT-6 Astra, making changes that appear to favor Astra and continuing to revise other metrics after launch (Emily Forlini/Fortune)](https://www.techmeme.com/260906/p1) | Techmeme | AI |
-| 4 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
-| 5 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
+| 1 | [GPT-6Astra正式登场：烧了10万块GPU、多项跑分逼近满分..](https://mp.weixin.qq.com/s/o-yFvlkT-QPH3qUI1qvGpg) | AI前线 | AI |
+| 2 | [首次曝光！OpenAl新一代旗舰模型换上“循环深度”推理架构：用计算...](https://mp.weixin.qq.com/s/TnQ2XON_rqzuou-2QT7GWA) | InfoQ | AI |
+| 3 | [谷歌云发布 AI 智能体，简化数据库生命周期管理](https://mp.weixin.qq.com/s/JHt3tEOx2e_RRDYVK9BXBg) | InfoQ | AI |
+| 4 | [果蝇版黑客帝国来了！谷歌十年画出果蝇大脑，硕士生用GPT-6两天..](https://mp.weixin.qq.com/s/2nxOzyMmyIi0Qupuyg2RbQ) | 新智元 | AI |
+| 5 | [突发！Claude黎曼猜想最大突破，已被人类数学家验证](https://mp.weixin.qq.com/s/vZpe18dDzyZFpZ-81Yj-uA) | 新智元 | AI |
 
-> 共 57 条，以上为 TOP 5。
+> 共 55 条，以上为 TOP 5。
 
 ---
 
@@ -53,9 +53,7 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [亲爱的 Adobe Stock 粉丝们，请在日历上标记好 9 月 10 日](https://finance.yahoo.com/technology/ai/articles/dear-adobe-stock-fans-mark-130002907.html) | finance.yahoo.com | IP |
-| 3 | [[生活] 我也服了中国移动，送的流量不敢用，战战兢兢、如履薄冰。](https://www.v2ex.com/t/1239835) | V2EX (创意工作者社区) | IP |
-| 4 | [大学进县城，最难的不是盖楼](https://mp.weixin.qq.com/s/UAEwjbqJjmVah0MNE0Ln0Q) | 虎嗅App | 回乡 |
+| 2 | [[生活] 我也服了中国移动，送的流量不敢用，战战兢兢、如履薄冰。](https://www.v2ex.com/t/1239835) | V2EX (创意工作者社区) | IP |
 
 ---
 
@@ -63,11 +61,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [预测：Snowflake在2028财年的产品收入将突破80亿美元](https://finance.yahoo.com/markets/stocks/articles/prediction-snowflakes-product-revenue-passes-185802141.html) | finance.yahoo.com | 变现 |
-| 2 | [BDC 和抵押贷款 REIT 的收入与银行股息的征税方式不同。以下是分别持有它们的建议。](https://finance.yahoo.com/real-estate/articles/bdc-mortgage-reit-income-taxed-183500135.html) | finance.yahoo.com | 变现 |
+| 1 | [3名开发者做出来的副业项目，半年冲进4万人！亚马逊云科技把内...](https://mp.weixin.qq.com/s/kueOanIErGGaJFHNWZjqVw) | AI前线 | AI/变现 |
+| 2 | [把FDE 送进企业之后：谁救火，谁背责，谁赚钱？](https://mp.weixin.qq.com/s/Rt7B59FuufngRHfiRuLwxQ) | InfoQ | 变现 |
 | 3 | [古尔曼：苹果考虑调整 App Store 以提高收入和利润率](https://www.ithome.com/0/999/044.htm) | IT之家 (ITHome) | 变现 |
-| 4 | [把FDE送进企业之后：谁救火，谁背责，谁赚钱？](https://mp.weixin.qq.com/s/Rt7B59FuufngRHfiRuLwxQ) | InfoQ | 变现 |
-| 5 | [想去美国赚钱，10个真金白银买来的建议](https://mp.weixin.qq.com/s/f0E8P5vSOBp_398z_1TnzQ) | 刘润 | 变现 |
 
 ---
 
@@ -79,8 +75,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-06T19:39:01.387Z
-- **总资讯数**：4063 条原始 → 538 条筛选后
+- **聚合时间**：2026-09-06T21:47:02.348Z
+- **总资讯数**：4111 条原始 → 535 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
