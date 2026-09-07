@@ -30,7 +30,7 @@
 | 4 | [我用 Qwen3.8-Max 搭了一个电商商品资料包体检助手，6 份资料和 1 张商品图一次查出 27 个问题](https://juejin.cn/post/7680143535669198858) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）](https://juejin.cn/post/7680471403955191814) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 9 条，以上为 TOP 5。
+> 共 13 条，以上为 TOP 5。
 
 ---
 
@@ -41,10 +41,10 @@
 | 1 | [突发！Claude黎曼猜想最大突破，已被人类数学家验证](https://aiera.com.cn/2026/09/07/other/admin/112536/%e7%aa%81%e5%8f%91%ef%bc%81claude%e9%bb%8e%e6%9b%bc%e7%8c%9c%e6%83%b3%e6%9c%80%e5%a4%a7%e7%aa%81%e7%a0%b4%ef%bc%8c%e5%b7%b2%e8%a2%ab%e4%ba%ba%e7%b1%bb%e6%95%b0%e5%ad%a6%e5%ae%b6%e9%aa%8c%e8%af%81) | 新智元 | AI |
 | 2 | [角色离场再回来，AI就换了个人？浙大、港大开源轻量化记忆路由器](https://aiera.com.cn/2026/09/07/other/admin/112506/%e8%a7%92%e8%89%b2%e7%a6%bb%e5%9c%ba%e5%86%8d%e5%9b%9e%e6%9d%a5%ef%bc%8cai%e5%b0%b1%e6%8d%a2%e4%ba%86%e4%b8%aa%e4%ba%ba%ef%bc%9f%e6%b5%99%e5%a4%a7%e3%80%81%e6%b8%af%e5%a4%a7%e5%bc%80%e6%ba%90%e8%bd%bb) | 新智元 | AI |
 | 3 | [果蝇版黑客帝国来了！谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞](https://aiera.com.cn/2026/09/07/other/admin/112412/%e6%9e%9c%e8%9d%87%e7%89%88%e9%bb%91%e5%ae%a2%e5%b8%9d%e5%9b%bd%e6%9d%a5%e4%ba%86%ef%bc%81%e8%b0%b7%e6%ad%8c%e5%8d%81%e5%b9%b4%e7%94%bb%e5%87%ba%e6%9e%9c%e8%9d%87%e5%a4%a7%e8%84%91%ef%bc%8c%e7%a1%95) | 新智元 | AI |
-| 4 | [GPT-6Astra正式登场：烧了10万块GPU、多项跑分逼近满分..](https://mp.weixin.qq.com/s/o-yFvlkT-QPH3qUI1qvGpg) | AI前线 | AI |
-| 5 | [GPT-6 发布当晚，三大 AI 集体宕机 4 小时——我扒完时间线，发现最该慌的不是宕机](https://juejin.cn/post/7681475476906950691) | juejin | AI |
+| 4 | [OpenAI quietly updates its evaluation metrics for GPT-6 Astra, making changes that appear to favor Astra and continuing to revise other metrics after launch (Emily Forlini/Fortune)](https://www.techmeme.com/260906/p1) | Techmeme | AI |
+| 5 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
 
-> 共 45 条，以上为 TOP 5。
+> 共 53 条，以上为 TOP 5。
 
 ---
 
@@ -53,6 +53,9 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 2 | [60岁后的全新开始：我一直都很低调——但82岁的我已成为一位著名且风趣的时尚博主](https://www.theguardian.com/fashion/2026/sep/07/a-new-start-after-60-i-was-always-quiet-but-at-82-im-a-famous-funny-fashion-influencer) | www.theguardian.com | IP |
+| 3 | [流量的道德局限：绍兴文旅不需要网红](https://www.huxiu.com/article/4889073.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 4 | [4.8万件诉求打爆12345：时代峰峻，你们的粉丝真的管不住吗？](https://www.huxiu.com/article/4889061.html?f=rss) | 虎嗅 (Huxiu) | IP |
 
 ---
 
@@ -60,9 +63,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [3名开发者做出来的副业项目，半年冲进4万人！亚马逊云科技把内...](https://mp.weixin.qq.com/s/kueOanIErGGaJFHNWZjqVw) | AI前线 | AI/变现 |
-| 2 | [把FDE 送进企业之后：谁救火，谁背责，谁赚钱？](https://mp.weixin.qq.com/s/Rt7B59FuufngRHfiRuLwxQ) | InfoQ | 变现 |
-| 3 | [古尔曼：苹果考虑调整 App Store 以提高收入和利润率](https://www.ithome.com/0/999/044.htm) | IT之家 (ITHome) | 变现 |
+| 1 | [公海抢船合法变现！美司法部“考古”翻出127年前旧法律强行洗白](https://www.huxiu.com/article/4889034.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 2 | [3名开发者做出来的副业项目，半年冲进4万人！亚马逊云科技把内...](https://mp.weixin.qq.com/s/kueOanIErGGaJFHNWZjqVw) | AI前线 | AI/变现 |
+| 3 | [GitLab 的 AI 工具正开始将开发者的需求转化为实际收入](https://finance.yahoo.com/technology/ai/articles/gitlab-ai-tools-starting-turn-143500667.html) | finance.yahoo.com | AI/变现 |
+| 4 | [把FDE 送进企业之后：谁救火，谁背责，谁赚钱？](https://mp.weixin.qq.com/s/Rt7B59FuufngRHfiRuLwxQ) | InfoQ | 变现 |
 
 ---
 
@@ -74,8 +78,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-07T01:25:05.234Z
-- **总资讯数**：4183 条原始 → 530 条筛选后
+- **聚合时间**：2026-09-07T06:41:03.855Z
+- **总资讯数**：4267 条原始 → 566 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
