@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI 时代，也许你的 Flutter 需要一套 Dartastic OpenTelemetry 监控](https://juejin.cn/post/7680757400489738276) | juejin | AI |
-| 2 | [AI烧光16.5万美金，11天狂飙100万行代码！传统编程正走向终结](https://aiera.com.cn/2026/09/07/other/admin/112490/ai%e7%83%a7%e5%85%8916-5%e4%b8%87%e7%be%8e%e9%87%91%ef%bc%8c11%e5%a4%a9%e7%8b%82%e9%a3%99100%e4%b8%87%e8%a1%8c%e4%bb%a3%e7%a0%81%ef%bc%81%e4%bc%a0%e7%bb%9f%e7%bc%96%e7%a8%8b%e6%ad%a3%e8%b5%b0%e5%90%91) | 新智元 | AI |
-| 3 | [谷歌让AI互怼几天！小模型竟复现3道博士级难题](https://aiera.com.cn/2026/09/07/other/admin/112478/%e8%b0%b7%e6%ad%8c%e8%ae%a9ai%e4%ba%92%e6%80%bc%e5%87%a0%e5%a4%a9%ef%bc%81%e5%b0%8f%e6%a8%a1%e5%9e%8b%e7%ab%9f%e5%a4%8d%e7%8e%b03%e9%81%93%e5%8d%9a%e5%a3%ab%e7%ba%a7%e9%9a%be%e9%a2%98) | 新智元 | AI |
-| 4 | [突发，OpenAI GPT-6跑分作弊被抓包了！](https://aiera.com.cn/2026/09/07/other/admin/112464/%e7%aa%81%e5%8f%91%ef%bc%8copenai-gpt-6%e8%b7%91%e5%88%86%e4%bd%9c%e5%bc%8a%e8%a2%ab%e6%8a%93%e5%8c%85%e4%ba%86%ef%bc%81) | 新智元 | AI |
-| 5 | [韦神主攻的千禧年难题，被Claude攻破了？](https://aiera.com.cn/2026/09/07/other/admin/112440/%e9%9f%a6%e7%a5%9e%e4%b8%bb%e6%94%bb%e7%9a%84%e5%8d%83%e7%a6%a7%e5%b9%b4%e9%9a%be%e9%a2%98%ef%bc%8c%e8%a2%abclaude%e6%94%bb%e7%a0%b4%e4%ba%86%ef%bc%9f) | 新智元 | AI |
+| 1 | [Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus) | Hacker News | AI |
+| 2 | [Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim) | Hacker News | AI |
+| 3 | [Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 4 | [House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
+| 5 | [My Brief Summer Fling With Siri AI](https://www.wired.com/story/my-brief-summer-fling-with-siri-ai) | Wired | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -30,7 +30,7 @@
 | 4 | [我用 Qwen3.8-Max 搭了一个电商商品资料包体检助手，6 份资料和 1 张商品图一次查出 27 个问题](https://juejin.cn/post/7680143535669198858) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）](https://juejin.cn/post/7680471403955191814) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 13 条，以上为 TOP 5。
+> 共 9 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [突发！Claude黎曼猜想最大突破，已被人类数学家验证](https://aiera.com.cn/2026/09/07/other/admin/112536/%e7%aa%81%e5%8f%91%ef%bc%81claude%e9%bb%8e%e6%9b%bc%e7%8c%9c%e6%83%b3%e6%9c%80%e5%a4%a7%e7%aa%81%e7%a0%b4%ef%bc%8c%e5%b7%b2%e8%a2%ab%e4%ba%ba%e7%b1%bb%e6%95%b0%e5%ad%a6%e5%ae%b6%e9%aa%8c%e8%af%81) | 新智元 | AI |
-| 2 | [角色离场再回来，AI就换了个人？浙大、港大开源轻量化记忆路由器](https://aiera.com.cn/2026/09/07/other/admin/112506/%e8%a7%92%e8%89%b2%e7%a6%bb%e5%9c%ba%e5%86%8d%e5%9b%9e%e6%9d%a5%ef%bc%8cai%e5%b0%b1%e6%8d%a2%e4%ba%86%e4%b8%aa%e4%ba%ba%ef%bc%9f%e6%b5%99%e5%a4%a7%e3%80%81%e6%b8%af%e5%a4%a7%e5%bc%80%e6%ba%90%e8%bd%bb) | 新智元 | AI |
-| 3 | [果蝇版黑客帝国来了！谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞](https://aiera.com.cn/2026/09/07/other/admin/112412/%e6%9e%9c%e8%9d%87%e7%89%88%e9%bb%91%e5%ae%a2%e5%b8%9d%e5%9b%bd%e6%9d%a5%e4%ba%86%ef%bc%81%e8%b0%b7%e6%ad%8c%e5%8d%81%e5%b9%b4%e7%94%bb%e5%87%ba%e6%9e%9c%e8%9d%87%e5%a4%a7%e8%84%91%ef%bc%8c%e7%a1%95) | 新智元 | AI |
-| 4 | [OpenAI quietly updates its evaluation metrics for GPT-6 Astra, making changes that appear to favor Astra and continuing to revise other metrics after launch (Emily Forlini/Fortune)](https://www.techmeme.com/260906/p1) | Techmeme | AI |
-| 5 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
+| 1 | [Sources: ByteDance founder Zhang Yiming is overseeing the development of an AI model for real-time spatial video, which could launch as soon as next month (Bloomberg)](https://www.techmeme.com/260907/p11) | Techmeme | AI |
+| 2 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
+| 3 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
+| 4 | [正式开源！美团 LongCat-2.0 同步开放国产卡推理代码](https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html) | 美团技术团队 (Meituan Tech) | AI |
+| 5 | [刚刚，OpenAI「AI研究实习生」正式入职，黄仁勋：AGI已来](https://www.36kr.com/p/3972641004843521) | 36氪 · 24小时热榜 | AI |
 
-> 共 53 条，以上为 TOP 5。
+> 共 59 条，以上为 TOP 5。
 
 ---
 
@@ -53,9 +53,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [60岁后的全新开始：我一直都很低调——但82岁的我已成为一位著名且风趣的时尚博主](https://www.theguardian.com/fashion/2026/sep/07/a-new-start-after-60-i-was-always-quiet-but-at-82-im-a-famous-funny-fashion-influencer) | www.theguardian.com | IP |
-| 3 | [流量的道德局限：绍兴文旅不需要网红](https://www.huxiu.com/article/4889073.html?f=rss) | 虎嗅 (Huxiu) | IP |
-| 4 | [4.8万件诉求打爆12345：时代峰峻，你们的粉丝真的管不住吗？](https://www.huxiu.com/article/4889061.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 2 | [[分享创造] 分享一个用 MiniMax H3 Max 做短视频的在线工作台：支持原生音频](https://www.v2ex.com/t/1240188) | V2EX (创意工作者社区) | IP |
+| 3 | [《鬼影实录》悄然登陆百老汇——该恐怖电影系列原版创作者奥伦·佩利造访了这部新舞台剧，并畅谈了那栋在2005年曾令他毛骨悚然、同时也激发了他创作灵感的吱呀作响的老房子。](https://www.newyorker.com/magazine/2026/09/14/paranormal-activity-creeps-onto-broadway) | www.newyorker.com | IP |
+| 4 | [流量的道德局限：绍兴文旅不需要网红](https://www.huxiu.com/article/4889073.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 5 | [4.8万件诉求打爆12345：时代峰峻，你们的粉丝真的管不住吗？](https://www.huxiu.com/article/4889061.html?f=rss) | 虎嗅 (Huxiu) | IP |
 
 ---
 
@@ -63,10 +64,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [公海抢船合法变现！美司法部“考古”翻出127年前旧法律强行洗白](https://www.huxiu.com/article/4889034.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 2 | [3名开发者做出来的副业项目，半年冲进4万人！亚马逊云科技把内...](https://mp.weixin.qq.com/s/kueOanIErGGaJFHNWZjqVw) | AI前线 | AI/变现 |
-| 3 | [GitLab 的 AI 工具正开始将开发者的需求转化为实际收入](https://finance.yahoo.com/technology/ai/articles/gitlab-ai-tools-starting-turn-143500667.html) | finance.yahoo.com | AI/变现 |
-| 4 | [把FDE 送进企业之后：谁救火，谁背责，谁赚钱？](https://mp.weixin.qq.com/s/Rt7B59FuufngRHfiRuLwxQ) | InfoQ | 变现 |
+| 1 | [Show HN: AdDeck——AdMob、AdSense 和中介服务收入一屏尽览](https://play.google.com/store/apps/details?id=com.eltacrew.addeck&hl=en_US) | play.google.com | 变现 |
+| 2 | [[分享创造] 我抓了一万个独立产品的收入发现：没有快钱](https://www.v2ex.com/t/1240148) | V2EX (创意工作者社区) | 变现 |
+| 3 | [公海抢船合法变现！美司法部“考古”翻出127年前旧法律强行洗白](https://www.huxiu.com/article/4889034.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 4 | [3名开发者做出来的副业项目，半年冲进4万人！亚马逊云科技把内...](https://mp.weixin.qq.com/s/kueOanIErGGaJFHNWZjqVw) | AI前线 | AI/变现 |
+| 5 | [把FDE 送进企业之后：谁救火，谁背责，谁赚钱？](https://mp.weixin.qq.com/s/Rt7B59FuufngRHfiRuLwxQ) | InfoQ | 变现 |
 
 ---
 
@@ -78,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-07T06:41:03.855Z
-- **总资讯数**：4267 条原始 → 566 条筛选后
+- **聚合时间**：2026-09-07T13:43:05.045Z
+- **总资讯数**：4398 条原始 → 590 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
