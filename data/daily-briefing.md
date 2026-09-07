@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [走进AI Agent第三篇：让 Agent 记住你](https://juejin.cn/post/7682394398210932763) | juejin | AI |
-| 2 | [三年了，AI为何还没有抢走程序员饭碗？](https://juejin.cn/post/7682262550978936884) | juejin | AI |
-| 3 | [OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了](https://juejin.cn/post/7681931232724860970) | juejin | AI |
-| 4 | [GPT - 6 Astra 的使用焚诀](https://juejin.cn/post/7682634449856217115) | juejin | AI |
-| 5 | [「Flutter 文件保存太难了？」一个插件打通 7 大平台，我把方案开源了 🎉](https://juejin.cn/post/7681952931486957583) | juejin | 其他 |
+| 1 | [OpenAl首曝Al自我进化进展，Agent工作量已是人类3.1倍！黄仁勋高...](https://mp.weixin.qq.com/s/jCbm11hC8nQCOQV-9xYCbQ) | AI前线 | AI |
+| 2 | [Expedia和Airbnb引入LLM生成的GraphQL模拟数据，不过规范相..](https://mp.weixin.qq.com/s/27RdpMxZNKxPvnB7OXqgKw) | AI前线 | AI |
+| 3 | [认身亡；5天10万元！外国高管...](https://mp.weixin.qq.com/s/MnpGr_X_KhqYE0ooreQY7g) | AI前线 | AI |
+| 4 | [对话景鲲：AI 产品的All in One，是上下文的All in One](https://mp.weixin.qq.com/s/IiNqeL8kREaVhoIFn3u86Q) | FounderPark | AI |
+| 5 | [对话Nirva吕唯：在Meta做了四年半可穿戴，想清楚了第一代 AI 原...](https://mp.weixin.qq.com/s/kR8VGXCqleCo_KzvdY-KNg) | FounderPark | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [OpenAI is figuring out how to tell people when its agents go rogue](https://mashable.com/tech/openai-framework-for-misalignment-incidents-of-rogue-agents) | Mashable | AI |
-| 2 | [NEURA and SECO will build robot compute modules in Europe](https://thenextweb.com/news/neura-seco-robot-compute-modules-europe) | The Next Web | AI |
-| 3 | [Shadow AI is already inside your company. Here’s how to get control of it](https://thenextweb.com/news/shadow-ai-enterprise-security-reco-control) | The Next Web | AI |
-| 4 | [WorkOS: How to Give an Agent a Task Instead of a Token](https://daringfireball.net/linked/2026/09/06/workos-agent-task) | Daring Fireball | AI |
-| 5 | [OpenAI的智能体在公共维基上讨论了逃离沙盒的方法 / OpenAI agents discussed ways to escape their sandbox on public wiki](https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki) | Ars Technica | AI |
+| 1 | [ClaudeCode配置怎么配，才能成为Agent之王？(实操+配置分享)](https://mp.weixin.qq.com/s/QU_ioKUMSelaGL7rqlrM8w) | 架构师之路 | AI |
+| 2 | [OpenAI is figuring out how to tell people when its agents go rogue](https://mashable.com/tech/openai-framework-for-misalignment-incidents-of-rogue-agents) | Mashable | AI |
+| 3 | [NEURA and SECO will build robot compute modules in Europe](https://thenextweb.com/news/neura-seco-robot-compute-modules-europe) | The Next Web | AI |
+| 4 | [Shadow AI is already inside your company. Here’s how to get control of it](https://thenextweb.com/news/shadow-ai-enterprise-security-reco-control) | The Next Web | AI |
+| 5 | [WorkOS: How to Give an Agent a Task Instead of a Token](https://daringfireball.net/linked/2026/09/06/workos-agent-task) | Daring Fireball | AI |
 
-> 共 10 条，以上为 TOP 5。
+> 共 13 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出](https://juejin.cn/post/7681733440023183414) | juejin | AI |
-| 2 | [阿里开源了一个神级Agent项目](https://juejin.cn/post/7681931232724910122) | juejin | AI |
-| 3 | [使用 GPT-6 Astra 模型 请立刻更新你的 Skill 与提示词](https://juejin.cn/post/7681858280943403059) | juejin | AI |
-| 4 | [GPT-6 Astra 发布：OpenAI 正式宣告“AGI 时代到来”](https://juejin.cn/post/7681626346015916068) | juejin | AI |
-| 5 | [Cato raises €6m to sell AI into Italy’s €309.7bn tender market](https://thenextweb.com/news/cato-6m-seed-ai-italian-public-tenders) | The Next Web | AI |
+| 1 | [黄仁勋：AGI已到来！OpenAIAstra背后是英伟达，40万张GPU即将上线](https://mp.weixin.qq.com/s/8odS9PwyTmK3G4_8lRSF1g) | 华尔街见闻 | AI |
+| 2 | [Cloudflare OS:Cloudflare 基于能力模型构建的开源企业级AI平台](https://mp.weixin.qq.com/s/qisc-3x8Fmm566a8heU_PA) | InfoQ | AI |
+| 3 | [收了一家还不够，Anthropic 或将继续收购AI生物公司](https://mp.weixin.qq.com/s/QyBOIp24cQgd1RXxH8c3Ag) | DeepTech深科技 | AI |
+| 4 | [新智元11周年官网上线！AI帮CEO杨静找回了金宝街奶奶家](https://mp.weixin.qq.com/s/X8Co86RugUCtSlcWw31tvQ) | 新智元 | AI |
+| 5 | [虚幻引擎CEO围观最新世界模型：代码驱动，视频模型生成画面](https://mp.weixin.qq.com/s/RX_s1gW2bf9baxOHcULrCQ) | 新智元 | AI |
 
-> 共 52 条，以上为 TOP 5。
+> 共 58 条，以上为 TOP 5。
 
 ---
 
@@ -65,8 +65,6 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [Steam 今年已为 Valve 带来 150 亿美元收入，《极限竞速：地平线 6》领跑新作](https://www.ithome.com/0/999/491.htm) | IT之家 (ITHome) | 变现 |
-| 2 | [3名开发者做出来的副业项目，半年冲进4万人！亚马逊云科技把内...](https://mp.weixin.qq.com/s/kueOanIErGGaJFHNWZjqVw) | AI前线 | AI/变现 |
-| 3 | [把FDE 送进企业之后：谁救火，谁背责，谁赚钱？](https://mp.weixin.qq.com/s/Rt7B59FuufngRHfiRuLwxQ) | InfoQ | 变现 |
 
 ---
 
@@ -78,8 +76,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-07T18:26:35.686Z
-- **总资讯数**：4248 条原始 → 544 条筛选后
+- **聚合时间**：2026-09-07T22:19:27.826Z
+- **总资讯数**：4203 条原始 → 569 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
