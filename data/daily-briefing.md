@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-09-06（周日）
+# 素心拾穗 · 每日情报 · 2026-09-07（周一）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -11,10 +11,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [AI 时代，也许你的 Flutter 需要一套 Dartastic OpenTelemetry 监控](https://juejin.cn/post/7680757400489738276) | juejin | AI |
-| 2 | [阿里前销售总监在美失踪逾半月后确认身亡；5天10万元！外国高管...](https://mp.weixin.qq.com/s/MnpGr_X_KhqYE0ooreQY7g) | AI前线 | AI |
-| 3 | [对话景鲲：Al产品的All in One，是上下文的All in One](https://mp.weixin.qq.com/s/IiNqeL8kREaVhoIFn3u86Q) | FounderPark | 其他 |
-| 4 | [无限想象线下闭门I跟人聊聊你的Agent idea吧！](https://mp.weixin.qq.com/s/7KNb42NK-wIc53f-kuRhUQ) | FounderPark | AI |
-| 5 | [钉钉装不下千问办公](https://mp.weixin.qq.com/s/lVM4zJqOcApzsCacU1vFcA) | 财经杂志 | 其他 |
+| 2 | [AI烧光16.5万美金，11天狂飙100万行代码！传统编程正走向终结](https://aiera.com.cn/2026/09/07/other/admin/112490/ai%e7%83%a7%e5%85%8916-5%e4%b8%87%e7%be%8e%e9%87%91%ef%bc%8c11%e5%a4%a9%e7%8b%82%e9%a3%99100%e4%b8%87%e8%a1%8c%e4%bb%a3%e7%a0%81%ef%bc%81%e4%bc%a0%e7%bb%9f%e7%bc%96%e7%a8%8b%e6%ad%a3%e8%b5%b0%e5%90%91) | 新智元 | AI |
+| 3 | [谷歌让AI互怼几天！小模型竟复现3道博士级难题](https://aiera.com.cn/2026/09/07/other/admin/112478/%e8%b0%b7%e6%ad%8c%e8%ae%a9ai%e4%ba%92%e6%80%bc%e5%87%a0%e5%a4%a9%ef%bc%81%e5%b0%8f%e6%a8%a1%e5%9e%8b%e7%ab%9f%e5%a4%8d%e7%8e%b03%e9%81%93%e5%8d%9a%e5%a3%ab%e7%ba%a7%e9%9a%be%e9%a2%98) | 新智元 | AI |
+| 4 | [突发，OpenAI GPT-6跑分作弊被抓包了！](https://aiera.com.cn/2026/09/07/other/admin/112464/%e7%aa%81%e5%8f%91%ef%bc%8copenai-gpt-6%e8%b7%91%e5%88%86%e4%bd%9c%e5%bc%8a%e8%a2%ab%e6%8a%93%e5%8c%85%e4%ba%86%ef%bc%81) | 新智元 | AI |
+| 5 | [韦神主攻的千禧年难题，被Claude攻破了？](https://aiera.com.cn/2026/09/07/other/admin/112440/%e9%9f%a6%e7%a5%9e%e4%b8%bb%e6%94%bb%e7%9a%84%e5%8d%83%e7%a6%a7%e5%b9%b4%e9%9a%be%e9%a2%98%ef%bc%8c%e8%a2%abclaude%e6%94%bb%e7%a0%b4%e4%ba%86%ef%bc%9f) | 新智元 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [GPT-6Astra正式登场：烧了10万块GPU、多项跑分逼近满分..](https://mp.weixin.qq.com/s/o-yFvlkT-QPH3qUI1qvGpg) | AI前线 | AI |
-| 2 | [首次曝光！OpenAl新一代旗舰模型换上“循环深度”推理架构：用计算...](https://mp.weixin.qq.com/s/TnQ2XON_rqzuou-2QT7GWA) | InfoQ | AI |
-| 3 | [谷歌云发布 AI 智能体，简化数据库生命周期管理](https://mp.weixin.qq.com/s/JHt3tEOx2e_RRDYVK9BXBg) | InfoQ | AI |
-| 4 | [果蝇版黑客帝国来了！谷歌十年画出果蝇大脑，硕士生用GPT-6两天..](https://mp.weixin.qq.com/s/2nxOzyMmyIi0Qupuyg2RbQ) | 新智元 | AI |
-| 5 | [突发！Claude黎曼猜想最大突破，已被人类数学家验证](https://mp.weixin.qq.com/s/vZpe18dDzyZFpZ-81Yj-uA) | 新智元 | AI |
+| 1 | [突发！Claude黎曼猜想最大突破，已被人类数学家验证](https://aiera.com.cn/2026/09/07/other/admin/112536/%e7%aa%81%e5%8f%91%ef%bc%81claude%e9%bb%8e%e6%9b%bc%e7%8c%9c%e6%83%b3%e6%9c%80%e5%a4%a7%e7%aa%81%e7%a0%b4%ef%bc%8c%e5%b7%b2%e8%a2%ab%e4%ba%ba%e7%b1%bb%e6%95%b0%e5%ad%a6%e5%ae%b6%e9%aa%8c%e8%af%81) | 新智元 | AI |
+| 2 | [角色离场再回来，AI就换了个人？浙大、港大开源轻量化记忆路由器](https://aiera.com.cn/2026/09/07/other/admin/112506/%e8%a7%92%e8%89%b2%e7%a6%bb%e5%9c%ba%e5%86%8d%e5%9b%9e%e6%9d%a5%ef%bc%8cai%e5%b0%b1%e6%8d%a2%e4%ba%86%e4%b8%aa%e4%ba%ba%ef%bc%9f%e6%b5%99%e5%a4%a7%e3%80%81%e6%b8%af%e5%a4%a7%e5%bc%80%e6%ba%90%e8%bd%bb) | 新智元 | AI |
+| 3 | [果蝇版黑客帝国来了！谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞](https://aiera.com.cn/2026/09/07/other/admin/112412/%e6%9e%9c%e8%9d%87%e7%89%88%e9%bb%91%e5%ae%a2%e5%b8%9d%e5%9b%bd%e6%9d%a5%e4%ba%86%ef%bc%81%e8%b0%b7%e6%ad%8c%e5%8d%81%e5%b9%b4%e7%94%bb%e5%87%ba%e6%9e%9c%e8%9d%87%e5%a4%a7%e8%84%91%ef%bc%8c%e7%a1%95) | 新智元 | AI |
+| 4 | [GPT-6Astra正式登场：烧了10万块GPU、多项跑分逼近满分..](https://mp.weixin.qq.com/s/o-yFvlkT-QPH3qUI1qvGpg) | AI前线 | AI |
+| 5 | [GPT-6 发布当晚，三大 AI 集体宕机 4 小时——我扒完时间线，发现最该慌的不是宕机](https://juejin.cn/post/7681475476906950691) | juejin | AI |
 
-> 共 51 条，以上为 TOP 5。
+> 共 45 条，以上为 TOP 5。
 
 ---
 
@@ -53,7 +53,6 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [[生活] 我也服了中国移动，送的流量不敢用，战战兢兢、如履薄冰。](https://www.v2ex.com/t/1239835) | V2EX (创意工作者社区) | IP |
 
 ---
 
@@ -75,8 +74,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-06T23:17:41.936Z
-- **总资讯数**：4145 条原始 → 534 条筛选后
+- **聚合时间**：2026-09-07T01:25:05.234Z
+- **总资讯数**：4183 条原始 → 530 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
