@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution) | Hacker News | 其他 |
-| 2 | [Show HN: LLM 注意力可视化 / Show HN: LLM Attention Visualization](https://ishamf.dev/p/llm-attention-visualizer) | Hacker News | AI |
-| 3 | [谷歌DeepMind发布AlphaGenome Atlas / Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas) | Hacker News | 其他 |
-| 4 | [Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
-| 5 | [House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
+| 1 | [Nametag](https://www.producthunt.com/products/nametag-ai) | producthunt | 其他 |
+| 2 | [Kopai](https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents) | producthunt | 其他 |
+| 3 | [社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验](https://sspai.com/post/114078) | sspai | AI |
+| 4 | [AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……](https://sspai.com/post/113563) | sspai | AI |
+| 5 | [十年阅读历程，这是我的阅读工具推荐](https://sspai.com/post/113567) | sspai | 认知 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [How to let Claude send emails for you](https://www.engadget.com/2249396/how-to-let-claude-send-emails) | Engadget | AI |
+| 1 | [LLMs remember your code, not your life: Building a portable personal context layer](https://thenextweb.com/news/llms-remember-code-not-life-portable-context-layer) | The Next Web | AI |
 | 2 | [WorkOS: How to Give an Agent a Task Instead of a Token](https://daringfireball.net/linked/2026/09/06/workos-agent-task) | Daring Fireball | AI |
-| 3 | [OpenAI的智能体在公共维基上讨论了逃离沙盒的方法 / OpenAI agents discussed ways to escape their sandbox on public wiki](https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki) | Ars Technica | AI |
-| 4 | [Qualcomm signs a deal with Amazon to provide "multiple generations of customized silicon" to help build AWS' AI infrastructure for inference; QCOM jumps ~5% (Ari Levy/CNBC)](https://www.techmeme.com/260908/p17) | Techmeme | AI |
-| 5 | [一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）](https://juejin.cn/post/7680471403955191814) | 掘金 · 人工智能本周最热 | AI |
+| 3 | [一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）](https://juejin.cn/post/7680471403955191814) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [[分享创造] 折腾了好一段时间，升级了 pi2.nvim 插件，为什么我又造了个 subagents 的轮子](https://www.v2ex.com/t/1240516) | V2EX (创意工作者社区) | AI |
+| 5 | [“我有ADHD”：一种防止编码人员将答案深埋其中的技巧 / I-have-ADHD: A skill to stop coding agents from burying the answer](https://github.com/ayghri/i-have-adhd) | Hacker News · 24h最热 | AI |
 
-> 共 11 条，以上为 TOP 5。
+> 共 9 条，以上为 TOP 5。
 
 ---
 
@@ -40,11 +40,11 @@
 |---|------|------|------|
 | 1 | [Chrome is now shipping updates every 2 weeks as AI changes the security landscape](https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape) | TechCrunch | AI |
 | 2 | [Mistral raises €3B as sovereign AI becomes big business](https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business) | TechCrunch | AI |
-| 3 | [Celero, which is developing a chip to enable long-distance connections between AI data centers, raised $275M at a $3B+ valuation (Dina Bass/Bloomberg)](https://www.techmeme.com/260908/p22) | Techmeme | AI |
-| 4 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
-| 5 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
+| 3 | [谷歌人工智能天气模型的更新提升了预报准确度 / Update to Google’s AI weather model improves forecast accuracy](https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data) | Ars Technica | AI |
+| 4 | [Meta launches Muse, a personal AI agent that runs on a dedicated VM in Meta's cloud, initially available in the US, with support coming soon for its AI glasses (Ina Fried/Axios)](https://www.techmeme.com/260908/p36) | Techmeme | AI |
+| 5 | [OpenAI launches ChatGPT Images 2.5, which it says cuts image generation latency by up to 50% vs. Images 2.0, and adds a Sketch feature for drawing in ChatGPT (Ina Fried/Axios)](https://www.techmeme.com/260908/p34) | Techmeme | AI |
 
-> 共 58 条，以上为 TOP 5。
+> 共 71 条，以上为 TOP 5。
 
 ---
 
@@ -72,8 +72,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-08T17:36:31.264Z
-- **总资讯数**：4300 条原始 → 586 条筛选后
+- **聚合时间**：2026-09-08T20:22:10.698Z
+- **总资讯数**：4331 条原始 → 614 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
