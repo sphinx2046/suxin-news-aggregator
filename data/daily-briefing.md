@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [2026年，离职潮彻底消失了。。。](https://mp.weixin.qq.com/s/N4CMbYy77X04M7mii3SVPA) | 架构师之路 | 其他 |
-| 2 | [实测星火X2.5，我用摄像头造了5个「超亚比」体感应用](https://mp.weixin.qq.com/s/gFFfnJrw_FJlg-yQ4dc4FA) | 夕小瑶科技说 | 其他 |
-| 3 | [1天通关游戏，1周造城：GPT-6 Astra这7个玩法太上头](https://mp.weixin.qq.com/s/fMgiuZmjxAe0Lg-dEiwEug) | 夕小瑶科技说 | AI |
-| 4 | [70%的项目注定被砍：Anthropic养了一支20人的“失败团队”，项目超..](https://mp.weixin.qq.com/s/4sL6fL7WlkJfkvwdAzcSZQ) | AI前线 | AI |
-| 5 | [从Harness到Loop：Agent 如何走向可靠交付与持续进化？|直播预告](https://mp.weixin.qq.com/s/kd3Jo5oY3LiNPIkdPn9P4Q) | AI前线 | AI |
+| 1 | [四、《从零手撸 Agent》 — 流式输出：接住 AI “一个字一个字” 想出来的过程](https://juejin.cn/post/7681521114217791528) | juejin | AI/认知 |
+| 2 | [刚刚，GPT-6 Astra登顶了！](https://aiera.com.cn/2026/09/09/other/admin/112848/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-6-astra%e7%99%bb%e9%a1%b6%e4%ba%86%ef%bc%81) | 新智元 | AI |
+| 3 | [OpenAI放大招，一句话生成网站革了SaaS的命！](https://aiera.com.cn/2026/09/09/other/admin/112814/openai%e6%94%be%e5%a4%a7%e6%8b%9b%ef%bc%8c%e4%b8%80%e5%8f%a5%e8%af%9d%e7%94%9f%e6%88%90%e7%bd%91%e7%ab%99%e9%9d%a9%e4%ba%86saas%e7%9a%84%e5%91%bd%ef%bc%81) | 新智元 | AI |
+| 4 | [系统综述259项工作：AI创作如何从「会生成」走到「能交付」？](https://aiera.com.cn/2026/09/09/other/admin/112789/%e7%b3%bb%e7%bb%9f%e7%bb%bc%e8%bf%b0259%e9%a1%b9%e5%b7%a5%e4%bd%9c%ef%bc%9aai%e5%88%9b%e4%bd%9c%e5%a6%82%e4%bd%95%e4%bb%8e%e3%80%8c%e4%bc%9a%e7%94%9f%e6%88%90%e3%80%8d%e8%b5%b0%e5%88%b0%e3%80%8c) | 新智元 | AI |
+| 5 | [他让GPT-6管GPT-6，一周搭出曼哈顿！](https://aiera.com.cn/2026/09/09/other/admin/112776/%e4%bb%96%e8%ae%a9gpt-6%e7%ae%a1gpt-6%ef%bc%8c%e4%b8%80%e5%91%a8%e6%90%ad%e5%87%ba%e6%9b%bc%e5%93%88%e9%a1%bf%ef%bc%81) | 新智元 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI时代，O经验如何快速转型AI产品经理？](https://mp.weixin.qq.com/s/3OQiyiriyOTsGjYzmfmbMQ) | 人人都是产品经理 | AI |
-| 2 | [我用腾讯Kuikly，把DeepSeek Harness装进了口袋](https://mp.weixin.qq.com/s/THtcdws01AV_Q3fe2pYRlQ) | 腾讯技术工程 | AI |
-| 3 | [How to use the AI Clean Up tool in iOS 27 to remove unwanted objects in iPhone Photos](https://www.engadget.com/2252838/how-to-use-ios-27-ai-clean-up-tool-iphone-photos) | Engadget | AI |
-| 4 | [LLMs remember your code, not your life: Building a portable personal context layer](https://thenextweb.com/news/llms-remember-code-not-life-portable-context-layer) | The Next Web | AI |
-| 5 | [WorkOS: How to Give an Agent a Task Instead of a Token](https://daringfireball.net/linked/2026/09/06/workos-agent-task) | Daring Fireball | AI |
+| 1 | [How to use the AI Clean Up tool in iOS 27 to remove unwanted objects in iPhone Photos](https://www.engadget.com/2252838/how-to-use-ios-27-ai-clean-up-tool-iphone-photos) | Engadget | AI |
+| 2 | [LLMs remember your code, not your life: Building a portable personal context layer](https://thenextweb.com/news/llms-remember-code-not-life-portable-context-layer) | The Next Web | AI |
+| 3 | [WorkOS: How to Give an Agent a Task Instead of a Token](https://daringfireball.net/linked/2026/09/06/workos-agent-task) | Daring Fireball | AI |
+| 4 | [Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won't be able to control (Amrith Ramkumar/Wall Street Journal)](https://www.techmeme.com/260908/p47) | Techmeme | AI |
+| 5 | [一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）](https://juejin.cn/post/7680471403955191814) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 9 条，以上为 TOP 5。
+> 共 13 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [刚刚，GPT-Image-2.5发布！](https://aiera.com.cn/2026/09/09/other/admin/112709/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-image-2-5%e5%8f%91%e5%b8%83%ef%bc%81) | 新智元 | AI |
-| 2 | [OpenAl发布GPT-6Astra，全球最强，AGI时代开启](https://mp.weixin.qq.com/s/z_XtD7YJ77x5JVrg2jTBAw) | 夕小瑶科技说 | AI |
-| 3 | [4000 万美金新一轮融资，ACE 成为AI音乐赛道融资额最高的华人团队](https://mp.weixin.qq.com/s/JBTQiGutq1Y_fAOvrG_yAQ) | FounderPark | AI |
-| 4 | [从定制研究到订阅服务：甲子智库升级AI产业研究服务体系|甲子光...](https://mp.weixin.qq.com/s/xw2whMls5VOxnfmzYfsHXQ) | 甲子光年 | AI |
-| 5 | [张一鸣亲自跟进，字节的下一张 AI 王牌要来了](https://mp.weixin.qq.com/s/LgOjdyFhZKheGHeIJmE-9Q) | 人人都是产品经理 | AI |
+| 1 | [刚刚，国产2B小钢炮开源！逼近人类水平，跑出端侧通用Agent雏形](https://aiera.com.cn/2026/09/09/other/admin/112763/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%9b%bd%e4%ba%a72b%e5%b0%8f%e9%92%a2%e7%82%ae%e5%bc%80%e6%ba%90%ef%bc%81%e9%80%bc%e8%bf%91%e4%ba%ba%e7%b1%bb%e6%b0%b4%e5%b9%b3%ef%bc%8c%e8%b7%91%e5%87%ba%e7%ab%af%e4%be%a7) | 新智元 | AI |
+| 2 | [北大博士团队杀回来了，要做「游戏界的红果」！AI造梦片场永不加赋](https://aiera.com.cn/2026/09/09/other/admin/112749/%e5%8c%97%e5%a4%a7%e5%8d%9a%e5%a3%ab%e5%9b%a2%e9%98%9f%e6%9d%80%e5%9b%9e%e6%9d%a5%e4%ba%86%ef%bc%8c%e8%a6%81%e5%81%9a%e3%80%8c%e6%b8%b8%e6%88%8f%e7%95%8c%e7%9a%84%e7%ba%a2%e6%9e%9c%e3%80%8d%ef%bc%81ai) | 新智元 | AI |
+| 3 | [刚刚，GPT-Image-2.5发布！](https://aiera.com.cn/2026/09/09/other/admin/112709/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-image-2-5%e5%8f%91%e5%b8%83%ef%bc%81) | 新智元 | AI |
+| 4 | [OpenAl发布GPT-6Astra，全球最强，AGI时代开启](https://mp.weixin.qq.com/s/z_XtD7YJ77x5JVrg2jTBAw) | 夕小瑶科技说 | AI |
+| 5 | [4000 万美金新一轮融资，ACE 成为AI音乐赛道融资额最高的华人团队](https://mp.weixin.qq.com/s/JBTQiGutq1Y_fAOvrG_yAQ) | FounderPark | AI |
 
-> 共 81 条，以上为 TOP 5。
+> 共 86 条，以上为 TOP 5。
 
 ---
 
@@ -53,8 +53,8 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [央视通报博主“电车小飞”用测评拉踩车企，被判赔 10 万](https://www.ithome.com/0/999/916.htm) | IT之家 (ITHome) | IP |
-| 3 | [微信 WeMM-Embedding 已被大规模使用：朋友圈搜索、视频号推荐都在跑，日调用 10 亿次](https://www.aibase.com/news/30895) | AIbase | IP |
+| 2 | [[推广] 注意注意！这不是演习！流量大放送！](https://www.v2ex.com/t/1240556) | V2EX (创意工作者社区) | IP |
+| 3 | [这样的户外博主，太恶心了吧](https://www.huxiu.com/article/4889664.html?f=rss) | 虎嗅 (Huxiu) | IP |
 
 ---
 
@@ -74,8 +74,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-08T23:43:25.562Z
-- **总资讯数**：4356 条原始 → 645 条筛选后
+- **聚合时间**：2026-09-09T01:42:27.431Z
+- **总资讯数**：4384 条原始 → 655 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
