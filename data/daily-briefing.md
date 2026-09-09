@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-09-08（周二）
+# 素心拾穗 · 每日情报 · 2026-09-09（周三）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Nametag](https://www.producthunt.com/products/nametag-ai) | producthunt | 其他 |
-| 2 | [Kopai](https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents) | producthunt | 其他 |
-| 3 | [社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验](https://sspai.com/post/114078) | sspai | AI |
-| 4 | [AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……](https://sspai.com/post/113563) | sspai | AI |
-| 5 | [十年阅读历程，这是我的阅读工具推荐](https://sspai.com/post/113567) | sspai | 认知 |
+| 1 | [2026年，离职潮彻底消失了。。。](https://mp.weixin.qq.com/s/N4CMbYy77X04M7mii3SVPA) | 架构师之路 | 其他 |
+| 2 | [实测星火X2.5，我用摄像头造了5个「超亚比」体感应用](https://mp.weixin.qq.com/s/gFFfnJrw_FJlg-yQ4dc4FA) | 夕小瑶科技说 | 其他 |
+| 3 | [1天通关游戏，1周造城：GPT-6 Astra这7个玩法太上头](https://mp.weixin.qq.com/s/fMgiuZmjxAe0Lg-dEiwEug) | 夕小瑶科技说 | AI |
+| 4 | [70%的项目注定被砍：Anthropic养了一支20人的“失败团队”，项目超..](https://mp.weixin.qq.com/s/4sL6fL7WlkJfkvwdAzcSZQ) | AI前线 | AI |
+| 5 | [从Harness到Loop：Agent 如何走向可靠交付与持续进化？|直播预告](https://mp.weixin.qq.com/s/kd3Jo5oY3LiNPIkdPn9P4Q) | AI前线 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,11 +24,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [LLMs remember your code, not your life: Building a portable personal context layer](https://thenextweb.com/news/llms-remember-code-not-life-portable-context-layer) | The Next Web | AI |
-| 2 | [WorkOS: How to Give an Agent a Task Instead of a Token](https://daringfireball.net/linked/2026/09/06/workos-agent-task) | Daring Fireball | AI |
-| 3 | [一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）](https://juejin.cn/post/7680471403955191814) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [[分享创造] 折腾了好一段时间，升级了 pi2.nvim 插件，为什么我又造了个 subagents 的轮子](https://www.v2ex.com/t/1240516) | V2EX (创意工作者社区) | AI |
-| 5 | [“我有ADHD”：一种防止编码人员将答案深埋其中的技巧 / I-have-ADHD: A skill to stop coding agents from burying the answer](https://github.com/ayghri/i-have-adhd) | Hacker News · 24h最热 | AI |
+| 1 | [AI时代，O经验如何快速转型AI产品经理？](https://mp.weixin.qq.com/s/3OQiyiriyOTsGjYzmfmbMQ) | 人人都是产品经理 | AI |
+| 2 | [我用腾讯Kuikly，把DeepSeek Harness装进了口袋](https://mp.weixin.qq.com/s/THtcdws01AV_Q3fe2pYRlQ) | 腾讯技术工程 | AI |
+| 3 | [How to use the AI Clean Up tool in iOS 27 to remove unwanted objects in iPhone Photos](https://www.engadget.com/2252838/how-to-use-ios-27-ai-clean-up-tool-iphone-photos) | Engadget | AI |
+| 4 | [LLMs remember your code, not your life: Building a portable personal context layer](https://thenextweb.com/news/llms-remember-code-not-life-portable-context-layer) | The Next Web | AI |
+| 5 | [WorkOS: How to Give an Agent a Task Instead of a Token](https://daringfireball.net/linked/2026/09/06/workos-agent-task) | Daring Fireball | AI |
 
 > 共 9 条，以上为 TOP 5。
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Chrome is now shipping updates every 2 weeks as AI changes the security landscape](https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape) | TechCrunch | AI |
-| 2 | [Mistral raises €3B as sovereign AI becomes big business](https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business) | TechCrunch | AI |
-| 3 | [谷歌人工智能天气模型的更新提升了预报准确度 / Update to Google’s AI weather model improves forecast accuracy](https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data) | Ars Technica | AI |
-| 4 | [Meta launches Muse, a personal AI agent that runs on a dedicated VM in Meta's cloud, initially available in the US, with support coming soon for its AI glasses (Ina Fried/Axios)](https://www.techmeme.com/260908/p36) | Techmeme | AI |
-| 5 | [OpenAI launches ChatGPT Images 2.5, which it says cuts image generation latency by up to 50% vs. Images 2.0, and adds a Sketch feature for drawing in ChatGPT (Ina Fried/Axios)](https://www.techmeme.com/260908/p34) | Techmeme | AI |
+| 1 | [刚刚，GPT-Image-2.5发布！](https://aiera.com.cn/2026/09/09/other/admin/112709/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-image-2-5%e5%8f%91%e5%b8%83%ef%bc%81) | 新智元 | AI |
+| 2 | [OpenAl发布GPT-6Astra，全球最强，AGI时代开启](https://mp.weixin.qq.com/s/z_XtD7YJ77x5JVrg2jTBAw) | 夕小瑶科技说 | AI |
+| 3 | [4000 万美金新一轮融资，ACE 成为AI音乐赛道融资额最高的华人团队](https://mp.weixin.qq.com/s/JBTQiGutq1Y_fAOvrG_yAQ) | FounderPark | AI |
+| 4 | [从定制研究到订阅服务：甲子智库升级AI产业研究服务体系|甲子光...](https://mp.weixin.qq.com/s/xw2whMls5VOxnfmzYfsHXQ) | 甲子光年 | AI |
+| 5 | [张一鸣亲自跟进，字节的下一张 AI 王牌要来了](https://mp.weixin.qq.com/s/LgOjdyFhZKheGHeIJmE-9Q) | 人人都是产品经理 | AI |
 
-> 共 71 条，以上为 TOP 5。
+> 共 81 条，以上为 TOP 5。
 
 ---
 
@@ -60,7 +60,9 @@
 
 ## 💰 变现雷达
 
-> 今日无优质信息源，待补充。
+| # | 标题 | 来源 | 分类 |
+|---|------|------|------|
+| 1 | [瑞波联合创始人表示，加利福尼亚州应允许向低收入群体销售中国产电动汽车](https://www.businessinsider.com/ripple-california-chinese-evs-low-income-2026-9) | www.businessinsider.com | 变现 |
 
 ---
 
@@ -72,8 +74,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-08T20:22:10.698Z
-- **总资讯数**：4331 条原始 → 614 条筛选后
+- **聚合时间**：2026-09-08T23:43:25.562Z
+- **总资讯数**：4356 条原始 → 645 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
