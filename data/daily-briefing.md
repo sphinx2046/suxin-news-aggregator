@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [The Waymo effect: how AI is quietly making research less collaborative](https://www.researchagenda.news/articles/the-waymo-effect.html) | Hacker News | AI |
-| 2 | [RTK reports token savings, but our cost benchmarks disagree](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper) | Hacker News | 其他 |
-| 3 | [克劳德不再为未成年人提供服务 / Claude is no longer available for minors](https://support.claude.com/en/articles/15171100-age-assurance-on-claude) | Hacker News | AI |
-| 4 | [Resist "AI"](https://ronjeffries.com/articles/-v026/x/t) | Hacker News | AI |
-| 5 | [GPT‑Live‑1 in the API](https://openai.com/index/introducing-gpt-live-1-in-the-api) | Hacker News | AI |
+| 1 | [泡沫还是长坡厚雪？青年科学家、百亿估值掌门人外滩大会回应具身热点问题](https://aiera.com.cn/asi-post.html?id=113221) | 新智元 | 其他 |
+| 2 | [The AI Takeover Checklist: A Devil's Advocate Audit](https://nochan.net/b/Internet-Crap/20260910-Asked-Claude-For-A-Checklist) | Hacker News | AI |
+| 3 | [Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty) | Hacker News | 其他 |
+| 4 | [Hacker News with reduced priority for AI driven content](https://sprinklz.io/public/pdwt4dve5uai) | Hacker News | AI |
+| 5 | [Show HN: Hacker News，不含人工智能 / Show HN: Hacker News, without AI](https://hcker.news/?ai=exclude) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [LLM Visualizer – Build a Transformer from Scratch](https://jayvisaria.github.io/LLM-Visualizer) | Hacker News | AI |
-| 2 | [Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://slashdot.org/story/26/09/10/2138203/anthropic-says-it-blocked-possible-efforts-to-build-biological-weapons) | Slashdot | AI |
-| 3 | [Baseten buys Blaxel, a startup that builds sandboxes for AI agents](https://thenextweb.com/news/baseten-acquires-blaxel-ai-agent-sandboxes) | The Next Web | AI |
-| 4 | [WorkOS: How to Give an Agent a Task Instead of a Token](https://daringfireball.net/linked/2026/09/06/workos-agent-task) | Daring Fireball | AI |
+| 1 | [Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://slashdot.org/story/26/09/10/2138203/anthropic-says-it-blocked-possible-efforts-to-build-biological-weapons) | Slashdot | AI |
+| 2 | [WorkOS: How to Give an Agent a Task Instead of a Token](https://daringfireball.net/linked/2026/09/06/workos-agent-task) | Daring Fireball | AI |
+| 3 | [Claude用户找到了绕过生物武器研究安全防护措施的方法 / Claude users found ways around safeguards for bioweapons research](https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research) | Ars Technica | AI |
+| 4 | [Threat intelligence report: Anthropic says it disrupted a Yemen-based guided weapons engineering cell using Claude to develop guidance software for missiles (Bloomberg)](https://www.techmeme.com/260911/p16) | Techmeme | AI |
 | 5 | [“O哥”手把手教学，复刻GPT6酷炫动效！](https://juejin.cn/post/7682217734723026982) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 10 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [蚂蚁密算宣布开源可信原生智能体HOP3.0](https://aiera.com.cn/asi-post.html?id=113218) | 新智元 | AI |
-| 2 | [The Gemini app is now available for Windows](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows) | Hacker News | AI |
-| 3 | [HelmGuard raises $7.3m to replace compliance paperwork with AI agents](https://thenextweb.com/news/helmguard-7-3m-seed-ai-compliance-agents) | The Next Web | AI |
-| 4 | [OpenAI launches ChatGPT for Financial Services with data from S&P, LSEG, Moody’s and PitchBook](https://thenextweb.com/news/openai-chatgpt-financial-services-dora-data-residency) | The Next Web | AI |
-| 5 | [TAR raises $120m at a $1bn valuation to build off-grid power for AI](https://thenextweb.com/news/tar-120m-series-a-1bn-spark-capital-off-grid-ai-power) | The Next Web | AI |
+| 1 | [HelmGuard raises $7.3m to replace compliance paperwork with AI agents](https://thenextweb.com/news/helmguard-7-3m-seed-ai-compliance-agents) | The Next Web | AI |
+| 2 | [Sources: Moonshot AI told investors it topped $1B ARR in August, up from $300M in June, driven by its Kimi K3 release; it aims to hit $2B ARR by the end of 2026 (Bloomberg)](https://www.techmeme.com/260911/p11) | Techmeme | AI |
+| 3 | [Ayar Labs, which is developing a way to link AI chips directly with optical connections, raised $150M, an extension of its $500M Series E in March 2026 (Stephen Nellis/Reuters)](https://www.techmeme.com/260911/p9) | Techmeme | AI |
+| 4 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
+| 5 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
 
-> 共 69 条，以上为 TOP 5。
+> 共 65 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [YouTube博主Markiplier将从GoPro的合并中获得1500万美元，但他表示对这笔交易感到失望 - Business Insider](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWhhZjJfbVF1VkFHSFd2ZjZERzFNM3hBQy1YeFJreWVoVFozZjFiZ3JvaTlIWFBnOEpjT2pfQ2xzSlNaWFFKYmFuMDRfZ3VkVVhjZmI2b3NydXhzdjAtVlE1SDBzT2Z0d3JTVnkwa0tnZ21fZjJ1OTlPYndkTHdxb3FCUU9KVTJqY0FtNUFfSFlZVk5nTDhGSkktb0RjQ2NES0dr?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 3 | [添加到播放列表：Grumpy以怪诞风格演绎的乡村音乐，颂扬跨性别者的喜悦，以及本周最佳新曲](https://www.theguardian.com/music/2026/sep/11/add-to-playlist-grumpys-weirded-up-country-celebration-of-trans-joy-and-the-weeks-best-new-tracks) | www.theguardian.com | 回乡 |
-| 4 | [三部门：支持新能源汽车、绿色智能家电下乡，鼓励企业研发符合农村生活需要的智能软硬件产品](https://www.ithome.com/1/001/417.htm) | IT之家 (ITHome) | 回乡 |
-| 5 | [三部门：探索运用高通量卫星、低轨卫星互联网等方式为农村及偏远地区提供多样化网络接入服务](https://www.ithome.com/1/001/414.htm) | IT之家 (ITHome) | 回乡 |
+| 2 | [[生活] 不想上班了，回老家县城躺平是否可行？](https://www.v2ex.com/t/1241455) | V2EX (创意工作者社区) | 回乡 |
+| 3 | [2027 款雷克萨斯 LS 登陆日本老家：全系 3.5L V6 混动，1414 万日元起](https://www.ithome.com/1/001/471.htm) | IT之家 (ITHome) | 回乡 |
+| 4 | [三部门：目标 2030 年农村地区互联网普及率 75%](https://www.ithome.com/1/001/444.htm) | IT之家 (ITHome) | 回乡 |
+| 5 | [三部门：支持新能源汽车、绿色智能家电下乡，鼓励企业研发符合农村生活需要的智能软硬件产品](https://www.ithome.com/1/001/417.htm) | IT之家 (ITHome) | 回乡 |
 
-> 共 9 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -66,13 +66,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [印度国家证券交易所（NSE）首席执行官表示，其他业务的增长可能会抑制周期权收入占比](https://www.reuters.com/world/india/indias-nse-ceo-says-other-business-growth-could-curb-weekly-options-revenue-2026-09-11) | www.reuters.com | 变现 |
-| 2 | [Show HN: Deall——面向F-1/J-1学生的自动化收入证明服务](https://deal-app1.pages.dev/) | deal-app1.pages.dev | 变现 |
+| 1 | [甲骨文云业务收入翻了一番多，利润率缩减](https://www.bloomberg.com/news/articles/2026-09-10/oracle-posts-cloud-sales-that-top-estimates-on-surging-ai-demand) | www.bloomberg.com | 变现 |
+| 2 | [印度Pocket FM的收入运行率翻倍至5亿美元，其中93%的音频内容由人工智能驱动 - TechCrunch](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdmxDVEpES2FaZ2xCR3NXTngwc2R5Y25QR0YxX2NYXzN6V0h0RmNzRk1FRk5VMko3eU9MZ3ZVd2tHREJTZW12Q0w4SWk0YWthTzJ2SXhlYjRJUGt5STFwNkdoOU55N2JOb3czcWgxN19xYldBc0FxbExDYVJCTVltQnNNTjRRcGZqbHdpbElqMmhIcWJuOW9tSU43NjVRZ1lVbHN0YmxKVWQ0MzNING5zbmNwbkg2T0pa?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | AI/变现 |
 | 3 | [[程序员] 独立开发者怎么做竞品调研](https://www.v2ex.com/t/1241425) | V2EX (创意工作者社区) | 变现 |
-| 4 | [优必选机器人收入暴涨14倍，谁能赚到钱？](https://www.huxiu.com/article/4890483.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 5 | [人形机器人IPO风声趋紧：刚敲钟CEO炮轰同行“虚假收入”透支行业](https://mp.weixin.qq.com/s/4DrcsTHMrFHHEcGC0XvCRg) | AI前线 | AI/变现 |
+| 4 | [人形机器人IPO风声趋紧：刚敲钟CEO炮轰同行“虚假收入”透支行业](https://mp.weixin.qq.com/s/4DrcsTHMrFHHEcGC0XvCRg) | AI前线 | AI/变现 |
+| 5 | [中国智驾出海，到了重估商业模式的时刻|甲子光年](https://mp.weixin.qq.com/s/DAm60xKN7ftFOCvIUmOHwA) | 甲子光年 | 变现 |
 
-> 共 8 条，以上为 TOP 5。
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-11T12:22:54.055Z
-- **总资讯数**：4510 条原始 → 659 条筛选后
+- **聚合时间**：2026-09-11T17:21:54.639Z
+- **总资讯数**：4320 条原始 → 623 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
