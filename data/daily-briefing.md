@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [泡沫还是长坡厚雪？青年科学家、百亿估值掌门人外滩大会回应具身热点问题](https://aiera.com.cn/asi-post.html?id=113221) | 新智元 | 其他 |
-| 2 | [easyspecs.ai](https://www.producthunt.com/products/easyspecs-ai) | producthunt | AI |
-| 3 | [Cadenya](https://www.producthunt.com/products/cadenya-the-agent-runtime) | producthunt | 其他 |
-| 4 | [社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验](https://sspai.com/post/114078) | sspai | AI |
-| 5 | [AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……](https://sspai.com/post/113563) | sspai | AI |
+| 1 | [为什么市面上的 coding agent 大多数都基于Nodejs？](https://juejin.cn/post/7683481485497188403) | juejin | AI |
+| 2 | [为什么不推荐走Agent开发？](https://juejin.cn/post/7683457864929329204) | juejin | AI |
+| 3 | [DeepSeek 明天又降价（涵历史价格对比）](https://juejin.cn/post/7683347149876051977) | juejin | AI |
+| 4 | [为什么技术极强的前端，往往当不好前端 Team Leader？](https://juejin.cn/post/7683013257235283987) | juejin | 其他 |
+| 5 | [一个人 + AI 做的小程序，一个月赚了 36 块](https://juejin.cn/post/7683443642279723023) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -28,9 +28,9 @@
 | 2 | [Roblox is making it easier to build games with AI — and play them outside Roblox](https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox) | TechCrunch | AI |
 | 3 | [WorkOS: How to Give an Agent a Task Instead of a Token](https://daringfireball.net/linked/2026/09/06/workos-agent-task) | Daring Fireball | AI |
 | 4 | [Claude用户找到了绕过生物武器研究安全防护措施的方法 / Claude users found ways around safeguards for bioweapons research](https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research) | Ars Technica | AI |
-| 5 | [Threat intelligence report: Anthropic says it disrupted a Yemen-based guided weapons engineering cell using Claude to develop guidance software for missiles (Bloomberg)](https://www.techmeme.com/260911/p16) | Techmeme | AI |
+| 5 | [“O哥”手把手教学，复刻GPT6酷炫动效！](https://juejin.cn/post/7682217734723026982) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 12 条，以上为 TOP 5。
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Sources: Moonshot AI told investors it topped $1B ARR in August, up from $300M in June, driven by its Kimi K3 release; it aims to hit $2B ARR by the end of 2026 (Bloomberg)](https://www.techmeme.com/260911/p11) | Techmeme | AI |
-| 2 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
-| 3 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
-| 4 | [正式开源！美团 LongCat-2.0 同步开放国产卡推理代码](https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html) | 美团技术团队 (Meituan Tech) | AI |
-| 5 | [英伟达震撼开源Harness，AI自己爆改AI](https://www.36kr.com/p/3978268468525825) | 36氪 · 24小时热榜 | AI |
+| 1 | [DeepSeek V4.1 Flash：一次把自家旗舰送走的发布](https://juejin.cn/post/7683722642071470130) | juejin | AI |
+| 2 | [Sources: US Senate negotiators are debating a bill to impose a "duty of care" for AI companies and let the government block the release of models deemed unsafe (Courtney Rozen/Reuters)](https://www.techmeme.com/260911/p31) | Techmeme | AI |
+| 3 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
+| 4 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
+| 5 | [正式开源！美团 LongCat-2.0 同步开放国产卡推理代码](https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html) | 美团技术团队 (Meituan Tech) | AI |
 
-> 共 58 条，以上为 TOP 5。
+> 共 51 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [Roblox 扩展了工具集，以帮助创作者开发和发布游戏](https://www.reuters.com/pt/tecnologia/JPWQKZTMORP2JBEHKWWUQCDVG4-2026-09-11) | www.reuters.com | IP |
-| 3 | [Roblox 扩展了工具，以帮助创作者开发和发布游戏](https://www.reuters.com/technology/roblox-expands-tools-help-creators-build-distribute-games-2026-09-11) | www.reuters.com | IP |
-| 4 | [[生活] 不想上班了，回老家县城躺平是否可行？](https://www.v2ex.com/t/1241455) | V2EX (创意工作者社区) | 回乡 |
-| 5 | [2027 款雷克萨斯 LS 登陆日本老家：全系 3.5L V6 混动，1414 万日元起](https://www.ithome.com/1/001/471.htm) | IT之家 (ITHome) | 回乡 |
+| 2 | [微塑料散落在瑞士农村地区，每年向陆地和水体中增加超过200吨](https://phys.org/news/2026-09-microplastics-fall-rural-switzerland-adding.html) | phys.org | 回乡 |
+| 3 | [[生活] 不想上班了，回老家县城躺平是否可行？](https://www.v2ex.com/t/1241455) | V2EX (创意工作者社区) | 回乡 |
+| 4 | [2027 款雷克萨斯 LS 登陆日本老家：全系 3.5L V6 混动，1414 万日元起](https://www.ithome.com/1/001/471.htm) | IT之家 (ITHome) | 回乡 |
+| 5 | [三部门：目标 2030 年农村地区互联网普及率 75%](https://www.ithome.com/1/001/444.htm) | IT之家 (ITHome) | 回乡 |
 
-> 共 8 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -66,11 +66,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [[程序员] 独立开发者怎么做竞品调研](https://www.v2ex.com/t/1241425) | V2EX (创意工作者社区) | 变现 |
-| 2 | [人形机器人IPO风声趋紧：刚敲钟CEO炮轰同行“虚假收入”透支行业](https://mp.weixin.qq.com/s/4DrcsTHMrFHHEcGC0XvCRg) | AI前线 | AI/变现 |
-| 3 | [中国智驾出海，到了重估商业模式的时刻|甲子光年](https://mp.weixin.qq.com/s/DAm60xKN7ftFOCvIUmOHwA) | 甲子光年 | 变现 |
-| 4 | [收入涨12倍，AI社交正疯狂赚钱：微信也下场了](https://mp.weixin.qq.com/s/ipUKA83HlgHGZmkDoZCHOQ) | 人人都是产品经理 | AI/变现 |
-| 5 | [赚钱是个拼图游戏](https://mp.weixin.qq.com/s/2RKRIo0Q0-UG3gzCTJS8Sw) | caoz的梦呓 | 变现 |
+| 1 | [Chewy股价暴跌，其经常性收入前景再次受到投资者质疑](https://finance.yahoo.com/markets/stocks/articles/chewy-sell-off-puts-recurring-160500044.html) | finance.yahoo.com | 变现 |
+| 2 | [[程序员] 独立开发者怎么做竞品调研](https://www.v2ex.com/t/1241425) | V2EX (创意工作者社区) | 变现 |
+| 3 | [人形机器人IPO风声趋紧：刚敲钟CEO炮轰同行“虚假收入”透支行业](https://mp.weixin.qq.com/s/4DrcsTHMrFHHEcGC0XvCRg) | AI前线 | AI/变现 |
+| 4 | [中国智驾出海，到了重估商业模式的时刻|甲子光年](https://mp.weixin.qq.com/s/DAm60xKN7ftFOCvIUmOHwA) | 甲子光年 | 变现 |
+| 5 | [收入涨12倍，AI社交正疯狂赚钱：微信也下场了](https://mp.weixin.qq.com/s/ipUKA83HlgHGZmkDoZCHOQ) | 人人都是产品经理 | AI/变现 |
 
 ---
 
@@ -82,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-11T20:06:52.753Z
-- **总资讯数**：4318 条原始 → 629 条筛选后
+- **聚合时间**：2026-09-11T23:35:37.173Z
+- **总资讯数**：4264 条原始 → 583 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
