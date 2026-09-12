@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [为什么市面上的 coding agent 大多数都基于Nodejs？](https://juejin.cn/post/7683481485497188403) | juejin | AI |
-| 2 | [为什么不推荐走Agent开发？](https://juejin.cn/post/7683457864929329204) | juejin | AI |
-| 3 | [跟 WebUI 说再见了，最强 DeepSeek 桌面端来了！](https://juejin.cn/post/7683816340574945343) | juejin | AI |
-| 4 | [一个人 + AI 做的小程序，一个月赚了 36 块](https://juejin.cn/post/7683443642279723023) | juejin | AI |
-| 5 | [2025，记住这一年！它是古法编程的最后一年。](https://juejin.cn/post/7683846471338885171) | juejin | 其他 |
+| 1 | [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html) | Hacker News | 其他 |
+| 2 | [英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) | Hacker News | AI |
+| 3 | [I refuse to let SPICE die](https://github.com/nefarius/vd_agent) | Hacker News | 其他 |
+| 4 | [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html) | Hacker News | AI |
+| 5 | [LLMs are real, AI is fake](https://pluralistic.net/2026/09/12/god-in-the-box) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [我用 AI 写完一个需求后才发现，最难的不是 prompt，而是验收](https://juejin.cn/post/7684102772083130422) | juejin | AI |
-| 2 | [用 AI 做短剧出海，赚麻了！（附 Skill 及教程）](https://juejin.cn/post/7684069447021035562) | juejin | AI |
-| 3 | [Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://slashdot.org/story/26/09/10/2138203/anthropic-says-it-blocked-possible-efforts-to-build-biological-weapons) | Slashdot | AI |
-| 4 | [Roblox is making it easier to build games with AI — and play them outside Roblox](https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox) | TechCrunch | AI |
-| 5 | [Claude用户找到了绕过生物武器研究安全防护措施的方法 / Claude users found ways around safeguards for bioweapons research](https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research) | Ars Technica | AI |
+| 1 | [Roblox is making it easier to build games with AI — and play them outside Roblox](https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox) | TechCrunch | AI |
+| 2 | [How to get started with Meta's new AI agent, Muse](https://www.engadget.com/2256577/how-to-get-started-with-meta-s-new-ai-agent-muse) | Engadget | AI |
+| 3 | [Claude用户找到了绕过生物武器研究安全防护措施的方法 / Claude users found ways around safeguards for bioweapons research](https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research) | Ars Technica | AI |
+| 4 | [Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html) | New York Times | AI |
+| 5 | [我用 WorkBuddy 做了一次三巨头年报横向财务分析：从 276 页 PDF 到一张可核验的比较表](https://juejin.cn/post/7683438420874461247) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 16 条，以上为 TOP 5。
+> 共 17 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [DeepSeek V4.1 Flash：一次把自家旗舰送走的发布](https://juejin.cn/post/7683722642071470130) | juejin | AI |
-| 2 | [DeepSeek V4.1 Flash 正式发布！](https://juejin.cn/post/7683784267848122395) | juejin | AI |
-| 3 | [NYC-based Luminary, which develops AI-powered workflow tools for estate planning and wealth transfer management, raised a $22M Series A led by Ten Coves Capital (Davis Janowski/Wealth Management)](https://www.techmeme.com/260912/p1) | Techmeme | AI |
-| 4 | [Sources: US Senate negotiators are debating a bill to impose a "duty of care" for AI companies and let the government block the release of models deemed unsafe (Courtney Rozen/Reuters)](https://www.techmeme.com/260911/p31) | Techmeme | AI |
-| 5 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
+| 1 | [NYC-based Luminary, which develops AI-powered workflow tools for estate planning and wealth transfer management, raised a $22M Series A led by Ten Coves Capital (Davis Janowski/Wealth Management)](https://www.techmeme.com/260912/p1) | Techmeme | AI |
+| 2 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
+| 3 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
+| 4 | [正式开源！美团 LongCat-2.0 同步开放国产卡推理代码](https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html) | 美团技术团队 (Meituan Tech) | AI |
+| 5 | [DeepSeek V4.1 Flash：一次把自家旗舰送走的发布](https://juejin.cn/post/7683722642071470130) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 47 条，以上为 TOP 5。
+> 共 46 条，以上为 TOP 5。
 
 ---
 
@@ -58,7 +58,7 @@
 | 4 | [《生化危机》粉丝们会后悔让扎克·克雷格离开的](https://www.bloomberg.com/opinion/articles/2026-09-12/resident-evil-fans-will-regret-driving-away-zach-cregger) | www.bloomberg.com | IP |
 | 5 | [又发现了一种在安卓系统上导致流量泄露的方式](https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered) | mullvad.net | IP |
 
-> 共 11 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -66,8 +66,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [索尼计划减产实体 PlayStation 光盘，然而独占大作实体版仍能贡献可观收入](https://www.ithome.com/1/001/624.htm) | IT之家 (ITHome) | 变现 |
-| 2 | [素人IP 批量走红：热度易得，变现很难](https://www.huxiu.com/article/4890631.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 1 | [Z世代的职业倦怠可能阻碍收入增长——5个步骤助你重回职业正轨](https://finance.yahoo.com/small-business/articles/gen-z-burnout-could-stall-170028733.html) | finance.yahoo.com | 变现 |
+| 2 | [通胀背景下侵蚀婴儿潮一代退休收入的6大理财误区](https://finance.yahoo.com/healthcare/articles/6-money-missteps-amid-inflation-170027674.html) | finance.yahoo.com | 变现 |
+| 3 | [通货膨胀率再次超过工资增长率，挤压了美国人的收入 - CNBC](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM1NjaklWNlF5eXlpdklfMndpdkhna2lrNFZUWU5ZMTlFYnJ2NWVpMUR6cWQ0VjBMQUJEVzVCTllxbTVYb293eGdXb21iQThWd1FWVzJTVWFxUXczb09CSGZlQjYwRG9sRkVSWjNNSVh6MW90RDZ6anJwdTkxMmhQQWFLUXdoU1FsNEFlTnN6V0ExSk9MZHFOOFEtY3JkNER0WW80TWs1bnBWR1XSAbABQVVfeXFMTVJ3UjFoUXJZRlpVWWw0NlRJTEpTLTI5bW1vV0VNejRSNm1GcU05TE1kb05vUV8wVHB5MzhOUnl3bmxlS2xfNC1zMWZlTlQ0WjQ1ZXkzN1l3bDB1bnRVWFhyalB0ODVpaXN0VXdiVkRSWWhTSFR1ZkFTTWw4MWMzVlhDcGYtVjVFNEJsZUNiODdJVkw2VVJ3Q2ZkRWRaWnZoNldJanQ0ZXVnR0F4Q29aRGY?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
+| 4 | [索尼计划减产实体 PlayStation 光盘，然而独占大作实体版仍能贡献可观收入](https://www.ithome.com/1/001/624.htm) | IT之家 (ITHome) | 变现 |
 
 ---
 
@@ -79,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-12T14:27:08.537Z
-- **总资讯数**：4172 条原始 → 483 条筛选后
+- **聚合时间**：2026-09-12T17:54:30.314Z
+- **总资讯数**：4075 条原始 → 463 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
