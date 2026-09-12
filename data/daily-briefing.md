@@ -58,7 +58,7 @@
 | 4 | [《生化危机》粉丝们会后悔让扎克·克雷格离开的](https://www.bloomberg.com/opinion/articles/2026-09-12/resident-evil-fans-will-regret-driving-away-zach-cregger) | www.bloomberg.com | IP |
 | 5 | [又发现了一种在安卓系统上导致流量泄露的方式](https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered) | mullvad.net | IP |
 
-> 共 8 条，以上为 TOP 5。
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -81,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-12T19:43:25.261Z
-- **总资讯数**：4044 条原始 → 444 条筛选后
+- **聚合时间**：2026-09-12T21:44:06.377Z
+- **总资讯数**：3983 条原始 → 439 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
