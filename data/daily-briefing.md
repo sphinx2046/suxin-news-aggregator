@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All](https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825) | Hacker News | AI |
-| 2 | [谷歌窃取了开源代码，却未注明作者（Artemis/Minitap） / Google stole open source code without crediting the authors (Artemis/Minitap)](https://www.minitap.ai/blog/i-expected-better-from-google) | Hacker News | 其他 |
-| 3 | [Show HN: Graphify C# – 面向编程代理的、与编译器精确一致的“查找用法”功能 / Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents](https://github.com/zachsaw/graphify-csharp) | Hacker News | AI |
-| 4 | [OpenAI的智能体对RubyGems发动了一次未公开的攻击 / OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) | Hacker News | AI |
-| 5 | [Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 1 | [为什么市面上的 coding agent 大多数都基于Nodejs？](https://juejin.cn/post/7683481485497188403) | juejin | AI |
+| 2 | [为什么不推荐走Agent开发？](https://juejin.cn/post/7683457864929329204) | juejin | AI |
+| 3 | [跟 WebUI 说再见了，最强 DeepSeek 桌面端来了！](https://juejin.cn/post/7683816340574945343) | juejin | AI |
+| 4 | [一个人 + AI 做的小程序，一个月赚了 36 块](https://juejin.cn/post/7683443642279723023) | juejin | AI |
+| 5 | [2025，记住这一年！它是古法编程的最后一年。](https://juejin.cn/post/7683846471338885171) | juejin | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,11 +24,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs](https://www.firecrawl.dev/blog/ai-software-factory) | Hacker News | AI |
-| 2 | [Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://slashdot.org/story/26/09/10/2138203/anthropic-says-it-blocked-possible-efforts-to-build-biological-weapons) | Slashdot | AI |
-| 3 | [Roblox is making it easier to build games with AI — and play them outside Roblox](https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox) | TechCrunch | AI |
-| 4 | [Claude用户找到了绕过生物武器研究安全防护措施的方法 / Claude users found ways around safeguards for bioweapons research](https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research) | Ars Technica | AI |
-| 5 | [我用 WorkBuddy 做了一次三巨头年报横向财务分析：从 276 页 PDF 到一张可核验的比较表](https://juejin.cn/post/7683438420874461247) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [我用 AI 写完一个需求后才发现，最难的不是 prompt，而是验收](https://juejin.cn/post/7684102772083130422) | juejin | AI |
+| 2 | [用 AI 做短剧出海，赚麻了！（附 Skill 及教程）](https://juejin.cn/post/7684069447021035562) | juejin | AI |
+| 3 | [Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://slashdot.org/story/26/09/10/2138203/anthropic-says-it-blocked-possible-efforts-to-build-biological-weapons) | Slashdot | AI |
+| 4 | [Roblox is making it easier to build games with AI — and play them outside Roblox](https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox) | TechCrunch | AI |
+| 5 | [Claude用户找到了绕过生物武器研究安全防护措施的方法 / Claude users found ways around safeguards for bioweapons research](https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research) | Ars Technica | AI |
 
 > 共 16 条，以上为 TOP 5。
 
@@ -38,11 +38,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [NYC-based Luminary, which develops AI-powered workflow tools for estate planning and wealth transfer management, raised a $22M Series A led by Ten Coves Capital (Davis Janowski/Wealth Management)](https://www.techmeme.com/260912/p1) | Techmeme | AI |
-| 2 | [Sources: US Senate negotiators are debating a bill to impose a "duty of care" for AI companies and let the government block the release of models deemed unsafe (Courtney Rozen/Reuters)](https://www.techmeme.com/260911/p31) | Techmeme | AI |
-| 3 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
-| 4 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
-| 5 | [正式开源！美团 LongCat-2.0 同步开放国产卡推理代码](https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html) | 美团技术团队 (Meituan Tech) | AI |
+| 1 | [DeepSeek V4.1 Flash：一次把自家旗舰送走的发布](https://juejin.cn/post/7683722642071470130) | juejin | AI |
+| 2 | [DeepSeek V4.1 Flash 正式发布！](https://juejin.cn/post/7683784267848122395) | juejin | AI |
+| 3 | [NYC-based Luminary, which develops AI-powered workflow tools for estate planning and wealth transfer management, raised a $22M Series A led by Ten Coves Capital (Davis Janowski/Wealth Management)](https://www.techmeme.com/260912/p1) | Techmeme | AI |
+| 4 | [Sources: US Senate negotiators are debating a bill to impose a "duty of care" for AI companies and let the government block the release of models deemed unsafe (Courtney Rozen/Reuters)](https://www.techmeme.com/260911/p31) | Techmeme | AI |
+| 5 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
 
 > 共 47 条，以上为 TOP 5。
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [[程序员] 有想做自媒体的同学一起入群交流吗](https://www.v2ex.com/t/1241576) | V2EX (创意工作者社区) | IP |
-| 3 | [小米 18 Fold 及澎程 SUV 热度高涨，王晓雁称部分门店高峰客流量暴涨 400％](https://www.ithome.com/1/001/600.htm) | IT之家 (ITHome) | IP |
-| 4 | [百万粉丝博主涉黑被抓，打假还是假打？](https://www.huxiu.com/article/4890682.html?f=rss) | 虎嗅 (Huxiu) | IP |
-| 5 | [“连线粉丝”讲离奇“真事”被封，法院驳回主播解封申请](https://www.ithome.com/1/001/530.htm) | IT之家 (ITHome) | IP |
+| 2 | [迈克尔·巴里摩尔意外成为TikTok红人，粉丝数接近500万](https://www.theguardian.com/tv-and-radio/2026/sep/12/michael-barrymore-becomes-unlikely-tiktok-star-with-nearly-5m-followers) | www.theguardian.com | IP |
+| 3 | [[程序员] 网站流量监控和 seo 数据分析，选 Plausible 还是 Umami ?](https://www.v2ex.com/t/1241586) | V2EX (创意工作者社区) | IP |
+| 4 | [《生化危机》粉丝们会后悔让扎克·克雷格离开的](https://www.bloomberg.com/opinion/articles/2026-09-12/resident-evil-fans-will-regret-driving-away-zach-cregger) | www.bloomberg.com | IP |
+| 5 | [又发现了一种在安卓系统上导致流量泄露的方式](https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered) | mullvad.net | IP |
 
-> 共 8 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -67,8 +67,7 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [索尼计划减产实体 PlayStation 光盘，然而独占大作实体版仍能贡献可观收入](https://www.ithome.com/1/001/624.htm) | IT之家 (ITHome) | 变现 |
-| 2 | [马斯克 SpaceX 星舰第 14 次飞行定档 9 月 18 日，首次执行商业收入型任务](https://www.ithome.com/1/001/552.htm) | IT之家 (ITHome) | 变现 |
-| 3 | [素人IP 批量走红：热度易得，变现很难](https://www.huxiu.com/article/4890631.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 2 | [素人IP 批量走红：热度易得，变现很难](https://www.huxiu.com/article/4890631.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
 
 ---
 
@@ -80,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-12T11:44:37.879Z
-- **总资讯数**：4167 条原始 → 486 条筛选后
+- **聚合时间**：2026-09-12T14:27:08.537Z
+- **总资讯数**：4172 条原始 → 483 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
