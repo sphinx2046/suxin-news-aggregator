@@ -40,11 +40,11 @@
 |---|------|------|------|
 | 1 | [刚刚，国产世界模型Motus 2发布！灵巧操作开始「自进化」](https://aiera.com.cn/asi-post.html?id=113473) | 新智元 | AI |
 | 2 | [清华发布物理引导的扩散模型，无线信道多尺度预测提升37.19% | TMC&#8217;26](https://aiera.com.cn/asi-post.html?id=113430) | 新智元 | AI |
-| 3 | [Kimi 新模型 K2.8 Preview 全量上线！综合性能逼近K3！](https://mp.weixin.qq.com/s/ykzEP9WdAgQKony03RTuZg) | 夕小瑶科技说 | AI |
-| 4 | [Token？伯克利、MIT联手开源...](https://mp.weixin.qq.com/s/hieVdaZ8Ov6IcyURFQMeVA) | AI前线 | AI |
-| 5 | [世界人工智能开源大赛（GOAI）总决赛70强名单公布](https://mp.weixin.qq.com/s/8oGr-Loym9q7rrFdsRvzMg) | AI前线 | AI |
+| 3 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
+| 4 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
+| 5 | [正式开源！美团 LongCat-2.0 同步开放国产卡推理代码](https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html) | 美团技术团队 (Meituan Tech) | AI |
 
-> 共 63 条，以上为 TOP 5。
+> 共 62 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [2026年多伦多国际电影节：K-pop巨星Lisa在纪录片首映礼上引发粉丝狂热](https://reut.rs/4irLEY5) | reut.rs | IP |
-| 3 | [K-pop巨星Lisa在多伦多国际电影节（TIFF）纪录片首映礼上引发粉丝狂热](https://www.reuters.com/business/media-telecom/k-pop-superstar-lisa-sparks-fan-frenzy-tiff-documentary-premiere-2026-09-12) | www.reuters.com | IP |
-| 4 | [[程序员] 网站流量监控和 seo 数据分析，选 Plausible 还是 Umami ?](https://www.v2ex.com/t/1241586) | V2EX (创意工作者社区) | IP |
+| 2 | [[分享创造] 用 Astra 把家乡的竹林老屋做成一个可以游览的网页](https://www.v2ex.com/t/1241660) | V2EX (创意工作者社区) | 回乡 |
+| 3 | [拯救法国乡村日渐衰微的“心脏”——乡村小酒馆之战](https://www.theguardian.com/news/ng-interactive/2026/sep/13/france-disappearing-bistros-rural-french-village) | www.theguardian.com | 回乡 |
+| 4 | [2026年多伦多国际电影节：K-pop巨星Lisa在纪录片首映礼上引发粉丝狂热](https://reut.rs/4irLEY5) | reut.rs | IP |
 | 5 | [又发现了一种在安卓系统上导致流量泄露的方式](https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered) | mullvad.net | IP |
-
-> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -66,9 +64,8 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [单季 9.06 亿美元服务收入！达芬奇靠 AI 变现](https://www.vbdata.cn/1519094475) | Readhub · AI | AI/变现 |
+| 1 | [我的年收入从173,000美元骤降至一个月仅6美元。但我并不后悔辞职。](https://www.businessinsider.com/quit-six-figure-tech-job-self-employment-career-break-2026-9) | www.businessinsider.com | 变现 |
 | 2 | [把FDE送进企业之后：谁救火，谁背责，谁赚钱?](https://mp.weixin.qq.com/s/Rt7B59FuufngRHfiRuLwxQ) | InfoQ | 变现 |
-| 3 | [通货膨胀率再次超过工资增长率，挤压了美国人的收入 - CNBC](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM1NjaklWNlF5eXlpdklfMndpdkhna2lrNFZUWU5ZMTlFYnJ2NWVpMUR6cWQ0VjBMQUJEVzVCTllxbTVYb293eGdXb21iQThWd1FWVzJTVWFxUXczb09CSGZlQjYwRG9sRkVSWjNNSVh6MW90RDZ6anJwdTkxMmhQQWFLUXdoU1FsNEFlTnN6V0ExSk9MZHFOOFEtY3JkNER0WW80TWs1bnBWR1XSAbABQVVfeXFMTVJ3UjFoUXJZRlpVWWw0NlRJTEpTLTI5bW1vV0VNejRSNm1GcU05TE1kb05vUV8wVHB5MzhOUnl3bmxlS2xfNC1zMWZlTlQ0WjQ1ZXkzN1l3bDB1bnRVWFhyalB0ODVpaXN0VXdiVkRSWWhTSFR1ZkFTTWw4MWMzVlhDcGYtVjVFNEJsZUNiODdJVkw2VVJ3Q2ZkRWRaWnZoNldJanQ0ZXVnR0F4Q29aRGY?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
 
 ---
 
@@ -80,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-13T01:33:00.252Z
-- **总资讯数**：4160 条原始 → 601 条筛选后
+- **聚合时间**：2026-09-13T06:50:36.212Z
+- **总资讯数**：4201 条原始 → 612 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
