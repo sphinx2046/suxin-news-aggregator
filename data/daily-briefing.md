@@ -25,12 +25,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了](https://juejin.cn/post/7684759404726321203) | juejin | AI |
-| 2 | [How to use GPT-6 Astra when it rolls out to you](https://www.engadget.com/2252859/how-to-use-gpt-6-astra-rollout-schedule) | Engadget | AI |
-| 3 | [BRKZ secures $31m to scale AI-enabled building materials procurement](https://thenextweb.com/news/brkz-31m-series-b-saudi-building-materials-ai-pricing) | The Next Web | AI |
-| 4 | [Claude用户找到了绕过生物武器研究安全防护措施的方法 / Claude users found ways around safeguards for bioweapons research](https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research) | Ars Technica | AI |
-| 5 | [Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html) | New York Times | AI |
+| 2 | [我用 WorkBuddy 做了一次三巨头年报横向财务分析：从 276 页 PDF 到一张可核验的比较表](https://juejin.cn/post/7683438420874461247) | 掘金 · 人工智能本周最热 | AI |
+| 3 | [“O哥”手把手教学，复刻GPT6酷炫动效！](https://juejin.cn/post/7682217734723026982) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI](https://www.qbitai.com/2026/09/488832.html) | 量子位 · 每日最新 | AI |
+| 5 | [[分享创造] 做了个 Chrome 侧栏扩展：用 xopc 边读技术文档，边问 AI](https://www.v2ex.com/t/1241991) | V2EX (创意工作者社区) | AI |
 
-> 共 15 条，以上为 TOP 5。
+> 共 9 条，以上为 TOP 5。
 
 ---
 
@@ -39,12 +39,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [Kafka已正式接入AI](https://juejin.cn/post/7684573646439317514) | juejin | AI |
-| 2 | [OpenAI的萨姆·阿尔特曼表示，2026年上市将是不明智之举 / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026) | TechCrunch | AI |
-| 3 | [Z.ai raises $5bn in Hong Kong including $3bn of zero-interest bonds](https://thenextweb.com/news/z-ai-5bn-hong-kong-zero-interest-convertible-bonds) | The Next Web | AI |
-| 4 | [US-Israeli startup Buildots, which uses AI to speed up construction of mega-projects like data centers and chip factories, raised $130M at a near-$1B valuation (Marissa Newman/Bloomberg)](https://www.techmeme.com/260914/p14) | Techmeme | AI |
-| 5 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
+| 2 | [Apple releases iOS 27 with Siri AI overhaul](https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update) | The Verge | AI |
+| 3 | [Siri AI is here as Apple releases iOS 27, macOS Golden Gate and other major OS updates](https://www.engadget.com/2257834/siri-ai-is-here-as-apple-releases-ios-27-macos-golden-gate-and-other-major-os-updates) | Engadget | AI |
+| 4 | [Apple Releases iOS 27 and iPadOS 27 With Siri AI and Liquid Glass Update](https://www.macrumors.com/2026/09/14/apple-releases-ios-27) | Mac Rumors | AI |
+| 5 | [macOS Golden Gate Now Available With Siri AI, Visual Intelligence and More](https://www.macrumors.com/2026/09/14/apple-releases-macos-golden-gate) | Mac Rumors | AI |
 
-> 共 61 条，以上为 TOP 5。
+> 共 69 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [存在缺陷的路由器导致威斯康星大学互联网时间服务器遭受流量洪峰（2003年）](https://pages.cs.wisc.edu/~plonka/netgear-sntp) | pages.cs.wisc.edu | IP |
-| 3 | [[问与答] 大家做自媒体的选题灵感是在哪里找的？](https://www.v2ex.com/t/1241931) | V2EX (创意工作者社区) | IP |
+| 2 | [观点 埃拉·兰利。《Landman》。乡村氛围的转变确有其事。](https://nyti.ms/4A7EVcc) | nyti.ms | 回乡 |
+| 3 | [存在缺陷的路由器导致威斯康星大学互联网时间服务器遭受流量洪峰（2003年）](https://pages.cs.wisc.edu/~plonka/netgear-sntp) | pages.cs.wisc.edu | IP |
 | 4 | [Naoma AI Demo Agent V2 - 将网站流量转化为已预约的、符合条件的会议](https://www.producthunt.com/r/NPQUFAO3PMOWSZ) | www.producthunt.com | AI/IP |
-| 5 | [3万亿农村电商之后，数字乡村还有一道更难的题](https://www.huxiu.com/article/4890938.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
-
-> 共 7 条，以上为 TOP 5。
+| 5 | [百万人追更的「噪音博主」，戳中买房人最深的痛](https://mp.weixin.qq.com/s/s9Py2JcLChNzy9WBoKJVuw) | 36氪 | IP |
 
 ---
 
@@ -67,10 +65,8 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [酷瓜云课堂（网校开源版 ）v2.0.0 发布，知识付费解决方案](https://www.oschina.net/news/502444) | 开源中国 · 热门资讯 | 变现 |
-| 2 | [他64岁时变现了9万美元的公司股票来还清房贷。66岁时，联邦医疗保险（Medicare）对他收取的年费比之前高出两个费率档次，但没人把这两件事联系起来。](https://finance.yahoo.com/healthcare/articles/cashed-90-000-company-stock-133953341.html) | finance.yahoo.com | 变现 |
-| 3 | [[程序员] 自部署模型卖 Token 能赚钱吗？](https://www.v2ex.com/t/1241929) | V2EX (创意工作者社区) | AI/变现 |
-| 4 | [[独立开发者 👨‍💻] 独立开发周记 187：为 iPhone Duo 做好准备](https://www.v2ex.com/t/1241927) | V2EX (创意工作者社区) | 变现 |
-| 5 | [城市更新，必须借力“青春经济”赚钱](https://www.huxiu.com/article/4890866.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 2 | [Show HN: CleverCrow，边处理积压工作边赚钱](https://clevercrow.io/) | clevercrow.io | 变现 |
+| 3 | [“你们用信用卡买了价值26,000美元的垃圾”：拉姆齐对月收入10,000美元的新手父母如是说](https://finance.yahoo.com/markets/articles/bought-26-000-worth-crap-101626038.html) | finance.yahoo.com | 变现 |
 
 ---
 
@@ -82,8 +78,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-14T14:27:51.484Z
-- **总资讯数**：4365 条原始 → 658 条筛选后
+- **聚合时间**：2026-09-14T19:58:33.924Z
+- **总资讯数**：4243 条原始 → 619 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
