@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [突发，Dario提全球AI限速三步计划！奥特曼马斯克第一时间支持](https://aiera.com.cn/asi-post.html?id=113640) | 新智元 | AI |
-| 2 | [GPT-6 Astra一年狂赚1.5万美元！3倍碾压Claude](https://aiera.com.cn/asi-post.html?id=113626) | 新智元 | AI |
-| 3 | [GPT-6 Astra开放Plus！20美元只能拿它干活，不能聊天](https://aiera.com.cn/asi-post.html?id=113587) | 新智元 | AI |
-| 4 | [全网震撼！菲奖得主未解难题，竟被两名高中生用AI攻破了](https://aiera.com.cn/asi-post.html?id=113577) | 新智元 | AI |
-| 5 | [AI能解千禧难题，也能杀死人类？华尔街日报拉响末日警报](https://aiera.com.cn/asi-post.html?id=113531) | 新智元 | AI |
+| 1 | [从Anthropic报告看政企AI落地的数据安全挑战，永信至诚以「原生安全」构建数据「反萃取」防线](https://aiera.com.cn/asi-post.html?id=113645) | 新智元 | AI |
+| 2 | [突发，Dario提全球AI限速三步计划！奥特曼马斯克第一时间支持](https://aiera.com.cn/asi-post.html?id=113640) | 新智元 | AI |
+| 3 | [GPT-6 Astra一年狂赚1.5万美元！3倍碾压Claude](https://aiera.com.cn/asi-post.html?id=113626) | 新智元 | AI |
+| 4 | [GPT-6 Astra开放Plus！20美元只能拿它干活，不能聊天](https://aiera.com.cn/asi-post.html?id=113587) | 新智元 | AI |
+| 5 | [全网震撼！菲奖得主未解难题，竟被两名高中生用AI攻破了](https://aiera.com.cn/asi-post.html?id=113577) | 新智元 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [用 AI 做短剧出海，赚麻了！（附 Skill 及教程）](https://juejin.cn/post/7684069447021035562) | juejin | AI |
-| 2 | [我用 AI 写完一个需求后才发现，最难的不是 prompt，而是验收](https://juejin.cn/post/7684102772083130422) | juejin | AI |
-| 3 | [为什么现在 AI 这么发达了，还要坚持手搓教程？](https://juejin.cn/post/7684049880511676468) | juejin | AI |
-| 4 | [AI 前端落地实战：SSE 流式输出、断点续传、打字机渲染](https://juejin.cn/post/7684068584670134318) | juejin | AI/认知 |
-| 5 | [DeepSeek Harness 踩坑指南（基于大模型网关）](https://juejin.cn/post/7683816340574502975) | juejin | AI |
+| 1 | [How to use GPT-6 Astra when it rolls out to you](https://www.engadget.com/2252859/how-to-use-gpt-6-astra-rollout-schedule) | Engadget | AI |
+| 2 | [Claude用户找到了绕过生物武器研究安全防护措施的方法 / Claude users found ways around safeguards for bioweapons research](https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research) | Ars Technica | AI |
+| 3 | [Meta enlists tiny Korean startup to build 'one-chip-like datacenter' — CXL architecture introduced by Facebook's parent company and Panmnesia can handle almost 1000 AI GPUs per domain](https://www.techradar.com/pro/meta-enlists-tiny-korean-startup-to-build-one-chip-like-datacenter-cxl-architecture-introduced-by-facebooks-parent-company-and-panmnesia-can-handle-almost-1000-ai-gpus-per-domain) | TechRadar | AI |
+| 4 | [Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html) | New York Times | AI |
+| 5 | [我用 WorkBuddy 做了一次三巨头年报横向财务分析：从 276 页 PDF 到一张可核验的比较表](https://juejin.cn/post/7683438420874461247) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 16 条，以上为 TOP 5。
+> 共 22 条，以上为 TOP 5。
 
 ---
 
@@ -39,10 +39,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [突发，OpenAI今年不上市了！](https://aiera.com.cn/asi-post.html?id=113611) | 新智元 | AI |
-| 2 | [月之暗面：网传创始人及员工信息系恶意造谣；OpenAl 放弃今年上市...](https://mp.weixin.qq.com/s/lGvA6GG4ZRpz_gbJlHGYgw) | AI前线 | AI |
-| 3 | [RTX 4060跑 35B模型，每秒39Token？伯克利、MIT联手开源...](https://mp.weixin.qq.com/s/hieVdaZ8Ov6IcyURFQMeVA) | AI前线 | AI |
-| 4 | [DeepSeek V4.1 Flash 正式发布！](https://juejin.cn/post/7683784267848122395) | juejin | AI |
-| 5 | [Kafka已正式接入AI](https://juejin.cn/post/7684573646439317514) | juejin | AI |
+| 2 | [Due to concerns about malicious applications, GPT2 will not be released (2019)](https://openai.com/index/better-language-models) | Hacker News | AI |
+| 3 | [OpenAI的萨姆·阿尔特曼表示，2026年上市将是不明智之举 / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026) | TechCrunch | AI |
+| 4 | [Z.ai raises $5bn in Hong Kong including $3bn of zero-interest bonds](https://thenextweb.com/news/z-ai-5bn-hong-kong-zero-interest-convertible-bonds) | The Next Web | AI |
+| 5 | [Google solved Android's update mess, then created a new AI fragmentation problem](https://www.androidpolice.com/androids-new-ai-fragmentation-problem) | Android Police | AI |
 
 > 共 61 条，以上为 TOP 5。
 
@@ -53,10 +53,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [[程序员] 看了一位 v 站博主的 OpenAI 模型降智测试，于是也测测自己用的客户端模型是否被降智](https://www.v2ex.com/t/1241763) | V2EX (创意工作者社区) | AI/IP |
-| 3 | [[推广] 🎁新的一周 住宅 IP 送福利！流量免费领](https://www.v2ex.com/t/1241761) | V2EX (创意工作者社区) | IP |
-| 4 | [索尼 SIE 出手，叫停粉丝自制《最后生还者 2》多人游戏 MOD](https://www.ithome.com/1/001/895.htm) | IT之家 (ITHome) | IP |
-| 5 | [百万人追更的「噪音博主」，戳中买房人最深的痛](https://mp.weixin.qq.com/s/s9Py2JcLChNzy9WBoKJVuw) | 36氪 | IP |
+| 2 | [[推广] 周一周一， Zooproxy 免费送流量+IP](https://www.v2ex.com/t/1241869) | V2EX (创意工作者社区) | IP |
+| 3 | [[程序员] 第一次做出海产品，上线 3 个多月几乎没流量，有点迷茫了。](https://www.v2ex.com/t/1241853) | V2EX (创意工作者社区) | IP |
+| 4 | [3万亿农村电商之后，数字乡村还有一道更难的题](https://www.huxiu.com/article/4890938.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 5 | [给老人“修”没坏的手机，大爷大妈还抢着给博主塞钱？](https://www.huxiu.com/article/4890926.html?f=rss) | 虎嗅 (Huxiu) | IP |
 
 > 共 7 条，以上为 TOP 5。
 
@@ -66,9 +66,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [我只有1,300美元，但想通过期权开始赚钱。这是现实的，还是在自寻死路？](https://finance.yahoo.com/markets/options/articles/only-1-300-want-start-141858241.html) | finance.yahoo.com | 变现 |
-| 2 | [城市更新，必须借力“青春经济”赚钱](https://www.huxiu.com/article/4890866.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 3 | [Ask HN: 大型语言模型（LLM）是否已经展现出自主赚钱的能力？](https://news.ycombinator.com/item?id=49686365) | news.ycombinator.com | AI/变现 |
+| 1 | [酷瓜云课堂（网校开源版 ）v2.0.0 发布，知识付费解决方案](https://www.oschina.net/news/502444) | 开源中国 · 热门资讯 | 变现 |
+| 2 | [如何在将IRMAA风险降至最低的同时，实现每月7,900美元的股息收入](https://finance.yahoo.com/markets/stocks/articles/build-7-900-month-dividend-203138885.html) | finance.yahoo.com | 变现 |
+| 3 | [如何通过股息实现每月7,600美元的收入](https://finance.yahoo.com/markets/stocks/articles/build-7-600-monthly-paycheck-202734416.html) | finance.yahoo.com | 变现 |
+| 4 | [城市更新，必须借力“青春经济”赚钱](https://www.huxiu.com/article/4890866.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
 
 ---
 
@@ -80,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-14T01:51:14.378Z
-- **总资讯数**：4175 条原始 → 597 条筛选后
+- **聚合时间**：2026-09-14T07:14:52.949Z
+- **总资讯数**：4284 条原始 → 643 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
