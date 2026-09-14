@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [iPhone Duo 适配详解，需要改变的不止是布局模型](https://juejin.cn/post/7684204098858106886) | juejin | AI |
-| 2 | [DeepSeek 官方仓库惊现 DeepSeek Harness 桌面端！](https://juejin.cn/post/7685188623412133898) | juejin | AI |
-| 3 | [Kotlin 2026：裁员、AI、Rust——黄金时代结束了吗？Jake Wharton 为你解答](https://juejin.cn/post/7684573646438301706) | juejin | AI |
-| 4 | [代码80%是AI写的，这家AI公司呼吁暂停AI开发](https://juejin.cn/post/7684228650583375878) | juejin | AI |
-| 5 | [DeepSeek 这波操作很凶](https://juejin.cn/post/7684154085232017443) | juejin | AI |
+| 1 | [架构图都让AI画了，架构师还能干什么？(1/100)](https://mp.weixin.qq.com/s/kv1rV-_bJlBKl9vPDvqlPQ) | 架构师之路 | AI |
+| 2 | [实测5款国产世界模型，看清「生成世界」走到了哪一步](https://mp.weixin.qq.com/s/j6-GQA3P0iW4jxPSQovFxQ) | 夕小瑶科技说 | AI |
+| 3 | [Dario高喊Al 刹车，Altman、马斯克罕见同队支持！杨立昆翻旧账：7...](https://mp.weixin.qq.com/s/xtrIaXtLDCkHFDsN5iAwjg) | AI前线 | AI |
+| 4 | [模型一模一样，Token 却相差 70 倍?三项实测揭开AI编程工具的成本黑洞](https://mp.weixin.qq.com/s/SS1oXvOdVaT3QPORdLtSAg) | AI前线 | AI |
+| 5 | [北交所五年成长路|《财经》特稿](https://mp.weixin.qq.com/s/IgnakKoi4PvMLcCLJESrKw) | 财经杂志 | 认知 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,11 +24,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了](https://juejin.cn/post/7684759404726321203) | juejin | AI |
-| 2 | [我用 WorkBuddy 做了一次三巨头年报横向财务分析：从 276 页 PDF 到一张可核验的比较表](https://juejin.cn/post/7683438420874461247) | 掘金 · 人工智能本周最热 | AI |
-| 3 | [“O哥”手把手教学，复刻GPT6酷炫动效！](https://juejin.cn/post/7682217734723026982) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI](https://www.qbitai.com/2026/09/488832.html) | 量子位 · 每日最新 | AI |
-| 5 | [[分享创造] 做了个 Chrome 侧栏扩展：用 xopc 边读技术文档，边问 AI](https://www.v2ex.com/t/1241991) | V2EX (创意工作者社区) | AI |
+| 1 | [请收下，看了就会的9个AI办公技巧](https://mp.weixin.qq.com/s/mMYCBUwvXLyu5cTpRS2NMg) | 刘润 | AI |
+| 2 | [AI开始改进“改进自己的方法”，RSI进入平方时代MetaRSI](https://mp.weixin.qq.com/s/aIUj7U5glkSz5yEXQtscGw) | 量子位 | AI |
+| 3 | [从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了](https://juejin.cn/post/7684759404726321203) | juejin | AI |
+| 4 | [我用 WorkBuddy 做了一次三巨头年报横向财务分析：从 276 页 PDF 到一张可核验的比较表](https://juejin.cn/post/7683438420874461247) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [“O哥”手把手教学，复刻GPT6酷炫动效！](https://juejin.cn/post/7682217734723026982) | 掘金 · 人工智能本周最热 | AI |
 
 > 共 9 条，以上为 TOP 5。
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Kafka已正式接入AI](https://juejin.cn/post/7684573646439317514) | juejin | AI |
-| 2 | [Apple releases iOS 27 with Siri AI overhaul](https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update) | The Verge | AI |
-| 3 | [Siri AI is here as Apple releases iOS 27, macOS Golden Gate and other major OS updates](https://www.engadget.com/2257834/siri-ai-is-here-as-apple-releases-ios-27-macos-golden-gate-and-other-major-os-updates) | Engadget | AI |
-| 4 | [Apple Releases iOS 27 and iPadOS 27 With Siri AI and Liquid Glass Update](https://www.macrumors.com/2026/09/14/apple-releases-ios-27) | Mac Rumors | AI |
-| 5 | [macOS Golden Gate Now Available With Siri AI, Visual Intelligence and More](https://www.macrumors.com/2026/09/14/apple-releases-macos-golden-gate) | Mac Rumors | AI |
+| 1 | [RTX 4060跑35B 模型，每秒39Token？伯克利、MIT联手开源...](https://mp.weixin.qq.com/s/hieVdaZ8Ov6IcyURFQMeVA) | AI前线 | AI |
+| 2 | [4000 万美金新一轮融资，ACE 成为AI音乐赛道融资额最高的华人团队](https://mp.weixin.qq.com/s/JBTQiGutq1Y_fAOvrG_yAQ) | FounderPark | AI |
+| 3 | [B端产品AI升级：存量报表和预警功能的智能改造经验](https://mp.weixin.qq.com/s/ZP_Zch2_IRK840SUu17P1w) | 人人都是产品经理 | AI |
+| 4 | [Anthropic被曝选定纳斯达克上市；广汽集团回应紧急停牌|科股快报](https://mp.weixin.qq.com/s/Ovo9uA25M0C6352EMnirfA) | 钛媒体 | AI |
+| 5 | [机器人开始自进化，Motus2 世界模型来了！](https://mp.weixin.qq.com/s/UsDMH9yGu3GCLw72nLZy9A) | GitHubDaily | AI |
 
-> 共 69 条，以上为 TOP 5。
+> 共 68 条，以上为 TOP 5。
 
 ---
 
@@ -52,11 +52,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [观点 埃拉·兰利。《Landman》。乡村氛围的转变确有其事。](https://nyti.ms/4A7EVcc) | nyti.ms | 回乡 |
-| 3 | [存在缺陷的路由器导致威斯康星大学互联网时间服务器遭受流量洪峰（2003年）](https://pages.cs.wisc.edu/~plonka/netgear-sntp) | pages.cs.wisc.edu | IP |
-| 4 | [Naoma AI Demo Agent V2 - 将网站流量转化为已预约的、符合条件的会议](https://www.producthunt.com/r/NPQUFAO3PMOWSZ) | www.producthunt.com | AI/IP |
-| 5 | [百万人追更的「噪音博主」，戳中买房人最深的痛](https://mp.weixin.qq.com/s/s9Py2JcLChNzy9WBoKJVuw) | 36氪 | IP |
+| 1 | [我戒得了烟却戒不掉短视频](https://mp.weixin.qq.com/s/iVZvladmQxBYudqM1fl7aA) | keso怎么看 | IP |
+| 2 | [从「流量依赖」到「信任复利」，跨境电商的下一个增长公式是什么...](https://mp.weixin.qq.com/s/cqBilEVVNf_A6M_YS4tU6A) | 36氪 | IP |
+| 3 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 4 | [观点 埃拉·兰利。《Landman》。乡村氛围的转变确有其事。](https://nyti.ms/4A7EVcc) | nyti.ms | 回乡 |
+| 5 | [Naoma AI Demo Agent V2 - 将网站流量转化为已预约的、符合条件的会议](https://www.producthunt.com/r/NPQUFAO3PMOWSZ) | www.producthunt.com | AI/IP |
 
 ---
 
@@ -65,8 +65,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [酷瓜云课堂（网校开源版 ）v2.0.0 发布，知识付费解决方案](https://www.oschina.net/news/502444) | 开源中国 · 热门资讯 | 变现 |
-| 2 | [Show HN: CleverCrow，边处理积压工作边赚钱](https://clevercrow.io/) | clevercrow.io | 变现 |
-| 3 | [“你们用信用卡买了价值26,000美元的垃圾”：拉姆齐对月收入10,000美元的新手父母如是说](https://finance.yahoo.com/markets/articles/bought-26-000-worth-crap-101626038.html) | finance.yahoo.com | 变现 |
+| 2 | [别再纠结于唐纳德·特朗普总统那5,000美元的股息承诺了。投资者现在就可以通过这3只收益率在3.3%至5.5%之间的优质股息股，开始获得被动收入。](https://finance.yahoo.com/markets/stocks/articles/forget-president-donald-trumps-5-133501470.html) | finance.yahoo.com | 变现 |
+| 3 | [当美国国税局（IRS）无法从这些收入中分得一分钱时，这两只公用事业股的股息看起来要好得多](https://finance.yahoo.com/markets/stocks/articles/2-utility-dividends-look-much-124521852.html) | finance.yahoo.com | 变现 |
+| 4 | [即使10年期国债收益率已升至20个月高点，我9月份仍更倾向于买入这只标普500指数成分股来获取被动收入。](https://finance.yahoo.com/markets/stocks/articles/even-10-treasury-yields-20-123500321.html) | finance.yahoo.com | 变现 |
+| 5 | [Show HN: CleverCrow，边处理积压工作边赚钱](https://clevercrow.io/) | clevercrow.io | 变现 |
 
 ---
 
@@ -78,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-14T19:58:33.924Z
-- **总资讯数**：4243 条原始 → 619 条筛选后
+- **聚合时间**：2026-09-14T22:54:58.272Z
+- **总资讯数**：4273 条原始 → 663 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
