@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-09-15（周二）
+# 素心拾穗 · 每日情报 · 2026-09-16（周三）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI时代，究竟怎么做架构设计?(2/100)](https://mp.weixin.qq.com/s/pHZCyEVIQeNnBeNnr_QPdg) | 架构师之路 | AI |
-| 2 | [马斯克两天4次发声，呼吁放缓AI发展速度](https://mp.weixin.qq.com/s/ARf1U_nfdUk02GbboRV_gQ) | 夕小瑶科技说 | AI |
-| 3 | [129亿美元卖身英伟达之后，是时候重新理解 Hugging Face了](https://mp.weixin.qq.com/s/9h4QywUaEqNKi-BFZyhByw) | AI前线 | AI |
-| 4 | [刚写完V41主算子就要“转业”？DeepSeek资深工程师深夜独白](https://mp.weixin.qq.com/s/xd2JDc4-GmFtqlNGrY1MqQ) | AI前线 | AI |
-| 5 | [如何在人工智能时代开展严谨且可持续的人工审核](https://mp.weixin.qq.com/s/3z0m1bOVkWB-MHV69RgmqA) | AI前线 | AI |
+| 1 | [突发！英伟达「封杀」Claude最强模型](https://aiera.com.cn/asi-post.html?id=113929) | 新智元 | AI |
+| 2 | [OpenAI押注RSI，国产AI火速交卷！Flash叫板万亿大模型](https://aiera.com.cn/asi-post.html?id=113886) | 新智元 | AI |
+| 3 | [Claude独立破译370年前密文！仅44分钟，密码学家破防了](https://aiera.com.cn/asi-post.html?id=113860) | 新智元 | AI |
+| 4 | [刚刚，最强Agent工作平台亮相！飞书、豆包工作合体](https://aiera.com.cn/asi-post.html?id=113832) | 新智元 | AI |
+| 5 | [OpenAI o1功臣预警：AI还没失控，我们已经快测不准它了！](https://aiera.com.cn/asi-post.html?id=113798) | 新智元 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [9个月，不足百人参与，OpenAl如何用自己的AI造出首款芯片](https://mp.weixin.qq.com/s/mczy971it-uHfpe9TcHQ9A) | DeepTech深科技 | AI |
-| 2 | [Former TikTok execs built an app that uses AI to teach you how to pose for a photo](https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo) | TechCrunch | AI |
-| 3 | [Europe must build its own AI or risk being cut off, says ECB’s Lagarde](https://thenextweb.com/news/lagarde-ecb-europe-sovereign-ai-cut-off-risk-data-centres) | The Next Web | AI |
-| 4 | [Reminder: iOS 27's All-New Siri AI Has a Waitlist, Here's How to Sign Up](https://www.macrumors.com/2026/09/15/ios-27-siri-ai-has-waitlist-how-to-join) | Mac Rumors | AI |
-| 5 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | 少数派 · 热门文章 | AI |
+| 1 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | sspai | AI |
+| 2 | [Europe must build its own AI or risk being cut off, says ECB’s Lagarde](https://thenextweb.com/news/lagarde-ecb-europe-sovereign-ai-cut-off-risk-data-centres) | The Next Web | AI |
+| 3 | [Reminder: iOS 27's All-New Siri AI Has a Waitlist, Here's How to Sign Up](https://www.macrumors.com/2026/09/15/ios-27-siri-ai-has-waitlist-how-to-join) | Mac Rumors | AI |
+| 4 | [我用 WorkBuddy 做了一次三巨头年报横向财务分析：从 276 页 PDF 到一张可核验的比较表](https://juejin.cn/post/7683438420874461247) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了](https://juejin.cn/post/7684759404726321203) | juejin | AI |
 
-> 共 16 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -39,12 +39,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [致AI，抵达未来ⅠGTLC上海站，来了！](https://mp.weixin.qq.com/s/Ge3afrgF-IMVb1d8y0DOkA) | AI前线 | AI |
-| 2 | [云知声发布U2-Flash，要争“大模型主力位”一甲子光年](https://mp.weixin.qq.com/s/0pnViok_4r-l-W4C36Jvhw) | 甲子光年 | AI |
-| 3 | [一个快被遗忘的入口，突然被AI大厂抢疯了](https://mp.weixin.qq.com/s/YDFxdYrkf8ShrN89z37owg) | 人人都是产品经理 | AI |
-| 4 | [Anthropic 被曝选定纳斯达克上市；广汽集团回应紧急停牌|科股快报](https://mp.weixin.qq.com/s/Ovo9uA25M0C6352EMnirfA) | 钛媒体 | AI |
-| 5 | [短短5个月，暴涨3.3 万Star，清华开源的这个AI教育神器火了！](https://mp.weixin.qq.com/s/GPBYiJCjMrYD2nRNQhzVHg) | GitHubDaily | AI |
+| 2 | [Apple releases iOS 27 and Siri AI, but you’ll have to join a waitlist](https://thenextweb.com/news/apple-ios-27-siri-ai-release-icloud-plus-child-safety) | The Next Web | AI |
+| 3 | [Temporal raises $550m at $12.55bn to keep AI agents from failing](https://thenextweb.com/news/temporal-550m-series-e-12-55bn-valuation-lightspeed) | The Next Web | AI |
+| 4 | [Sources: Meta plans to release a camera-free pair of smart glasses this fall; the new model has six mics to let users speak with Meta's AI chatbot and Muse (Jyoti Mann/The Information)](https://www.techmeme.com/260915/p52) | Techmeme | AI |
+| 5 | [TypeSafe AI, which is developing a model that outputs numerical responses with probability estimates to help businesses assess reliability, raised a $40M seed (Rashi Shrivastava/Forbes)](https://www.techmeme.com/260915/p51) | Techmeme | AI |
 
-> 共 67 条，以上为 TOP 5。
+> 共 64 条，以上为 TOP 5。
 
 ---
 
@@ -53,8 +53,8 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [城市与乡村紧密相连——绿色举措必须认识到这一点](https://www.nature.com/articles/d41586-026-02853-2) | www.nature.com | 回乡 |
-| 3 | [我戒得了烟却戒不掉短视频](https://mp.weixin.qq.com/s/iVZvladmQxBYudqM1fl7aA) | keso怎么看 | IP |
+| 2 | [拒绝和主办方一起坑粉丝的Coser，却成了行业天花板？](https://www.huxiu.com/article/4891474.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 3 | [城市与乡村紧密相连——绿色举措必须认识到这一点](https://www.nature.com/articles/d41586-026-02853-2) | www.nature.com | 回乡 |
 
 ---
 
@@ -62,10 +62,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [美国家庭收入创下58年来新高。以下群体增幅最大 - The Hill](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT204c0gtSXl2TndCTzZQZFRwMl9YWmtuOTVTOUNSWE5IQ2xqcGJFQ3FPX2ZCOXBzemJiY2lOcnE4Y0NBb2pKRFYwT2ZXQzNhRnQwQm5Pc1pIYnVQdk1BOTlyWUxRdjNjUGtJQ2t6ZHMyeWtiVGRvdGFKYk9qRGw2eFZWOHB2cVVJdk9mc0xudWxhaFNCUWRDUk9qblZoZ0dEUndHTVlyTUphckpiWkgwZG43N3hOUXZ3cnhsWUxFOVpxQUJBcGQ5RXE3OGY2cEtq0gHWAUFVX3lxTE1GM0ZtbXgxUEtZZzA4bmFCeldPQ05SVmF2Z3o0U0FMQy1iRzhjNi1KZGxyTWVzSk1UVktuLUZyazB2WEdaMUhiQUFJZTRJYnRwUmxrQnN6NG0xRnotNUJEWF9XV1o0RW5zOENfMjFRRmlNTk5mYUQxWnpRSVUxYksxZzdwVV9GRktsRWJCRkE5Q0M1UU5vbDh1djdhMWF1a1l3dWEtWTFULXlvQ1g0Y18tODFURU9WdlF6ODA2N3RiUXJ2NkI5MlRlalluZmpyYnNBRXhUcWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
-| 2 | [美国家庭收入首次超过疫情前水平，而美国民众正饱受通胀之苦——ABC新闻——突发新闻、最新新闻及视频](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWNKbEJUOTBrTWRsRzM5dmNCLXFiMUFHcS1CRTZKbDE1c0NJYzFEcVRxTmZDbWU4SU52UHhxTVBnNW45MnNHSUdUWi1rbzE5bHAxNFpQLVBUbDg3YXBTaG51YUstUUkzZElnem95a3pUeFJtbTVZVzE3S0lYbzBsaklicHZkZlZwUnU1bW1OZmhZR0F3QWkyNzBMSGLSAaIBQVVfeXFMTTBsWFNKbkcwY29TSlJBYlJGSGs2dVRUR1h6bEU4U19jZnk4THhPYm0wcTNaaUx3WjdHMGV4WHJzcHNoQkwxNHpiRl9UdVRYMDg5ZzRYRmhydjhnNWJYNXRkdjY4X2R2d0FaS19JQXhTZDRvVWFLNVNWS082eEtLQTRqNktCQk5SalJaX21YRThEeTVBSHZWVnBzOHlIV1N2X0t3?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
-| 3 | [随着女性地位的提升，去年美国人均收入创下历史新高 - WSJ](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUHc1UFkxMmxzcl91ZzFON3lodjFhMkdHNkxWMXR0eFVxTDBmOFZVSVBwRkRndXlwR0RRLWtXVUg5Ukt3aWxfN2wyVU5xLUxEbU5WUlVBTGVQaEUtVU1sZF9JU3hydEN0Z0p3d0I0eDVBNUF4Q1dXUE9aY25WMlJtQWJrMWpOSFZfYzk4MDI1VTJEaVhOeEthaUZLMUpRbjFUUGdwUmROa0NHcmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
-| 4 | [博通 CEO 陈福阳回应 AI 放缓担忧：算力需求仍强劲，长期收入目标不变](https://www.ithome.com/1/002/767.htm) | IT之家 (ITHome) | AI/变现 |
+| 1 | [字节跳动上半年营收增30%、净利率降至16.7%：AI投入拖累利润，海外收入占比再创新高](https://www.aibase.com/zh/news/31067) | Readhub · AI | AI/变现 |
+| 2 | [美国人口普查局称，2025年美国人收入增加，贫困率下降 - CNBC](https://news.google.com/rss/articles/CBMigwFBVV95cUxQQUhRY1dodmU0cERYQk9zWHY2RUFSRF9HTWRMOTVXcFp4ekFnRmRDeEg1RFUxRlFrTDJZRUhhT0FpVHhIbTFESUFld1l2VVlSbEVfb0N2LVJaWXl4QnpuOGs0Y2Z0eHY1RjFRZEM1aUh3X2g3U3d6SXJNNElTUkxuYlZkWdIBiAFBVV95cUxOTVczajF0dXlzZ1czM1podGd4MFd1T25NbW45TW5ZQ2JaSmd5U0Y0QnZjRzZjM2xjZUNWU0FLMV9zZ084QU9MMW5FSXQydEdQNUlONE9hUTBnMFhkWUZ4OHZsdG9xRkFQRG94VXZFVEo5QWlEOEZ4NjZDbGlwVERJck82OXFkYlM5?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
+| 3 | [[商业模式] 80 亿美金货车企业 Palantir FDE 破局项目分享](https://www.v2ex.com/t/1242275) | V2EX (创意工作者社区) | 变现 |
 
 ---
 
@@ -77,8 +76,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-15T22:28:50.169Z
-- **总资讯数**：4292 条原始 → 637 条筛选后
+- **聚合时间**：2026-09-16T01:51:17.712Z
+- **总资讯数**：4371 条原始 → 652 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
