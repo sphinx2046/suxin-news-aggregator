@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | sspai | AI |
-| 2 | [Europe must build its own AI or risk being cut off, says ECB’s Lagarde](https://thenextweb.com/news/lagarde-ecb-europe-sovereign-ai-cut-off-risk-data-centres) | The Next Web | AI |
-| 3 | [Reminder: iOS 27's All-New Siri AI Has a Waitlist, Here's How to Sign Up](https://www.macrumors.com/2026/09/15/ios-27-siri-ai-has-waitlist-how-to-join) | Mac Rumors | AI |
-| 4 | [我用 WorkBuddy 做了一次三巨头年报横向财务分析：从 276 页 PDF 到一张可核验的比较表](https://juejin.cn/post/7683438420874461247) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了](https://juejin.cn/post/7684759404726321203) | juejin | AI |
+| 1 | [从调研到闭环，我用 GPT-Image-2.5 和 GPT-6 Astra 把智慧厂房 3D 大屏这条链路走完了](https://juejin.cn/post/7684759404726321203) | juejin | AI |
+| 2 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | sspai | AI |
+| 3 | [Europe must build its own AI or risk being cut off, says ECB’s Lagarde](https://thenextweb.com/news/lagarde-ecb-europe-sovereign-ai-cut-off-risk-data-centres) | The Next Web | AI |
+| 4 | [Reminder: iOS 27's All-New Siri AI Has a Waitlist, Here's How to Sign Up](https://www.macrumors.com/2026/09/15/ios-27-siri-ai-has-waitlist-how-to-join) | Mac Rumors | AI |
+| 5 | [我用 WorkBuddy 做了一次三巨头年报横向财务分析：从 276 页 PDF 到一张可核验的比较表](https://juejin.cn/post/7683438420874461247) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 11 条，以上为 TOP 5。
+> 共 9 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [致AI，抵达未来ⅠGTLC上海站，来了！](https://mp.weixin.qq.com/s/Ge3afrgF-IMVb1d8y0DOkA) | AI前线 | AI |
-| 2 | [Apple releases iOS 27 and Siri AI, but you’ll have to join a waitlist](https://thenextweb.com/news/apple-ios-27-siri-ai-release-icloud-plus-child-safety) | The Next Web | AI |
-| 3 | [Temporal raises $550m at $12.55bn to keep AI agents from failing](https://thenextweb.com/news/temporal-550m-series-e-12-55bn-valuation-lightspeed) | The Next Web | AI |
-| 4 | [Sources: Meta plans to release a camera-free pair of smart glasses this fall; the new model has six mics to let users speak with Meta's AI chatbot and Muse (Jyoti Mann/The Information)](https://www.techmeme.com/260915/p52) | Techmeme | AI |
-| 5 | [TypeSafe AI, which is developing a model that outputs numerical responses with probability estimates to help businesses assess reliability, raised a $40M seed (Rashi Shrivastava/Forbes)](https://www.techmeme.com/260915/p51) | Techmeme | AI |
+| 1 | [蚂蚁开源大模型安全护栏SingProbe，已适配29个主流开源模型](https://aiera.com.cn/asi-post.html?id=113961) | 新智元 | AI |
+| 2 | [Kafka已正式接入AI](https://juejin.cn/post/7684573646439317514) | juejin | AI |
+| 3 | [Sources: Shanghai-based Anew Labs, a ByteDance spinoff using AI for drug discovery, raised $290M from HSG, IDG Capital, and others at a $1.5B valuation (Kane Wu/Reuters)](https://www.techmeme.com/260916/p7) | Techmeme | AI |
+| 4 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
+| 5 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
 
-> 共 64 条，以上为 TOP 5。
+> 共 67 条，以上为 TOP 5。
 
 ---
 
@@ -53,8 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [拒绝和主办方一起坑粉丝的Coser，却成了行业天花板？](https://www.huxiu.com/article/4891474.html?f=rss) | 虎嗅 (Huxiu) | IP |
-| 3 | [城市与乡村紧密相连——绿色举措必须认识到这一点](https://www.nature.com/articles/d41586-026-02853-2) | www.nature.com | 回乡 |
+| 2 | [[推广] [免费福利] 1024Proxy 专属流量 CDK 免费兑换，真实住宅 IP 流量，先到先得](https://www.v2ex.com/t/1242424) | V2EX (创意工作者社区) | IP |
+| 3 | [[推广] 福利帖子 瓜分大额流量 助力 AI/跨境/广告/店铺/矩阵](https://www.v2ex.com/t/1242386) | V2EX (创意工作者社区) | AI/IP |
+| 4 | [手搓AI助教后，这位乡村教师把时间留给了什么？](https://www.huxiu.com/article/4891525.html?f=rss) | 虎嗅 (Huxiu) | AI/回乡 |
+| 5 | [拒绝和主办方一起坑粉丝的Coser，却成了行业天花板？](https://www.huxiu.com/article/4891474.html?f=rss) | 虎嗅 (Huxiu) | IP |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -62,9 +66,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [字节跳动上半年营收增30%、净利率降至16.7%：AI投入拖累利润，海外收入占比再创新高](https://www.aibase.com/zh/news/31067) | Readhub · AI | AI/变现 |
-| 2 | [美国人口普查局称，2025年美国人收入增加，贫困率下降 - CNBC](https://news.google.com/rss/articles/CBMigwFBVV95cUxQQUhRY1dodmU0cERYQk9zWHY2RUFSRF9HTWRMOTVXcFp4ekFnRmRDeEg1RFUxRlFrTDJZRUhhT0FpVHhIbTFESUFld1l2VVlSbEVfb0N2LVJaWXl4QnpuOGs0Y2Z0eHY1RjFRZEM1aUh3X2g3U3d6SXJNNElTUkxuYlZkWdIBiAFBVV95cUxOTVczajF0dXlzZ1czM1podGd4MFd1T25NbW45TW5ZQ2JaSmd5U0Y0QnZjRzZjM2xjZUNWU0FLMV9zZ084QU9MMW5FSXQydEdQNUlONE9hUTBnMFhkWUZ4OHZsdG9xRkFQRG94VXZFVEo5QWlEOEZ4NjZDbGlwVERJck82OXFkYlM5?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
-| 3 | [[商业模式] 80 亿美金货车企业 Palantir FDE 破局项目分享](https://www.v2ex.com/t/1242275) | V2EX (创意工作者社区) | 变现 |
+| 1 | [8点1氪丨8月一线城市房价上涨；携程上架510万一张的太空旅行船票；字节跳动上半年净利润出现下滑，但海外收入占比再创新高](https://www.36kr.com/p/3985321952115717) | 36氪 · 24小时热榜 | 变现 |
+| 2 | [布莱恩·莫伊尼汉表示，美国银行的投资银行业务收入出现下滑](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/brian-moynihan-says-investment-banking-revenues-are-down-at-bofa-Muv39xas60yTZMT6GdeT?siteid=yhoof2&yptr=yahoo) | www.wsj.com | 变现 |
+| 3 | [郑钦文场外收入逼近谷爱凌，业内人士：从头到脚，能签约的基本都签出去了](https://www.huxiu.com/article/4891606.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
 
 ---
 
@@ -76,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-16T01:51:17.712Z
-- **总资讯数**：4371 条原始 → 652 条筛选后
+- **聚合时间**：2026-09-16T06:53:46.557Z
+- **总资讯数**：4437 条原始 → 649 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
