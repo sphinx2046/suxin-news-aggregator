@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [GPT-6刷到99.9%，ARC AGI考卷被迫重做！下一关考「发明」](https://aiera.com.cn/asi-post.html?id=114093) | 新智元 | AI |
-| 2 | [逼近Claude！中国黑马27B模型与OpenAI同榜](https://aiera.com.cn/asi-post.html?id=114076) | 新智元 | AI |
-| 3 | [刚刚，中国队9B「全能王」开源登场！横扫8项全球通用第一](https://aiera.com.cn/asi-post.html?id=114049) | 新智元 | 其他 |
-| 4 | [自进化社媒Agent！浙大x北大：从多模态任务编排到反馈驱动](https://aiera.com.cn/asi-post.html?id=114027) | 新智元 | AI |
-| 5 | [Claude王座失守！OpenAI一夜反超，神秘GPT‑6 Sol偷跑](https://aiera.com.cn/asi-post.html?id=113996) | 新智元 | AI |
+| 1 | [DeepSeek 官方仓库惊现 DeepSeek Harness 桌面端！](https://juejin.cn/post/7685188623412133898) | juejin | AI |
+| 2 | [黄仁勋台上接特朗普电话开免提，全场听到一句话：AI 不会减速](https://juejin.cn/post/7685320540698361899) | juejin | AI |
+| 3 | [ChatGPT 开启无限 token](https://juejin.cn/post/7685770509585629190) | juejin | AI |
+| 4 | [前端转型全栈 00：AI 时代该学哪些，不该学哪些](https://juejin.cn/post/7685561582916304906) | juejin | AI |
+| 5 | [🤖 AI写代码越跑越快，项目组件却越来越乱？一套工程闭环根治重复造轮子 ⚡](https://juejin.cn/post/7685970177332592655) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [据报道，苹果正在研发一款搭载M系列Ultra芯片的服务器，用于人工智能领域 / Apple reportedly building server packed with M-series Ultra chips for AI](https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai) | Ars Technica | AI |
-| 2 | [How to Use AI to Plan a Trip: Better Prompts for Travel Recommendations](https://www.nytimes.com/2026/09/16/travel/ai-trip-planning-prompts.html) | New York Times | AI |
-| 3 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | 少数派 · 热门文章 | AI |
-| 4 | [[分享创造] 做了一个插件，将 DeepSeek Harness 插入到了所有的网页上，随时随地 Vibe Coding](https://www.v2ex.com/t/1242601) | V2EX (创意工作者社区) | AI |
-| 5 | [OpenAI 首次公开六起模型异常案例，涉及瞒报错误、编造数据及未经授权上传文件](https://www.ithome.com/1/003/392.htm) | IT之家 (ITHome) | AI |
+| 1 | [全网都在测鹈鹕，我用 DeepSeek-V4.1-Flash 跑了50+小时、超5000MTokens消耗的真实开发任务](https://juejin.cn/post/7685282635450744841) | juejin | AI |
+| 2 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | sspai | AI |
+| 3 | [据报道，苹果正在研发一款搭载M系列Ultra芯片的服务器，用于人工智能领域 / Apple reportedly building server packed with M-series Ultra chips for AI](https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai) | Ars Technica | AI |
+| 4 | [How to Use AI to Plan a Trip: Better Prompts for Travel Recommendations](https://www.nytimes.com/2026/09/16/travel/ai-trip-planning-prompts.html) | New York Times | AI |
+| 5 | [网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”](https://www.qbitai.com/2026/09/490974.html) | 量子位 · 每日最新 | AI |
 
-> 共 10 条，以上为 TOP 5。
+> 共 14 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [突发，GPT-6 Sol曝光了！](https://aiera.com.cn/asi-post.html?id=114123) | 新智元 | AI |
-| 2 | [OpenAI总裁：AGI时代来了！GPT-6已能自主干活24小时](https://aiera.com.cn/asi-post.html?id=114062) | 新智元 | AI |
-| 3 | [刚刚，Gemini 3.8 Live上线！](https://aiera.com.cn/asi-post.html?id=114012) | 新智元 | AI |
-| 4 | [刚刚，全球首个开源Agent会话平台发布！老板、同事和我共享一个AI](https://aiera.com.cn/asi-post.html?id=113979) | 新智元 | AI |
-| 5 | [GPT-6Sol要来了？奥特曼预告本周大更新](https://mp.weixin.qq.com/s/0RFzoiD_6-PhvsK_TulPSw) | 夕小瑶科技说 | AI |
+| 1 | [28岁中科大少年班校友、港科大助理教授带队，科理新序获近5000万首轮融资，英诺科创基金领投，押注AI4S基模×物理AI](https://aiera.com.cn/asi-post.html?id=114124) | 新智元 | AI |
+| 2 | [Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac](https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac) | The Verge | AI |
+| 3 | [Anthropic folds Cowork into Claude and launches Docs and Slides](https://thenextweb.com/news/anthropic-claude-cowork-merge-docs-slides) | The Next Web | AI |
+| 4 | [Huawei plans to launch the Ascend 960DT AI chip in Q1 2027 and the 960PR in Q3 2027, and says its UnifiedBus tech is key to its next-generation large AI systems (Reuters)](https://www.techmeme.com/260917/p7) | Techmeme | AI |
+| 5 | [Google, Nvidia, and Emerald AI launch the AI Energy Management Alliance to advance data centers that dynamically adjust electricity use based on grid conditions (Amy Harder/Axios)](https://www.techmeme.com/260917/p6) | Techmeme | AI |
 
-> 共 71 条，以上为 TOP 5。
+> 共 82 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [[投资] 做了 4 个月的 AI 交易产品，功能基本能用了，但一直没什么流量，想请大家帮忙看看](https://www.v2ex.com/t/1242598) | V2EX (创意工作者社区) | AI/IP |
-| 3 | [[推广] 网站新手，开发了一款自动生成、自动发布的爆款短视频系统](https://www.v2ex.com/t/1242571) | V2EX (创意工作者社区) | IP |
-| 4 | [胡润报告：任泽平位列高净值人群最常关注财经博主前三](https://mp.weixin.qq.com/s/xi6oaqF4pPPjVtlVE6lDCg) | 泽平宏观展望 | IP |
-| 5 | [雷军同日到访宇树与B站/罗永浩差评带来流量，野人先生单日涨粉近3..](https://mp.weixin.qq.com/s/1FBjB-botaLbYNZSLQd1cw) | 爱范儿 | IP |
+| 2 | [世界气象组织称，2025年河流流量为近几十年来最干旱的年份之一](https://reut.rs/3VeHrNN) | reut.rs | IP |
+| 3 | [胡润报告：任泽平位列高净值人群最常关注财经博主前三](https://mp.weixin.qq.com/s/xi6oaqF4pPPjVtlVE6lDCg) | 泽平宏观展望 | IP |
+| 4 | [雷军同日到访宇树与B站/罗永浩差评带来流量，野人先生单日涨粉近3..](https://mp.weixin.qq.com/s/1FBjB-botaLbYNZSLQd1cw) | 爱范儿 | IP |
+| 5 | [竟有人当着我的面，拿自媒体和狗对比](https://www.huxiu.com/article/4891842.html?f=rss) | 虎嗅 (Huxiu) | IP |
 
-> 共 9 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -66,8 +66,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [百度沈抖：产业智能体正在打通大模型变现的「最后一公里」](https://www.aibase.com/zh/news/31104) | Readhub · AI | AI/变现 |
-| 2 | [家庭收入创下新高，但低收入群体的处境却每况愈下](https://www.axios.com/2026/09/16/us-economy-income-census) | www.axios.com | 变现 |
+| 1 | [具身智能“挤水分”：IPO门槛下的“真实收入”追问](https://www.huxiu.com/article/4891982.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 2 | [英国智库预计，对残疾人福利实施收入核查可节省80亿英镑](https://reut.rs/3T4kooo) | reut.rs | 变现 |
+| 3 | [家庭收入创下新高，但低收入群体的处境却每况愈下](https://www.axios.com/2026/09/16/us-economy-income-census) | www.axios.com | 变现 |
 
 ---
 
@@ -79,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-17T02:06:55.803Z
-- **总资讯数**：4454 条原始 → 704 条筛选后
+- **聚合时间**：2026-09-17T08:56:58.535Z
+- **总资讯数**：4475 条原始 → 718 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
