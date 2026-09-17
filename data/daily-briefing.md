@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [DeepSeek 官方仓库惊现 DeepSeek Harness 桌面端！](https://juejin.cn/post/7685188623412133898) | juejin | AI |
-| 2 | [黄仁勋台上接特朗普电话开免提，全场听到一句话：AI 不会减速](https://juejin.cn/post/7685320540698361899) | juejin | AI |
-| 3 | [ChatGPT 开启无限 token](https://juejin.cn/post/7685770509585629190) | juejin | AI |
-| 4 | [前端转型全栈 00：AI 时代该学哪些，不该学哪些](https://juejin.cn/post/7685561582916304906) | juejin | AI |
-| 5 | [🤖 AI写代码越跑越快，项目组件却越来越乱？一套工程闭环根治重复造轮子 ⚡](https://juejin.cn/post/7685970177332592655) | juejin | AI |
+| 1 | [I had Gemini train its own replacement for $9](https://www.petervijeh.com/projects/reddit-ner) | Hacker News | AI |
+| 2 | [AI Safety Is Mostly a Sex Cult](https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q) | Hacker News | AI |
+| 3 | [GLM Built Its Own Inference Infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure) | Hacker News | 其他 |
+| 4 | [OpenAI Model Misalignment Report](https://openai.com/index/model-misalignment-reporting-framework) | Hacker News | AI |
+| 5 | [Cloudflare/Security-Audit-Skill](https://github.com/cloudflare/security-audit-skill) | Hacker News | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [全网都在测鹈鹕，我用 DeepSeek-V4.1-Flash 跑了50+小时、超5000MTokens消耗的真实开发任务](https://juejin.cn/post/7685282635450744841) | juejin | AI |
-| 2 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | sspai | AI |
-| 3 | [据报道，苹果正在研发一款搭载M系列Ultra芯片的服务器，用于人工智能领域 / Apple reportedly building server packed with M-series Ultra chips for AI](https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai) | Ars Technica | AI |
-| 4 | [How to Use AI to Plan a Trip: Better Prompts for Travel Recommendations](https://www.nytimes.com/2026/09/16/travel/ai-trip-planning-prompts.html) | New York Times | AI |
-| 5 | [网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”](https://www.qbitai.com/2026/09/490974.html) | 量子位 · 每日最新 | AI |
+| 1 | [据报道，苹果正在研发一款搭载M系列Ultra芯片的服务器，用于人工智能领域 / Apple reportedly building server packed with M-series Ultra chips for AI](https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai) | Ars Technica | AI |
+| 2 | [How to Use AI to Plan a Trip: Better Prompts for Travel Recommendations](https://www.nytimes.com/2026/09/16/travel/ai-trip-planning-prompts.html) | New York Times | AI |
+| 3 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | 少数派 · 热门文章 | AI |
+| 4 | [20 所全球顶尖高校联手打造「科学 IDE」，用科研经验训练 AI](https://www.mittrchina.com/news/detail/16967) | Readhub · AI | AI |
+| 5 | [全网都在测鹈鹕，我用 DeepSeek-V4.1-Flash 跑了50+小时、超5000MTokens消耗的真实开发任务](https://juejin.cn/post/7685282635450744841) | juejin | AI |
 
-> 共 14 条，以上为 TOP 5。
+> 共 13 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [28岁中科大少年班校友、港科大助理教授带队，科理新序获近5000万首轮融资，英诺科创基金领投，押注AI4S基模×物理AI](https://aiera.com.cn/asi-post.html?id=114124) | 新智元 | AI |
+| 1 | [首届蚂蚁灵波具身大模型挑战赛正式启动](https://aiera.com.cn/asi-post.html?id=114127) | 新智元 | AI |
 | 2 | [Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac](https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac) | The Verge | AI |
-| 3 | [Anthropic folds Cowork into Claude and launches Docs and Slides](https://thenextweb.com/news/anthropic-claude-cowork-merge-docs-slides) | The Next Web | AI |
-| 4 | [Huawei plans to launch the Ascend 960DT AI chip in Q1 2027 and the 960PR in Q3 2027, and says its UnifiedBus tech is key to its next-generation large AI systems (Reuters)](https://www.techmeme.com/260917/p7) | Techmeme | AI |
-| 5 | [Google, Nvidia, and Emerald AI launch the AI Energy Management Alliance to advance data centers that dynamically adjust electricity use based on grid conditions (Amy Harder/Axios)](https://www.techmeme.com/260917/p6) | Techmeme | AI |
+| 3 | [Magentic raises $18M to put AI agents to work in manufacturers’ supply chains](https://thenextweb.com/news/magentic-18m-series-a-ai-agents-procurement) | The Next Web | AI |
+| 4 | [Comp AI, which uses AI agents to draft security policies, collect audit evidence, conduct continuous compliance monitoring, and more, raised a $34M Series A (Dominic-Madori Davis/TechCrunch)](https://www.techmeme.com/260917/p26) | Techmeme | AI |
+| 5 | [OpenAI reveals six more safety issues and unveils plan to disclose incidents](https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
 
-> 共 82 条，以上为 TOP 5。
+> 共 73 条，以上为 TOP 5。
 
 ---
 
@@ -66,9 +66,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [具身智能“挤水分”：IPO门槛下的“真实收入”追问](https://www.huxiu.com/article/4891982.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 2 | [英国智库预计，对残疾人福利实施收入核查可节省80亿英镑](https://reut.rs/3T4kooo) | reut.rs | 变现 |
-| 3 | [家庭收入创下新高，但低收入群体的处境却每况愈下](https://www.axios.com/2026/09/16/us-economy-income-census) | www.axios.com | 变现 |
+| 1 | [[程序员] 太难了， 2 个月做了 7 个桌面应用， 0 收入](https://www.v2ex.com/t/1242778) | V2EX (创意工作者社区) | 变现 |
+| 2 | [具身智能“挤水分”：IPO门槛下的“真实收入”追问](https://www.huxiu.com/article/4891982.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 3 | [英国智库预计，对残疾人福利实施收入核查可节省80亿英镑](https://reut.rs/3T4kooo) | reut.rs | 变现 |
 
 ---
 
@@ -80,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-17T08:56:58.535Z
-- **总资讯数**：4475 条原始 → 718 条筛选后
+- **聚合时间**：2026-09-17T14:29:33.697Z
+- **总资讯数**：4499 条原始 → 705 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
