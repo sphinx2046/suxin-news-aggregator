@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [苹果新 CEO 首秀：首款折叠 iPhone登场，iPhone瞄准个人Al中心](https://mp.weixin.qq.com/s/7nBQN37IaFsgTeUOd2z1VA) | 夕小瑶科技说 | 其他 |
-| 2 | [刚刚！OpenAI与Anthropic CEO罕见同台，黄仁勋当场唱反调：AI到.](https://mp.weixin.qq.com/s/m2q_QKhYHDiMfl89fvhSkQ) | AI前线 | AI |
-| 3 | [TikTok SRE 技术负责人：Al Agents说到底就是分布式系统](https://mp.weixin.qq.com/s/63FwPh_B9AWC-2QDYCwu4A) | AI前线 | AI |
-| 4 | [从沙箱到执行边界：蚂蚁Al Agent的大规模企业级实践IQCon上海](https://mp.weixin.qq.com/s/MQr7acC3VhlhAtM88tseUA) | AI前线 | AI |
-| 5 | [刚写完V4.1主算子就要“转业”?DeepSeek资深工程师深夜独白](https://mp.weixin.qq.com/s/xd2JDc4-GmFtqlNGrY1MqQ) | AI前线 | AI |
+| 1 | [GPT-6刷到99.9%，ARC AGI考卷被迫重做！下一关考「发明」](https://aiera.com.cn/asi-post.html?id=114093) | 新智元 | AI |
+| 2 | [逼近Claude！中国黑马27B模型与OpenAI同榜](https://aiera.com.cn/asi-post.html?id=114076) | 新智元 | AI |
+| 3 | [刚刚，中国队9B「全能王」开源登场！横扫8项全球通用第一](https://aiera.com.cn/asi-post.html?id=114049) | 新智元 | 其他 |
+| 4 | [自进化社媒Agent！浙大x北大：从多模态任务编排到反馈驱动](https://aiera.com.cn/asi-post.html?id=114027) | 新智元 | AI |
+| 5 | [Claude王座失守！OpenAI一夜反超，神秘GPT‑6 Sol偷跑](https://aiera.com.cn/asi-post.html?id=113996) | 新智元 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [我用腾讯Kuikly，把DeepSeek Harness装进了口袋](https://mp.weixin.qq.com/s/THtcdws01AV_Q3fe2pYRlQ) | 腾讯技术工程 | AI |
-| 2 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | sspai | AI |
-| 3 | [Apple reportedly building server packed with M-series Ultra chips for AI](https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai) | Ars Technica | AI |
-| 4 | [How to Use AI to Plan a Trip: Better Prompts for Travel Recommendations](https://www.nytimes.com/2026/09/16/travel/ai-trip-planning-prompts.html) | New York Times | AI |
-| 5 | [How to connect AI usage to business value](https://openai.com/index/how-to-connect-ai-usage-to-business-value) | Readhub · AI | AI |
+| 1 | [据报道，苹果正在研发一款搭载M系列Ultra芯片的服务器，用于人工智能领域 / Apple reportedly building server packed with M-series Ultra chips for AI](https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai) | Ars Technica | AI |
+| 2 | [How to Use AI to Plan a Trip: Better Prompts for Travel Recommendations](https://www.nytimes.com/2026/09/16/travel/ai-trip-planning-prompts.html) | New York Times | AI |
+| 3 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | 少数派 · 热门文章 | AI |
+| 4 | [[分享创造] 做了一个插件，将 DeepSeek Harness 插入到了所有的网页上，随时随地 Vibe Coding](https://www.v2ex.com/t/1242601) | V2EX (创意工作者社区) | AI |
+| 5 | [OpenAI 首次公开六起模型异常案例，涉及瞒报错误、编造数据及未经授权上传文件](https://www.ithome.com/1/003/392.htm) | IT之家 (ITHome) | AI |
 
-> 共 11 条，以上为 TOP 5。
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [GPT-6Sol要来了？奥特曼预告本周大更新](https://mp.weixin.qq.com/s/0RFzoiD_6-PhvsK_TulPSw) | 夕小瑶科技说 | AI |
-| 2 | [首发|数千万元种子轮融资，Articuler.ai 在职场社交找到了真痛点](https://mp.weixin.qq.com/s/ccBgoegy5pXMyTTWzbMT-w) | FounderPark | AI |
-| 3 | [AutoResearch严父来了：Astra硬刚Fable，顶级模型也难逃“刷榜](https://mp.weixin.qq.com/s/x3tIURjSIK-hhbez9ASMhA) | PaperWeekly | AI |
-| 4 | [EMNLP2026I浙大LongDS发布v1.1，GPT-6Astra 领跑长程数据分析Lite榜](https://mp.weixin.qq.com/s/_AKR2z98cmqZdLB1uCyz-A) | PaperWeekly | AI |
-| 5 | [豆包手机正式开卖：这次，App可以对AI「说不」](https://mp.weixin.qq.com/s/jGK0I9NoVdaGAmsqcU4Acw) | 极客公园 | AI |
+| 1 | [突发，GPT-6 Sol曝光了！](https://aiera.com.cn/asi-post.html?id=114123) | 新智元 | AI |
+| 2 | [OpenAI总裁：AGI时代来了！GPT-6已能自主干活24小时](https://aiera.com.cn/asi-post.html?id=114062) | 新智元 | AI |
+| 3 | [刚刚，Gemini 3.8 Live上线！](https://aiera.com.cn/asi-post.html?id=114012) | 新智元 | AI |
+| 4 | [刚刚，全球首个开源Agent会话平台发布！老板、同事和我共享一个AI](https://aiera.com.cn/asi-post.html?id=113979) | 新智元 | AI |
+| 5 | [GPT-6Sol要来了？奥特曼预告本周大更新](https://mp.weixin.qq.com/s/0RFzoiD_6-PhvsK_TulPSw) | 夕小瑶科技说 | AI |
 
-> 共 77 条，以上为 TOP 5。
+> 共 71 条，以上为 TOP 5。
 
 ---
 
@@ -52,13 +52,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [胡润报告：任泽平位列高净值人群最常关注财经博主前三](https://mp.weixin.qq.com/s/xi6oaqF4pPPjVtlVE6lDCg) | 泽平宏观展望 | IP |
-| 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 3 | [雷军同日到访宇树与B站/罗永浩差评带来流量，野人先生单日涨粉近3..](https://mp.weixin.qq.com/s/1FBjB-botaLbYNZSLQd1cw) | 爱范儿 | IP |
-| 4 | [竟有人当着我的面，拿自媒体和狗对比](https://www.huxiu.com/article/4891842.html?f=rss) | 虎嗅 (Huxiu) | IP |
-| 5 | [Show HN: 家乡——将通讯录中的区号标注在地图上](https://benaduggan.github.io/hometowns) | benaduggan.github.io | 回乡 |
+| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 2 | [[投资] 做了 4 个月的 AI 交易产品，功能基本能用了，但一直没什么流量，想请大家帮忙看看](https://www.v2ex.com/t/1242598) | V2EX (创意工作者社区) | AI/IP |
+| 3 | [[推广] 网站新手，开发了一款自动生成、自动发布的爆款短视频系统](https://www.v2ex.com/t/1242571) | V2EX (创意工作者社区) | IP |
+| 4 | [胡润报告：任泽平位列高净值人群最常关注财经博主前三](https://mp.weixin.qq.com/s/xi6oaqF4pPPjVtlVE6lDCg) | 泽平宏观展望 | IP |
+| 5 | [雷军同日到访宇树与B站/罗永浩差评带来流量，野人先生单日涨粉近3..](https://mp.weixin.qq.com/s/1FBjB-botaLbYNZSLQd1cw) | 爱范儿 | IP |
 
-> 共 7 条，以上为 TOP 5。
+> 共 9 条，以上为 TOP 5。
 
 ---
 
@@ -66,13 +66,8 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [8点1氪丨8月一线城市房价上涨；携程上架510万一张的太空旅行船票；字节跳动上半年净利润出现下滑，但海外收入占比再创新高](https://www.36kr.com/p/3985321952115717) | 36氪 · 24小时热榜 | 变现 |
-| 2 | [英国智库预计，对残疾福利实施收入核查可节省80亿英镑](https://www.reuters.com/world/uk/uk-think-tank-sees-8-billion-savings-means-testing-disability-benefit-2026-09-16) | www.reuters.com | 变现 |
-| 3 | [朱江明：零跑已做出完全自研机器人，待其“能赚钱”才能拿出手](https://www.ithome.com/1/003/300.htm) | IT之家 (ITHome) | 变现 |
-| 4 | [[程序员] 全能的独立开发者](https://www.v2ex.com/t/1242515) | V2EX (创意工作者社区) | 变现 |
-| 5 | [[分享创造] 独立开发者，喜欢书法，做了一个书法演播软件](https://www.v2ex.com/t/1242514) | V2EX (创意工作者社区) | 变现 |
-
-> 共 6 条，以上为 TOP 5。
+| 1 | [百度沈抖：产业智能体正在打通大模型变现的「最后一公里」](https://www.aibase.com/zh/news/31104) | Readhub · AI | AI/变现 |
+| 2 | [家庭收入创下新高，但低收入群体的处境却每况愈下](https://www.axios.com/2026/09/16/us-economy-income-census) | www.axios.com | 变现 |
 
 ---
 
@@ -84,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-16T23:55:50.222Z
-- **总资讯数**：4414 条原始 → 695 条筛选后
+- **聚合时间**：2026-09-17T02:06:55.803Z
+- **总资讯数**：4454 条原始 → 704 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
