@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [一座不够大的城市，装下了我毕业后的成长](https://juejin.cn/post/7686327615728975922) | juejin | 认知 |
-| 2 | [ChatGPT 开启无限 token](https://juejin.cn/post/7685770509585629190) | juejin | AI |
-| 3 | [🤖 AI写代码越跑越快，项目组件却越来越乱？一套工程闭环根治重复造轮子 ⚡](https://juejin.cn/post/7685970177332592655) | juejin | AI |
-| 4 | [民间AI排行榜单新鲜出炉，Fable 5.1仅排第三](https://juejin.cn/post/7686044352167575604) | juejin | AI |
-| 5 | [OpenSider：让浏览器驱动 Agent](https://juejin.cn/post/7685651354878754825) | juejin | AI |
+| 1 | [The Implications of Linguistic Illegibility for LLM Security](https://arxiv.org/abs/2609.02852) | Hacker News | AI |
+| 2 | [Saving another 100TB of RAM with math (and Rust)](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math) | Hacker News | 其他 |
+| 3 | [Apple releases iPhone Duo simulator and Xcode 27.1 beta](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes) | Hacker News | 其他 |
+| 4 | [Border agents can search cellphones without a warrant or reasonable suspicion](https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules) | Hacker News | AI |
+| 5 | [美军因使用人工智能生成虚假情报报告，险些酿成大祸 / US Military had close call after using AI for hallucinated intelligence report](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [别再堆 AGENTS.md 了：前端团队的 Agent 上下文分层落地指南](https://juejin.cn/post/7685944661652602914) | juejin | AI |
-| 2 | [GrassLobster: AI Agentic Generation of Parametric Geometry Workflows](https://www.miro.vision/index.php/2026/09/17/grasslobbster) | Hacker News | AI |
-| 3 | [Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins](https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst) | The Verge | AI |
-| 4 | [OpenAI’s highest robotics salary is $500,000, and it is not for building robots](https://thenextweb.com/news/openai-robotics-engineer-salaries-500000) | The Next Web | AI |
-| 5 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
+| 1 | [GrassLobster: AI Agentic Generation of Parametric Geometry Workflows](https://www.miro.vision/index.php/2026/09/17/grasslobbster) | Hacker News | AI |
+| 2 | [Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins](https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst) | The Verge | AI |
+| 3 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
+| 4 | [Gov. Gavin Newsom signs an EO ordering a working group to provide a guide in two months with measures to boost California's AI safety and security laws (Bloomberg)](https://www.techmeme.com/260918/p17) | Techmeme | AI |
+| 5 | ['Whatever you try to fix breaks things even more': How to avoid the hidden dangers of AI code](https://www.techradar.com/pro/whatever-you-try-to-fix-breaks-things-even-more-how-to-avoid-the-hidden-dangers-of-ai-code) | TechRadar | AI |
 
-> 共 20 条，以上为 TOP 5。
+> 共 17 条，以上为 TOP 5。
 
 ---
 
@@ -40,11 +40,11 @@
 |---|------|------|------|
 | 1 | [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects) | The Verge | AI |
 | 2 | [Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac](https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac) | The Verge | AI |
-| 3 | [Crusoe raises $3.9B to build massive data centers and small modular “AI factories”](https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories) | TechCrunch | AI |
+| 3 | [美国联邦航空管理局（FAA）推出8.75亿美元的人工智能工具，以协助管理空中交通拥堵 / FAA tees up $875M AI tool to help manage air traffic congestion](https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion) | Ars Technica | AI |
 | 4 | [谷歌宣布推出面向家庭的新型实验性“CC”人工智能助手 / Google announces new experimental "CC" AI agent for families](https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families) | Ars Technica | AI |
 | 5 | [Mind, whose AI agents autonomously handle data loss prevention tasks, raised a $72M Series B, sources say at a $300M valuation, taking its total raised to $112M (Sophie Shulman/CTech)](https://www.techmeme.com/260918/p16) | Techmeme | AI |
 
-> 共 50 条，以上为 TOP 5。
+> 共 45 条，以上为 TOP 5。
 
 ---
 
@@ -61,7 +61,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [国家邮政局：快递业务收入增速连续跑赢业务量，突破万亿元较去年提前一个月](https://www.ithome.com/1/004/231.htm) | IT之家 (ITHome) | 变现 |
+| 1 | [“这会毁了你未来10年的生活”：《拉姆齐秀》主持人对年收入25万美元、信用卡债务达10万美元的听众说道](https://finance.yahoo.com/markets/options/articles/destroy-life-next-10-years-100311277.html) | finance.yahoo.com | 变现 |
+| 2 | [Show HN: 面向 Stripe 和 Metronome 的开源收入确认与分析解决方案](https://news.ycombinator.com/item?id=49758181) | news.ycombinator.com | 变现 |
+| 3 | [斯塔默考虑放宽针对高收入群体的10万英镑“税收陷阱”](https://www.ft.com/content/2c59513f-e323-4b29-a3b1-d9e083946978?syn-25a6b1a6=1) | www.ft.com | 变现 |
+| 4 | [国家邮政局：快递业务收入增速连续跑赢业务量，突破万亿元较去年提前一个月](https://www.ithome.com/1/004/231.htm) | IT之家 (ITHome) | 变现 |
 
 ---
 
@@ -73,8 +76,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-18T17:18:57.659Z
-- **总资讯数**：4362 条原始 → 662 条筛选后
+- **聚合时间**：2026-09-18T20:02:22.922Z
+- **总资讯数**：4357 条原始 → 684 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
