@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Almost Never Use AI to Write Anything Substantive](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai) | Hacker News | AI |
-| 2 | [AI生成的海报未必就难看 / AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) | Hacker News | AI |
-| 3 | [为什么HN上关于人工智能的帖子能获得这么多积分？ / How come AI-related posts get so many points on HN?](https://news.ycombinator.com/item?id=49764057) | Hacker News | AI |
-| 4 | [GPT-6 Astra 破解了一项第一次世界大战时期的德国无线电密码 / GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio) | Hacker News | AI |
-| 5 | [Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 1 | [AI时代，还要架构师干什么？](https://mp.weixin.qq.com/s/eaUQZoXVWB2WXuXMZ21qpw) | 架构师之路 | AI |
+| 2 | [(3/100)](https://mp.weixin.qq.com/s/-F5aQxG7LTF-H8ICzQimyw) | 架构师之路 | 其他 |
+| 3 | [实测5款国产世界模型，看清「生成世界」走到了哪一步](https://mp.weixin.qq.com/s/j6-GQA3P0iW4jxPSQovFxQ) | 夕小瑶科技说 | AI |
+| 4 | [“只剩一群用LLM的菜鸟”：顶级黑客怒退PS5Linux项目，几个月心...](https://mp.weixin.qq.com/s/0Ut9DLsxKbLMEE5LBmmARA) | AI前线 | AI |
+| 5 | [小红书 Muse的Agentic 架构实践](https://mp.weixin.qq.com/s/t_4whBqeqjpLNt_GmdxO1A) | AI前线 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins](https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst) | The Verge | AI |
-| 2 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
-| 3 | [How to Make the U.S.-China AI Race Less Dangerous](https://time.com/article/2026/09/18/us-china-ai-race-trump-bessent-lifeng-talks) | TIME Magazine | AI |
-| 4 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | 少数派 · 热门文章 | AI |
-| 5 | [电商资料包合规体检实战：用蓝耘元生代把 20 分钟人工核验压成一分半](https://juejin.cn/post/7686361321609887790) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [0经验转AI产品经理，拿下4OW年薪offer!](https://mp.weixin.qq.com/s/4HC88zeyCr0TRKnLwCym3g) | 人人都是产品经理 | AI |
+| 2 | [AI离“理解万物“还有多远？先拿癌细胞和行星轨道试试水](https://mp.weixin.qq.com/s/vEAA2UBY7w1hj19cY-bY0g) | 量子位 | AI |
+| 3 | [Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins](https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst) | The Verge | AI |
+| 4 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
+| 5 | [How to Make the U.S.-China AI Race Less Dangerous](https://time.com/article/2026/09/18/us-china-ai-race-trump-bessent-lifeng-talks) | TIME Magazine | AI |
 
-> 共 10 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects) | The Verge | AI |
-| 2 | [A startup that builds other startups raised $100M, and is all-in on physical AI](https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai) | TechCrunch | AI |
-| 3 | [Anthropic is paying the firm that will evaluate it, and says in the same announcement that this is not how it should work.](https://thenextweb.com/news/anthropic-is-paying-the-firm-that-will-evaluate-it-and-says-in-the-same-announcement-that-this-is-not-how-it-should-work) | The Next Web | AI |
-| 4 | [Trump and Xi already talked AI guardrails once this year. Nothing was signed, and no chips shipped.](https://thenextweb.com/news/xi-white-house-dinner-ai-ceos-guardrails-chips-not-moving) | The Next Web | AI |
-| 5 | [美国联邦航空管理局（FAA）推出8.75亿美元的人工智能工具，以协助管理空中交通拥堵 / FAA tees up $875M AI tool to help manage air traffic congestion](https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion) | Ars Technica | AI |
+| 1 | [谷歌披露RSI最新进展：AI不改模型参数，也能在“梦中”学会自我改进](https://mp.weixin.qq.com/s/HfJcnthdC3FYG4o0lhutvw) | AI前线 | AI |
+| 2 | [云栖大会Skill上线：带着你的Agent来参会](https://mp.weixin.qq.com/s/O1ivsDQi_Mz2JRE7dVeYmg) | 阿里云开发者 | AI |
+| 3 | [ChatGPT杀进Word：免费版也能用，终于可以告别复制粘贴了](https://mp.weixin.qq.com/s/0LMGh5A-tLYGRBXiqVfOUA) | 新智元 | AI |
+| 4 | [鸿蒙7发布后，手机里的App进入智能体时代了](https://mp.weixin.qq.com/s/I_ScUCs7E_Yf8PK4dw4cGw) | 机器之心 | AI |
+| 5 | [开源Editable-Design，让AI生图终于能改字、拖图层](https://mp.weixin.qq.com/s/lI5gjhpTM1sCUKF2qPSw7Q) | 机器之心 | AI |
 
-> 共 76 条，以上为 TOP 5。
+> 共 69 条，以上为 TOP 5。
 
 ---
 
@@ -52,9 +52,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [Show HN: 《飞越乡村》——利用增强现实（AR）技术选择靠窗座位的指南](https://flyovercountry.app/) | flyovercountry.app | 回乡 |
-| 3 | [农村警力缺口如何使逃离家庭暴力变得更加困难](https://phys.org/news/2026-09-rural-policing-gaps-domestic-violence.html) | phys.org | 回乡 |
+| 1 | [聊一聊：不说名字，一句话证明你是哪个品牌的粉丝。](https://mp.weixin.qq.com/s/AdW-9K5WuxHcRAYVwO9V7g) | 差评 | IP |
+| 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 3 | [Show HN: 《飞越乡村》——利用增强现实（AR）技术选择靠窗座位的指南](https://flyovercountry.app/) | flyovercountry.app | 回乡 |
+| 4 | [农村警力缺口如何使逃离家庭暴力变得更加困难](https://phys.org/news/2026-09-rural-policing-gaps-domestic-violence.html) | phys.org | 回乡 |
 
 ---
 
@@ -62,7 +63,7 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [股息与年金：哪种方式能让59万美元带来更高的终身月收入？](https://finance.yahoo.com/markets/stocks/articles/dividends-vs-annuity-turns-590-181214858.html) | finance.yahoo.com | 变现 |
+| 1 | [AI短剧，谁是最赚钱的一环？](https://mp.weixin.qq.com/s/5QdacWXLpeByO5ngWRQBbA) | 钛媒体 | AI/变现 |
 | 2 | [Ask HN: 作为一名自由职业者，在人工智能时代我应该如何向客户收费？](https://news.ycombinator.com/item?id=49766918) | news.ycombinator.com | AI/变现 |
 | 3 | [美国国务院面临压力，被要求披露从委内瑞拉获取的石油收入](https://www.ft.com/content/05887f92-c777-48ab-8efa-9a39e7e18a9f?syn-25a6b1a6=1) | www.ft.com | 变现 |
 
@@ -76,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-19T19:38:26.279Z
-- **总资讯数**：4214 条原始 → 651 条筛选后
+- **聚合时间**：2026-09-19T21:49:24.869Z
+- **总资讯数**：4148 条原始 → 638 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
