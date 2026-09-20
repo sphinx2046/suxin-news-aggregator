@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-09-19（周六）
+# 素心拾穗 · 每日情报 · 2026-09-20（周日）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -25,12 +25,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [0经验转AI产品经理，拿下4OW年薪offer!](https://mp.weixin.qq.com/s/4HC88zeyCr0TRKnLwCym3g) | 人人都是产品经理 | AI |
-| 2 | [AI离“理解万物“还有多远？先拿癌细胞和行星轨道试试水](https://mp.weixin.qq.com/s/vEAA2UBY7w1hj19cY-bY0g) | 量子位 | AI |
-| 3 | [Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins](https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst) | The Verge | AI |
-| 4 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
-| 5 | [How to Make the U.S.-China AI Race Less Dangerous](https://time.com/article/2026/09/18/us-china-ai-race-trump-bessent-lifeng-talks) | TIME Magazine | AI |
+| 2 | [Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins](https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst) | The Verge | AI |
+| 3 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
+| 4 | [How to Make the U.S.-China AI Race Less Dangerous](https://time.com/article/2026/09/18/us-china-ai-race-trump-bessent-lifeng-talks) | TIME Magazine | AI |
+| 5 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | 少数派 · 热门文章 | AI |
 
-> 共 11 条，以上为 TOP 5。
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -40,11 +40,11 @@
 |---|------|------|------|
 | 1 | [谷歌披露RSI最新进展：AI不改模型参数，也能在“梦中”学会自我改进](https://mp.weixin.qq.com/s/HfJcnthdC3FYG4o0lhutvw) | AI前线 | AI |
 | 2 | [云栖大会Skill上线：带着你的Agent来参会](https://mp.weixin.qq.com/s/O1ivsDQi_Mz2JRE7dVeYmg) | 阿里云开发者 | AI |
-| 3 | [ChatGPT杀进Word：免费版也能用，终于可以告别复制粘贴了](https://mp.weixin.qq.com/s/0LMGh5A-tLYGRBXiqVfOUA) | 新智元 | AI |
-| 4 | [鸿蒙7发布后，手机里的App进入智能体时代了](https://mp.weixin.qq.com/s/I_ScUCs7E_Yf8PK4dw4cGw) | 机器之心 | AI |
-| 5 | [开源Editable-Design，让AI生图终于能改字、拖图层](https://mp.weixin.qq.com/s/lI5gjhpTM1sCUKF2qPSw7Q) | 机器之心 | AI |
+| 3 | [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects) | The Verge | AI |
+| 4 | [A startup that builds other startups raised $100M, and is all-in on physical AI](https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai) | TechCrunch | AI |
+| 5 | [Trump announces plans to create an "AI Force"](https://mashable.com/tech/trump-announces-plans-for-military-style-ai-force) | Mashable | AI |
 
-> 共 69 条，以上为 TOP 5。
+> 共 68 条，以上为 TOP 5。
 
 ---
 
@@ -52,8 +52,8 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [聊一聊：不说名字，一句话证明你是哪个品牌的粉丝。](https://mp.weixin.qq.com/s/AdW-9K5WuxHcRAYVwO9V7g) | 差评 | IP |
-| 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 2 | [聊一聊：不说名字，一句话证明你是哪个品牌的粉丝。](https://mp.weixin.qq.com/s/AdW-9K5WuxHcRAYVwO9V7g) | 差评 | IP |
 | 3 | [Show HN: 《飞越乡村》——利用增强现实（AR）技术选择靠窗座位的指南](https://flyovercountry.app/) | flyovercountry.app | 回乡 |
 | 4 | [农村警力缺口如何使逃离家庭暴力变得更加困难](https://phys.org/news/2026-09-rural-policing-gaps-domestic-violence.html) | phys.org | 回乡 |
 
@@ -77,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-19T21:49:24.869Z
-- **总资讯数**：4148 条原始 → 638 条筛选后
+- **聚合时间**：2026-09-19T23:41:18.575Z
+- **总资讯数**：4158 条原始 → 613 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
