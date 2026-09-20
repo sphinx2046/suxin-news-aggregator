@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Scrapboard Cloud 4](https://www.producthunt.com/products/scrapboard-cloud-4) | producthunt | 其他 |
-| 2 | [Aymo AI for Chrome](https://www.producthunt.com/products/aymo-ai) | producthunt | AI |
-| 3 | [Prompts Aren't Real](https://evaluation.club/) | Hacker News | AI |
-| 4 | [Jev Collection](https://academy.dair.ai/resources/jev-field-notes) | Hacker News | 其他 |
-| 5 | [Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 1 | [小米直播大模型训练，两天烧掉800万](https://mp.weixin.qq.com/s/pYlS0CaJk0TH7C-9OEO7oA) | 夕小瑶科技说 | AI |
+| 2 | [OpenAl 详解GPT-Live 架构如何实现了连续的有状态语音交互](https://mp.weixin.qq.com/s/50zVk5LdzZKKx00-Jt4_jw) | AI前线 | AI |
+| 3 | [AI写代码飞快，为何交付没有变快？小红书 Muse的Agentic 架构实践](https://mp.weixin.qq.com/s/t_4whBqeqjpLNt_GmdxO1A) | AI前线 | AI |
+| 4 | [YC 2026Startup 复盘：硬件、数据的都在挣钱，应用团队开始自己..](https://mp.weixin.qq.com/s/tUOxFKGDGTweX193w_JCqA) | FounderPark | 认知 |
+| 5 | [OpenAl 和 Anthropic 都在谈的 RSI，今天走到哪一步了？](https://mp.weixin.qq.com/s/7b8bsJhptOlZdzSZtSIWbw) | FounderPark | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,11 +24,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That](https://www.wired.com/story/how-to-use-memory-in-chatgpt) | Wired | AI |
-| 2 | [Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins](https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst) | The Verge | AI |
-| 3 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
-| 4 | [Vercel, Cloudflare, and others quickly add Jev, as it makes AI tool selection much faster and cheaper; TypeSafe: Jev matches GPT-5.6 and Sonnet 5 workflow evals (Josipa Majic Predin/Forbes)](https://www.techmeme.com/260920/p9) | Techmeme | AI |
-| 5 | [特朗普的科技顾问对担心自己正在开发不安全模型的人工智能公司提出建议：“干脆别干了” / Trump's tech advisor has advice for AI companies worried they're building unsafe models: 'Just stop'](https://www.businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9) | Business Insider | AI |
+| 1 | [完整教程：用GPT-6Astra+Blender从零开始搭建一个3D手势交互机器人](https://mp.weixin.qq.com/s/SbCIASY9jD0145CvR6HoGw) | 夕小瑶科技说 | AI |
+| 2 | [大厂疯抢AI人才，产品起薪3OK！0经验如何快速入行？](https://mp.weixin.qq.com/s/ArHHAmE2AdOzPprXf1hwGw) | 人人都是产品经理 | AI |
+| 3 | [What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That](https://www.wired.com/story/how-to-use-memory-in-chatgpt) | Wired | AI |
+| 4 | [How to use ChatGPT to make stickers for iMessage and WhatsApp](https://www.engadget.com/2255727/how-to-use-chatgpt-make-stickers-imessage-whatsapp) | Engadget | AI |
+| 5 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
 
 > 共 13 条，以上为 TOP 5。
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects) | The Verge | AI |
-| 2 | [Apple’s new chief executive built up to unveiling the ideal AI device, then said it was the iPhone.](https://thenextweb.com/news/ternus-ideal-ai-device-is-the-iphone-j490-hub) | The Next Web | AI |
-| 3 | [Anthropic is paying the firm that will evaluate it, and says in the same announcement that this is not how it should work.](https://thenextweb.com/news/anthropic-is-paying-the-firm-that-will-evaluate-it-and-says-in-the-same-announcement-that-this-is-not-how-it-should-work) | The Next Web | AI |
-| 4 | [Trump and Xi already talked AI guardrails once this year. Nothing was signed, and no chips shipped.](https://thenextweb.com/news/xi-white-house-dinner-ai-ceos-guardrails-chips-not-moving) | The Next Web | AI |
-| 5 | [美国联邦航空管理局（FAA）推出8.75亿美元的人工智能工具，以协助管理空中交通拥堵 / FAA tees up $875M AI tool to help manage air traffic congestion](https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion) | Ars Technica | AI |
+| 1 | [不踩点不微调！Figure最新模型盲测30个家庭：首次实现零样本全身泛化](https://mp.weixin.qq.com/s/S46WiQwqy6Jd3YMT1uE3RA) | AI前线 | AI |
+| 2 | [智谱ZCode被曝偷传代码，官方道歉并补偿；MiniMax Code CLI开源...](https://mp.weixin.qq.com/s/l10gGLWTCAzccjbn-sOqDg) | AI前线 | AI |
+| 3 | [AetherAI发布首个因果世界模型，世界模型开始思考“行动背后的因果...](https://mp.weixin.qq.com/s/8RRhRknOEvsq8IDVxhgu6A) | 甲子光年 | AI |
+| 4 | [伊朗已向美方提出谈判条件：Anthropic据悉将发布新AI模型|...](https://mp.weixin.qq.com/s/sHexjhamnO-IHw9gRXwllw) | 钛媒体 | AI |
+| 5 | [EMNLP2026|浙大LongDS发布v1.1，GPT-6Astra领跑长程数据分析Lite榜](https://mp.weixin.qq.com/s/_AKR2z98cmqZdLB1uCyz-A) | PaperWeekly | AI |
 
-> 共 44 条，以上为 TOP 5。
+> 共 48 条，以上为 TOP 5。
 
 ---
 
@@ -58,7 +58,7 @@
 | 4 | [农业农村部：大力推进“人工智能 +”农业，拓展无人机、物联网等应用场景](https://www.ithome.com/1/004/956.htm) | IT之家 (ITHome) | AI/回乡 |
 | 5 | [我原以为自己想要的是“美国梦”。但搬到西班牙的一个小城市后，我改变了主意。](https://www.businessinsider.com/moved-north-carolina-to-spain-valencia-american-dream-2026-9) | www.businessinsider.com | 回乡 |
 
-> 共 9 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -66,8 +66,7 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [他于12月将12万美元转入罗斯账户，并于4月缴纳了税款。美国国税局却追溯至前一年的4月，对他尚未获得的收入处以欠缴税款罚金。只需一份表格即可免除该罚金](https://finance.yahoo.com/markets/options/articles/converted-120-000-roth-december-191531128.html) | finance.yahoo.com | 变现 |
-| 2 | [AI短剧，谁是最赚钱的一环？](https://mp.weixin.qq.com/s/5QdacWXLpeByO5ngWRQBbA) | 钛媒体 | AI/变现 |
+| 1 | [Bitdeer (BTDR) 已完全签订 A102 合约。已签署的需求能否转化为盈利的 AI 收入？](https://finance.yahoo.com/technology/ai/articles/bitdeer-btdr-fully-contracts-a102-210458313.html) | finance.yahoo.com | AI/变现 |
 
 ---
 
@@ -79,8 +78,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-20T19:52:22.845Z
-- **总资讯数**：4158 条原始 → 576 条筛选后
+- **聚合时间**：2026-09-20T21:57:26.463Z
+- **总资讯数**：4150 条原始 → 615 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
