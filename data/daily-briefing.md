@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [突发！OpenAI官宣24天攻破100+世界级数学难题](https://aiera.com.cn/asi-post.html?id=115148) | 新智元 | AI |
-| 2 | [刚刚，中国AI占领全球前四！](https://aiera.com.cn/asi-post.html?id=115114) | 新智元 | AI |
-| 3 | [北京第一，杭州深圳进入前三！中国AI行业大洗牌了](https://aiera.com.cn/asi-post.html?id=115038) | 新智元 | AI |
+| 1 | [The Download: why AI's latest breakthroughs and fears may be more hype than rea](https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype) | Hacker News | AI |
+| 2 | [我受够这破事了 / I am done with this shit](https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit) | Hacker News | 其他 |
+| 3 | [用25行Python代码实现Jev / Jev in 25 Lines of Python](https://www.nobodywho.ai/posts/jev-in-25-lines) | Hacker News | 其他 |
 | 4 | [The new CC, an AI agent built for families](https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups) | Hacker News | AI |
-| 5 | [The current balance of power in open models](https://www.interconnects.ai/p/the-current-balance-of-power-in-open) | Hacker News | 其他 |
+| 5 | [Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight](https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system) | Wired | AI |
-| 2 | [How to Use AI With Your Privacy Intact](https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact) | Wired | AI |
-| 3 | [The AI boom runs on tens of millions of workers nobody has figured out how to pay, Papaya Global wants to fix that.](https://thenextweb.com/news/papaya-global-ai-workforce-infrastructure-payroll) | The Next Web | AI |
-| 4 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
-| 5 | [Alibaba says it plans to build its first cloud regions in Turkey, Finland, and the Netherlands over the next 12 months, amid escalating US-China AI tensions (Bloomberg)](https://www.techmeme.com/260922/p61) | Techmeme | AI |
+| 1 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
+| 2 | [Customize your AI generated website: A step-by-step guide](https://www.techradar.com/pro/customize-your-ai-generated-website-a-step-by-step-guide) | TechRadar | AI |
+| 3 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | 少数派 · 热门文章 | AI |
+| 4 | [本地图库语义搜索实战：接上蓝耘元生代，让"傍晚的海边"能搜到图](https://juejin.cn/post/7687331138987196425) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [电商资料包合规体检实战：用蓝耘元生代把 20 分钟人工核验压成一分半](https://juejin.cn/post/7686361321609887790) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 18 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [GPT-6 Sol被曝即将发布？内部「AGI」已浮出水面](https://aiera.com.cn/asi-post.html?id=115170) | 新智元 | AI |
-| 2 | [OpenAI内部曝光：AI开始自己造AI！奥特曼急发全球暂停令](https://aiera.com.cn/asi-post.html?id=115056) | 新智元 | AI |
-| 3 | [ChatGPT版Grok Bot代码曝光！OpenAI也要为你造不下班的AI同事](https://aiera.com.cn/asi-post.html?id=115014) | 新智元 | AI |
-| 4 | [Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity) | The Verge | AI |
-| 5 | [Qualcomm launches two new smartphone chips with emphasis on AI](https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai) | TechCrunch | AI |
+| 1 | [OpenAI nabs key Patreon execs ahead of upcoming announcement](https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam) | The Verge | AI |
+| 2 | [Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity) | The Verge | AI |
+| 3 | [Ema raises $77M as AI starts eating into enterprise software and services](https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services) | TechCrunch | AI |
+| 4 | [Qualcomm launches two new smartphone chips with emphasis on AI](https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai) | TechCrunch | AI |
+| 5 | [OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes](https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna) | TechCrunch | AI |
 
-> 共 60 条，以上为 TOP 5。
+> 共 65 条，以上为 TOP 5。
 
 ---
 
@@ -53,9 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [农村“外嫁女”失地之困](https://www.huxiu.com/article/4893448.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
-| 3 | [博主借“车主工程师”身份造谣带货，零跑汽车法务部起诉索赔 1 元](https://www.ithome.com/1/006/203.htm) | IT之家 (ITHome) | IP |
-| 4 | [韩流正押注于人工智能和机器人。粉丝们会买账吗？](https://on.wsj.com/4Ax7hgk) | on.wsj.com | AI/IP |
+| 2 | [OpenAI 挖角 Patreon 三名核心高管，发力创作者商业化赛道](https://www.ithome.com/1/006/414.htm) | IT之家 (ITHome) | AI/IP |
+| 3 | [中国农村地区正崛起出一片崭新的数据中心天际线](https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | 回乡 |
+| 4 | [[推广] 免费试用获得流量](https://www.v2ex.com/t/1244308) | V2EX (创意工作者社区) | IP |
+| 5 | [农村“外嫁女”失地之困](https://www.huxiu.com/article/4893448.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -63,11 +66,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Dollar General首席执行官就通胀和年收入10万美元人群发表犀利观点](https://finance.yahoo.com/economy/articles/dollar-general-ceo-drops-hot-191300040.html) | finance.yahoo.com | 变现 |
-| 2 | [马斯克预测十年内至少有 10 亿台人形机器人，未来会诞生大量“一人公司”](https://www.ithome.com/1/006/217.htm) | IT之家 (ITHome) | 变现 |
-| 3 | [教育部：我国基础教育达到高收入国家平均水平，接受过高等教育的人口达 2.7 亿](https://www.ithome.com/1/006/090.htm) | IT之家 (ITHome) | 变现 |
-| 4 | [Ask HN: 你的副业曾发展到足以养活自己的程度吗？](https://news.ycombinator.com/item?id=49804148) | news.ycombinator.com | 变现 |
-| 5 | [我通过“答应”建立了自由职业生涯。现在，我正在学习何时该拒绝。](https://www.businessinsider.com/built-career-by-saying-yes-changing-strategy-2026-9) | www.businessinsider.com | 变现 |
+| 1 | [IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水](https://juejin.cn/post/7687493428759117875) | juejin | AI/变现 |
+| 2 | [[商业模式] Muse 是不是抄了 Manus？](https://www.v2ex.com/t/1244324) | V2EX (创意工作者社区) | 变现 |
+| 3 | [中国社会科学院大学李晓华：一人公司最核心的能力是什么？](https://www.huxiu.com/article/4893468.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
 
 ---
 
@@ -79,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-23T07:02:23.584Z
-- **总资讯数**：4393 条原始 → 695 条筛选后
+- **聚合时间**：2026-09-23T13:03:20.990Z
+- **总资讯数**：4480 条原始 → 696 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
