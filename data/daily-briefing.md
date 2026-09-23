@@ -13,8 +13,8 @@
 | 1 | [突发！OpenAI官宣24天攻破100+世界级数学难题](https://aiera.com.cn/asi-post.html?id=115148) | 新智元 | AI |
 | 2 | [刚刚，中国AI占领全球前四！](https://aiera.com.cn/asi-post.html?id=115114) | 新智元 | AI |
 | 3 | [北京第一，杭州深圳进入前三！中国AI行业大洗牌了](https://aiera.com.cn/asi-post.html?id=115038) | 新智元 | AI |
-| 4 | [让Al来解决缓存不一致，Spec要怎么写？(6/100)](https://mp.weixin.qq.com/s/vO20rffrvhzyCtjigHVmqA) | 架构师之路 | 其他 |
-| 5 | [AI时代，让AI写缓存，spec怎么写(5/100)](https://mp.weixin.qq.com/s/pXAznRuoQKr5qgbPzeBDIQ) | 架构师之路 | AI |
+| 4 | [The new CC, an AI agent built for families](https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups) | Hacker News | AI |
+| 5 | [The current balance of power in open models](https://www.interconnects.ai/p/the-current-balance-of-power-in-open) | Hacker News | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,11 +24,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [聊聊我的AI学习方法与思考！](https://juejin.cn/post/7687505412876075008) | juejin | AI/认知 |
-| 2 | [GrokBot 核心成员 Lauren Tan：每月交付 2000 个 PR 的人，是怎么用 AI 的](https://juejin.cn/post/7687032811338891302) | juejin | AI |
-| 3 | [A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight](https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system) | Wired | AI |
-| 4 | [How to Use AI With Your Privacy Intact](https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact) | Wired | AI |
-| 5 | [The AI boom runs on tens of millions of workers nobody has figured out how to pay, Papaya Global wants to fix that.](https://thenextweb.com/news/papaya-global-ai-workforce-infrastructure-payroll) | The Next Web | AI |
+| 1 | [A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight](https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system) | Wired | AI |
+| 2 | [How to Use AI With Your Privacy Intact](https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact) | Wired | AI |
+| 3 | [The AI boom runs on tens of millions of workers nobody has figured out how to pay, Papaya Global wants to fix that.](https://thenextweb.com/news/papaya-global-ai-workforce-infrastructure-payroll) | The Next Web | AI |
+| 4 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
+| 5 | [Alibaba says it plans to build its first cloud regions in Turkey, Finland, and the Netherlands over the next 12 months, amid escalating US-China AI tensions (Bloomberg)](https://www.techmeme.com/260922/p61) | Techmeme | AI |
 
 > 共 18 条，以上为 TOP 5。
 
@@ -41,10 +41,10 @@
 | 1 | [GPT-6 Sol被曝即将发布？内部「AGI」已浮出水面](https://aiera.com.cn/asi-post.html?id=115170) | 新智元 | AI |
 | 2 | [OpenAI内部曝光：AI开始自己造AI！奥特曼急发全球暂停令](https://aiera.com.cn/asi-post.html?id=115056) | 新智元 | AI |
 | 3 | [ChatGPT版Grok Bot代码曝光！OpenAI也要为你造不下班的AI同事](https://aiera.com.cn/asi-post.html?id=115014) | 新智元 | AI |
-| 4 | [ClaudeOpus5.5发布！爆杀Fable，便宜60%](https://mp.weixin.qq.com/s/KFjb2fHjorVE8O1ZjoM0-g) | 夕小瑶科技说 | AI |
-| 5 | [罗福莉押注大规模RL、小米最强开源模型亮相：6天烧掉2000多万，多...](https://mp.weixin.qq.com/s/aP1Wg_91Ee_ZZmibk5qGzw) | AI前线 | AI |
+| 4 | [Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity) | The Verge | AI |
+| 5 | [Qualcomm launches two new smartphone chips with emphasis on AI](https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai) | TechCrunch | AI |
 
-> 共 73 条，以上为 TOP 5。
+> 共 60 条，以上为 TOP 5。
 
 ---
 
@@ -53,8 +53,9 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [冠军赛艇手称，布里斯班2032年奥运会赛艇项目有沦为“乡村赛艇大会”的风险](https://www.reuters.com/sports/champion-oarsman-says-brisbane-2032-rowing-risks-becoming-country-regatta-2026-09-18) | www.reuters.com | 回乡 |
-| 3 | [韩流正押注于人工智能和机器人。粉丝们会买账吗？](https://on.wsj.com/4Ax7hgk) | on.wsj.com | AI/IP |
+| 2 | [农村“外嫁女”失地之困](https://www.huxiu.com/article/4893448.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 3 | [博主借“车主工程师”身份造谣带货，零跑汽车法务部起诉索赔 1 元](https://www.ithome.com/1/006/203.htm) | IT之家 (ITHome) | IP |
+| 4 | [韩流正押注于人工智能和机器人。粉丝们会买账吗？](https://on.wsj.com/4Ax7hgk) | on.wsj.com | AI/IP |
 
 ---
 
@@ -62,9 +63,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水](https://juejin.cn/post/7687493428759117875) | juejin | AI/变现 |
-| 2 | [Ask HN: 你的副业曾发展到足以养活自己的程度吗？](https://news.ycombinator.com/item?id=49804148) | news.ycombinator.com | 变现 |
-| 3 | [我通过“答应”建立了自由职业生涯。现在，我正在学习何时该拒绝。](https://www.businessinsider.com/built-career-by-saying-yes-changing-strategy-2026-9) | www.businessinsider.com | 变现 |
+| 1 | [Dollar General首席执行官就通胀和年收入10万美元人群发表犀利观点](https://finance.yahoo.com/economy/articles/dollar-general-ceo-drops-hot-191300040.html) | finance.yahoo.com | 变现 |
+| 2 | [马斯克预测十年内至少有 10 亿台人形机器人，未来会诞生大量“一人公司”](https://www.ithome.com/1/006/217.htm) | IT之家 (ITHome) | 变现 |
+| 3 | [教育部：我国基础教育达到高收入国家平均水平，接受过高等教育的人口达 2.7 亿](https://www.ithome.com/1/006/090.htm) | IT之家 (ITHome) | 变现 |
+| 4 | [Ask HN: 你的副业曾发展到足以养活自己的程度吗？](https://news.ycombinator.com/item?id=49804148) | news.ycombinator.com | 变现 |
+| 5 | [我通过“答应”建立了自由职业生涯。现在，我正在学习何时该拒绝。](https://www.businessinsider.com/built-career-by-saying-yes-changing-strategy-2026-9) | www.businessinsider.com | 变现 |
 
 ---
 
@@ -76,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-23T01:57:06.610Z
-- **总资讯数**：4366 条原始 → 706 条筛选后
+- **聚合时间**：2026-09-23T07:02:23.584Z
+- **总资讯数**：4393 条原始 → 695 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
