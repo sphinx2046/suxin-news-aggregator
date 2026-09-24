@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [确认裁员22000人，赔偿N+4！](https://mp.weixin.qq.com/s/XmbHOgHgx9MBmBLwOxE3Pw) | 架构师之路 | 其他 |
-| 2 | [AI时代，让Al写缓存，spec怎么写(5/100)](https://mp.weixin.qq.com/s/pXAznRuoQKr5qgbPzeBDIQ) | 架构师之路 | AI |
-| 3 | [实测MiMo-V2.6，国模审美开始上强度了](https://mp.weixin.qq.com/s/eevgXKJMzdxL0KYmCCO6yA) | 夕小瑶科技说 | 其他 |
-| 4 | [修仙、互怼、演志怪：千问语音模型真实测评](https://mp.weixin.qq.com/s/2Pr8FyAS7-HjaYAIqBVQ7g) | AI前线 | AI |
-| 5 | [计思路](https://mp.weixin.qq.com/s/7gNCPOiz_oQgJfT1zb9DcA) | AI前线 | AI |
+| 1 | [19个AI血战《星际争霸》！GPT-6全胜，照样打不过人类新手](https://aiera.com.cn/asi-post.html?id=115274) | 新智元 | AI |
+| 2 | [罗福莉带小米登顶全球开源榜首！大规模RL立功，斩杀Grok 4.7](https://aiera.com.cn/asi-post.html?id=115245) | 新智元 | 其他 |
+| 3 | [「一人剧组」杀疯了！LibTV 1.5，一下午拍完一集爆款AI漫剧](https://aiera.com.cn/asi-post.html?id=115197) | 新智元 | AI |
+| 4 | [Jev是什么？哑巴模型居然全网爆火](https://juejin.cn/post/7687630544474701870) | juejin | AI |
+| 5 | [Spring AI、LangChain4j、AgentScope、Embabel，哪个AI框架更好？](https://juejin.cn/post/7687440193649033222) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI缺电，意外捧红了一家山东油田设备厂|【经纬低调分享】](https://mp.weixin.qq.com/s/hEDzniXpGpKTQtgBe1ggdA) | 经纬创投 | AI |
-| 2 | [聊聊我的AI学习方法与思考！](https://juejin.cn/post/7687505412876075008) | juejin | AI/认知 |
-| 3 | [知识库已经有了，Java 程序员还要做什么？Spring AI RAG 实战](https://juejin.cn/post/7687176748632293419) | juejin | AI |
-| 4 | [YouTube is building AI creator tools that do almost everything for them](https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests) | The Verge | AI |
-| 5 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
+| 1 | [知识库已经有了，Java 程序员还要做什么？Spring AI RAG 实战](https://juejin.cn/post/7687176748632293419) | juejin | AI |
+| 2 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
+| 3 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | 少数派 · 热门文章 | AI |
+| 4 | [本地图库语义搜索实战：接上蓝耘元生代，让"傍晚的海边"能搜到图](https://juejin.cn/post/7687331138987196425) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [电商资料包合规体检实战：用蓝耘元生代把 20 分钟人工核验压成一分半](https://juejin.cn/post/7686361321609887790) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 16 条，以上为 TOP 5。
+> 共 14 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [刚刚，GPT-6 Sol和Luna正式上线，比DeepSeek闲时价还便宜](https://mp.weixin.qq.com/s/mVOL5Wsjabf-5s29jTxMOg) | 夕小瑶科技说 | AI |
-| 2 | [Claude Opus 5.5发布！爆杀Fable，便宜60%](https://mp.weixin.qq.com/s/KFjb2fHjorVE8O1ZjoM0-g) | 夕小瑶科技说 | AI |
-| 3 | [刚刚，Claude Opus 5.5 发布：一天内迁移68 万行代码，单任务成本...](https://mp.weixin.qq.com/s/cqLAQYWQkoVTPk6JiVyLsA) | AI前线 | AI |
-| 4 | [突发！Claude、GPT同时发布新模型](https://mp.weixin.qq.com/s/JDV9LTZrQ2HRMDxBi4zKWg) | 人人都是产品经理 | AI |
-| 5 | [OpenAl和Anthropic开打"价格战"，同日推出"廉价模型"](https://mp.weixin.qq.com/s/tVl2Y85VAUtvK7MhEWWPOA) | 华尔街见闻 | AI |
+| 1 | [Qoder发布“项目”和“讨论”功能，支持多人与Agent协作](https://aiera.com.cn/asi-post.html?id=115285) | 新智元 | AI |
+| 2 | [Meta刚登顶，千问就交卷！3亿人的个人AI助理要来了](https://aiera.com.cn/asi-post.html?id=115258) | 新智元 | AI |
+| 3 | [Claude Opus 5.5深夜发布，减价40%！大语言模型正式开始吞噬多模态](https://aiera.com.cn/asi-post.html?id=115222) | 新智元 | AI |
+| 4 | [Andreessen Horowitz Launches AI/Company-Building School As a College Alternative](https://news.slashdot.org/story/26/09/23/0625203/andreessen-horowitz-launches-aicompany-building-school-as-a-college-alternative) | Slashdot | AI |
+| 5 | [Meta to release Muse Charm, a Tamagotchi-like device for the Muse AI agent](https://mashable.com/tech/muse-charm-reveal-meta-connect-2026) | Mashable | AI |
 
-> 共 69 条，以上为 TOP 5。
+> 共 62 条，以上为 TOP 5。
 
 ---
 
@@ -52,13 +52,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [流量成本攀升，品牌信任为什么是跨境电商的终极壁垒？超级会氪...](https://mp.weixin.qq.com/s/rEHaJC9h0qgBtM-EdwzPYw) | 36氪Pro | IP |
-| 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 3 | [从幕后到台前：三个晋江中腰部作者的流量自救之路](https://www.huxiu.com/article/4893607.html?f=rss) | 虎嗅 (Huxiu) | IP |
-| 4 | [县城棋牌室，挤满无处可去的年轻人](https://mp.weixin.qq.com/s/_sSg5xgC5spHe_qRxT2Axg) | 36氪 | 回乡 |
-| 5 | [YouTube表示，新的人工智能工具将帮助创作者，而非取代他们](https://www.bloomberg.com/news/articles/2026-09-23/youtube-says-new-ai-tools-will-help-creators-not-replace-them) | www.bloomberg.com | AI/IP |
+| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 2 | [乡村日记：蜗牛又回来了，要占领我的花园——还留下了一件小小的艺术品 乔西·乔治](https://www.theguardian.com/environment/2026/sep/24/country-diary-the-snails-are-back-to-reclaim-my-garden-and-leave-behind-a-little-artwork) | www.theguardian.com | 回乡 |
+| 3 | [今年十一，县城没人结婚了](https://www.huxiu.com/article/4893730.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 4 | [流量成本攀升，品牌信任为什么是跨境电商的终极壁垒？超级会氪...](https://mp.weixin.qq.com/s/rEHaJC9h0qgBtM-EdwzPYw) | 36氪Pro | IP |
+| 5 | [从幕后到台前：三个晋江中腰部作者的流量自救之路](https://www.huxiu.com/article/4893607.html?f=rss) | 虎嗅 (Huxiu) | IP |
 
-> 共 6 条，以上为 TOP 5。
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -66,8 +66,8 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水](https://juejin.cn/post/7687493428759117875) | juejin | AI/变现 |
-| 2 | [如果每月存1,000美元，需要多长时间才能实现每月1,600美元的股息收入？](https://finance.yahoo.com/markets/stocks/articles/long-does-build-1-600-150132748.html) | finance.yahoo.com | 变现 |
+| 1 | [乌克兰战争简报：莫斯科猛烈抨击基辅，泽连斯基则敦促联合国各国领导人继续切断俄罗斯的收入来源](https://www.theguardian.com/world/2026/sep/24/ukraine-war-briefing-kyiv-attacked-zelenskyy-urges-united-nations-choke-russia-revenues) | www.theguardian.com | 变现 |
+| 2 | [泽连斯基在联合国呼吁各国领导人继续切断俄罗斯的收入来源，并阻碍其战争行动 - AP News](https://news.google.com/rss/articles/CBMingFBVV95cUxNdFp6UGxFQ2ZuSExJX0xzaWdjNWRsWDh5MjZ3dlNfT1hFbUxSRE9LaVhlckN6UXZlTGtXU21WdEUxZFpXem1NSXYxVV9raG11X0ZxMmg4eDFwN0dOTWR5VHBERDZtOEJVM0xQeWZ5M09SamJYeE5VUE5ud3I4elRidjdvd1NlXzRQd1Axb05abkk4UndESDE1MlVBZDZ4UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
 | 3 | [别再搞副业了。没人会在乎——以下是这令人不舒服的计算结果。](https://dev.to/infoinlet1/stop-building-side-projects-nobody-cares-and-heres-the-uncomfortable-math-1eoc) | dev.to | 变现 |
 
 ---
@@ -80,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-24T00:02:30.206Z
-- **总资讯数**：4376 条原始 → 707 条筛选后
+- **聚合时间**：2026-09-24T06:49:59.445Z
+- **总资讯数**：4469 条原始 → 726 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
