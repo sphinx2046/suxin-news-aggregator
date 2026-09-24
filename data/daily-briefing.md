@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [The newest ESP32 can run Linux and it's getting close to a Raspberry Pi](https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi) | Hacker News | 其他 |
-| 2 | [Looks promising for document editing with your agent](https://www.paperinstruments.com/blog/introducing-paper-office) | Hacker News | AI |
-| 3 | [AI has no intent and no motivation](https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html) | Hacker News | AI |
-| 4 | [Meta在Meta总部完成拍摄后，下架了一段批评Meta AI眼镜的视频 / Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai) | Hacker News | AI |
-| 5 | [Can open-source prompt-injection detectors catch realistic AI agent attacks?](https://github.com/rudratoshs/buried-injections) | Hacker News | AI |
+| 1 | [微信开源了一个神级知识库项目](https://juejin.cn/post/7688628566758555698) | juejin | 其他 |
+| 2 | [16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测](https://juejin.cn/post/7687509634027831348) | juejin | AI |
+| 3 | [一个人 + AI 做的小程序，一个半月把服务器钱赚回来一半了](https://juejin.cn/post/7688300268687130650) | juejin | AI |
+| 4 | [ZCode 开源 24 小时：一份没有历史的账本，回答不了"有没有偷代码"](https://juejin.cn/post/7688252916676231168) | juejin | 其他 |
+| 5 | [做了近两年的Agent开发，其实真正要学的就是这五件事](https://juejin.cn/post/7688159506154209321) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
-| 2 | [Brookings projects US AI spending to total $10.3T between 2025 and 2032, averaging 3.6% of GDP per year, the largest single-industry build-out as a share of GDP (Wall Street Journal)](https://www.techmeme.com/260924/p13) | Techmeme | AI |
-| 3 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | 少数派 · 热门文章 | AI |
-| 4 | [本地图库语义搜索实战：接上蓝耘元生代，让"傍晚的海边"能搜到图](https://juejin.cn/post/7687331138987196425) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！](https://juejin.cn/post/7688238990706016283) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [我用 Go 搭了一条 AI Agent 流水线：从 1 张商品图到一整套淘宝详情页](https://juejin.cn/post/7687943158864887843) | juejin | AI |
+| 2 | [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://juejin.cn/post/7688009718430662666) | juejin | AI |
+| 3 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | sspai | AI |
+| 4 | [Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026) | TechCrunch | AI |
+| 5 | [TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it](https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it) | TechCrunch | AI |
 
-> 共 12 条，以上为 TOP 5。
+> 共 16 条，以上为 TOP 5。
 
 ---
 
@@ -39,10 +39,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”](https://aiera.com.cn/asi-post.html?id=115290) | 新智元 | AI |
-| 2 | [Andreessen Horowitz Launches AI/Company-Building School As a College Alternative](https://news.slashdot.org/story/26/09/23/0625203/andreessen-horowitz-launches-aicompany-building-school-as-a-college-alternative) | Slashdot | AI |
-| 3 | [Hasbro classics meet AI: EverBoard launches exclusively at Best Buy this holiday season](https://mashable.com/entertainment/everboard-digital-gameboard-best-buy-launch) | Mashable | AI |
-| 4 | [Meta unveils $1,299 VR glasses and turns its AI glasses into hearing aids](https://thenextweb.com/news/meta-vr-glasses-hearing-aid-connect-2026) | The Next Web | AI |
-| 5 | [YouTube 承诺将于今年晚些时候推出个性化信息流以及更多人工智能功能 / YouTube promises custom feeds and a lot more AI later this year](https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year) | Ars Technica | AI |
+| 2 | [适合各种预算的最佳LLM，每日更新 / Best LLM for every budget, updated daily](https://bestmodelforyourbudget.terrydjony.com/) | Hacker News | AI |
+| 3 | [Andreessen Horowitz Launches AI/Company-Building School As a College Alternative](https://news.slashdot.org/story/26/09/23/0625203/andreessen-horowitz-launches-aicompany-building-school-as-a-college-alternative) | Slashdot | AI |
+| 4 | [Google will launch its first AI chips into orbit next week](https://thenextweb.com/news/google-project-suncatcher-first-tpu-launch) | The Next Web | AI |
+| 5 | [AWS says almost 90% of Amazon’s early AI agent prototypes never shipped](https://thenextweb.com/news/aws-swami-sivasubramanian-ai-agents-production-kiro-humanx) | The Next Web | AI |
 
 > 共 57 条，以上为 TOP 5。
 
@@ -53,10 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [今年十一，县城没人结婚了](https://www.huxiu.com/article/4893730.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
-| 3 | [流量成本攀升，品牌信任为什么是跨境电商的终极壁垒？超级会氪...](https://mp.weixin.qq.com/s/rEHaJC9h0qgBtM-EdwzPYw) | 36氪Pro | IP |
-| 4 | [从幕后到台前：三个晋江中腰部作者的流量自救之路](https://www.huxiu.com/article/4893607.html?f=rss) | 虎嗅 (Huxiu) | IP |
-| 5 | [县城棋牌室，挤满无处可去的年轻人](https://mp.weixin.qq.com/s/_sSg5xgC5spHe_qRxT2Axg) | 36氪 | 回乡 |
+| 2 | [智利总统希望委内瑞拉局势好转，让移民返乡](https://www.bloomberg.com/news/articles/2026-09-24/chile-president-hopes-venezuela-recovers-bringing-migrants-home) | www.bloomberg.com | 回乡 |
+| 3 | [特朗普的中国国宴将宾客们家乡的特色菜肴列入了菜单 - The Washington Post](https://news.google.com/read/CBMirwFBVV95cUxNcUlfNFJLQXFYOWxjbWFFRDdST3N2N2tXN2dWaVJQakNKVzRLYURQQXN1Q2d0Q01nUkxaTVNnejBOemU2RmJTbWl1a1lyZUd6a1FpSzMtc2VnWkFvY0FOY1ptYWxjbmk2T0c3NzFNN2Vydjk0bEpQemJkQjlkMV9tRm04VXN0cU5yZHE2NWhicl90SWVYSjNDb2ZxcEpUcERDeTVCRURCbGxnV1l0WVhV?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 回乡 |
+| 4 | [喜欢在YouTube上看体育视频的年轻粉丝们总爱窝在沙发上](https://www.nature.com/articles/d41586-026-02989-1) | www.nature.com | IP |
+| 5 | [流量成本攀升，品牌信任为什么是跨境电商的终极壁垒？超级会氪...](https://mp.weixin.qq.com/s/rEHaJC9h0qgBtM-EdwzPYw) | 36氪Pro | IP |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -64,11 +66,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [当人工智能给埃森哲（ACN）的商业模式带来压力时，该公司能否从人工智能安全领域获利？](https://finance.yahoo.com/technology/ai/articles/accenture-acn-profit-ai-safety-051220155.html) | finance.yahoo.com | AI/变现 |
-| 2 | [[推广] 适合独立开发者的阿里云账号无影云电脑与 OSS 云监控高效配置方案](https://www.v2ex.com/t/1244645) | V2EX (创意工作者社区) | 变现 |
-| 3 | [随着利润激增，英国银行税收入跃升20%](https://www.ft.com/content/c9ae9433-50e0-4711-90fa-d1e5aeb15eaf?syn-25a6b1a6=1) | www.ft.com | 变现 |
-| 4 | [AI漫剧不赚钱？好问题，我们看看八九十年代的日本动画是怎么破局的？](https://www.huxiu.com/article/4893826.html?f=rss) | 虎嗅 (Huxiu) | AI/变现 |
-| 5 | [别再搞副业了。没人会在乎——以下是这令人不舒服的计算结果。](https://dev.to/infoinlet1/stop-building-side-projects-nobody-cares-and-heres-the-uncomfortable-math-1eoc) | dev.to | 变现 |
+| 1 | [没有学士学位的成年人收入最高的州——以及收入最低的州](https://www.businessinsider.com/us-states-no-bachelors-degree-median-earnings-ranked) | www.businessinsider.com | 变现 |
+| 2 | [当人工智能给埃森哲（ACN）的商业模式带来压力时，该公司能否从人工智能安全领域获利？](https://finance.yahoo.com/technology/ai/articles/accenture-acn-profit-ai-safety-051220155.html) | finance.yahoo.com | AI/变现 |
+| 3 | [[推广] 适合独立开发者的阿里云账号无影云电脑与 OSS 云监控高效配置方案](https://www.v2ex.com/t/1244645) | V2EX (创意工作者社区) | 变现 |
+| 4 | [随着利润激增，英国银行税收入跃升20%](https://www.ft.com/content/c9ae9433-50e0-4711-90fa-d1e5aeb15eaf?syn-25a6b1a6=1) | www.ft.com | 变现 |
 
 ---
 
@@ -80,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-24T12:56:25.387Z
-- **总资讯数**：4508 条原始 → 739 条筛选后
+- **聚合时间**：2026-09-24T18:00:56.422Z
+- **总资讯数**：4378 条原始 → 718 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
