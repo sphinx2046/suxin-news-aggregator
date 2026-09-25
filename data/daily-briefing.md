@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-09-24（周四）
+# 素心拾穗 · 每日情报 · 2026-09-25（周五）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [为什么我对Vibe Coding软件毫无兴趣](https://mp.weixin.qq.com/s/QTFKdfM8UjFxrW555L0PnA) | 产品犬舍 | 其他 |
-| 2 | [Al时代，让Al写缓存，spec怎么写(5/100)](https://mp.weixin.qq.com/s/pXAznRuoQKr5qgbPzeBDIQ) | 架构师之路 | 其他 |
-| 3 | [DeepSeek首次公开V4.1Agent训练”大本营”，梁文锋署名](https://mp.weixin.qq.com/s/XsSSwonygjXpezYttW-T-g) | AI前线 | AI |
-| 4 | [Agent 开始接管现实任务，边缘计算需要接住什么？](https://mp.weixin.qq.com/s/j-ZfYhEY_0j3PSnGDJ1Jvg) | AI前线 | AI |
-| 5 | [招商银行训推一体云原生参考架构实践](https://mp.weixin.qq.com/s/Kql_u0zsbnN-P_g7n3DK0g) | AI前线 | AI |
+| 1 | [GPT-6缓存输入最高省九成，你的账单为啥没打一折？](https://aiera.com.cn/asi-post.html?id=115448) | 新智元 | AI |
+| 2 | [刚刚，Claude发现神秘DNA系统！狂烧21 亿Token挖出「上帝手术刀」](https://aiera.com.cn/asi-post.html?id=115435) | 新智元 | AI |
+| 3 | [力压GPT-6，中国物理AI黑马登顶第一！](https://aiera.com.cn/asi-post.html?id=115415) | 新智元 | AI |
+| 4 | [中文用户全线中招！Claude网页限速，只因回复里有汉字](https://aiera.com.cn/asi-post.html?id=115403) | 新智元 | AI |
+| 5 | [三榜第一，完胜GPT-6！中国物理RSI杀出黑马](https://aiera.com.cn/asi-post.html?id=115386) | 新智元 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [电力成算力新约束，看华为如何用“源网荷储AIDC”解题甲子光年](https://mp.weixin.qq.com/s/Qnet0H9XmldvEHUho8g-JQ) | 甲子光年 | AI |
-| 2 | [斯坦福开学演讲：AI越强，人越要学会这三件事|【经纬低调分享】](https://mp.weixin.qq.com/s/iNZ4OHseJAN8WAhZJcX9Gw) | 经纬创投 | AI |
-| 3 | [Vibe Coding Production Kit – a production workflow for AI coding agents](https://github.com/Moeeryani/Vibe-Coding-Production-Kit) | Hacker News | AI |
-| 4 | [Meta is going to let you build games with AI right on your phone](https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games) | The Verge | AI |
-| 5 | [Meet Feather, the startup building the ‘Android of robotics’ for developers](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers) | TechCrunch | AI |
+| 1 | [我用 Go 搭了一条 AI Agent 流水线：从 1 张商品图到一整套淘宝详情页](https://juejin.cn/post/7687943158864887843) | juejin | AI |
+| 2 | [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://juejin.cn/post/7688009718430662666) | juejin | AI |
+| 3 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | sspai | AI |
+| 4 | [Vibe Coding Production Kit – a production workflow for AI coding agents](https://github.com/Moeeryani/Vibe-Coding-Production-Kit) | Hacker News | AI |
+| 5 | [Meta is going to let you build games with AI right on your phone](https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games) | The Verge | AI |
 
-> 共 18 条，以上为 TOP 5。
+> 共 19 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [ClaudeOpus 5.5发布！爆杀Fable，便宜60%](https://mp.weixin.qq.com/s/KFjb2fHjorVE8O1ZjoM0-g) | 夕小瑶科技说 | AI |
-| 2 | [霸榜 GitHub！Browser Use 开源了一个AI浏览器自动化神器](https://mp.weixin.qq.com/s/SuDjzsCfwb9-P2R17By3Pg) | GitHubDaily | AI |
-| 3 | [重磅发布！最新世界动作模型综述！从预测世界到驱动机器人](https://mp.weixin.qq.com/s/5wxJsbQlmJk1YBj3aIIgCg) | 计算机视觉life | AI |
-| 4 | [Agent 时代来了，3D 生成大模型接下来比什么？](https://mp.weixin.qq.com/s/2_mpb7AUm-MyI5iFme2Xfg) | 极客公园 | AI |
-| 5 | [OpenAlAgent闯入澳大利亚政府系统；腾讯QClaw宣布停运；Meta...](https://mp.weixin.qq.com/s/HlcmJhC1vjqn5noBdVRDrQ) | 极客公园 | AI |
+| 1 | [上线12天跑赢ChatGPT！Meta爆款AI自曝老底，灵魂文件来自OpenClaw](https://aiera.com.cn/asi-post.html?id=115323) | 新智元 | AI |
+| 2 | [ClaudeOpus 5.5发布！爆杀Fable，便宜60%](https://mp.weixin.qq.com/s/KFjb2fHjorVE8O1ZjoM0-g) | 夕小瑶科技说 | AI |
+| 3 | [Andreessen Horowitz Launches AI/Company-Building School As a College Alternative](https://news.slashdot.org/story/26/09/23/0625203/andreessen-horowitz-launches-aicompany-building-school-as-a-college-alternative) | Slashdot | AI |
+| 4 | [Island raises $400m at a $6.4bn valuation to govern AI agents](https://thenextweb.com/news/island-series-f-400m-6-4bn-valuation-ai-agents) | The Next Web | AI |
+| 5 | [Databricks acquires spreadsheet startup Row Zero to expand the capabilities of its AI coworker Genie; Row Zero raised a $10M seed led by IA Ventures last year (Chris Metinko/Axios)](https://www.techmeme.com/260924/p52) | Techmeme | AI |
 
-> 共 56 条，以上为 TOP 5。
+> 共 55 条，以上为 TOP 5。
 
 ---
 
@@ -52,11 +52,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [09月24日（勤商日历卡片）：普通人想全职做自媒体，怎么决策?](https://mp.weixin.qq.com/s/-TN6mWJ3tv9R_q_zpnVyew) | 刘润 | IP |
-| 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 3 | [为什么女粉丝总是赢不了](https://www.theatlantic.com/newsletters/2026/09/why-female-fans-cant-win/688775) | www.theatlantic.com | IP |
-| 4 | [特朗普的中国国宴将宾客们家乡的特色菜肴列入了菜单 - The Washington Post](https://news.google.com/read/CBMirwFBVV95cUxNcUlfNFJLQXFYOWxjbWFFRDdST3N2N2tXN2dWaVJQakNKVzRLYURQQXN1Q2d0Q01nUkxaTVNnejBOemU2RmJTbWl1a1lyZUd6a1FpSzMtc2VnWkFvY0FOY1ptYWxjbmk2T0c3NzFNN2Vydjk0bEpQemJkQjlkMV9tRm04VXN0cU5yZHE2NWhicl90SWVYSjNDb2ZxcEpUcERDeTVCRURCbGxnV1l0WVhV?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 回乡 |
-| 5 | [喜欢在YouTube上看体育视频的年轻粉丝们总爱窝在沙发上](https://www.nature.com/articles/d41586-026-02989-1) | www.nature.com | IP |
+| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 2 | [美国最新的“标志性资产”是一处位于科茨沃尔德的乡村别墅](https://on.wsj.com/4d6S8bn) | on.wsj.com | 回乡 |
+| 3 | [09月24日（勤商日历卡片）：普通人想全职做自媒体，怎么决策?](https://mp.weixin.qq.com/s/-TN6mWJ3tv9R_q_zpnVyew) | 刘润 | IP |
+| 4 | [为什么女粉丝总是赢不了](https://www.theatlantic.com/newsletters/2026/09/why-female-fans-cant-win/688775) | www.theatlantic.com | IP |
+| 5 | [特朗普的中国国宴将宾客们家乡的特色菜肴列入了菜单 - The Washington Post](https://news.google.com/read/CBMirwFBVV95cUxNcUlfNFJLQXFYOWxjbWFFRDdST3N2N2tXN2dWaVJQakNKVzRLYURQQXN1Q2d0Q01nUkxaTVNnejBOemU2RmJTbWl1a1lyZUd6a1FpSzMtc2VnWkFvY0FOY1ptYWxjbmk2T0c3NzFNN2Vydjk0bEpQemJkQjlkMV9tRm04VXN0cU5yZHE2NWhicl90SWVYSjNDb2ZxcEpUcERDeTVCRURCbGxnV1l0WVhV?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 回乡 |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -78,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-24T22:45:21.129Z
-- **总资讯数**：4301 条原始 → 675 条筛选后
+- **聚合时间**：2026-09-25T02:02:54.085Z
+- **总资讯数**：4347 条原始 → 648 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
