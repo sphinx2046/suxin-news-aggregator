@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [当 AI 让执行力变得廉价，我们该拿什么脱颖而出？](https://sspai.com/post/114519) | sspai | AI |
-| 2 | [ASML says it sold 'absolutely nothing' in Europe in 2026](https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand) | Hacker News | 其他 |
-| 3 | [Uproar in France over award-winning author accused of using AI](https://www.bbc.com/news/articles/ck7v4y45893go) | Hacker News | AI |
-| 4 | [Show HN: 基于代理的 CUDA 内核优化器 / Show HN: Agentic CUDA Kernel Optimizer](https://github.com/bertaye/agentic-cuda-optimizer) | Hacker News | AI |
-| 5 | [Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 1 | [一个人 + AI 做的小程序，一个半月把服务器钱赚回来一半了](https://juejin.cn/post/7688300268687130650) | juejin | AI |
+| 2 | [做了近两年的Agent开发，其实真正要学的就是这五件事](https://juejin.cn/post/7688159506154209321) | juejin | AI |
+| 3 | [AI 知识库 WeKnora（腾讯微信团队出品）](https://juejin.cn/post/7688530195554140194) | juejin | AI |
+| 4 | [ZCode 开源了来看看这是个什么东西](https://juejin.cn/post/7687855879102890036) | juejin | 其他 |
+| 5 | [AndroidX 新增 Security State ，支持可编程的系统安全状态查询](https://juejin.cn/post/7687807835842248710) | juejin | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | sspai | AI |
-| 2 | [Meta is going to let you build games with AI right on your phone](https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games) | The Verge | AI |
-| 3 | [Meet Feather, the startup building the ‘Android of robotics’ for developers](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers) | TechCrunch | AI |
-| 4 | [Gemini vs. Ray-Ban Meta glasses: Which one guides me better in a Dutch supermarket?](https://www.androidpolice.com/gemini-vs-ray-ban-meta-glasses-in-a-dutch-supermarket) | Android Police | AI |
-| 5 | [Gemini Notebook turned my messy YouTube watch list into a superpowered study guide](https://www.androidpolice.com/gemini-notebook-turned-messy-youtube-watch-list-into-superpowered-study-guide) | Android Police | AI |
+| 1 | [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://juejin.cn/post/7688009718430662666) | juejin | AI |
+| 2 | [Gemini vs. Ray-Ban Meta glasses: Which one guides me better in a Dutch supermarket?](https://www.androidpolice.com/gemini-vs-ray-ban-meta-glasses-in-a-dutch-supermarket) | Android Police | AI |
+| 3 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
+| 4 | [Ando, which is building a team messaging platform for both humans and AI agents, comes out of stealth with $20M in pre-seed and seed funding (Dominic-Madori Davis/TechCrunch)](https://www.techmeme.com/260925/p8) | Techmeme | AI |
+| 5 | [本地图库语义搜索实战：接上蓝耘元生代，让"傍晚的海边"能搜到图](https://juejin.cn/post/7687331138987196425) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 19 条，以上为 TOP 5。
+> 共 17 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Andreessen Horowitz Launches AI/Company-Building School As a College Alternative](https://news.slashdot.org/story/26/09/23/0625203/andreessen-horowitz-launches-aicompany-building-school-as-a-college-alternative) | Slashdot | AI |
-| 2 | [Microsoft launches its Copilot "super app", bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot (Tom Warren/The Verge)](https://www.techmeme.com/260925/p5) | Techmeme | AI |
-| 3 | [Radical Ventures: AI neolabs, many lacking products, markets, or revenue, raised $24B in the past two quarters, nearly 5x OpenAI and Anthropic pre-ChatGPT (Louise Lucas/Financial Times)](https://www.techmeme.com/260925/p2) | Techmeme | AI |
-| 4 | [Databricks acquires spreadsheet startup Row Zero to expand the capabilities of its AI coworker Genie; Row Zero raised a $10M seed led by IA Ventures last year (Chris Metinko/Axios)](https://www.techmeme.com/260924/p52) | Techmeme | AI |
-| 5 | [Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate](https://www.nytimes.com/2026/09/22/technology/anthropic-ai-model-safety.html) | New York Times | AI |
+| 1 | [看完吴妈的演讲，我突然觉得：今天的 AI 可能还只是电灯泡](https://juejin.cn/post/7688314787340091401) | juejin | AI |
+| 2 | [Andreessen Horowitz Launches AI/Company-Building School As a College Alternative](https://news.slashdot.org/story/26/09/23/0625203/andreessen-horowitz-launches-aicompany-building-school-as-a-college-alternative) | Slashdot | AI |
+| 3 | [Qualcomm launches AI earbud chip, glasses platforms and a health alliance](https://thenextweb.com/news/snapdragon-sound-elite-gen-2-ai-glasses-health-alliance) | The Next Web | AI |
+| 4 | [Microsoft launches its Copilot "super app", bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot (Tom Warren/The Verge)](https://www.techmeme.com/260925/p5) | Techmeme | AI |
+| 5 | [Radical Ventures: AI neolabs, many lacking products, markets, or revenue, raised $24B in the past two quarters, nearly 5x OpenAI and Anthropic pre-ChatGPT (Louise Lucas/Financial Times)](https://www.techmeme.com/260925/p2) | Techmeme | AI |
 
-> 共 54 条，以上为 TOP 5。
+> 共 48 条，以上为 TOP 5。
 
 ---
 
@@ -54,11 +54,11 @@
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
 | 2 | [[问与答] 湖南联通有什么路子获得低价大流量吗](https://www.v2ex.com/t/1244787) | V2EX (创意工作者社区) | IP |
-| 3 | [Show HN: Skipper，一位使用 Ask Gemini 和 SponsorBlock 的 YouTube 赞助内容创作者](https://chromewebstore.google.com/detail/skipper-ai-%C3%A2%C2%80%C2%94-youtube-spon/ncchpipphiigdfbpbjofbhbahcgckaob) | chromewebstore.google.com | AI/IP |
-| 4 | [美国最新的“标志性资产”是一处位于科茨沃尔德的乡村别墅](https://on.wsj.com/4d6S8bn) | on.wsj.com | 回乡 |
-| 5 | [09月24日（勤商日历卡片）：普通人想全职做自媒体，怎么决策?](https://mp.weixin.qq.com/s/-TN6mWJ3tv9R_q_zpnVyew) | 刘润 | IP |
+| 3 | [美国最新的“标志性资产”是一处位于科茨沃尔德的乡村别墅](https://on.wsj.com/4d6S8bn) | on.wsj.com | 回乡 |
+| 4 | [09月24日（勤商日历卡片）：普通人想全职做自媒体，怎么决策?](https://mp.weixin.qq.com/s/-TN6mWJ3tv9R_q_zpnVyew) | 刘润 | IP |
+| 5 | [一名创作者指控Kalshi抄袭其视频并篡改其种族后，该平台引发强烈反弹](https://www.businessinsider.com/kalshi-in-hot-water-over-race-swapping-ai-ads-2026-9) | www.businessinsider.com | IP |
 
-> 共 8 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -66,9 +66,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [高盛：美国五大云巨头每年 AI 收入 3000 亿美元，才可盈亏平衡](https://www.ithome.com/1/007/232.htm) | IT之家 (ITHome) | AI/变现 |
-| 2 | [巴塞罗那俱乐部预计，新的VIP座位套餐将带来7亿欧元的收入](https://www.reuters.com/es/negocio/FENHULXBWVONPJK2Q4G4ZGDYHY-2026-09-25) | www.reuters.com | 变现 |
-| 3 | [没有学士学位的成年人收入最高的州——以及收入最低的州](https://www.businessinsider.com/us-states-no-bachelors-degree-median-earnings-ranked) | www.businessinsider.com | 变现 |
+| 1 | [Z世代正押注于人工智能技能来提升收入能力](https://reut.rs/4hwmipZ) | reut.rs | AI/变现 |
+| 2 | [我曾不敢将自己那家年收入达七位数的企业中的任务委派给他人。学会放手后，我成功将公司规模扩大到近500万美元。](https://www.businessinsider.com/seven-figure-business-burnout-delegating-growth-systems-2026-9) | www.businessinsider.com | 变现 |
+| 3 | [[程序员] 独立开发产品无收入，有必要买 Claude Max 吗](https://www.v2ex.com/t/1244814) | V2EX (创意工作者社区) | AI/变现 |
+| 4 | [高盛：美国五大云巨头每年 AI 收入 3000 亿美元，才可盈亏平衡](https://www.ithome.com/1/007/232.htm) | IT之家 (ITHome) | AI/变现 |
 
 ---
 
@@ -80,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-25T14:48:25.229Z
-- **总资讯数**：4344 条原始 → 647 条筛选后
+- **聚合时间**：2026-09-25T19:35:57.130Z
+- **总资讯数**：4242 条原始 → 633 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
