@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [刚刚，中国团队双榜登顶！OpenAI、谷歌、英伟达集体让位](https://aiera.com.cn/asi-post.html?id=115589) | 新智元 | AI |
-| 2 | [Anthropic这回撒钱了！Claude Code最高白送250美元](https://aiera.com.cn/asi-post.html?id=115568) | 新智元 | AI |
-| 3 | [ChatGPT要卖 500 美元的Pro Max套餐了！](https://aiera.com.cn/asi-post.html?id=115552) | 新智元 | AI |
-| 4 | [Scaling意外涌现！万名智能体暗中抱团，智商领先GPT-6半年](https://aiera.com.cn/asi-post.html?id=115537) | 新智元 | AI |
-| 5 | [刚刚，GPT-6开真车考过了科目二！](https://aiera.com.cn/asi-post.html?id=115517) | 新智元 | AI |
+| 1 | [Can AI Shopping Agents Be Trusted?](https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out) | Hacker News | AI |
+| 2 | [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html) | Hacker News | AI |
+| 3 | [Issues with Codex – Identified – Full Outage](https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39) | Hacker News | 其他 |
+| 4 | [Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
+| 5 | [House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://juejin.cn/post/7688009718430662666) | juejin | AI |
-| 2 | [Codex 本地自定义 Agent 与模型配置实战：TOML、AGENTS.md 和优先级](https://juejin.cn/post/7688528701483827241) | juejin | AI |
-| 3 | [How to stop Meta training its AI models on your smart glasses' visual data](https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data) | Engadget | AI |
-| 4 | [Gemini vs. Ray-Ban Meta glasses: Which one guides me better in a Dutch supermarket?](https://www.androidpolice.com/gemini-vs-ray-ban-meta-glasses-in-a-dutch-supermarket) | Android Police | AI |
-| 5 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
+| 1 | [How to stop Meta training its AI models on your smart glasses' visual data](https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data) | Engadget | AI |
+| 2 | [Gemini vs. Ray-Ban Meta glasses: Which one guides me better in a Dutch supermarket?](https://www.androidpolice.com/gemini-vs-ray-ban-meta-glasses-in-a-dutch-supermarket) | Android Police | AI |
+| 3 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
+| 4 | [OpenAI正在调查“数十起”智能体行为不当的案例 / OpenAI investigating 'dozens' of instances of agents acting improperly](https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss) | BBC News | AI |
+| 5 | [本地图库语义搜索实战：接上蓝耘元生代，让"傍晚的海边"能搜到图](https://juejin.cn/post/7687331138987196425) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 16 条，以上为 TOP 5。
+> 共 22 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [GPT-6 Astra学会用「空白Token」思考！推理能力突然变强](https://aiera.com.cn/asi-post.html?id=115486) | 新智元 | AI |
-| 2 | [看完吴妈的演讲，我突然觉得：今天的 AI 可能还只是电灯泡](https://juejin.cn/post/7688314787340091401) | juejin | AI |
-| 3 | [Andreessen Horowitz Launches AI/Company-Building School As a College Alternative](https://news.slashdot.org/story/26/09/23/0625203/andreessen-horowitz-launches-aicompany-building-school-as-a-college-alternative) | Slashdot | AI |
-| 4 | [Qualcomm launches AI earbud chip, glasses platforms and a health alliance](https://thenextweb.com/news/snapdragon-sound-elite-gen-2-ai-glasses-health-alliance) | The Next Web | AI |
+| 1 | [Andreessen Horowitz Launches AI/Company-Building School As a College Alternative](https://news.slashdot.org/story/26/09/23/0625203/andreessen-horowitz-launches-aicompany-building-school-as-a-college-alternative) | Slashdot | AI |
+| 2 | [Qualcomm launches AI earbud chip, glasses platforms and a health alliance](https://thenextweb.com/news/snapdragon-sound-elite-gen-2-ai-glasses-health-alliance) | The Next Web | AI |
+| 3 | [A look at the wave of Google DeepMind researchers who have exited recently to launch their own AI startups focused on alternatives to LLMs (Bloomberg)](https://www.techmeme.com/260926/p6) | Techmeme | AI |
+| 4 | [NYC-based Confido, a provider of AI-powered workflow automation tools for consumer packaged goods companies, raised a $55M Series B led by Insight Partners (AlleyWatch)](https://www.techmeme.com/260926/p5) | Techmeme | AI |
 | 5 | [Bitdefender first to launch free 'temporary' VPN for AI Agents because they're worth it — but you can only use it on Apple M-series Macs for now](https://www.techradar.com/pro/bitdefender-first-to-launch-free-temporary-vpn-for-ai-agents-because-theyre-worth-it-but-you-can-only-use-it-on-apple-m-series-macs-for-now) | TechRadar | AI |
 
-> 共 54 条，以上为 TOP 5。
+> 共 48 条，以上为 TOP 5。
 
 ---
 
@@ -53,7 +53,8 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [[宽带症候群] 湖南联通有什么路子获得低价大流量吗](https://www.v2ex.com/t/1244787) | V2EX (创意工作者社区) | IP |
+| 2 | [罗比·威廉姆斯在秘鲁演出取消后，在酒店外与粉丝们一同演唱](https://news.sky.com/story/robbie-williams-sings-with-fans-outside-hotel-after-show-cancelled-in-peru-13591976) | news.sky.com | IP |
+| 3 | [澳大利亚队遭遇伤病打击，英格利斯因手指骨折返回家乡](https://www.reuters.com/sports/cricket/australia-dealt-injury-blow-inglis-returns-home-with-finger-fracture-2026-09-26) | www.reuters.com | 回乡 |
 
 ---
 
@@ -63,8 +64,6 @@
 |---|------|------|------|
 | 1 | [“具身智能第一股”批量制造背后：叙事、估值与收入三重错位](https://mp.weixin.qq.com/s/nk1O549hVn361owxkcrC-Q) | 钛媒体 | 变现 |
 | 2 | [我曾不敢将自己那家年收入达七位数的企业中的任务委派给他人。学会放手后，我成功将公司规模扩大到近500万美元。](https://www.businessinsider.com/seven-figure-business-burnout-delegating-growth-systems-2026-9) | www.businessinsider.com | 变现 |
-| 3 | [[程序员] 独立开发产品无收入，有必要买 Claude Max 吗](https://www.v2ex.com/t/1244814) | V2EX (创意工作者社区) | AI/变现 |
-| 4 | [高盛：美国五大云巨头每年 AI 收入 3000 亿美元，才可盈亏平衡](https://www.ithome.com/1/007/232.htm) | IT之家 (ITHome) | AI/变现 |
 
 ---
 
@@ -76,8 +75,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-26T02:08:07.849Z
-- **总资讯数**：4256 条原始 → 613 条筛选后
+- **聚合时间**：2026-09-26T08:51:41.656Z
+- **总资讯数**：4277 条原始 → 605 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
