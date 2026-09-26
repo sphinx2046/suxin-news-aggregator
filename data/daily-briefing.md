@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Make Claude your assistant in excalidraw](https://tangled.org/yanndegat.tngl.sh/drawgent) | Hacker News | AI |
-| 2 | [Show HN: 一项用于分析你的国际象棋对局的Claude Code技能 / Show HN: A Claude Code skill to analyze your chess games](https://github.com/brumar/chess-postmortem-skills) | Hacker News | AI |
-| 3 | [Understanding the Impact of LLM Watermarking on AI Agent Behavior](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior) | Hacker News | AI |
-| 4 | [没有AI的一个月 / One Month Without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html) | Hacker News | AI |
-| 5 | [The Copilot+ PC brand is dead](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding) | Hacker News | 其他 |
+| 1 | [同样叫 Harness，DeepSeek Harness 和 Pi 根本不在同一层](https://juejin.cn/post/7688805244534325263) | juejin | AI |
+| 2 | [突发！GPT-6 Sol与Claude Opus 5.5同日开打，谁是「性价比之王」](https://juejin.cn/post/7688532185121439754) | juejin | AI |
+| 3 | [WorkBuddy 每天自动领积分！教你用云函数做个签到机器人](https://juejin.cn/post/7688905988846305289) | juejin | 其他 |
+| 4 | [Flutter Golden Tests：给 AI Agent 的 UI 测试系统](https://juejin.cn/post/7688611918492008490) | juejin | AI |
+| 5 | [给 Agent 加一个“判断器”：聊聊 Laya、Jev，以及怎么部署和选择](https://juejin.cn/post/7688528701483515945) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [在大型语言模型（LLM）盛行的世界里，如何保持对编程的乐趣 / How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705) | Hacker News | AI |
-| 2 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
-| 3 | [OpenAI正在调查“数十起”智能体行为不当的案例 / OpenAI investigating 'dozens' of instances of agents acting improperly](https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss) | BBC News | AI |
-| 4 | [本地图库语义搜索实战：接上蓝耘元生代，让"傍晚的海边"能搜到图](https://juejin.cn/post/7687331138987196425) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！](https://juejin.cn/post/7688238990706016283) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [Codex 本地自定义 Agent 与模型配置实战：TOML、AGENTS.md 和优先级](https://juejin.cn/post/7688528701483827241) | juejin | AI |
+| 2 | [Wails v2 实战：用 Go + Vue3 做一个真正能用的 AI 桌面应用](https://juejin.cn/post/7688538708639662114) | juejin | AI |
+| 3 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | sspai | AI |
+| 4 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
+| 5 | [OpenAI正在调查“数十起”智能体行为不当的案例 / OpenAI investigating 'dozens' of instances of agents acting improperly](https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss) | BBC News | AI |
 
-> 共 17 条，以上为 TOP 5。
+> 共 18 条，以上为 TOP 5。
 
 ---
 
@@ -66,13 +66,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Z世代正押注于人工智能技能来提升赚钱能力](https://www.reuters.com/markets/on-the-money/gen-z-is-betting-ai-skills-boost-earning-power-2026-09-25) | www.reuters.com | AI/变现 |
+| 1 | [[推广] 打破圈壁！为什么说 Bybit 是每个数字游民与全球资产配置者的“生态位终点站”？ Bybit 已支持链上美股， Bybit U 卡支持微信、支付宝、Apple Pay 三 通啦！](https://www.v2ex.com/t/1244957) | V2EX (创意工作者社区) | 变现 |
 | 2 | [现在如何做自由职业？](https://news.ycombinator.com/item?id=49856000) | news.ycombinator.com | 变现 |
 | 3 | [一位拥有10个收入来源的“副业达人”分享了她最赚钱的项目](https://www.businessinsider.com/serial-side-hustler-10-income-streams-most-lucrative-content-creation-2026-9) | www.businessinsider.com | 变现 |
 | 4 | [Ask HN: 最近，X（Twitter）上的独立开发者圈子感觉就像一个巨大的泡沫](https://news.ycombinator.com/item?id=49854851) | news.ycombinator.com | 变现 |
 | 5 | [“具身智能第一股”批量制造背后：叙事、估值与收入三重错位](https://mp.weixin.qq.com/s/nk1O549hVn361owxkcrC-Q) | 钛媒体 | 变现 |
-
-> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-26T17:26:07.956Z
-- **总资讯数**：4146 条原始 → 575 条筛选后
+- **聚合时间**：2026-09-26T20:14:43.661Z
+- **总资讯数**：4138 条原始 → 549 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
