@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [同样叫 Harness，DeepSeek Harness 和 Pi 根本不在同一层](https://juejin.cn/post/7688805244534325263) | juejin | AI |
-| 2 | [Flutter Golden Tests：给 AI Agent 的 UI 测试系统](https://juejin.cn/post/7688611918492008490) | juejin | AI |
-| 3 | [VibeCoding 一套 Admin 系统，五种技术栈实现](https://juejin.cn/post/7688739949714997288) | juejin | 其他 |
-| 4 | [多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案](https://juejin.cn/post/7688585710283014184) | juejin | AI |
-| 5 | [DHH 震撼发声：手写代码时代落幕，Agent 正重塑软件工程](https://juejin.cn/post/7689061402817265710) | juejin | AI |
+| 1 | [AI客服取消乘客候补订单，智行回应；OpenAl再次暂停最强模型训练...](https://mp.weixin.qq.com/s/QVK0urakmgood18XWD2WSw) | AI前线 | AI |
+| 2 | [中外车企两本账](https://mp.weixin.qq.com/s/2K06txSxL-LoCD9qkMbmGA) | 财经杂志 | 其他 |
+| 3 | [拉斯·特维德重磅预测：未来25年的10大趋势主线](https://mp.weixin.qq.com/s/i6LmpgEvUeU86sgmX_S3NQ) | 财经杂志 | 其他 |
+| 4 | [中秋特别策划1来自月球的股东信](https://mp.weixin.qq.com/s/4Ht8l31s3CcYglkFAkzZPg) | 红杉汇 | 其他 |
+| 5 | [腾讯版“红果”来了，有点过于刺...激！](https://mp.weixin.qq.com/s/NcCgNzGbxyIJBB9qOnDC1Q) | 人人都是产品经理 | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [第 26 章 案例二 企业知识库问答 Agent](https://juejin.cn/post/7689219046840074278) | juejin | AI |
-| 2 | [After Dozens of Incidents at OpenAI and Anthropic, OpenAI Pauses Model Training to Build More Safeguards](https://slashdot.org/story/26/09/27/078251/after-dozens-of-incidents-at-openai-and-anthropic-openai-pauses-model-training-to-build-more-safeguards) | Slashdot | AI |
-| 3 | [KDE and GNOME Developers Ponder How to Handle AI-Generated Contributions](https://tech.slashdot.org/story/26/09/24/1928229/kde-and-gnome-developers-ponder-how-to-handle-ai-generated-contributions) | Slashdot | AI |
-| 4 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
-| 5 | [最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！](https://juejin.cn/post/7688238990706016283) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [After Dozens of Incidents at OpenAI and Anthropic, OpenAI Pauses Model Training to Build More Safeguards](https://slashdot.org/story/26/09/27/078251/after-dozens-of-incidents-at-openai-and-anthropic-openai-pauses-model-training-to-build-more-safeguards) | Slashdot | AI |
+| 2 | [KDE and GNOME Developers Ponder How to Handle AI-Generated Contributions](https://tech.slashdot.org/story/26/09/24/1928229/kde-and-gnome-developers-ponder-how-to-handle-ai-generated-contributions) | Slashdot | AI |
+| 3 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
+| 4 | [最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！](https://juejin.cn/post/7688238990706016283) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | sspai | AI |
 
-> 共 11 条，以上为 TOP 5。
+> 共 9 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [用 AI 迁项目有多爽？我把 Webpack 迁 Vite 的全过程记下来了](https://juejin.cn/post/7689096640691683343) | juejin | AI |
-| 2 | [一天一个开源项目（第 227 篇）：Strands Agents Harness SDK —— 从「手写 Agent 循环」到「一行代码拿到生产级 Agent」](https://juejin.cn/post/7689299285138128932) | juejin | AI |
-| 3 | [AI Finds So Many Linux Bugs, Canonical Changes to a Two-Week Stable Release Update Cycle](https://news.slashdot.org/story/26/09/26/0559227/ai-finds-so-many-linux-bugs-canonical-changes-to-a-two-week-stable-release-update-cycle) | Slashdot | AI |
-| 4 | [Saturday Night Live spoofs Dario Amodei’s AI warnings on Weekend Update](https://mashable.com/entertainment/snl-dario-amodei-ai-weekend-update) | Mashable | AI |
-| 5 | [PicoJool, which is developing AI data center interconnects based on vertical cavity surface emitting lasers, raised a $27.5M Series A led by Socratic Partners (Mike Wheatley/SiliconANGLE)](https://www.techmeme.com/260927/p2) | Techmeme | AI |
+| 1 | [Claude Opus 5.5发布！爆杀Fable，便宜60%](https://mp.weixin.qq.com/s/KFjb2fHjorVE8O1ZjoM0-g) | 夕小瑶科技说 | AI |
+| 2 | [霸榜 GitHub！Browser Use 开源了一个AI浏览器自动化神器](https://mp.weixin.qq.com/s/SuDjzsCfwb9-P2R17By3Pg) | GitHubDaily | AI |
+| 3 | [接连发生 AI 失控，OpenAl 暂停最强模型训练；腾讯推出云端小龙虾...](https://mp.weixin.qq.com/s/aSBaxvw0p30a8pcdc4x5Iw) | 极客公园 | AI |
+| 4 | [量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层](https://mp.weixin.qq.com/s/kqduZ02WlMuv57oVnMj5bw) | 量子位 | AI |
+| 5 | [量子位2026人工智能年度榜单，正式启动！](https://mp.weixin.qq.com/s/Mpzo4TE8FUI5J7RAMURiMQ) | 量子位 | AI |
 
-> 共 36 条，以上为 TOP 5。
+> 共 40 条，以上为 TOP 5。
 
 ---
 
@@ -64,8 +64,8 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [The Information：DeepSeek 年化收入 10 亿美元，增长一倍以上](https://www.199it.com/archives/1854388.html) | Readhub · AI | AI/变现 |
-| 2 | [高管们选择“兼职”而非自由职业](https://www.ft.com/content/d08d8530-ef99-49f3-a7b3-a886139f6b27) | www.ft.com | 变现 |
-| 3 | [Meta已经想清楚Muse靠什么赚钱](https://mp.weixin.qq.com/s/-w_3GKu1LtkTpg0Loh05vQ) | 钛媒体 | 变现 |
+| 2 | [因开发了一个可规避追踪和变现的插件，我被Reddit封号了](https://news.ycombinator.com/item?id=49870768) | news.ycombinator.com | 变现 |
+| 3 | [高管们选择“兼职”而非自由职业](https://www.ft.com/content/d08d8530-ef99-49f3-a7b3-a886139f6b27) | www.ft.com | 变现 |
 
 ---
 
@@ -77,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-27T19:21:12.836Z
-- **总资讯数**：3858 条原始 → 493 条筛选后
+- **聚合时间**：2026-09-27T22:37:19.248Z
+- **总资讯数**：3957 条原始 → 506 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
