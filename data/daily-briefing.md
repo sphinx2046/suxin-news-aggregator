@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-09-26（周六）
+# 素心拾穗 · 每日情报 · 2026-09-27（周日）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [同样叫 Harness，DeepSeek Harness 和 Pi 根本不在同一层](https://juejin.cn/post/7688805244534325263) | juejin | AI |
-| 2 | [突发！GPT-6 Sol与Claude Opus 5.5同日开打，谁是「性价比之王」](https://juejin.cn/post/7688532185121439754) | juejin | AI |
-| 3 | [WorkBuddy 每天自动领积分！教你用云函数做个签到机器人](https://juejin.cn/post/7688905988846305289) | juejin | 其他 |
-| 4 | [Flutter Golden Tests：给 AI Agent 的 UI 测试系统](https://juejin.cn/post/7688611918492008490) | juejin | AI |
-| 5 | [给 Agent 加一个“判断器”：聊聊 Laya、Jev，以及怎么部署和选择](https://juejin.cn/post/7688528701483515945) | juejin | AI |
+| 1 | [Codex和Claude Code都跑偏了，前OpenAI研究员称Jev出现前AI世...](https://mp.weixin.qq.com/s/TjCZADhurPPK0m4iKGnqgQ) | AI前线 | AI |
+| 2 | [重庆新规：艾滋感染，医疗机构有权代为告知配偶](https://mp.weixin.qq.com/s/N2jkmCglHbMNQNxwSrc2iQ) | 财经杂志 | 其他 |
+| 3 | [镜鉴1929：华尔街旧事，照见AI新时代|《财经》书评](https://mp.weixin.qq.com/s/Wr9-IXOCUmm1QtaDChpGxQ) | 财经杂志 | AI |
+| 4 | [琴童小九：(五)考级通过了](https://mp.weixin.qq.com/s/A0OiKsrCDltbGlSwTe8GPg) | keso怎么看 | 其他 |
+| 5 | [中秋特别策划|来自月球的股东信](https://mp.weixin.qq.com/s/4Ht8l31s3CcYglkFAkzZPg) | 红杉汇 | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Codex 本地自定义 Agent 与模型配置实战：TOML、AGENTS.md 和优先级](https://juejin.cn/post/7688528701483827241) | juejin | AI |
-| 2 | [Wails v2 实战：用 Go + Vue3 做一个真正能用的 AI 桌面应用](https://juejin.cn/post/7688538708639662114) | juejin | AI |
-| 3 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | sspai | AI |
-| 4 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
-| 5 | [OpenAI正在调查“数十起”智能体行为不当的案例 / OpenAI investigating 'dozens' of instances of agents acting improperly](https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss) | BBC News | AI |
+| 1 | [让AI提效成为习惯的三条经验（附案例）](https://mp.weixin.qq.com/s/YKG90YmFKWcM_IsBuLT-qA) | 人人都是产品经理 | AI |
+| 2 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
+| 3 | [OpenAI正在调查“数十起”智能体行为不当的案例 / OpenAI investigating 'dozens' of instances of agents acting improperly](https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss) | BBC News | AI |
+| 4 | [本地图库语义搜索实战：接上蓝耘元生代，让"傍晚的海边"能搜到图](https://juejin.cn/post/7687331138987196425) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！](https://juejin.cn/post/7688238990706016283) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 18 条，以上为 TOP 5。
+> 共 16 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI Finds So Many Linux Bugs, Canonical Changes to a Two-Week Stable Release Update Cycle](https://news.slashdot.org/story/26/09/26/0559227/ai-finds-so-many-linux-bugs-canonical-changes-to-a-two-week-stable-release-update-cycle) | Slashdot | AI |
-| 2 | [A look at the wave of Google DeepMind researchers who have exited recently to launch their own AI startups focused on alternatives to LLMs (Bloomberg)](https://www.techmeme.com/260926/p6) | Techmeme | AI |
-| 3 | [NYC-based Confido, a provider of AI-powered workflow automation tools for consumer packaged goods companies, raised a $55M Series B led by Insight Partners (AlleyWatch)](https://www.techmeme.com/260926/p5) | Techmeme | AI |
-| 4 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
-| 5 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
+| 1 | [刚刚，GPT-6 Sol和Luna正式上线，比DeepSeek闲时价还便宜](https://mp.weixin.qq.com/s/mVOL5Wsjabf-5s29jTxMOg) | 夕小瑶科技说 | AI |
+| 2 | [ClaudeOpus 5.5发布！爆杀Fable，便宜60%](https://mp.weixin.qq.com/s/KFjb2fHjorVE8O1ZjoM0-g) | 夕小瑶科技说 | AI |
+| 3 | [Deepseek桌面版悄悄上线；Muse大火，扎克伯格跃升全球第四大富豪..](https://mp.weixin.qq.com/s/AsPU2qImDb3Kj1Fy9lZLdw) | 极客公园 | AI |
+| 4 | [AI Finds So Many Linux Bugs, Canonical Changes to a Two-Week Stable Release Update Cycle](https://news.slashdot.org/story/26/09/26/0559227/ai-finds-so-many-linux-bugs-canonical-changes-to-a-two-week-stable-release-update-cycle) | Slashdot | AI |
+| 5 | [A look at the wave of Google DeepMind researchers who have exited recently to launch their own AI startups focused on alternatives to LLMs (Bloomberg)](https://www.techmeme.com/260926/p6) | Techmeme | AI |
 
-> 共 44 条，以上为 TOP 5。
+> 共 37 条，以上为 TOP 5。
 
 ---
 
@@ -58,7 +58,7 @@
 | 4 | [[分享创造] MatrixMedia v0.11.6：社区 PR 实现视频号自动挂载小程序短剧/剧集，发布失败自动截图](https://www.v2ex.com/t/1244921) | V2EX (创意工作者社区) | IP |
 | 5 | [[问与答] 蹭一下昨天争议很大的“哥飞“seo 博主的流量](https://www.v2ex.com/t/1244913) | V2EX (创意工作者社区) | IP |
 
-> 共 7 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -66,11 +66,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [[推广] 打破圈壁！为什么说 Bybit 是每个数字游民与全球资产配置者的“生态位终点站”？ Bybit 已支持链上美股， Bybit U 卡支持微信、支付宝、Apple Pay 三 通啦！](https://www.v2ex.com/t/1244957) | V2EX (创意工作者社区) | 变现 |
-| 2 | [现在如何做自由职业？](https://news.ycombinator.com/item?id=49856000) | news.ycombinator.com | 变现 |
-| 3 | [一位拥有10个收入来源的“副业达人”分享了她最赚钱的项目](https://www.businessinsider.com/serial-side-hustler-10-income-streams-most-lucrative-content-creation-2026-9) | www.businessinsider.com | 变现 |
-| 4 | [Ask HN: 最近，X（Twitter）上的独立开发者圈子感觉就像一个巨大的泡沫](https://news.ycombinator.com/item?id=49854851) | news.ycombinator.com | 变现 |
-| 5 | [“具身智能第一股”批量制造背后：叙事、估值与收入三重错位](https://mp.weixin.qq.com/s/nk1O549hVn361owxkcrC-Q) | 钛媒体 | 变现 |
+| 1 | [Meta已经想清楚Muse靠什么赚钱](https://mp.weixin.qq.com/s/-w_3GKu1LtkTpg0Loh05vQ) | 钛媒体 | 变现 |
+| 2 | [[推广] 打破圈壁！为什么说 Bybit 是每个数字游民与全球资产配置者的“生态位终点站”？ Bybit 已支持链上美股， Bybit U 卡支持微信、支付宝、Apple Pay 三 通啦！](https://www.v2ex.com/t/1244957) | V2EX (创意工作者社区) | 变现 |
+| 3 | [现在如何做自由职业？](https://news.ycombinator.com/item?id=49856000) | news.ycombinator.com | 变现 |
+| 4 | [一位拥有10个收入来源的“副业达人”分享了她最赚钱的项目](https://www.businessinsider.com/serial-side-hustler-10-income-streams-most-lucrative-content-creation-2026-9) | www.businessinsider.com | 变现 |
+| 5 | [Ask HN: 最近，X（Twitter）上的独立开发者圈子感觉就像一个巨大的泡沫](https://news.ycombinator.com/item?id=49854851) | news.ycombinator.com | 变现 |
 
 ---
 
@@ -82,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-26T20:14:43.661Z
-- **总资讯数**：4138 条原始 → 549 条筛选后
+- **聚合时间**：2026-09-26T23:57:28.173Z
+- **总资讯数**：4095 条原始 → 535 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
