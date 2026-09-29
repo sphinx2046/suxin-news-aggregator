@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [克劳德部分服务中断 / Claude partial outage](https://status.claude.com/incidents/4xvtc2gnq73l) | Hacker News | AI |
-| 2 | [不出所料，Meta的新款Muse AI智能助手公然无视用户的权限设置 / Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions](https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions) | Hacker News | AI |
-| 3 | [Sergey Brin says management is the 'easiest thing to do with AI'](https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5) | Reddit | AI |
-| 4 | [House passes budget bill that inexplicably bans state AI regulations for ten years](https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html) | Reddit | AI |
-| 5 | [Timnit Gebru Believes There Is No ‘Existential Threat’ From AI](https://www.wired.com/story/the-big-interview-podcast-timnit-gebru) | Wired | AI |
+| 1 | [具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性](https://sspai.com/post/114901) | sspai | 其他 |
+| 2 | [当 AI 让执行力变得廉价，我们该拿什么脱颖而出？](https://sspai.com/post/114519) | sspai | AI |
+| 3 | [人工智能需要6万亿美元的年收入，才能支撑数据中心的蓬勃发展 / AI needs $6T in annual revenue to justify data centre boom](https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres) | Hacker News | AI |
+| 4 | [Show HN: TurboGPT：13秒内训练出22KiB的Transformer模型 / Show HN: TurboGPT: train 22KiB transformer in 13s](https://github.com/lostmsu/TurboGPT) | Hacker News | AI |
+| 5 | [GLM-5.3 and the spread of advanced cyber capabilities](https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities) | Hacker News | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
-| 2 | [最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！](https://juejin.cn/post/7688238990706016283) | 掘金 · 人工智能本周最热 | AI |
-| 3 | [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://juejin.cn/post/7688009718430662666) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | sspai | AI |
-| 5 | [[分享创造] 我半小时受搓了一个 ai 生成二人说唱视频的工具](https://www.v2ex.com/t/1245672) | V2EX (创意工作者社区) | AI |
+| 1 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | sspai | AI |
+| 2 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
+| 3 | [最近全网爆火的 Jev 到底是什么？适合干什么、怎么用，一篇讲透！](https://juejin.cn/post/7688238990706016283) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码](https://juejin.cn/post/7688009718430662666) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [非游戏开发者用 AI 做微信小游戏的完整实录：聊天出 MVP、备案 27 天、踩坑](https://juejin.cn/post/7690435049426681898) | juejin | AI |
 
-> 共 13 条，以上为 TOP 5。
+> 共 12 条，以上为 TOP 5。
 
 ---
 
@@ -39,12 +39,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [OpenAI Delays Release of Latest Model Over Safety Concerns](https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns) | Wired | AI |
-| 2 | [Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog](https://it.slashdot.org/story/26/09/28/150209/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog) | Slashdot | AI |
-| 3 | [Reco raises $55M as AI agent security startups crowd the market](https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market) | TechCrunch | AI |
-| 4 | [OpenAI Dev Day 2026: Live updates on the latest ChatGPT and Codex announcements](https://www.engadget.com/2271985/openai-dev-day-live-blog-chatgpt-news) | Engadget | AI |
-| 5 | [Meta launches Muse for small businesses, linking its AI agent to Shopify](https://thenextweb.com/news/meta-muse-small-business-ai-agent) | The Next Web | AI |
+| 2 | [OpenAI Unveils Always-On AI Agent 'Dots'](https://slashdot.org/story/26/09/29/1723239/openai-unveils-always-on-ai-agent-dots) | Slashdot | AI |
+| 3 | [OpenAI launches Dots, its Muse competitor](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor) | The Verge | AI |
+| 4 | [OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite](https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite) | TechCrunch | AI |
+| 5 | [OpenAI launches Dots, its bubbly agentic avatar](https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar) | TechCrunch | AI |
 
-> 共 54 条，以上为 TOP 5。
+> 共 75 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [一枚又一枚炸弹，我的乌克兰家乡正经历着缓慢的死亡 - The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE9UbWhLVGc2MG5NaFhBY1VGc2RudW1YWnJkQWtoN01WSEstNDBLZDNpLTk2RmljUmpyZUhXbzc3SHJERkFfZXJ6U18yWVJObUxXM1V4QmZqMkVZNU5zaTctaGdGWmx6SnF5SERkYzJNMTZBOERoeGdsb1Rzcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 回乡 |
-| 3 | [一枚又一枚炸弹，我位于乌克兰的家乡正经历着缓慢的死亡 - The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE9UbWhLVGc2MG5NaFhBY1VGc2RudW1YWnJkQWtoN01WSEstNDBLZDNpLTk2RmljUmpyZUhXbzc3SHJERkFfZXJ6U18yWVJObUxXM1V4QmZqMkVZNU5zaTctaGdGWmx6SnF5SERkYzJNMTZBOERoeGdsb1Rzcw?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 回乡 |
-| 4 | [参议员埃里克·施密特将杰克·史密斯“钉在墙上”——因为他是凯特琳·克拉克的粉丝](http://dlvr.it/TVhpW0) | dlvr.it | IP |
-| 5 | [那是个只有三个人住的鬼城。那么，卢肯巴赫究竟是如何与纳什维尔并驾齐驱，成为乡村音乐的中心地带的呢？](https://www.theguardian.com/music/2026/sep/29/luckenbach-the-texas-town-a-byword-for-outlaw-country-music) | www.theguardian.com | 回乡 |
-
-> 共 9 条，以上为 TOP 5。
+| 2 | [参议员埃里克·施密特将杰克·史密斯“钉在墙上”——因为他是凯特琳·克拉克的粉丝](http://dlvr.it/TVhpW0) | dlvr.it | IP |
+| 3 | [一位YouTube博主称，正是这一项Muse设置导致AI助手泄露了他的地址：“请多加小心”](https://www.businessinsider.com/muse-agent-facebook-marketplace-address-setting-meta-always-allow-2026-9) | www.businessinsider.com | AI/IP |
+| 4 | [泰勒·斯威夫特的粉丝群正在成长，而她的音乐却在倒退。](https://www.theatlantic.com/culture/2026/09/taylor-swift-the-encore-review/688815) | www.theatlantic.com | 认知/IP |
+| 5 | [《无心插柳的博主：我如何来到DEV》](https://dev.to/sylwia-lask/the-accidental-blogger-how-i-ended-up-on-dev-5a3f) | dev.to | IP |
 
 ---
 
@@ -66,13 +64,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Meta Muse 爆火引发金融业担忧，伯恩斯坦：银行、保险、券商商业模式面临重塑，Visa、万事达或成受益者](https://finance.jrj.com.cn/2026/09/29221358585909.shtml) | Readhub · AI | AI/变现 |
-| 2 | [消息人士称，OpenAI的年化经常性收入接近700亿美元](https://www.reuters.com/pt/tecnologia/32NYVLL4UZKT7PBERLKWCQYRAE-2026-09-29) | www.reuters.com | AI/变现 |
-| 3 | [报道称 OpenAI 年化经常性收入接近 700 亿美元，较三季度初增长超 70%](https://www.ithome.com/1/008/510.htm) | IT之家 (ITHome) | AI/变现 |
-| 4 | [“感觉自己正在失去立足之地”这一因素比收入或年龄更能预示自杀念头](https://phys.org/news/2026-09-ground-suicidal-ideation-income-age.html) | phys.org | 变现 |
-| 5 | [独家消息：OpenAI的年度经常性收入接近700亿美元](https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b) | www.axios.com | AI/变现 |
-
-> 共 8 条，以上为 TOP 5。
+| 1 | [消息人士称，OpenAI的年化经常性收入接近700亿美元](https://reut.rs/4xZ5k9T) | reut.rs | AI/变现 |
+| 2 | [报道称 OpenAI 年化经常性收入接近 700 亿美元，较三季度初增长超 70%](https://www.ithome.com/1/008/510.htm) | IT之家 (ITHome) | AI/变现 |
+| 3 | [独家消息：OpenAI的年度经常性收入接近700亿美元](https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b) | www.axios.com | AI/变现 |
+| 4 | [[程序员] 这里技术向居多，有没有发现很多客户根本不懂技术，却能大把赚钱？](https://www.v2ex.com/t/1245626) | V2EX (创意工作者社区) | 变现 |
 
 ---
 
@@ -84,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-29T17:05:11.199Z
-- **总资讯数**：4335 条原始 → 611 条筛选后
+- **聚合时间**：2026-09-29T21:33:28.357Z
+- **总资讯数**：4292 条原始 → 659 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
