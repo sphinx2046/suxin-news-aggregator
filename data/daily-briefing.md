@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI时代，每秒10W并发无锁缓存，spec怎么写?(7/100)](https://mp.weixin.qq.com/s/aPWGu38sAz-pQXOvis1I0g) | 架构师之路 | AI |
-| 2 | [曝 Claude 跳过 5.2，直奔 Opus 5.5](https://mp.weixin.qq.com/s/11hoZc0Ca_Znk9NLKrYxBg) | 夕小瑶科技说 | AI |
-| 3 | [大模型终局推演：OpenAl只能靠卖广告，企业的绝对利润规模远胜高毛利](https://mp.weixin.qq.com/s/1Zl1zIf52tZfGdMiCkMAnA) | AI前线 | AI |
-| 4 | [700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原..](https://mp.weixin.qq.com/s/tfUwMegRVWvYzgp3jl84mQ) | AI前线 | AI |
-| 5 | [对话景鲲：Al 产品的All in One，是上下文的All in One](https://mp.weixin.qq.com/s/IiNqeL8kREaVhoIFn3u86Q) | FounderPark | 其他 |
+| 1 | [突发，Sonnet 5.5偷跑！实测碾压GPT-6 Sol直逼Astra](https://aiera.com.cn/asi-post.html?id=116133) | 新智元 | AI |
+| 2 | [丘成桐弟子带AI狂写470万行，庞加莱猜想证明首次被机器完整验证！](https://aiera.com.cn/asi-post.html?id=116094) | 新智元 | AI |
+| 3 | [MIT牵头破题：AI能模拟社会，但谁来验证它？](https://aiera.com.cn/asi-post.html?id=116054) | 新智元 | AI |
+| 4 | [103秒，Claude删掉4.8万个真文件！「别碰原件」没拦住，连恢复记录都删了](https://aiera.com.cn/asi-post.html?id=116041) | 新智元 | AI |
+| 5 | [OpenAI满世界抓漏洞，结果被中国AI反杀！Codex再曝0day](https://aiera.com.cn/asi-post.html?id=116028) | 新智元 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [起薪3OK的高薪AI产品经理，0经验如何快速转型入行？](https://mp.weixin.qq.com/s/oymrh-09ED5ZBEvYhSdDsg) | 人人都是产品经理 | AI |
-| 2 | [Just How Big is the AI Buildout - and How Risky?](https://slashdot.org/story/26/09/25/230252/just-how-big-is-the-ai-buildout---and-how-risky) | Slashdot | AI |
-| 3 | [After Dozens of Incidents at OpenAI and Anthropic, OpenAI Pauses Model Training to Build More Safeguards](https://slashdot.org/story/26/09/27/078251/after-dozens-of-incidents-at-openai-and-anthropic-openai-pauses-model-training-to-build-more-safeguards) | Slashdot | AI |
-| 4 | [Florida asks a court to stop OpenAI building new AI models](https://thenextweb.com/news/florida-openai-temporary-injunction-model-development-uthmeier) | The Next Web | AI |
-| 5 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
+| 1 | [第 26 章 案例二 企业知识库问答 Agent](https://juejin.cn/post/7689219046840074278) | juejin | AI |
+| 2 | [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461) | sspai | AI |
+| 3 | [Just How Big is the AI Buildout - and How Risky?](https://slashdot.org/story/26/09/25/230252/just-how-big-is-the-ai-buildout---and-how-risky) | Slashdot | AI |
+| 4 | [After Dozens of Incidents at OpenAI and Anthropic, OpenAI Pauses Model Training to Build More Safeguards](https://slashdot.org/story/26/09/27/078251/after-dozens-of-incidents-at-openai-and-anthropic-openai-pauses-model-training-to-build-more-safeguards) | Slashdot | AI |
+| 5 | [Florida asks a court to stop OpenAI building new AI models](https://thenextweb.com/news/florida-openai-temporary-injunction-model-development-uthmeier) | The Next Web | AI |
 
-> 共 13 条，以上为 TOP 5。
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Manus独立后首次大更新，发布 2.0版本，推出 Personal Agent 应用 Cue](https://mp.weixin.qq.com/s/z2kl-0xZDp-5UT1SEr0ljw) | FounderPark | AI |
-| 2 | [霸榜 GitHub! Browser Use 开源了一个AI浏览器自动化神器](https://mp.weixin.qq.com/s/SuDjzsCfwb9-P2R17By3Pg) | GitHubDaily | AI |
+| 1 | [用 AI 迁项目有多爽？我把 Webpack 迁 Vite 的全过程记下来了](https://juejin.cn/post/7689096640691683343) | juejin | AI |
+| 2 | [OpenAI Says It Will Not Release Newest A.I. Model Over Safety Concerns](https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html) | Hacker News | AI |
 | 3 | [Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog](https://it.slashdot.org/story/26/09/28/150209/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog) | Slashdot | AI |
 | 4 | [Nvidia launches new platform for reining in rogue AI agents](https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents) | TechCrunch | AI |
 | 5 | [Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner](https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner) | TechCrunch | AI |
 
-> 共 73 条，以上为 TOP 5。
+> 共 68 条，以上为 TOP 5。
 
 ---
 
@@ -53,9 +53,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [抱歉了，特斯拉粉丝们。你们还得再等一段时间才能看到新款Roadster。](https://www.businessinsider.com/tesla-roadster-reveal-weather-delay-2026-9) | www.businessinsider.com | IP |
-| 3 | [一位YouTube博主称，Meta旗下的Muse将他的地址提供给了一位Facebook Marketplace买家：“有个男人突然就出现了”](https://www.businessinsider.com/meta-muse-facebook-marketplace-address-story-matt-robb-2026-9) | www.businessinsider.com | IP |
-| 4 | [网红煽动粉丝网暴他人还直播带货，最高法以案释法划清网络行为底线](https://www.ithome.com/1/008/047.htm) | IT之家 (ITHome) | IP |
+| 2 | [看了几十个绍兴水上庙会，我真的不觉得中国乡村没救了，我觉得还有救](https://www.huxiu.com/article/4894470.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 3 | [亚运看台上，那些喜欢孙颖莎、汪顺的外国粉丝们](https://www.huxiu.com/article/4894433.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 4 | [抱歉了，特斯拉粉丝们。你们还得再等一段时间才能看到新款Roadster。](https://www.businessinsider.com/tesla-roadster-reveal-weather-delay-2026-9) | www.businessinsider.com | IP |
+| 5 | [一位YouTube博主称，Meta旗下的Muse将他的地址提供给了一位Facebook Marketplace买家：“有个男人突然就出现了”](https://www.businessinsider.com/meta-muse-facebook-marketplace-address-story-matt-robb-2026-9) | www.businessinsider.com | IP |
 
 ---
 
@@ -64,12 +65,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [别跟风 AI 副业，工程师最该学的是 AI Coding](https://juejin.cn/post/7689830772006846498) | juejin | AI/变现 |
-| 2 | [受损树木越多，低收入居民获得的生态系统效益就越少](https://phys.org/news/2026-09-trees-ecosystem-benefits-income-residents.html) | phys.org | 变现 |
-| 3 | [英国对高收入者征税过重](https://bit.ly/4xRb2KT) | bit.ly | 变现 |
-| 4 | [英国对高收入群体的征税过重](https://www.economist.com/britain/2026/09/28/britain-overtaxes-well-paid-workers) | www.economist.com | 变现 |
-| 5 | [60cm长蛋挞9月卖出超1200万根，谁在赚钱？能红多久？](https://www.huxiu.com/article/4894421.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-
-> 共 6 条，以上为 TOP 5。
+| 2 | [沃尔玛 CEO 弗纳承诺：不会根据消费者收入、购物记录等个人信息动态定价](https://www.ithome.com/1/008/213.htm) | IT之家 (ITHome) | 变现 |
+| 3 | [长蛋挞9月卖出超1200万根，谁在赚钱？能红多久？](https://www.huxiu.com/article/4894421.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 4 | [英国对高收入者征税过重](https://bit.ly/4xRb2KT) | bit.ly | 变现 |
+| 5 | [英国对高收入群体的征税过重](https://www.economist.com/britain/2026/09/28/britain-overtaxes-well-paid-workers) | www.economist.com | 变现 |
 
 ---
 
@@ -81,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-09-28T23:59:30.693Z
-- **总资讯数**：4310 条原始 → 660 条筛选后
+- **聚合时间**：2026-09-29T04:18:52.286Z
+- **总资讯数**：4367 条原始 → 661 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
