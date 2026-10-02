@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [刚刚，谷歌Gemini 4 Argon杀回前三！追平GPT-6 Astra，Token价只要1/5](https://aiera.com.cn/asi-post.html?id=116642) | 新智元 | AI |
-| 2 | [NeurIPS&#8217;26 | 港科大：从CPU到GPU，AI能否真正加速全流程？](https://aiera.com.cn/asi-post.html?id=116606) | 新智元 | AI |
-| 3 | [Astra成功通关「我不是机器人」！人类最后一道防线，崩塌了？](https://aiera.com.cn/asi-post.html?id=116561) | 新智元 | 其他 |
-| 4 | [突发！特朗普签行政令：美国政府全面封杀「AI」](https://aiera.com.cn/asi-post.html?id=116545) | 新智元 | AI |
-| 5 | [谷歌DeepMind研究员宣称Gemini 4已实现RSI！](https://aiera.com.cn/asi-post.html?id=116529) | 新智元 | AI |
+| 1 | [Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）](https://juejin.cn/post/7690869043603292206) | juejin | AI |
+| 2 | [Pro 200 额度砍半，OpenAI 给的理由是模型变聪明了](https://juejin.cn/post/7690867753125199907) | juejin | AI |
+| 3 | [3 个 AI Agent 交付一个企业项目：4 人团队 2 个月，我 3 周做完](https://juejin.cn/post/7690841638806421538) | juejin | AI |
+| 4 | [Jev、Kev、Laya：决策模型怎么选，什么时候需要微调？](https://juejin.cn/post/7690832227404300351) | juejin | AI |
+| 5 | [一个人+AI做情侣食谱小程序，30天纯赚](https://juejin.cn/post/7691030977348108351) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Shopify debuts Canvas, a way to build online stores by chatting with AI](https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai) | TechCrunch | AI |
-| 2 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
-| 3 | [Chinese AI tool told researchers how to make bioweapons](https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss) | BBC News | AI |
-| 4 | [非游戏开发者用 AI 做微信小游戏的完整实录：聊天出 MVP、备案 27 天、踩坑](https://juejin.cn/post/7690435049426681898) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [分享一个做视频的skill，这条白板视频，每一笔都是代码画的](https://juejin.cn/post/7690026779798208547) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [隔离内网下 AI Agent 工程实战](https://juejin.cn/post/7690505279806373931) | juejin | AI |
+| 2 | [Windows 下 Claude Code 落地全指南：从安装配置到避坑优化](https://juejin.cn/post/7690784318688804914) | juejin | AI |
+| 3 | [DeepSeek Harness v0.2 桌面端上手：从安装到产出，我用 30 分钟搭了一个 AI 工作流](https://juejin.cn/post/7690807431082082338) | juejin | AI |
+| 4 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
+| 5 | [Chinese AI tool told researchers how to make bioweapons](https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss) | BBC News | AI |
 
-> 共 13 条，以上为 TOP 5。
+> 共 14 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [杀进Office腹地！ChatGPT文档能自己更新，协作PPT也要来了](https://aiera.com.cn/asi-post.html?id=116618) | 新智元 | AI |
-| 2 | [Gemini 4震撼发布，已实现RSI？谷歌80万行内核已被重写](https://aiera.com.cn/asi-post.html?id=116593) | 新智元 | AI |
-| 3 | [刚刚，GPT-6 Astra破解拿破仑百年悬案！217年密信曝光，信息量太大了](https://aiera.com.cn/asi-post.html?id=116514) | 新智元 | AI |
+| 1 | [游戏引擎都没用！纯AI又上线了一款蚂蚁搬家小游戏！](https://juejin.cn/post/7690869176362172425) | juejin | AI |
+| 2 | [OpenAI 发布 GPT-6.1 Sol，能力逼近 Astra](https://juejin.cn/post/7690930433831895050) | juejin | AI |
+| 3 | [Claude Opus 5.5 最新焚诀发布了！](https://juejin.cn/post/7690930433831354378) | juejin | AI |
 | 4 | [Google Unveils Gemini 4 Argon, Retaking Benchmark Lead Over OpenAI and Anthropic](https://tech.slashdot.org/story/26/09/30/2244216/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic) | Slashdot | AI |
 | 5 | [Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation](https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation) | TechCrunch | AI |
 
-> 共 62 条，以上为 TOP 5。
+> 共 60 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [中国首位藏族UFC选手追逐冠军梦想，激励着粉丝们](https://reut.rs/4jG0lqW) | reut.rs | IP |
-| 3 | [[问与答] 戒短视频，碎片时间，可以干啥？](https://www.v2ex.com/t/1246122) | V2EX (创意工作者社区) | IP |
-| 4 | [[推广] BifrostNetwork 住宅代理 | $0.5/GB 起，流量不过期 | 免费指纹浏览器 + Chrome 插件](https://www.v2ex.com/t/1246117) | V2EX (创意工作者社区) | IP |
-| 5 | [我的五线老家成了“Token之都”](https://mp.weixin.qq.com/s/RjHuN2AdvL_wAv9Z2kuVGA) | 量子位 | 回乡 |
+| 2 | [“在当下这种氛围下，推出一部名为《Girls Like Girls》的电影，这本身就是一种激进之举”：从热门歌曲创作者转型为导演的海莉·基约科谈性取向、安全以及成为“女同耶稣”](https://www.theguardian.com/film/2026/oct/02/hayley-kiyoko-interview-girls-like-girls-music-film-books) | www.theguardian.com | IP |
+| 3 | [[Wunder] V2EX 现在用上了一个新的流量统计工具 exe-stats](https://www.v2ex.com/t/1246152) | V2EX (创意工作者社区) | IP |
+| 4 | [亲测：住在高加索农村，跟湖南乡下有什么不同？](https://www.huxiu.com/article/4895158.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 5 | [[问与答] 戒短视频，碎片时间，可以干啥？](https://www.v2ex.com/t/1246122) | V2EX (创意工作者社区) | IP |
 
-> 共 6 条，以上为 TOP 5。
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -67,10 +67,8 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [变现门槛翻一番，YouTube的目标或是短视频](https://www.36kr.com/p/4007122846748807) | 36氪 · 24小时热榜 | IP/变现 |
-| 2 | [36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了](https://www.qbitai.com/2026/09/499280.html) | 量子位 · 每日最新 | 变现 |
-| 3 | [从程序员到一人公司创业者：这一年半我经历了什么](https://juejin.cn/post/7690776567971872768) | juejin | 变现 |
-| 4 | [晚点AI季报：Muse引爆个人助理，Astra走进机器人，OpenAl收入猛增](https://mp.weixin.qq.com/s/lS0m51NO_R34RPU9Af1Emg) | 晚点LatePost | AI/变现 |
-| 5 | [Ask HN: 自由职业者？正在寻找自由职业者？（2026年10月）](https://news.ycombinator.com/item?id=49922572) | news.ycombinator.com | 变现 |
+| 2 | [一位拥有10个收入来源的全职律师分享了她最大的失败经历，以及2026年赚取额外收入的最简单方法](https://www.businessinsider.com/serial-side-hustler-shares-how-to-start-making-money-today-2026-10) | www.businessinsider.com | 变现 |
+| 3 | [晚点AI季报：Muse引爆个人助理，Astra走进机器人，OpenAl收入猛增](https://mp.weixin.qq.com/s/lS0m51NO_R34RPU9Af1Emg) | 晚点LatePost | AI/变现 |
 
 ---
 
@@ -82,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-02T07:35:51.735Z
-- **总资讯数**：4355 条原始 → 577 条筛选后
+- **聚合时间**：2026-10-02T14:11:47.875Z
+- **总资讯数**：4339 条原始 → 580 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
