@@ -12,9 +12,9 @@
 |---|------|------|------|
 | 1 | [Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）](https://juejin.cn/post/7690869043603292206) | juejin | AI |
 | 2 | [Pro 200 额度砍半，OpenAI 给的理由是模型变聪明了](https://juejin.cn/post/7690867753125199907) | juejin | AI |
-| 3 | [3 个 AI Agent 交付一个企业项目：4 人团队 2 个月，我 3 周做完](https://juejin.cn/post/7690841638806421538) | juejin | AI |
-| 4 | [Jev、Kev、Laya：决策模型怎么选，什么时候需要微调？](https://juejin.cn/post/7690832227404300351) | juejin | AI |
-| 5 | [一个人+AI做情侣食谱小程序，30天纯赚](https://juejin.cn/post/7691030977348108351) | juejin | AI |
+| 3 | [一个人+AI做情侣食谱小程序，30天纯赚](https://juejin.cn/post/7691030977348108351) | juejin | AI |
+| 4 | [3 个 AI Agent 交付一个企业项目：4 人团队 2 个月，我 3 周做完](https://juejin.cn/post/7690841638806421538) | juejin | AI |
+| 5 | [构建稳定的 AI Agent：Harness 工程的核心机制与实践思考](https://juejin.cn/post/7690982503821246506) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -27,8 +27,8 @@
 | 1 | [隔离内网下 AI Agent 工程实战](https://juejin.cn/post/7690505279806373931) | juejin | AI |
 | 2 | [Windows 下 Claude Code 落地全指南：从安装配置到避坑优化](https://juejin.cn/post/7690784318688804914) | juejin | AI |
 | 3 | [DeepSeek Harness v0.2 桌面端上手：从安装到产出，我用 30 分钟搭了一个 AI 工作流](https://juejin.cn/post/7690807431082082338) | juejin | AI |
-| 4 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
-| 5 | [Chinese AI tool told researchers how to make bioweapons](https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss) | BBC News | AI |
+| 4 | [TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants) | TechCrunch | AI |
+| 5 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
 
 > 共 14 条，以上为 TOP 5。
 
@@ -41,10 +41,10 @@
 | 1 | [游戏引擎都没用！纯AI又上线了一款蚂蚁搬家小游戏！](https://juejin.cn/post/7690869176362172425) | juejin | AI |
 | 2 | [OpenAI 发布 GPT-6.1 Sol，能力逼近 Astra](https://juejin.cn/post/7690930433831895050) | juejin | AI |
 | 3 | [Claude Opus 5.5 最新焚诀发布了！](https://juejin.cn/post/7690930433831354378) | juejin | AI |
-| 4 | [Google Unveils Gemini 4 Argon, Retaking Benchmark Lead Over OpenAI and Anthropic](https://tech.slashdot.org/story/26/09/30/2244216/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic) | Slashdot | AI |
-| 5 | [Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation](https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation) | TechCrunch | AI |
+| 4 | [Volantis raises $88M for a photonic memory layer built for AI inference](https://thenextweb.com/news/volantis-photonic-memory-europe-inp) | The Next Web | AI |
+| 5 | [上市已7年的Nvidia Shield TV如今因AI功能而涨价100美元 / The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI](https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai) | Ars Technica | AI |
 
-> 共 60 条，以上为 TOP 5。
+> 共 59 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [“在当下这种氛围下，推出一部名为《Girls Like Girls》的电影，这本身就是一种激进之举”：从热门歌曲创作者转型为导演的海莉·基约科谈性取向、安全以及成为“女同耶稣”](https://www.theguardian.com/film/2026/oct/02/hayley-kiyoko-interview-girls-like-girls-music-film-books) | www.theguardian.com | IP |
-| 3 | [[Wunder] V2EX 现在用上了一个新的流量统计工具 exe-stats](https://www.v2ex.com/t/1246152) | V2EX (创意工作者社区) | IP |
-| 4 | [亲测：住在高加索农村，跟湖南乡下有什么不同？](https://www.huxiu.com/article/4895158.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
-| 5 | [[问与答] 戒短视频，碎片时间，可以干啥？](https://www.v2ex.com/t/1246122) | V2EX (创意工作者社区) | IP |
+| 2 | [迪士尼将向《Bluey》的创作者提供“一大笔钱”](https://www.bloomberg.com/news/articles/2026-10-01/disney-s-walden-would-offer-a-lot-of-money-to-bluey-creator) | www.bloomberg.com | IP |
+| 3 | [人工智能如何改变创作者经济：从丰厚报酬到愤怒的粉丝](https://www.businessinsider.com/ai-creator-economy-big-paychecks-fan-backlash-openai-meta-claude-2026-10) | www.businessinsider.com | AI/IP |
+| 4 | [[分享创造] 做了个小工具，上传两张照片，让你和朋友出演 APT. 风格短视频](https://www.v2ex.com/t/1246182) | V2EX (创意工作者社区) | IP |
+| 5 | [[Wunder] V2EX 现在用上了一个新的流量统计工具 exe-stats](https://www.v2ex.com/t/1246152) | V2EX (创意工作者社区) | IP |
 
-> 共 7 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -80,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-02T14:11:47.875Z
-- **总资讯数**：4339 条原始 → 580 条筛选后
+- **聚合时间**：2026-10-02T20:11:44.806Z
+- **总资讯数**：4278 条原始 → 590 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
