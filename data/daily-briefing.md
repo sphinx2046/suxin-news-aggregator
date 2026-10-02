@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-10-01（周四）
+# 素心拾穗 · 每日情报 · 2026-10-02（周五）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
-| 2 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
-| 3 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
-| 4 | [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon) | Hacker News | AI |
-| 5 | [CS240 AI Cheating Retrospective](https://turkeyland.net/thoughts/ai.php) | Hacker News | AI |
+| 1 | [刚刚，谷歌Gemini 4 Argon杀回前三！追平GPT-6 Astra，Token价只要1/5](https://aiera.com.cn/asi-post.html?id=116642) | 新智元 | AI |
+| 2 | [NeurIPS&#8217;26 | 港科大：从CPU到GPU，AI能否真正加速全流程？](https://aiera.com.cn/asi-post.html?id=116606) | 新智元 | AI |
+| 3 | [Astra成功通关「我不是机器人」！人类最后一道防线，崩塌了？](https://aiera.com.cn/asi-post.html?id=116561) | 新智元 | 其他 |
+| 4 | [突发！特朗普签行政令：美国政府全面封杀「AI」](https://aiera.com.cn/asi-post.html?id=116545) | 新智元 | AI |
+| 5 | [谷歌DeepMind研究员宣称Gemini 4已实现RSI！](https://aiera.com.cn/asi-post.html?id=116529) | 新智元 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -30,7 +30,7 @@
 | 4 | [非游戏开发者用 AI 做微信小游戏的完整实录：聊天出 MVP、备案 27 天、踩坑](https://juejin.cn/post/7690435049426681898) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [分享一个做视频的skill，这条白板视频，每一笔都是代码画的](https://juejin.cn/post/7690026779798208547) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 15 条，以上为 TOP 5。
+> 共 17 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Google Unveils Gemini 4 Argon, Retaking Benchmark Lead Over OpenAI and Anthropic](https://tech.slashdot.org/story/26/09/30/2244216/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic) | Slashdot | AI |
-| 2 | [Trump Administration Launches New AI-Powered 'America.gov' Website](https://tech.slashdot.org/story/26/09/30/1612221/trump-administration-launches-new-ai-powered-americagov-website) | Slashdot | AI |
-| 3 | [Strands Labs, AWS's experimental agent-development project, unveils Strands Decider 2B, a free, open-source Jev competitor fine-tuned from an Alibaba Qwen base (Carl Franzen/VentureBeat)](https://www.techmeme.com/261001/p32) | Techmeme | AI |
-| 4 | [Sony launches Quick Spectral Super Resolution, a "new performance tier of AI upscaling" for the standard PS5 developed in collaboration with AMD (Jay Peters/The Verge)](https://www.techmeme.com/261001/p30) | Techmeme | AI |
-| 5 | [Volantis, which aims to use vertical-cavity surface-emitting lasers, used in the iPhone's Face ID, to transmit data between AI and memory chips, raised $88M (Stephen Nellis/Reuters)](https://www.techmeme.com/261001/p25) | Techmeme | AI |
+| 1 | [杀进Office腹地！ChatGPT文档能自己更新，协作PPT也要来了](https://aiera.com.cn/asi-post.html?id=116618) | 新智元 | AI |
+| 2 | [Gemini 4震撼发布，已实现RSI？谷歌80万行内核已被重写](https://aiera.com.cn/asi-post.html?id=116593) | 新智元 | AI |
+| 3 | [刚刚，GPT-6 Astra破解拿破仑百年悬案！217年密信曝光，信息量太大了](https://aiera.com.cn/asi-post.html?id=116514) | 新智元 | AI |
+| 4 | [Google Unveils Gemini 4 Argon, Retaking Benchmark Lead Over OpenAI and Anthropic](https://tech.slashdot.org/story/26/09/30/2244216/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic) | Slashdot | AI |
+| 5 | [Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation](https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation) | TechCrunch | AI |
 
-> 共 68 条，以上为 TOP 5。
+> 共 70 条，以上为 TOP 5。
 
 ---
 
@@ -53,7 +53,9 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [全美最适宜居住的20座小城市排行榜](https://www.businessinsider.com/best-small-cities-to-live-in-us-2026-10) | www.businessinsider.com | 回乡 |
+| 2 | [34岁的国会议员亚萨敏·安萨里正在与24岁的YouTube博主杰克·科基亚雷拉交往 - TMZ](https://news.google.com/rss/articles/CBMioAFBVV95cUxNM3lhck13QlFxcG5WaFJHNW5DVF92NWxTOTdOUENEOVpGajNQcmMyZnpvR2VIcUNhZS1fQktEQ1J6ZWlNNi10UTJ4ZHM2aHVzZHlhelFBWHZNaDNIVTE5MDdyc1poYTJyaUpldTBUSF9VXzRjdWVBMjktOXVscmNENFI4ZXNuSDJxc3J4VXFXbjFBM3lNYXZuUF9sbFhFYWU1?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
+| 3 | [我的五线老家成了“Token之都”](https://mp.weixin.qq.com/s/RjHuN2AdvL_wAv9Z2kuVGA) | 量子位 | 回乡 |
+| 4 | [全美最适宜居住的20座小城市排行榜](https://www.businessinsider.com/best-small-cities-to-live-in-us-2026-10) | www.businessinsider.com | 回乡 |
 
 ---
 
@@ -63,7 +65,7 @@
 |---|------|------|------|
 | 1 | [36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了](https://www.qbitai.com/2026/09/499280.html) | 量子位 · 每日最新 | 变现 |
 | 2 | [从程序员到一人公司创业者：这一年半我经历了什么](https://juejin.cn/post/7690776567971872768) | juejin | 变现 |
-| 3 | [哥伦比亚8月份税收收入小幅上升，但未达目标](https://www.reuters.com/es/mundo/GIVGY2OXIZKLBGOOUU5BSCL6Q4-2026-10-01) | www.reuters.com | 变现 |
+| 3 | [晚点AI季报：Muse引爆个人助理，Astra走进机器人，OpenAl收入猛增](https://mp.weixin.qq.com/s/lS0m51NO_R34RPU9Af1Emg) | 晚点LatePost | AI/变现 |
 | 4 | [Ask HN: 自由职业者？正在寻找自由职业者？（2026年10月）](https://news.ycombinator.com/item?id=49922572) | news.ycombinator.com | 变现 |
 
 ---
@@ -76,8 +78,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-01T20:36:26.584Z
-- **总资讯数**：4319 条原始 → 589 条筛选后
+- **聚合时间**：2026-10-02T01:07:23.275Z
+- **总资讯数**：4274 条原始 → 568 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
