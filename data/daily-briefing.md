@@ -30,7 +30,7 @@
 | 4 | [非游戏开发者用 AI 做微信小游戏的完整实录：聊天出 MVP、备案 27 天、踩坑](https://juejin.cn/post/7690435049426681898) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [分享一个做视频的skill，这条白板视频，每一笔都是代码画的](https://juejin.cn/post/7690026779798208547) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 17 条，以上为 TOP 5。
+> 共 13 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [Google Unveils Gemini 4 Argon, Retaking Benchmark Lead Over OpenAI and Anthropic](https://tech.slashdot.org/story/26/09/30/2244216/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic) | Slashdot | AI |
 | 5 | [Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation](https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation) | TechCrunch | AI |
 
-> 共 70 条，以上为 TOP 5。
+> 共 62 条，以上为 TOP 5。
 
 ---
 
@@ -53,9 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [34岁的国会议员亚萨敏·安萨里正在与24岁的YouTube博主杰克·科基亚雷拉交往 - TMZ](https://news.google.com/rss/articles/CBMioAFBVV95cUxNM3lhck13QlFxcG5WaFJHNW5DVF92NWxTOTdOUENEOVpGajNQcmMyZnpvR2VIcUNhZS1fQktEQ1J6ZWlNNi10UTJ4ZHM2aHVzZHlhelFBWHZNaDNIVTE5MDdyc1poYTJyaUpldTBUSF9VXzRjdWVBMjktOXVscmNENFI4ZXNuSDJxc3J4VXFXbjFBM3lNYXZuUF9sbFhFYWU1?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 3 | [我的五线老家成了“Token之都”](https://mp.weixin.qq.com/s/RjHuN2AdvL_wAv9Z2kuVGA) | 量子位 | 回乡 |
-| 4 | [全美最适宜居住的20座小城市排行榜](https://www.businessinsider.com/best-small-cities-to-live-in-us-2026-10) | www.businessinsider.com | 回乡 |
+| 2 | [中国首位藏族UFC选手追逐冠军梦想，激励着粉丝们](https://reut.rs/4jG0lqW) | reut.rs | IP |
+| 3 | [[问与答] 戒短视频，碎片时间，可以干啥？](https://www.v2ex.com/t/1246122) | V2EX (创意工作者社区) | IP |
+| 4 | [[推广] BifrostNetwork 住宅代理 | $0.5/GB 起，流量不过期 | 免费指纹浏览器 + Chrome 插件](https://www.v2ex.com/t/1246117) | V2EX (创意工作者社区) | IP |
+| 5 | [我的五线老家成了“Token之都”](https://mp.weixin.qq.com/s/RjHuN2AdvL_wAv9Z2kuVGA) | 量子位 | 回乡 |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -63,10 +66,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了](https://www.qbitai.com/2026/09/499280.html) | 量子位 · 每日最新 | 变现 |
-| 2 | [从程序员到一人公司创业者：这一年半我经历了什么](https://juejin.cn/post/7690776567971872768) | juejin | 变现 |
-| 3 | [晚点AI季报：Muse引爆个人助理，Astra走进机器人，OpenAl收入猛增](https://mp.weixin.qq.com/s/lS0m51NO_R34RPU9Af1Emg) | 晚点LatePost | AI/变现 |
-| 4 | [Ask HN: 自由职业者？正在寻找自由职业者？（2026年10月）](https://news.ycombinator.com/item?id=49922572) | news.ycombinator.com | 变现 |
+| 1 | [变现门槛翻一番，YouTube的目标或是短视频](https://www.36kr.com/p/4007122846748807) | 36氪 · 24小时热榜 | IP/变现 |
+| 2 | [36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了](https://www.qbitai.com/2026/09/499280.html) | 量子位 · 每日最新 | 变现 |
+| 3 | [从程序员到一人公司创业者：这一年半我经历了什么](https://juejin.cn/post/7690776567971872768) | juejin | 变现 |
+| 4 | [晚点AI季报：Muse引爆个人助理，Astra走进机器人，OpenAl收入猛增](https://mp.weixin.qq.com/s/lS0m51NO_R34RPU9Af1Emg) | 晚点LatePost | AI/变现 |
+| 5 | [Ask HN: 自由职业者？正在寻找自由职业者？（2026年10月）](https://news.ycombinator.com/item?id=49922572) | news.ycombinator.com | 变现 |
 
 ---
 
@@ -78,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-02T01:07:23.275Z
-- **总资讯数**：4274 条原始 → 568 条筛选后
+- **聚合时间**：2026-10-02T07:35:51.735Z
+- **总资讯数**：4355 条原始 → 577 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
