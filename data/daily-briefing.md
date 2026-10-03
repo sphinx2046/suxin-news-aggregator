@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-10-02（周五）
+# 素心拾穗 · 每日情报 · 2026-10-03（周六）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Web自动化测试全景图：20个主流AI自动化工具如何选？（强烈安利）](https://juejin.cn/post/7690869043603292206) | juejin | AI |
-| 2 | [Pro 200 额度砍半，OpenAI 给的理由是模型变聪明了](https://juejin.cn/post/7690867753125199907) | juejin | AI |
-| 3 | [一个人+AI做情侣食谱小程序，30天纯赚](https://juejin.cn/post/7691030977348108351) | juejin | AI |
-| 4 | [3 个 AI Agent 交付一个企业项目：4 人团队 2 个月，我 3 周做完](https://juejin.cn/post/7690841638806421538) | juejin | AI |
-| 5 | [构建稳定的 AI Agent：Harness 工程的核心机制与实践思考](https://juejin.cn/post/7690982503821246506) | juejin | AI |
+| 1 | [踩刹车，但OpenAI要再融2000亿](https://aiera.com.cn/asi-post.html?id=116739) | 新智元 | AI |
+| 2 | [奥特曼开掉3人，OpenAI又出大事了！](https://aiera.com.cn/asi-post.html?id=116729) | 新智元 | AI |
+| 3 | [刚刚，Anthropic「第一夫人」出局了！](https://aiera.com.cn/asi-post.html?id=116679) | 新智元 | AI |
+| 4 | [Anthropic首曝秘密游说梵蒂冈：Claude已经有意识了！](https://aiera.com.cn/asi-post.html?id=116663) | 新智元 | AI |
+| 5 | [Token用量暴涨124倍，研发提速仅一成？前微软合伙人万字长文质疑RS..](https://mp.weixin.qq.com/s/Yd6R61Sz0-1DMstf3RjY5g) | AI前线 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [隔离内网下 AI Agent 工程实战](https://juejin.cn/post/7690505279806373931) | juejin | AI |
-| 2 | [Windows 下 Claude Code 落地全指南：从安装配置到避坑优化](https://juejin.cn/post/7690784318688804914) | juejin | AI |
-| 3 | [DeepSeek Harness v0.2 桌面端上手：从安装到产出，我用 30 分钟搭了一个 AI 工作流](https://juejin.cn/post/7690807431082082338) | juejin | AI |
-| 4 | [TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants) | TechCrunch | AI |
-| 5 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
+| 1 | [面试被拒N次，0经验小白如何2个月拿到AI产品经理offer?](https://mp.weixin.qq.com/s/lX7CC-2-GhX805WdMrPRew) | 人人都是产品经理 | AI |
+| 2 | [Sean Parker is rebuilding Stability AI around music](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music) | TechCrunch | AI |
+| 3 | [TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants) | TechCrunch | AI |
+| 4 | [How to be an AI minimalist](https://www.vox.com/advice/503246/ai-chatgpt-claude-slop) | Recode | AI |
+| 5 | [Chinese AI tool told researchers how to make bioweapons](https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss) | BBC News | AI |
 
-> 共 14 条，以上为 TOP 5。
+> 共 16 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [游戏引擎都没用！纯AI又上线了一款蚂蚁搬家小游戏！](https://juejin.cn/post/7690869176362172425) | juejin | AI |
-| 2 | [OpenAI 发布 GPT-6.1 Sol，能力逼近 Astra](https://juejin.cn/post/7690930433831895050) | juejin | AI |
-| 3 | [Claude Opus 5.5 最新焚诀发布了！](https://juejin.cn/post/7690930433831354378) | juejin | AI |
-| 4 | [Volantis raises $88M for a photonic memory layer built for AI inference](https://thenextweb.com/news/volantis-photonic-memory-europe-inp) | The Next Web | AI |
+| 1 | [刚刚，DeepSeek Harness负责人崔添翼评价Claude新功能Mods：与D...](https://mp.weixin.qq.com/s/kL6IVZEwfI3dAtCg96didg) | AI前线 | AI |
+| 2 | [Apple will update Macs to protect users from AI agents with full disk access](https://mashable.com/tech/apple-will-update-full-disk-access-due-to-updates-ai-agents) | Mashable | AI |
+| 3 | [Volantis raises $88M for a photonic memory layer built for AI inference](https://thenextweb.com/news/volantis-photonic-memory-europe-inp) | The Next Web | AI |
+| 4 | [Apple Announces 'Full Disk Access' Changes on macOS Due to AI Agents](https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes) | Mac Rumors | AI |
 | 5 | [上市已7年的Nvidia Shield TV如今因AI功能而涨价100美元 / The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI](https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai) | Ars Technica | AI |
 
-> 共 59 条，以上为 TOP 5。
+> 共 50 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [迪士尼将向《Bluey》的创作者提供“一大笔钱”](https://www.bloomberg.com/news/articles/2026-10-01/disney-s-walden-would-offer-a-lot-of-money-to-bluey-creator) | www.bloomberg.com | IP |
+| 2 | [内容创作者的芝士牛排恶作剧以失败告终 - Newser](https://news.google.com/rss/articles/CBMioAFBVV95cUxNSFBveFFlRVpPWFpLUUdaNG85YjEtbWZCOUtoM1NwamdJRGhUQnBpX01HVGI3bFZfZWVlWlNOajhzS1NWUEJ5NVcxa1lDeEI2dFRtR25vWU02c0VvQjJMLUt6YVN6NXNVYzFsR1cwMjRmRkRjOEtHVHZ6M3hMdV9Xenc5WEkxbURzXzJ5cUtfZVVuWXZ4WDJtU3VhV0VPTm5k?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
 | 3 | [人工智能如何改变创作者经济：从丰厚报酬到愤怒的粉丝](https://www.businessinsider.com/ai-creator-economy-big-paychecks-fan-backlash-openai-meta-claude-2026-10) | www.businessinsider.com | AI/IP |
 | 4 | [[分享创造] 做了个小工具，上传两张照片，让你和朋友出演 APT. 风格短视频](https://www.v2ex.com/t/1246182) | V2EX (创意工作者社区) | IP |
 | 5 | [[Wunder] V2EX 现在用上了一个新的流量统计工具 exe-stats](https://www.v2ex.com/t/1246152) | V2EX (创意工作者社区) | IP |
-
-> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -68,7 +66,6 @@
 |---|------|------|------|
 | 1 | [变现门槛翻一番，YouTube的目标或是短视频](https://www.36kr.com/p/4007122846748807) | 36氪 · 24小时热榜 | IP/变现 |
 | 2 | [一位拥有10个收入来源的全职律师分享了她最大的失败经历，以及2026年赚取额外收入的最简单方法](https://www.businessinsider.com/serial-side-hustler-shares-how-to-start-making-money-today-2026-10) | www.businessinsider.com | 变现 |
-| 3 | [晚点AI季报：Muse引爆个人助理，Astra走进机器人，OpenAl收入猛增](https://mp.weixin.qq.com/s/lS0m51NO_R34RPU9Af1Emg) | 晚点LatePost | AI/变现 |
 
 ---
 
@@ -80,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-02T20:11:44.806Z
-- **总资讯数**：4278 条原始 → 590 条筛选后
+- **聚合时间**：2026-10-03T00:46:35.511Z
+- **总资讯数**：4265 条原始 → 558 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
