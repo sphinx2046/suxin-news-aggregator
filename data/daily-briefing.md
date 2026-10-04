@@ -30,7 +30,7 @@
 | 4 | [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945) | 少数派 · 热门文章 | AI |
 | 5 | [非游戏开发者用 AI 做微信小游戏的完整实录：聊天出 MVP、备案 27 天、踩坑](https://juejin.cn/post/7690435049426681898) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 14 条，以上为 TOP 5。
+> 共 13 条，以上为 TOP 5。
 
 ---
 
@@ -39,12 +39,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [毕树超官宣：Meta AI连破6大世界猜想，数学界AlphaGo时刻来了！](https://aiera.com.cn/asi-post.html?id=116794) | 新智元 | AI |
-| 2 | [微信上线AI帮写，朋友圈文案不用自己憋了](https://juejin.cn/post/7691450666418421823) | juejin | AI |
-| 3 | [Volantis raises $88M for a photonic memory layer built for AI inference](https://thenextweb.com/news/volantis-photonic-memory-europe-inp) | The Next Web | AI |
-| 4 | [Apple Announces 'Full Disk Access' Changes on macOS Due to AI Agents](https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes) | Mac Rumors | AI |
-| 5 | [上市已7年的Nvidia Shield TV如今因AI功能而涨价100美元 / The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI](https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai) | Ars Technica | AI |
+| 2 | [Volantis raises $88M for a photonic memory layer built for AI inference](https://thenextweb.com/news/volantis-photonic-memory-europe-inp) | The Next Web | AI |
+| 3 | [Apple Announces 'Full Disk Access' Changes on macOS Due to AI Agents](https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes) | Mac Rumors | AI |
+| 4 | [上市已7年的Nvidia Shield TV如今因AI功能而涨价100美元 / The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI](https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai) | Ars Technica | AI |
+| 5 | [Google freezes product flaw submissions to its OSS Vulnerability Reward Program over an influx of invalid AI-driven reports, plans an update by Q1 2027 (Etiido Uko/Tom's Hardware)](https://www.techmeme.com/261004/p5) | Techmeme | AI |
 
-> 共 42 条，以上为 TOP 5。
+> 共 34 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [今年国庆，县城酒店接不到婚宴了](https://mp.weixin.qq.com/s/AKmObGZ8-xiTpAThfHWpwg) | 虎嗅App | 回乡 |
-| 3 | [今年十一，县城没人结婚了](https://mp.weixin.qq.com/s/m8WgUCgeuzARgkuCTT8UUQ) | 36氪 | 回乡 |
-| 4 | [既然有短视频可看，何必为考试而学习呢？@juliejargon 解释道，短视频让学生更难将当前的活动与未来的结果联系起来。](https://on.wsj.com/4yEe6ez) | on.wsj.com | IP |
-| 5 | [在这个“安全空间”里，创作者可以公开表达对AI的喜爱](https://www.businessinsider.com/content-creators-embrace-ai-despite-backlash-conference-influencers-hollywood-2026-10) | www.businessinsider.com | AI/IP |
+| 2 | [[宽带症候群] 回老家所有梯子都失效了](https://www.v2ex.com/t/1246366) | V2EX (创意工作者社区) | 回乡 |
+| 3 | [开启双重验证也没用，又一博主 PSN 账号被盗](https://www.ithome.com/1/009/615.htm) | IT之家 (ITHome) | IP |
+| 4 | [[问与答] 关于喜马拉雅主播粉丝数的一个疑惑](https://www.v2ex.com/t/1246336) | V2EX (创意工作者社区) | IP |
+| 5 | [Show HN: ViralWiz——为短视频提供AI生成的字幕、片段和缩略图](https://viralwiz.co/) | viralwiz.co | AI/IP |
 
-> 共 6 条，以上为 TOP 5。
+> 共 9 条，以上为 TOP 5。
 
 ---
 
@@ -66,8 +66,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [保守党承诺取消针对英国高收入群体的10万英镑“税收陷阱”](https://www.ft.com/content/82ceae35-e3ef-4b68-8cfa-553b205a4bb0?syn-25a6b1a6=1) | www.ft.com | 变现 |
-| 2 | [[职场话题] 大家有什么离开码农岗位能保持一定稳定收入的事业？](https://www.v2ex.com/t/1246294) | V2EX (创意工作者社区) | 变现 |
+| 1 | [[独立开发者 👨‍💻] 全程 flash 模型： DeepSeek、GLM、Hy4 写了个小程序，顺便记录下国内独立开发的坑](https://www.v2ex.com/t/1246349) | V2EX (创意工作者社区) | AI/变现 |
+| 2 | [任天堂《马力欧卡丁车 巡回赛》已停服，估算七年收入约 2.685 亿美元](https://www.ithome.com/1/009/602.htm) | IT之家 (ITHome) | 变现 |
+| 3 | [保守党承诺取消针对英国高收入群体的10万英镑“税收陷阱”](https://www.ft.com/content/82ceae35-e3ef-4b68-8cfa-553b205a4bb0?syn-25a6b1a6=1) | www.ft.com | 变现 |
 
 ---
 
@@ -79,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-04T00:09:27.163Z
-- **总资讯数**：4082 条原始 → 523 条筛选后
+- **聚合时间**：2026-10-04T07:29:16.699Z
+- **总资讯数**：4059 条原始 → 514 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
