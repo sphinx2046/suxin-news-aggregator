@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
-| 2 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
-| 3 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
-| 4 | [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon) | Hacker News | AI |
-| 5 | [CS240 AI Cheating Retrospective](https://turkeyland.net/thoughts/ai.php) | Hacker News | AI |
+| 1 | [具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性](https://sspai.com/post/114901) | sspai | 其他 |
+| 2 | [当 AI 让执行力变得廉价，我们该拿什么脱颖而出？](https://sspai.com/post/114519) | sspai | AI |
+| 3 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
+| 4 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
+| 5 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -30,7 +30,7 @@
 | 4 | [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945) | 少数派 · 热门文章 | AI |
 | 5 | [非游戏开发者用 AI 做微信小游戏的完整实录：聊天出 MVP、备案 27 天、踩坑](https://juejin.cn/post/7690435049426681898) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 12 条，以上为 TOP 5。
+> 共 13 条，以上为 TOP 5。
 
 ---
 
@@ -39,12 +39,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [Trump announces an AI czar for his newly created 'Super Intelligence Force'](https://www.engadget.com/2276762/trump-announces-an-ai-czar-for-his-newly-created-super-intelligence-force) | Engadget | AI |
-| 2 | [Volantis raises $88M for a photonic memory layer built for AI inference](https://thenextweb.com/news/volantis-photonic-memory-europe-inp) | The Next Web | AI |
-| 3 | [Apple Announces 'Full Disk Access' Changes on macOS Due to AI Agents](https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes) | Mac Rumors | AI |
-| 4 | [Google freezes product flaw submissions to its OSS Vulnerability Reward Program over an influx of invalid AI-driven reports, plans an update by Q1 2027 (Etiido Uko/Tom's Hardware)](https://www.techmeme.com/261004/p5) | Techmeme | AI |
-| 5 | [Bitdefender 推出免费 Mac 工具 AI Guardian，防范攻击者欺骗 AI 模型 / 'The agent itself has become its own entity to secure': Bitdefender's new free Mac tool goes after flaws that let attackers fool AI models](https://www.techradar.com/pro/phone-communications/the-agent-itself-has-become-its-own-entity-to-secure-bitdefenders-new-free-mac-tool-goes-after-flaws-that-let-attackers-fool-ai-models) | TechRadar | AI |
+| 2 | [Apple Announces 'Full Disk Access' Changes on macOS Due to AI Agents](https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes) | Mac Rumors | AI |
+| 3 | [Google freezes product flaw submissions to its OSS Vulnerability Reward Program over an influx of invalid AI-driven reports, plans an update by Q1 2027 (Etiido Uko/Tom's Hardware)](https://www.techmeme.com/261004/p5) | Techmeme | AI |
+| 4 | [Bitdefender 推出免费 Mac 工具 AI Guardian，防范攻击者欺骗 AI 模型 / 'The agent itself has become its own entity to secure': Bitdefender's new free Mac tool goes after flaws that let attackers fool AI models](https://www.techradar.com/pro/phone-communications/the-agent-itself-has-become-its-own-entity-to-secure-bitdefenders-new-free-mac-tool-goes-after-flaws-that-let-attackers-fool-ai-models) | TechRadar | AI |
+| 5 | [Google Releases New Gemini Model With Guardrails Amid A.I. Safety Debate](https://www.nytimes.com/2026/09/30/technology/google-gemini-4-argon-ai-safety.html) | New York Times | AI |
 
-> 共 40 条，以上为 TOP 5。
+> 共 39 条，以上为 TOP 5。
 
 ---
 
@@ -77,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-04T17:52:56.191Z
-- **总资讯数**：3953 条原始 → 473 条筛选后
+- **聚合时间**：2026-10-04T20:31:48.340Z
+- **总资讯数**：4030 条原始 → 466 条筛选后
 - **覆盖站点**：13 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
