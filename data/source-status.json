@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-07T07:46:28.253Z",
+  "generated_at": "2026-10-07T14:47:52.477Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 355,
+      "duration_ms": 285,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 374,
+      "duration_ms": 354,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 327,
-      "duration_ms": 15908,
+      "item_count": 373,
+      "duration_ms": 18716,
       "error": null
     },
     {
@@ -30,23 +30,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 864,
+      "duration_ms": 509,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3027,
-      "duration_ms": 642,
+      "item_count": 3022,
+      "duration_ms": 953,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 78,
-      "duration_ms": 1026,
+      "item_count": 74,
+      "duration_ms": 1610,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5905,
+      "duration_ms": 5545,
       "error": "fetch failed"
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1325,
+      "duration_ms": 1248,
       "error": null
     },
     {
@@ -70,15 +70,15 @@
       "site_name": "AI今日热榜",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 82,
+      "duration_ms": 114,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "ok": true,
-      "item_count": 122,
-      "duration_ms": 1922,
+      "item_count": 123,
+      "duration_ms": 1960,
       "error": null
     },
     {
@@ -86,27 +86,35 @@
       "site_name": "YouTube",
       "ok": true,
       "item_count": 45,
-      "duration_ms": 365,
+      "duration_ms": 148,
       "error": null
     },
     {
       "site_id": "xinzhiyuan",
       "site_name": "新智元",
       "ok": true,
-      "item_count": 62,
-      "duration_ms": 3836,
+      "item_count": 54,
+      "duration_ms": 3920,
       "error": null
     },
     {
       "site_id": "wechat-rss",
       "site_name": "微信公众号",
       "ok": true,
-      "item_count": 127,
-      "duration_ms": 993,
+      "item_count": 138,
+      "duration_ms": 1845,
+      "error": null
+    },
+    {
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "ok": true,
+      "item_count": 194,
+      "duration_ms": 5513,
       "error": null
     }
   ],
-  "successful_sites": 12,
+  "successful_sites": 13,
   "failed_sites": [
     "aihubtoday"
   ],
@@ -114,19 +122,202 @@
     "bestblogs",
     "aihot"
   ],
-  "fetched_raw_items": 4957,
-  "items_before_topic_filter": 4621,
-  "items_in_24h": 548,
+  "fetched_raw_items": 5192,
+  "items_before_topic_filter": 4817,
+  "items_in_24h": 659,
   "rss_opml": {
-    "enabled": false,
-    "path": null,
-    "feed_total": 0,
-    "effective_feed_total": 0,
-    "ok_feeds": 0,
+    "enabled": true,
+    "path": "/home/runner/work/suxin-news-aggregator/suxin-news-aggregator/feeds/follow.opml",
+    "feed_total": 13,
+    "effective_feed_total": 13,
+    "ok_feeds": 13,
     "failed_feeds": [],
     "zero_item_feeds": [],
     "skipped_feeds": [],
     "replaced_feeds": [],
-    "feeds": []
+    "feeds": [
+      {
+        "site_id": "opmlrss:65f8c29466",
+        "site_name": "OPML RSS",
+        "feed_title": "Aeon",
+        "feed_url": "https://aeon.co/feed.rss",
+        "effective_feed_url": "https://aeon.co/feed.rss",
+        "ok": true,
+        "item_count": 20,
+        "duration_ms": 241,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:4981617b6b",
+        "site_name": "OPML RSS",
+        "feed_title": "Big Think",
+        "feed_url": "https://bigthink.com/feed/",
+        "effective_feed_url": "https://bigthink.com/feed/",
+        "ok": true,
+        "item_count": 10,
+        "duration_ms": 872,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:cab637d33f",
+        "site_name": "OPML RSS",
+        "feed_title": "Electric Literature",
+        "feed_url": "https://electricliterature.com/feed/",
+        "effective_feed_url": "https://electricliterature.com/feed/",
+        "ok": true,
+        "item_count": 10,
+        "duration_ms": 441,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:2849921ba3",
+        "site_name": "OPML RSS",
+        "feed_title": "Medium · Artificial Intelligence",
+        "feed_url": "https://medium.com/feed/tag/artificial-intelligence",
+        "effective_feed_url": "https://medium.com/feed/tag/artificial-intelligence",
+        "ok": true,
+        "item_count": 10,
+        "duration_ms": 433,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:804dad8b31",
+        "site_name": "OPML RSS",
+        "feed_title": "Medium · Attention",
+        "feed_url": "https://medium.com/feed/tag/attention",
+        "effective_feed_url": "https://medium.com/feed/tag/attention",
+        "ok": true,
+        "item_count": 10,
+        "duration_ms": 463,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:63337ac31a",
+        "site_name": "OPML RSS",
+        "feed_title": "Medium · Cognition",
+        "feed_url": "https://medium.com/feed/tag/cognition",
+        "effective_feed_url": "https://medium.com/feed/tag/cognition",
+        "ok": true,
+        "item_count": 10,
+        "duration_ms": 427,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:d957fec624",
+        "site_name": "OPML RSS",
+        "feed_title": "Medium · Decision Making",
+        "feed_url": "https://medium.com/feed/tag/decision-making",
+        "effective_feed_url": "https://medium.com/feed/tag/decision-making",
+        "ok": true,
+        "item_count": 10,
+        "duration_ms": 436,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:6ea9ed2aa7",
+        "site_name": "OPML RSS",
+        "feed_title": "Medium · Grief",
+        "feed_url": "https://medium.com/feed/tag/grief",
+        "effective_feed_url": "https://medium.com/feed/tag/grief",
+        "ok": true,
+        "item_count": 10,
+        "duration_ms": 415,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:ba808666b6",
+        "site_name": "OPML RSS",
+        "feed_title": "Medium · Note Taking",
+        "feed_url": "https://medium.com/feed/tag/note-taking",
+        "effective_feed_url": "https://medium.com/feed/tag/note-taking",
+        "ok": true,
+        "item_count": 10,
+        "duration_ms": 491,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:26eb670a79",
+        "site_name": "OPML RSS",
+        "feed_title": "Medium · Solitude",
+        "feed_url": "https://medium.com/feed/tag/solitude",
+        "effective_feed_url": "https://medium.com/feed/tag/solitude",
+        "ok": true,
+        "item_count": 9,
+        "duration_ms": 463,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:1b4a9d0332",
+        "site_name": "OPML RSS",
+        "feed_title": "Medium · Thinking",
+        "feed_url": "https://medium.com/feed/tag/thinking",
+        "effective_feed_url": "https://medium.com/feed/tag/thinking",
+        "ok": true,
+        "item_count": 10,
+        "duration_ms": 274,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:afd6b924ce",
+        "site_name": "OPML RSS",
+        "feed_title": "The Atlantic",
+        "feed_url": "https://www.theatlantic.com/feed/all/",
+        "effective_feed_url": "https://www.theatlantic.com/feed/all/",
+        "ok": true,
+        "item_count": 25,
+        "duration_ms": 247,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      },
+      {
+        "site_id": "opmlrss:f6dcc4fc80",
+        "site_name": "OPML RSS",
+        "feed_title": "The New Yorker",
+        "feed_url": "https://www.newyorker.com/feed/everything",
+        "effective_feed_url": "https://www.newyorker.com/feed/everything",
+        "ok": true,
+        "item_count": 50,
+        "duration_ms": 310,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false
+      }
+    ]
   }
 }
