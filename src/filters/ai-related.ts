@@ -36,6 +36,13 @@ export function isAiRelated(record: ArchiveItem): boolean {
     return true;
   }
 
+  // 2026-10-07：OPML RSS 为人工精选源（Aeon / Big Think / The Atlantic / Electric Literature /
+  // The New Yorker + Medium 认知类窄标签），天然相关，直接放行——避免英文标题不含中文关键词
+  // 或 AI 词时被误杀。仅保留商业噪音词拦截。
+  if (siteId === 'opmlrss' || siteId.startsWith('opmlrss:')) {
+    return !containsAnyKeyword(text, CONFIG.filter.commerceNoiseKeywords);
+  }
+
   const hasAi =
     containsAnyKeyword(text, CONFIG.filter.aiKeywords) ||
     CONFIG.filter.enSignalPattern.test(text);
