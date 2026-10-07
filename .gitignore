@@ -1,5 +1,6 @@
 feeds/*.opml
 !feeds/*.example.opml
+!feeds/follow.opml
 
 # Dependencies
 node_modules/
