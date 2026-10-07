@@ -46,17 +46,27 @@ export function isAiRelated(record: ArchiveItem): boolean {
   const hasIp = containsAnyKeyword(text, CONFIG.filter.ipKeywords);
   const hasMonetize = containsAnyKeyword(text, CONFIG.filter.monetizeKeywords);
   const hasRural = containsAnyKeyword(text, CONFIG.filter.ruralKeywords);
-  const isSuxinRelated = hasAi || hasTech || hasCognition || hasIp || hasMonetize || hasRural;
+  const hasEmotion = containsAnyKeyword(text, CONFIG.filter.emotionKeywords);
+  // 2026-10-07 新增：人文/思想/文学类英文源（aeon / bigthink / theatlantic / electricliterature / newyorker）
+  const hasHumanities = containsAnyKeyword(text, CONFIG.filter.humanitiesKeywords);
+  const isSuxinRelated =
+    hasAi || hasTech || hasCognition || hasIp || hasMonetize || hasRural || hasEmotion || hasHumanities;
 
   if (!isSuxinRelated) {
     return false;
   }
 
-  if (containsAnyKeyword(text, CONFIG.filter.commerceNoiseKeywords) && !hasAi && !hasCognition && !hasIp) {
+  if (
+    containsAnyKeyword(text, CONFIG.filter.commerceNoiseKeywords) &&
+    !hasAi &&
+    !hasCognition &&
+    !hasIp &&
+    !hasEmotion
+  ) {
     return false;
   }
 
-  if (containsAnyKeyword(text, CONFIG.filter.noiseKeywords) && !hasAi && !hasCognition) {
+  if (containsAnyKeyword(text, CONFIG.filter.noiseKeywords) && !hasAi && !hasCognition && !hasEmotion) {
     return false;
   }
 
@@ -89,6 +99,12 @@ export function getSuxinCategory(record: ArchiveItem): string[] {
   }
   if (containsAnyKeyword(text, CONFIG.filter.ruralKeywords)) {
     categories.push('回乡');
+  }
+  if (containsAnyKeyword(text, CONFIG.filter.emotionKeywords)) {
+    categories.push('情感');
+  }
+  if (containsAnyKeyword(text, CONFIG.filter.humanitiesKeywords)) {
+    categories.push('人文');
   }
 
   return categories.length > 0 ? categories : ['其他'];

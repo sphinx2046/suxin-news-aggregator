@@ -164,8 +164,96 @@ export const CONFIG = {
       '家乡',
       '老家',
     ],
+    // 情感/陪伴/情绪价值类
+    emotionKeywords: [
+      '情感',
+      '情绪',
+      '陪伴',
+      '治愈',
+      '共情',
+      '倾听',
+      '树洞',
+      '情绪价值',
+      '孤独',
+      '归属感',
+      '内耗',
+      '自愈',
+      '疗愈',
+      '温暖',
+      '独居',
+      '慢生活',
+      'vlog日常',
+      '碎碎念',
+      '烟火气',
+      '人情味',
+      // 心理/情绪/关系类（补充）
+      '心理',
+      '心理学',
+      '焦虑',
+      '抑郁',
+      '压力',
+      '恋爱',
+      '爱情',
+      '婚姻',
+      '亲密关系',
+      '关系',
+      '分手',
+      '择偶',
+      '创伤',
+      '自我',
+      '安全感',
+      '幸福',
+      '幸福力',
+      '心理健康',
+      '心理成长',
+      '情绪管理',
+      // 人文/生活观察类（人物/三联风格）
+      '人生',
+      '生活',
+      '家乡',
+      '故乡',
+      '妈妈',
+      '母亲',
+      '父亲',
+      '亲情',
+      '家人',
+      '家庭',
+      '中年',
+      '老年',
+      '年龄',
+      '成长故事',
+      '普通人',
+      '人生选择',
+      '人生意义',
+      '日子',
+      '烟火',
+    ],
 
-    noiseKeywords: ['娱乐', '明星', '八卦', '足球', '篮球', '彩票', '情感', '旅游', '美食'],
+    // ===== 人文/思想/文学 英文关键词（2026-10-07 新增，配套英文人文源）=====
+    // 用途：aeon.co / bigthink.com / theatlantic.com / electricliterature.com / newyorker.com
+    // 注：匹配方式是子串包含（toLowerCase().includes），故刻意避开 art/work/home/land/mind/class
+    //     这类会误召（article/start/party/framework）的短词，只放 5 字以上或语义明确的词。
+    humanitiesKeywords: [
+      // 阅读 / 写作 / 文学
+      'reading', 'books', 'book review', 'literature', 'literary', 'essay',
+      'memoir', 'novel', 'poetry', 'fiction', 'writer', 'writing', 'prose',
+      // 思想 / 哲学 / 注意力
+      'philosophy', 'philosopher', 'attention', 'contemplation', 'consciousness',
+      'wisdom', 'intellectual', 'meaning of', 'search for meaning',
+      // 情绪 / 关系 / 生命历程
+      'loneliness', 'solitude', 'grief', 'mourning', 'longing', 'belonging',
+      'intimacy', 'friendship', 'motherhood', 'fatherhood', 'marriage',
+      'childhood', 'memory', 'aging',
+      // 地方 / 乡村 / 土地
+      'rural', 'village', 'countryside', 'hometown', 'small town',
+      'farming', 'farmer', 'provincial',
+      // 创作 / 手艺 / 文化
+      'creativity', 'craft', 'storytelling', 'culture',
+      // 社会观察
+      'inequality', 'gender', 'women', 'community', 'working class',
+    ],
+
+    noiseKeywords: ['娱乐', '明星', '八卦', '足球', '篮球', '彩票', '旅游', '美食'],
     commerceNoiseKeywords: [
       '��宝',
       '天猫',
