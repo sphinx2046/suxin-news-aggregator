@@ -63,6 +63,10 @@ const WECHAT_FEEDS: WechatFeed[] = [
   { name: '刘言飞语', url: 'https://decemberpei.cyou/rssbox/wechat-liuyanfeiyu.xml', category: '产品商业' },
   { name: '产品犬舍', url: 'https://decemberpei.cyou/rssbox/wechat-chanpinquanshe.xml', category: '产品商业' },
   { name: 'FounderPark', url: 'https://decemberpei.cyou/rssbox/wechat-founderpark.xml', category: '产品商业' },
+  // ===== 情感/情绪/陪伴类 =====
+  { name: 'KnowYourself', url: 'https://decemberpei.cyou/rssbox/wechat-knowyourself.xml', category: '情感心理' },
+  { name: '人物', url: 'https://decemberpei.cyou/rssbox/wechat-renwu.xml', category: '人文故事' },
+  { name: '三联生活周刊', url: 'https://decemberpei.cyou/rssbox/wechat-sanlianshenghuozhoukan.xml', category: '生活观察' },
 ];
 
 interface ParsedArticle {
