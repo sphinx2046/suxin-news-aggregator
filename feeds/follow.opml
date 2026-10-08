@@ -4,20 +4,19 @@
     <title>follow</title>
   </head>
   <body>
-    <outline text="人文思想（2026-10-07 新增）">
+    <outline text="人文思想（2026-10-07 新增，2026-10-08 调优）">
       <outline type="rss" text="Aeon" title="Aeon" xmlUrl="https://aeon.co/feed.rss" htmlUrl="https://aeon.co/" />
       <outline type="rss" text="Big Think" title="Big Think" xmlUrl="https://bigthink.com/feed/" htmlUrl="https://bigthink.com/" />
-      <outline type="rss" text="The Atlantic" title="The Atlantic" xmlUrl="https://www.theatlantic.com/feed/all/" htmlUrl="https://www.theatlantic.com/" />
+      <outline type="rss" text="The Atlantic · Books" title="The Atlantic · Books" xmlUrl="https://www.theatlantic.com/feed/channel/books/" htmlUrl="https://www.theatlantic.com/books/" />
       <outline type="rss" text="Electric Literature" title="Electric Literature" xmlUrl="https://electricliterature.com/feed/" htmlUrl="https://electricliterature.com/" />
       <outline type="rss" text="The New Yorker" title="The New Yorker" xmlUrl="https://www.newyorker.com/feed/everything" htmlUrl="https://www.newyorker.com/" />
     </outline>
-    <outline text="Medium 认知类窄标签（2026-10-07 新增）">
+    <outline text="Medium 认知类窄标签（2026-10-08 调优）">
       <outline type="rss" text="Medium · Thinking" title="Medium · Thinking" xmlUrl="https://medium.com/feed/tag/thinking" htmlUrl="" />
       <outline type="rss" text="Medium · Cognition" title="Medium · Cognition" xmlUrl="https://medium.com/feed/tag/cognition" htmlUrl="" />
       <outline type="rss" text="Medium · Attention" title="Medium · Attention" xmlUrl="https://medium.com/feed/tag/attention" htmlUrl="" />
       <outline type="rss" text="Medium · Decision Making" title="Medium · Decision Making" xmlUrl="https://medium.com/feed/tag/decision-making" htmlUrl="" />
       <outline type="rss" text="Medium · Note Taking" title="Medium · Note Taking" xmlUrl="https://medium.com/feed/tag/note-taking" htmlUrl="" />
-      <outline type="rss" text="Medium · Artificial Intelligence" title="Medium · Artificial Intelligence" xmlUrl="https://medium.com/feed/tag/artificial-intelligence" htmlUrl="" />
       <outline type="rss" text="Medium · Solitude" title="Medium · Solitude" xmlUrl="https://medium.com/feed/tag/solitude" htmlUrl="" />
       <outline type="rss" text="Medium · Grief" title="Medium · Grief" xmlUrl="https://medium.com/feed/tag/grief" htmlUrl="" />
     </outline>
