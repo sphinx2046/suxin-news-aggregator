@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AICoding贡献率超90%，需求交付却只快了10%：菜鸟如何用Agent...](https://mp.weixin.qq.com/s/TudS13UPV5J6Ap0vLJSiIA) | AI前线 | AI |
-| 2 | [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945) | sspai | AI |
-| 3 | [Danu Robotics’ fight to build a better recycling robot](https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot) | TechCrunch | AI |
-| 4 | [C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB](https://juejin.cn/post/7693225151681560586) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [云端部署阿里 Qwen-Image-2.1 保姆级教程](https://juejin.cn/post/7691823753387376649) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [Danu Robotics’ fight to build a better recycling robot](https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot) | TechCrunch | AI |
+| 2 | [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945) | 少数派 · 热门文章 | AI |
+| 3 | [C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB](https://juejin.cn/post/7693225151681560586) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [workbuddy-to-dsh使用教程](https://juejin.cn/post/7692614083904274486) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [LangChain4j 新手入门实战教程（Java版）](https://juejin.cn/post/7692127219867123750) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 10 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -40,11 +40,11 @@
 |---|------|------|------|
 | 1 | [刚刚，GPT-6.1 Sol极速版上线！](https://aiera.com.cn/asi-post.html?id=117833) | 新智元 | AI |
 | 2 | [最快今日发布！谷歌Gemini 4 Argon已对部分用户开放](https://aiera.com.cn/asi-post.html?id=117776) | 新智元 | AI |
-| 3 | [GPT-6.1 Sol极速版上线，500 美元门槛惹怒用户：花钱买更快，额度...](https://mp.weixin.qq.com/s/2rChQTANW9RBTFVftjysZA) | AI前线 | AI |
-| 4 | [巨头博弈升级，AI自主支付还有多远？](https://mp.weixin.qq.com/s/0PzBk5-XozNQddJej70NRQ) | 财经杂志 | AI |
-| 5 | [一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行](https://juejin.cn/post/7693805723602157578) | juejin | AI/IP/变现 |
+| 3 | [Google, Unity Launch Platform To Create Video Games From Prompts](https://games.slashdot.org/story/26/10/07/1640219/google-unity-launch-platform-to-create-video-games-from-prompts) | Slashdot | AI |
+| 4 | [The maker of non-text AI model Jev valued at $7.5B just weeks after launch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch) | TechCrunch | AI |
+| 5 | [Vesta raises $30M for AI agents that work on mortgage decisions](https://thenextweb.com/news/vesta-30m-mortgage-ai-agents-eu) | The Next Web | AI |
 
-> 共 64 条，以上为 TOP 5。
+> 共 60 条，以上为 TOP 5。
 
 ---
 
@@ -53,8 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [一名YouTube博主称，他在制作了一台“Flock”式摄像头来追踪警察后，警方曾上门找他](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306) | gizmodo.com | IP |
-| 3 | [一个乡村投票决定脱离英国，引发了英国关于移民问题的争论](https://nyti.ms/4hCH4Wa) | nyti.ms | 回乡 |
+| 2 | [[VPS] 收家人云 75 折左右券或者套餐，东京 Gen2， 750G 以上流量的](https://www.v2ex.com/t/1247647) | V2EX (创意工作者社区) | IP/情感 |
+| 3 | [联想随身 Wi-Fi 6+ 上架：赠 1500G 流量、3000mAh 电芯，59 元](https://www.ithome.com/1/011/399.htm) | IT之家 (ITHome) | IP |
+| 4 | [[推广] 🎁ZooProxy 免费送， 1 亿原生 IP ，覆盖 195+国家，支持动态/静态/无限流量](https://www.v2ex.com/t/1247632) | V2EX (创意工作者社区) | IP |
+| 5 | [[分享创造] 做了一个许可可核验的创作者免费素材清单： 181 个资源，每周 CI 自动查死链](https://www.v2ex.com/t/1247595) | V2EX (创意工作者社区) | IP |
+
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -64,11 +68,11 @@
 |---|------|------|------|
 | 1 | [副业搞起来，小说，漫画，漫剧的成本优化思路](https://juejin.cn/post/7692440533922971667) | 掘金 · 人工智能本周最热 | AI/变现 |
 | 2 | [独立开发者的"富矿地带"：哪些垂直领域值得你押注一辈子？](https://juejin.cn/post/7692743968833224713) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 3 | [Anthropic和OpenAI带来的“黑匣子”收入让交易员们摸不着头脑 - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOYkhILXo3RWYzbS1GOWtma3NKS2p1VnhtWFE3QmFLMzhwcExvVkpYSmpKUDJXQzc3QnJUcVB2QmxyMHRaQUhrOHFLU1BmdzRHcmFNTFlvNjM1c2R4UnFweXl5TmJhZHdrSFhDSlhLYXRBRGZSZUlBRS00TGFycFFrTHI3Qk5OU2Vuc01fZURJaFUxUmZ2bXRxa0hzT2xTSThSWDJIeGtSSDFOZEF3SXBidmFR?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | AI/变现 |
+| 3 | [9月份的扣款占了我“克劳德代码”周收入的17%。分销商拿走了48%。](https://dev.to/aidiveyt/the-september-cut-took-17-of-my-claude-code-week-subagents-were-taking-48-98n) | dev.to | 变现 |
 | 4 | [时代广场著名的“裸体牛仔”透露了他实际的收入是多少](https://www.businessinsider.com/personal-finance/investing/naked-cowboy-income-nyc-new-timessquare-new-york-budget-2026-10) | www.businessinsider.com | 变现 |
 | 5 | [疫情后收入不平等程度出人意料地下降](https://www.axios.com/2026/10/09/income-biden-pandemic-inflation) | www.axios.com | 变现 |
 
-> 共 8 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -80,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-10T01:20:28.433Z
-- **总资讯数**：4409 条原始 → 750 条筛选后
+- **聚合时间**：2026-10-10T07:47:41.178Z
+- **总资讯数**：4462 条原始 → 782 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
