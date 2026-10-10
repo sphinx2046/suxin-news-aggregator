@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
-| 2 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
-| 3 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
-| 4 | [Functional Ultrasound Imaging from Scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) | Hacker News | 人文 |
-| 5 | [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon) | Hacker News | AI |
+| 1 | [OpenAl 大更新：dots 全面搬上手机，直接指挥Codex 干活](https://mp.weixin.qq.com/s/olm5yCtm7xBk1kLO79L4Rg) | 夕小瑶科技说 | 其他 |
+| 2 | [OpenAI一夜连发 25项！GPT-6.1Sol、dots 齐上，500 美元 Pro…..](https://mp.weixin.qq.com/s/dyockl7y6MGdkycESuFQWA) | 夕小瑶科技说 | AI |
+| 3 | [字节Seed实习生曝DeepSeek-V4技术缺陷：长文本检索陷入“周期性...](https://mp.weixin.qq.com/s/k5QxcpUPF8IiFDv65GMadQ) | AI前线 | AI |
+| 4 | [Agents成新一代造王者，开发者正在快速失去技术决定权](https://mp.weixin.qq.com/s/e1i5LIBM64e-89Dly5PRIQ) | AI前线 | AI |
+| 5 | [从AI工具到经营智能体：快手分销增长Agent 实践](https://mp.weixin.qq.com/s/TS1kNWaeAkEPEDXuJTQwnA) | AI前线 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -30,7 +30,7 @@
 | 4 | [workbuddy-to-dsh使用教程](https://juejin.cn/post/7692614083904274486) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [LangChain4j 新手入门实战教程（Java版）](https://juejin.cn/post/7692127219867123750) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 15 条，以上为 TOP 5。
+> 共 13 条，以上为 TOP 5。
 
 ---
 
@@ -38,11 +38,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Google, Unity Launch Platform To Create Video Games From Prompts](https://games.slashdot.org/story/26/10/07/1640219/google-unity-launch-platform-to-create-video-games-from-prompts) | Slashdot | AI |
-| 2 | [The maker of non-text AI model Jev valued at $7.5B just weeks after launch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch) | TechCrunch | AI |
-| 3 | [OpenAI Announces Their Text Watermarking Plans](https://daringfireball.net/linked/2026/10/05/openai-announces-their-text-watermarking-plans) | Daring Fireball | AI |
-| 4 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
-| 5 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
+| 1 | [Aether AI发布CRIS-O：因果智能交出第一份物理世界答卷|甲子光年](https://mp.weixin.qq.com/s/uL8SdX26sUuPGYH41lcofA) | 甲子光年 | AI |
+| 2 | [让 Agent 直接操控手机的神器，开源了！](https://mp.weixin.qq.com/s/pFOe9BfjTdCqP6LYRIAW4A) | GitHubDaily | AI |
+| 3 | [为Agent而生，千问Al平台发布全新服务方式](https://mp.weixin.qq.com/s/wex8k0RW5i6axJK-R3zVXQ) | 阿里云开发者 | AI |
+| 4 | [DeepSeek-V4.1-Flash 上线干问Al平台，API与Token Plan同步开放](https://mp.weixin.qq.com/s/d4SLE70o1-mPG2WZqm3phw) | 阿里云开发者 | AI |
+| 5 | [“蝙蝠侠”大本创办电影AI公司，自采数据训模型，已被网飞收购](https://mp.weixin.qq.com/s/haupB06YIc4IuR-hUITzCg) | DeepTech深科技 | AI |
 
 > 共 52 条，以上为 TOP 5。
 
@@ -52,11 +52,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [家长们担心YouTube博主正在给Netflix带来“脑力退化”。但孩子们是否已经开始看穿这种“垃圾内容”了呢？](https://www.theguardian.com/tv-and-radio/2026/oct/11/parents-fear-youtubers-are-bringing-brain-rot-to-netflix-but-are-kids-wising-up-to-slop) | www.theguardian.com | IP |
-| 3 | [博主受审：一张《怪物史莱克》的淫秽图片属于言论自由还是骚扰？](https://nyti.ms/4yI36Nq) | nyti.ms | IP |
-| 4 | [中国浙江省呼吁遏制科技巨头的网络“流量霸权” - South China Morning Post](https://news.google.com/read/CBMiywFBVV95cUxPLWVkVE5WcElMM2R0VFpUNlJpMUtxbVp4MDI1WEtBdTFfRWdDanR1cFM1MTJWUTBkMGtFajBZY0I1cDlfNTJZeHBENVhNZmhZN2pWd2dWSWJxaVJ4dzNvNks3bnE0WGRlRFlCQWRocVRZOFpfdUFNb0lnc01xcmFTX215OGdWZmhPdHVfN2l5S0dZY2w0bEV3cGFEVTNYeWVwVHJUNnFsRUdLLXNTLXZBallLTkl4bkNaV2RVVGhGZ29Ca2h1VEJTYkVJTdIBywFBVV95cUxQdjlPMWowTXNoOURST21rSGk5dVkxMFJNcm9ZNk55aEg0WFlVdl92WTJIVU05d2ZpcVk3TXE4MlM3NXk5ZU5Xc2NCaXdiSFFwU0hJU245TzBsLXlSZmI0d3pCTkxwWlJpaFlpSFJPZFdQb19vOE9veFVCTGp5VnRLSFl4RUNrNV9HQkhKZ1RCZDJ2U3VBZnlxRkVla1U5Y09mM0c1ZEYyYTltZmJyNVhNN3V3QTV3STRPMm5zLXA0WUJRWUtHYThTVW5qWQ?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 5 | [[Telegram] TikTok / Instagram / Telegram / Facebook / YouTube 粉丝服务 · 已上线](https://www.v2ex.com/t/1247684) | V2EX (创意工作者社区) | IP |
+| 1 | [百万粉丝吃播女网红离世：当暴食和痛苦被围观](https://mp.weixin.qq.com/s/NcrA4nUq8xvlzk3sfKFT1g) | 三联生活周刊 | IP/情感 |
+| 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 3 | [[推广] 做了个小站：上传一张照片，生成 Jean Phil 风格的短视频](https://www.v2ex.com/t/1247748) | V2EX (创意工作者社区) | IP |
+| 4 | [[AI Tools 精品 AI 工具导航] 做了一个 Google Trends 上升词监控工具，适合 SEO 和选题研究](https://www.v2ex.com/t/1247747) | V2EX (创意工作者社区) | AI/IP |
+| 5 | [家长们担心YouTube博主正在给Netflix带来“脑力退化”。但孩子们是否已经开始看穿这种“垃圾内容”了呢？](https://www.theguardian.com/tv-and-radio/2026/oct/11/parents-fear-youtubers-are-bringing-brain-rot-to-netflix-but-are-kids-wising-up-to-slop) | www.theguardian.com | IP |
 
 > 共 8 条，以上为 TOP 5。
 
@@ -68,7 +68,7 @@
 |---|------|------|------|
 | 1 | [副业搞起来，小说，漫画，漫剧的成本优化思路](https://juejin.cn/post/7692440533922971667) | 掘金 · 人工智能本周最热 | AI/变现 |
 | 2 | [独立开发者的"富矿地带"：哪些垂直领域值得你押注一辈子？](https://juejin.cn/post/7692743968833224713) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 3 | [时代广场表演者概述了在纽约的多元化收入来源 - Traders Union](https://news.google.com/rss/articles/CBMinAFBVV95cUxQNFgzeVVzeVVBOEZKdGlmazNVbU40TGRhUHJNbXJ3d1ZOZDJiMVdNb0c4cC1OcWtkb1hxbU80MDQzTFpjRTdtOHo4dEgwc1B1cENwRVlhWTZTZEZwMHUyY2I2X2UxRlVoN2ZORUVoNmQ0M0NfRUpuUXBTSzRHVzNJT3ZNaFB3RWFCOGpKOUstZnVDUElCNzIyQ0YyUF8?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
+| 3 | [纽约著名的“裸体牛仔”透露了他实际的收入情况 - Yahoo](https://news.google.com/rss/articles/CBMihwFBVV95cUxOLTBjTk1STHc1czVxVTlQcHVxeHZqS2tsM0hQUjBnNk5ZNXpNZldueTNSWmJyOHo1bU9GSkpQXzBESWFjQXZOWFk3NVFDc3l5R3l3Z0Rua29BSngxQXJfM3h4eVlncWZvaWplMzdlOEowdGxXUGE3b0psT0dpWWItTW56Qk1qMDA?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
 | 4 | [我是“裸体牛仔”。我年收入15万美元，没有债务，每月花3000美元开车去时代广场。](https://www.businessinsider.com/naked-cowboy-times-square-business-expenses-routine-2026-10) | www.businessinsider.com | 变现 |
 | 5 | [9月份的扣款占了我“克劳德代码”周收入的17%。分销商拿走了48%。](https://dev.to/aidiveyt/the-september-cut-took-17-of-my-claude-code-week-subagents-were-taking-48-98n) | dev.to | 变现 |
 
@@ -82,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-10T19:34:43.149Z
-- **总资讯数**：4054 条原始 → 663 条筛选后
+- **聚合时间**：2026-10-10T22:59:40.240Z
+- **总资讯数**：4142 条原始 → 649 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
