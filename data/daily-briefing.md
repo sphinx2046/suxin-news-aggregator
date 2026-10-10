@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [七天时间，从零开始到把软件卖了三十万，我可能把 Apple Watch 变成了最好的 AI 录音硬件](https://aiera.com.cn/asi-post.html?id=117904) | 新智元 | AI |
-| 2 | [国庆七天，AI圈没一天消停](https://juejin.cn/post/7694124645507940379) | juejin | AI |
-| 3 | [AI 帮我投资 85 天，最多赚到 3733 元](https://juejin.cn/post/7693414422438723626) | juejin | AI |
-| 4 | [🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了](https://juejin.cn/post/7693757919828901923) | juejin | 其他 |
-| 5 | [DeepSeek Harness 桌面端来啦！更便捷更安全的选择](https://juejin.cn/post/7693712140221792271) | juejin | AI |
+| 1 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
+| 2 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
+| 3 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
+| 4 | [Functional Ultrasound Imaging from Scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) | Hacker News | 人文 |
+| 5 | [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行](https://juejin.cn/post/7693805723602157578) | juejin | AI/IP/变现 |
-| 2 | [Flutter + EmbeddingGemma 2，谷歌发布完全端侧的 AI Edge Foresight](https://juejin.cn/post/7694205589761343503) | juejin | AI |
-| 3 | [还是网页端, 46mb模型, 抠图功能升级了, 抠任意主体, 还是不要显卡, 不要python, 满意吗?](https://juejin.cn/post/7694074227640729634) | juejin | AI |
-| 4 | [Google, Unity Launch Platform To Create Video Games From Prompts](https://games.slashdot.org/story/26/10/07/1640219/google-unity-launch-platform-to-create-video-games-from-prompts) | Slashdot | AI |
-| 5 | [The maker of non-text AI model Jev valued at $7.5B just weeks after launch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch) | TechCrunch | AI |
+| 1 | [Google, Unity Launch Platform To Create Video Games From Prompts](https://games.slashdot.org/story/26/10/07/1640219/google-unity-launch-platform-to-create-video-games-from-prompts) | Slashdot | AI |
+| 2 | [The maker of non-text AI model Jev valued at $7.5B just weeks after launch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch) | TechCrunch | AI |
+| 3 | [OpenAI Announces Their Text Watermarking Plans](https://daringfireball.net/linked/2026/10/05/openai-announces-their-text-watermarking-plans) | Daring Fireball | AI |
+| 4 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
+| 5 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
 
-> 共 56 条，以上为 TOP 5。
+> 共 52 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [Show HN: LaunchList——面向独立创作者的产品发布平台](https://launchlist.si/) | launchlist.si | IP |
-| 3 | [都市职场剧祛魅调查：北上不适合接吻，县城才有闲开房](https://www.huxiu.com/article/4896501.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
-| 4 | [[Telegram] TikTok / Instagram / Telegram / Facebook / YouTube 粉丝服务 · 已上线](https://www.v2ex.com/t/1247684) | V2EX (创意工作者社区) | IP |
-| 5 | [靠流量卖出34亿的若羽臣赴港上市，高毛利能变成真利润吗？](https://www.huxiu.com/article/4896443.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 2 | [家长们担心YouTube博主正在给Netflix带来“脑力退化”。但孩子们是否已经开始看穿这种“垃圾内容”了呢？](https://www.theguardian.com/tv-and-radio/2026/oct/11/parents-fear-youtubers-are-bringing-brain-rot-to-netflix-but-are-kids-wising-up-to-slop) | www.theguardian.com | IP |
+| 3 | [博主受审：一张《怪物史莱克》的淫秽图片属于言论自由还是骚扰？](https://nyti.ms/4yI36Nq) | nyti.ms | IP |
+| 4 | [中国浙江省呼吁遏制科技巨头的网络“流量霸权” - South China Morning Post](https://news.google.com/read/CBMiywFBVV95cUxPLWVkVE5WcElMM2R0VFpUNlJpMUtxbVp4MDI1WEtBdTFfRWdDanR1cFM1MTJWUTBkMGtFajBZY0I1cDlfNTJZeHBENVhNZmhZN2pWd2dWSWJxaVJ4dzNvNks3bnE0WGRlRFlCQWRocVRZOFpfdUFNb0lnc01xcmFTX215OGdWZmhPdHVfN2l5S0dZY2w0bEV3cGFEVTNYeWVwVHJUNnFsRUdLLXNTLXZBallLTkl4bkNaV2RVVGhGZ29Ca2h1VEJTYkVJTdIBywFBVV95cUxQdjlPMWowTXNoOURST21rSGk5dVkxMFJNcm9ZNk55aEg0WFlVdl92WTJIVU05d2ZpcVk3TXE4MlM3NXk5ZU5Xc2NCaXdiSFFwU0hJU245TzBsLXlSZmI0d3pCTkxwWlJpaFlpSFJPZFdQb19vOE9veFVCTGp5VnRLSFl4RUNrNV9HQkhKZ1RCZDJ2U3VBZnlxRkVla1U5Y09mM0c1ZEYyYTltZmJyNVhNN3V3QTV3STRPMm5zLXA0WUJRWUtHYThTVW5qWQ?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
+| 5 | [[Telegram] TikTok / Instagram / Telegram / Facebook / YouTube 粉丝服务 · 已上线](https://www.v2ex.com/t/1247684) | V2EX (创意工作者社区) | IP |
 
-> 共 9 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -68,11 +68,9 @@
 |---|------|------|------|
 | 1 | [副业搞起来，小说，漫画，漫剧的成本优化思路](https://juejin.cn/post/7692440533922971667) | 掘金 · 人工智能本周最热 | AI/变现 |
 | 2 | [独立开发者的"富矿地带"：哪些垂直领域值得你押注一辈子？](https://juejin.cn/post/7692743968833224713) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 3 | [月之暗面、智谱收入更少，为什么比OpenAI卖得更贵？](https://www.huxiu.com/article/4896471.html?f=rss) | 虎嗅 (Huxiu) | AI/变现 |
+| 3 | [时代广场表演者概述了在纽约的多元化收入来源 - Traders Union](https://news.google.com/rss/articles/CBMinAFBVV95cUxQNFgzeVVzeVVBOEZKdGlmazNVbU40TGRhUHJNbXJ3d1ZOZDJiMVdNb0c4cC1OcWtkb1hxbU80MDQzTFpjRTdtOHo4dEgwc1B1cENwRVlhWTZTZEZwMHUyY2I2X2UxRlVoN2ZORUVoNmQ0M0NfRUpuUXBTSzRHVzNJT3ZNaFB3RWFCOGpKOUstZnVDUElCNzIyQ0YyUF8?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
 | 4 | [我是“裸体牛仔”。我年收入15万美元，没有债务，每月花3000美元开车去时代广场。](https://www.businessinsider.com/naked-cowboy-times-square-business-expenses-routine-2026-10) | www.businessinsider.com | 变现 |
-| 5 | [西西弗书店是怎么赚钱的？](https://www.huxiu.com/article/4896458.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-
-> 共 8 条，以上为 TOP 5。
+| 5 | [9月份的扣款占了我“克劳德代码”周收入的17%。分销商拿走了48%。](https://dev.to/aidiveyt/the-september-cut-took-17-of-my-claude-code-week-subagents-were-taking-48-98n) | dev.to | 变现 |
 
 ---
 
@@ -84,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-10T14:00:42.451Z
-- **总资讯数**：4468 条原始 → 763 条筛选后
+- **聚合时间**：2026-10-10T19:34:43.149Z
+- **总资讯数**：4054 条原始 → 663 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
