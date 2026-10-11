@@ -22,6 +22,8 @@ export interface ArchiveItem {
   title_en?: string | null;
   title_zh?: string | null;
   title_bilingual?: string;
+  /** RSS 摘要/正文（2026-10-11 新增）：OPML RSS 源的 description/content:encoded，纯文本截断 */
+  summary?: string;
 }
 
 export interface FetchStatus {

@@ -116,6 +116,33 @@ async function fetchSingleFeed(
 
       if (!publishedAt) continue;
 
+      // 2026-10-11 新增：保存 RSS 的摘要/正文
+      // 实测各源差异很大：Big Think 的 <description> 接近全文（15-20K 字符），
+      // Medium / Aeon 是 100-170 字符的短摘要；New Yorker 有摘要。
+      // 这些内容原本被丢弃，导致情报只能拿到标题。纯文本化后截断存入 meta.summary。
+      const e = entry as unknown as Record<string, unknown>;
+      const rawSummary = firstNonEmpty(
+        e['content:encoded'],
+        e.content,
+        e.summary,
+        e.contentSnippet,
+        e.description,
+      );
+      const summary =
+        typeof rawSummary === 'string' && rawSummary
+          ? rawSummary
+              .replace(/<[^>]*>/g, ' ')
+              .replace(/&nbsp;/g, ' ')
+              .replace(/&amp;/g, '&')
+              .replace(/&lt;/g, '<')
+              .replace(/&gt;/g, '>')
+              .replace(/&quot;/g, '"')
+              .replace(/&#39;/g, "'")
+              .replace(/\s+/g, ' ')
+              .trim()
+              .slice(0, 8000)
+          : '';
+
       localItems.push({
         siteId: 'opmlrss',
         siteName: 'OPML RSS',
@@ -126,6 +153,7 @@ async function fetchSingleFeed(
         meta: {
           feed_url: feedUrl,
           feed_home: feed.htmlUrl || '',
+          summary,
         },
       });
     }

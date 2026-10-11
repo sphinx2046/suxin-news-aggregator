@@ -195,6 +195,8 @@ async function main(): Promise<number> {
         published_at: toISOString(raw.publishedAt),
         first_seen_at: toISOString(now)!,
         last_seen_at: toISOString(now)!,
+        // 2026-10-11：OPML RSS 源携带的摘要/正文（其他 fetcher 无此字段）
+        summary: typeof raw.meta?.summary === 'string' && raw.meta.summary ? raw.meta.summary : undefined,
       });
     } else {
       existing.site_id = raw.siteId;
@@ -204,6 +206,10 @@ async function main(): Promise<number> {
       existing.url = url;
       if (raw.publishedAt && !existing.published_at) {
         existing.published_at = toISOString(raw.publishedAt);
+      }
+      // 补摘要（已有则不动）
+      if (!existing.summary && typeof raw.meta?.summary === 'string' && raw.meta.summary) {
+        existing.summary = raw.meta.summary;
       }
       existing.last_seen_at = toISOString(now)!;
     }
