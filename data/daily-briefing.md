@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [三天11万星的逆天开源REA，逆向分析一切，软件开发的门槛被打到了零，最该慌的为什么不是大厂？](https://juejin.cn/post/7695604296682930186) | juejin | 其他 |
-| 2 | [🚀 Node.js 之父离开 Deno，带着整个团队加入了 Cloudflare](https://juejin.cn/post/7695030462259789874) | juejin | 其他 |
-| 3 | [近段时间，AI加持下，我的开发感悟](https://juejin.cn/post/7695562157778157608) | juejin | AI |
-| 4 | [Kuikly股票查看软件开发体验——SaiRen](https://juejin.cn/post/7694850619532689448) | juejin | 其他 |
-| 5 | [栗子前端技术周刊第 149 期 - Vite+ 1.0、Preact 11、Next.js 16.4...](https://juejin.cn/post/7695079160284446763) | juejin | 其他 |
+| 1 | [AI冲击如海啸！77岁菲尔兹奖得主丘成桐亲自下场：集结千名学者造..](https://mp.weixin.qq.com/s/83NAYKVWpL4s_dovIL6rkg) | AI前线 | AI |
+| 2 | [宇树王兴兴坦言过去十几年犯的最大错误：就是对AI还不够相信](https://mp.weixin.qq.com/s/HklGZlNiscqvbhjkqPAWmg) | AI前线 | AI |
+| 3 | [小扎打赢A翻身仗？空降新模型长程编程夺冠，3D实测却惨遭打脸](https://mp.weixin.qq.com/s/X3nIEluUxrnoNdox-imSZg) | AI前线 | AI |
+| 4 | [金融监管领域的Harness 实践：让知识与数据驱动Agent稳定运行](https://mp.weixin.qq.com/s/bJJE9ZSTx5iwj1cEu4rAaQ) | AI前线 | AI |
+| 5 | [梦想可及|2026年《财经》奖学金班正式开学](https://mp.weixin.qq.com/s/iRJc86jK8KRfgi3ByFQiqA) | 财经杂志 | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945) | sspai | AI |
-| 2 | [Aramco Digital 与 OrbitronAI 合作，为重工业构建人工智能 / Aramco Digital teams up with OrbitronAI to build AI for heavy industry](https://thenextweb.com/news/aramco-digital-orbitronai-industrial-ai-partnership) | The Next Web | AI |
-| 3 | [我测试了三星的AI通知摘要两周；群聊打破了他们 / I tested Samsung's AI notification summaries for two weeks; group chats broke them](https://www.androidpolice.com/tested-samsung-notification-summaries-two-weeks-and-group-chats-broke-them) | Android Police | AI |
+| 1 | [Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads](https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads) | TechCrunch | AI |
+| 2 | [Google says users with a standard account can now build personal Android apps for free in AI Studio and will be able to share them with friends in coming months (Artie Beaty/ZDNET)](https://www.techmeme.com/261013/p34) | Techmeme | AI |
+| 3 | [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945) | 少数派 · 热门文章 | AI |
 | 4 | [C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB](https://juejin.cn/post/7693225151681560586) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [面试官让我手写一个 Tool Use，我用了 3 种方案](https://juejin.cn/post/7693354909602627647) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 11 条，以上为 TOP 5。
+> 共 15 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [开源GIS老大翻脸了：两条规定，AI辅助代码彻底出局](https://juejin.cn/post/7695725609003778111) | juejin | AI |
-| 2 | [全程 AI 写的小程序，刚接上会员虚拟支付，上线第二天就有人真金白银买单了｜双签名、定价、iOS 的坑我全踩了一遍](https://juejin.cn/post/7695698056566358066) | juejin | AI |
-| 3 | [开源项目第233期：Open-XiaoAI — 刷机接管小米小爱音箱，接入 ChatGPT/小智 AI/Gemini Live](https://juejin.cn/post/7694961880853495808) | juejin | AI |
-| 4 | [Android Compose版本的AI组件库来了。](https://juejin.cn/post/7694909399427694630) | juejin | AI |
-| 5 | [微软发布 Maia 300 AI 芯片，致力于减少对 Nvidia 的依赖 / Microsoft Reveals Maia 300 AI Chip As It Works To Reduce Dependence On Nvidia](https://hardware.slashdot.org/story/26/10/13/0443232/microsoft-reveals-maia-300-ai-chip-as-it-works-to-reduce-dependence-on-nvidia) | Slashdot | AI |
+| 1 | [“库有引力”能算出来了：AI正在读懂NBA赛场上看不见的博弈](https://mp.weixin.qq.com/s/ThMcGpub_HddXn9YHWvuLg) | 财经杂志 | AI |
+| 2 | [首发|升级个人AI助理，千问将推出Personal Agent「千问Go！」](https://mp.weixin.qq.com/s/YQ4kpjvsNHghTBZ_C1SgoA) | 华尔街见闻 | AI |
+| 3 | [刚亮相就传被英伟达收购：Gemini 老兵团队凭什么还敢押注Coding..](https://mp.weixin.qq.com/s/Ff397ewy0vRMIgjetjFRXA) | InfoQ | AI |
+| 4 | [刚刚，苹果发布十多款新品！AI「果家」进你家](https://mp.weixin.qq.com/s/kACnaKW1Yy5BxjMRdQdO9Q) | APPSO | AI |
+| 5 | [李录最新哥大交流：AI发展可能会伴随不止一轮繁荣与崩溃，今天这...](https://mp.weixin.qq.com/s/U--FliJo5thjy9SNMfyZVQ) | 36氪 | AI |
 
-> 共 65 条，以上为 TOP 5。
+> 共 60 条，以上为 TOP 5。
 
 ---
 
@@ -52,10 +52,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [苹果“欢迎回家”新品发布会前夕，各大博主来到纽约参加体验活动](https://www.ithome.com/1/012/563.htm) | IT之家 (ITHome) | IP |
-| 3 | [[分享创造] 做了个万圣节小工具：一张自拍生成背后出现鬼的短视频](https://www.v2ex.com/t/1248497) | V2EX (创意工作者社区) | IP |
-| 4 | [《Daylight》中一位意想不到的泰勒·斯威夫特粉丝出狱——乔·加西亚曾撰文讲述自己在因谋杀罪被定罪后发现斯威夫特音乐的故事，如今他在乔恩·卡斯贝执导的新短片中寻求救赎。](https://www.newyorker.com/culture/the-new-yorker-documentary/an-unlikely-taylor-swift-fan-gets-out-of-prison-in-daylight) | www.newyorker.com | IP |
+| 1 | [流量为王二十年后，下一个时代属于意图](https://mp.weixin.qq.com/s/iEJp42-XAYRes5wQRJxP4A) | 华尔街见闻 | IP |
+| 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 3 | [我在HN上发了一篇帖子，结果我的网站就被AI机器人流量淹没了](https://www.sammystraus.com/) | www.sammystraus.com | AI/IP |
+| 4 | [苹果“欢迎回家”新品发布会前夕，各大博主来到纽约参加体验活动](https://www.ithome.com/1/012/563.htm) | IT之家 (ITHome) | IP |
+| 5 | [《Daylight》中一位意想不到的泰勒·斯威夫特粉丝出狱——乔·加西亚曾撰文讲述自己在因谋杀罪被定罪后发现斯威夫特音乐的故事，如今他在乔恩·卡斯贝执导的新短片中寻求救赎。](https://www.newyorker.com/culture/the-new-yorker-documentary/an-unlikely-taylor-swift-fan-gets-out-of-prison-in-daylight) | www.newyorker.com | IP |
 
 ---
 
@@ -63,8 +64,7 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [都想用AI赚钱，但哪些公司既善用AI，又在为人类兜底?](https://mp.weixin.qq.com/s/64Zv_BJ3nGQUzZbzkp4hAg) | 虎嗅App | AI/变现 |
-| 2 | [我在建筑行业工作了一段时间后，转行进入了科技销售领域。以下是我如何找到一份工作更灵活、收入潜力更大的工作的经历。](https://www.businessinsider.com/went-from-construction-worker-tech-sales-one-year-heres-how-2026-10) | www.businessinsider.com | 变现 |
+| 1 | [微软报告称数据中心租赁收入达1300亿美元](https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-over-130-billion-in-new-data-center-leases) | www.bloomberg.com | 变现 |
 
 ---
 
@@ -76,8 +76,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-13T17:11:06.778Z
-- **总资讯数**：4324 条原始 → 742 条筛选后
+- **聚合时间**：2026-10-13T21:59:58.738Z
+- **总资讯数**：4336 条原始 → 777 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
