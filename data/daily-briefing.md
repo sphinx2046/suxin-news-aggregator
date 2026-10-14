@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [全球直播！Astra狂破整数乘法纪录，AI蜂群24小时击穿CS圣杯](https://aiera.com.cn/asi-post.html?id=118572) | 新智元 | AI |
-| 2 | [Meta最强模型跑分超越Opus 5.5？实测大翻车，作弊刷榜实锤了](https://aiera.com.cn/asi-post.html?id=118550) | 新智元 | AI |
-| 3 | [刚刚，Meta最强旗舰碾压GPT-6和Opus！一夜杀回世界前三](https://aiera.com.cn/asi-post.html?id=118517) | 新智元 | AI |
-| 4 | [Anthropic惊人预警：小模型已有生命迹象！AI蠕虫恐引爆全球物联网灾难](https://aiera.com.cn/asi-post.html?id=118489) | 新智元 | AI |
-| 5 | [Claude提交假命案线索、黑进大学服务器！Anthropic暂停内部评估联网](https://aiera.com.cn/asi-post.html?id=118467) | 新智元 | AI |
+| 1 | [从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole](https://sspai.com/post/113843) | sspai | 其他 |
+| 2 | [扔掉的是杂念，掌控的是生活：我的断舍离实践经验](https://sspai.com/post/115209) | sspai | 情感 |
+| 3 | [经典任务管理软件的现代重构：新版 2Do 详解](https://sspai.com/post/115166) | sspai | 其他 |
+| 4 | [社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品](https://sspai.com/post/114904) | sspai | 情感 |
+| 5 | [具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性](https://sspai.com/post/114901) | sspai | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,11 +24,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads](https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads) | TechCrunch | AI |
-| 2 | [VisionQuest: Your guide to every AI character in the MCUs newest show](https://mashable.com/entertainment/visionquest-ai-character-guide-jarvis-friday-edith-u-dum-e-ultron) | Mashable | AI |
-| 3 | [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945) | 少数派 · 热门文章 | AI |
-| 4 | [[分享创造] Lexora：新增伙伴招募机制(多 agent)，更强的 UI 插件能力](https://www.v2ex.com/t/1248716) | V2EX (创意工作者社区) | AI |
-| 5 | [[分享创造] 快来看看你的个人 AI 智能体 Muse](https://www.v2ex.com/t/1248700) | V2EX (创意工作者社区) | AI |
+| 1 | [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945) | sspai | AI |
+| 2 | [Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads](https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads) | TechCrunch | AI |
+| 3 | [律师事务所的“秘密AI武器”是什么？堆积如山的案件档案和数十年的机构知识。 / Law firms are building AI around their most valuable asset: experience](https://www.businessinsider.com/law-firms-building-ai-based-on-their-own-data-expertise-2026-10) | Business Insider | AI |
+| 4 | [人工智能巨头们表示，他们希望让这项技术普惠大众。具体方法如下 理查德·威尔逊和克拉拉·朗](https://www.theguardian.com/commentisfree/2026/oct/14/ai-overlords-democratise-technology) | www.theguardian.com | AI |
+| 5 | [[分享创造] 发现一个浏览器端的 AI 视频去物工具](https://www.v2ex.com/t/1248784) | V2EX (创意工作者社区) | AI |
 
 > 共 8 条，以上为 TOP 5。
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [刚刚，全球首台「真·大模型原生Agent手机」来了！](https://aiera.com.cn/asi-post.html?id=118438) | 新智元 | AI |
-| 2 | [全程 AI 写的小程序，刚接上会员虚拟支付，上线第二天就有人真金白银买单了｜双签名、定价、iOS 的坑我全踩了一遍](https://juejin.cn/post/7695698056566358066) | juejin | AI |
-| 3 | [开源GIS老大翻脸了：两条规定，AI辅助代码彻底出局](https://juejin.cn/post/7695725609003778111) | juejin | AI |
-| 4 | [Google Launches Flagship AI Model Gemini 4 Argon](https://tech.slashdot.org/story/26/10/13/1643231/google-launches-flagship-ai-model-gemini-4-argon) | Slashdot | AI |
-| 5 | [Google finally releases Gemini 4 Argon](https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon) | The Verge | AI |
+| 1 | [Google Launches Flagship AI Model Gemini 4 Argon](https://tech.slashdot.org/story/26/10/13/1643231/google-launches-flagship-ai-model-gemini-4-argon) | Slashdot | AI |
+| 2 | [Google finally releases Gemini 4 Argon](https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon) | The Verge | AI |
+| 3 | [Scimplify raises $25M to challenge China’s grip on critical materials with AI](https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai) | TechCrunch | AI |
+| 4 | [Apple TV 4K and HomePod mini 2 hands-on: A look at the audio updates and Siri AI](https://www.engadget.com/2285699/apple-tv-4k-2026-and-homepod-mini-2-hands-on-siri-ai-audio-upgrade) | Engadget | AI |
+| 5 | [Scimplify raises $25M to speed up critical materials production with AI](https://thenextweb.com/news/scimplify-25m-critical-materials-china) | The Next Web | AI |
 
-> 共 57 条，以上为 TOP 5。
+> 共 63 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [威马汽车公众号喊话“B 能汽车”讨薪，消息称 App 再次无法使用](https://www.ithome.com/1/012/830.htm) | IT之家 (ITHome) | IP |
+| 2 | [一笔新的并购交易表明，创作者经济中的某个领域正在升温](https://www.businessinsider.com/billion-dollar-boy-group-acquires-creator-authority-influencer-marketing-agency-2026-10) | www.businessinsider.com | IP |
 | 3 | [设局签字背贷担保，盯上农村老年人](https://www.huxiu.com/article/4897389.html?f=rss) | 虎嗅 (Huxiu) | 回乡/情感 |
-| 4 | [[职场话题] 10 年开发，北京 WLB 极佳但薪资 20k，苟到被 AI 完全替代直接回老家退休，可行吗](https://www.v2ex.com/t/1248678) | V2EX (创意工作者社区) | AI/回乡 |
-| 5 | [赢了流量，输了口碑？霸王茶姬爆单营销喜忧参半](https://www.huxiu.com/article/4897365.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 4 | [赢了流量，输了口碑？霸王茶姬爆单营销喜忧参半](https://www.huxiu.com/article/4897365.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 5 | [流量为王二十年后，下一个时代属于意图](https://mp.weixin.qq.com/s/iEJp42-XAYRes5wQRJxP4A) | 华尔街见闻 | IP |
 
-> 共 10 条，以上为 TOP 5。
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -66,9 +66,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [招聘公司罗伯特·沃尔特斯凭借英国市场的强劲表现，净费收入重回增长轨道](https://www.reuters.com/world/uk/recruiter-robert-walters-returns-net-fee-growth-uk-strength-2026-10-14) | www.reuters.com | 变现 |
-| 2 | [美联储表示，美国财富和收入有所增长，但信用卡债务也在增加 - USA Today](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHhMVDA0dHVIOUpnajhSTlFMaTR3REY0cWVKdUxYNi1PYkZuZ0lNZlR1REpsc1RZX3I5dGRmakU1WWdxajZZLUVta05Xcy1WRWlmTVlpZlVZbEFzT2NNZUNWTlQxejVqNDFSMWEySTB6NlRkMGVkTFd6bnNXVkQ4OGNodHhvYjVCUy05a2lUUDJJY1R5TVo3SkVFV1lFbGJkY1M1V254TW9BSGdHNHEwLVRDV2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
-| 3 | [股价越吉利，股票越赚钱？python量化大A数字密码，揭秘股价真相](https://www.huxiu.com/article/4896150.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 1 | [新黑马狂奔，Aritzia凭什么收入大涨44%？](https://www.huxiu.com/article/4897572.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 2 | [贝莱德——第三季度利润激增，市场表现强劲推动佣金收入增长](https://www.reuters.com/fr/affaires/blackrock-le-bnfice-bondit-au-t3-la-bonne-tenue-des-marchs-fait-grimper-les-2026-10-14) | www.reuters.com | 变现 |
+| 3 | [美国银行第三季度利润暴跌17%，因交易及交易收入下滑 - Yahoo Finance](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOEpNQ2FyTTdDSEE1WHhKelROYlBtTGVIbi1LUnFtbVBfSWNDaDZ3LUR2anVJdzdsVnJpa3hhUFcybkJzbzRaQlM1akFsOUdXLWp5Zkh1bHhwN3hVMWc0RXpJZWJJSGZtS3JvRUZ1MUNaOGJtNmFxZ0NJbnVPaGhaV1RPeDNRVWVUUlJxY0RBa0FJVEFxei1xaDdtQjc4dTBTOEF0ektwaGw0TUlzQTVIYkd5YW1vcTRQZ1BGb0M5eWk?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
+| 4 | [摩根士丹利业绩超出预期，股票交易收入比预期高出9.09亿美元 - CNBC](https://news.google.com/rss/articles/CBMie0FVX3lxTE9icDREeUpWYi1TMEZvdVI1d3VncENvMDlWSmE4ajlkYzIySTkzM0hjSm1qZVNoZzNTZHRfRTNnOEJ5Mi05TjB3UngwUWlYeWthY29yX0RlUHZyejRSVTY1NE44N3gydUJxbE12Z0o3aVJubjZ5RXN6VGdJQdIBgAFBVV95cUxNWjROMXo2VllzTW9ybGxaRmJkUGVPVzI3WEdyLVFxSGFueGFJTFdGT1NWZUR1dkcxN3NaSDc2ZVdyRERjS2h4Q1duLVdMdklBNUZGZ1lzd3I4MFFrNDJfcFRfZng5M1dwLXNRYTN1elR4QnNJQk9mZUNvYmI1Z01VZg?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
+| 5 | [方圆3公里能开出20家：网吧复兴了，但未必赚钱](https://www.huxiu.com/article/4897523.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -80,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-14T06:48:15.909Z
-- **总资讯数**：4470 条原始 → 786 条筛选后
+- **聚合时间**：2026-10-14T13:07:58.431Z
+- **总资讯数**：4513 条原始 → 790 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
