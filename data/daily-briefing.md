@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点](https://aiera.com.cn/asi-post.html?id=118781) | 新智元 | 其他 |
-| 2 | [谷歌物理真觉醒！全新Gemini 4 Argon一大波实测来了](https://aiera.com.cn/asi-post.html?id=118733) | 新智元 | AI |
-| 3 | [证明大爆炸，数学界变天！AI把陶哲轩逼出「数学 2.0」](https://aiera.com.cn/asi-post.html?id=118690) | 新智元 | AI |
-| 4 | [OpenAI高管会议室惊现窃听器！35岁工程师涉案被AI举报送进FBI](https://aiera.com.cn/asi-post.html?id=118672) | 新智元 | AI |
-| 5 | [Linux之父彻底入坑AI！Claude Code写内核，性能暴涨3倍](https://aiera.com.cn/asi-post.html?id=118656) | 新智元 | AI |
+| 1 | [老干妈靠AI闷赚54亿，你的AI还在写文案？](https://juejin.cn/post/7696118815167807539) | juejin | AI |
+| 2 | [2028编程圈很火的10个Skills](https://juejin.cn/post/7695999629460029466) | juejin | 其他 |
+| 3 | [把 AutoCAD 搬进浏览器，到底有多难？聊聊 CADCraft、OpenCAD Studio 和 MLightCAD](https://juejin.cn/post/7696483064553701376) | juejin | 人文 |
+| 4 | [太猛了，一个月干到15W+，给大家推荐一个最近爆火的开源逆向工具：REA](https://juejin.cn/post/7696048084749484082) | juejin | 其他 |
+| 5 | [AI翻译都这么强了，为什么程序员还是躲不开英语？假如你想用上GPT6，我劝你还是早点背单词吧！](https://juejin.cn/post/7695613699442311222) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -25,12 +25,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [英伟达的黄仁勋表示，他将切断构建不安全人工智能的客户 / Nvidia’s Jensen Huang says he would cut off customers who build unsafe AI](https://thenextweb.com/news/huang-cut-off-unsafe-ai-customers) | The Next Web | AI |
-| 2 | [Letter: Democratic senators question Meta's $6.6B in federal tax credits claimed over the past two years toward costs of building "experimental" AI data centers (Kashmir Hill/New York Times)](https://www.techmeme.com/261014/p53) | Techmeme | AI |
+| 2 | [Nvidia CEO Jensen Huang hails OpenClaw as helping the future of robotics, but calls for controls, 'so we can realize the incredible future potential of the technology that we’re building'](https://www.techradar.com/pro/nvidia-ceo-jensen-huang-hails-openclaw-as-helping-the-future-of-robotics-but-calls-for-controls-so-we-can-realize-the-incredible-future-potential-of-the-technology-that-were-building) | TechRadar | AI |
 | 3 | [A New Report Sheds Light on the Secretive Race to Build Self-Improving AI](https://time.com/article/2026/10/14/recursive-self-improvement-AI-report) | TIME Magazine | AI |
 | 4 | [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945) | 少数派 · 热门文章 | AI |
 | 5 | [我用AI做了一款「三国吃鸡」，开局孔明灯，落地青龙刀 ！](https://juejin.cn/post/7695639978206380070) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 13 条，以上为 TOP 5。
+> 共 14 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [刚刚，Gemini 4全球上线！](https://aiera.com.cn/asi-post.html?id=118776) | 新智元 | AI |
-| 2 | [国产芯片大杀器！全栈开源，断网狂飙千亿模型](https://aiera.com.cn/asi-post.html?id=118630) | 新智元 | AI |
-| 3 | [初创公司申请破产，迪士尼出资 2000 万美元收购 Character.AI 资产 / Disney Offers $20 Million For Character.AI Assets As Startup Files For Bankruptcy](https://yro.slashdot.org/story/26/10/13/1956200/disney-offers-20-million-for-characterai-assets-as-startup-files-for-bankruptcy) | Slashdot | AI |
+| 1 | [全程 AI 写的小程序，刚接上会员虚拟支付，上线第二天就有人真金白银买单了｜双签名、定价、iOS 的坑我全踩了一遍](https://juejin.cn/post/7695698056566358066) | juejin | AI |
+| 2 | [开源项目第235期：REA — 让 AI Agent 逆向任何东西，从网站/Electron 应用一路分析到二进制层](https://juejin.cn/post/7695985750949494818) | juejin | AI |
+| 3 | [开源GIS老大翻脸了：两条规定，AI辅助代码彻底出局](https://juejin.cn/post/7695725609003778111) | juejin | AI |
 | 4 | [微软推出新的机器学习工具来改善天气预报 / Microsoft has a new machine learning tool to improve weather forecasts](https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft) | The Verge | AI |
-| 5 | [Figma 宣布新功能来定义代理如何在其平台上工作 / Figma announces new features to define how agents work on its platform](https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform) | TechCrunch | AI |
+| 5 | [亚马逊 Bee 推出两款新个人 AI 设备，起价 75 美元 / Amazon’s Bee launches two new personal AI devices, starting at $75](https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75) | TechCrunch | AI |
 
-> 共 68 条，以上为 TOP 5。
+> 共 72 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [懂车帝回应“邀约博主黑尊界”等传言：相关言论不实](https://www.ithome.com/1/013/411.htm) | IT之家 (ITHome) | IP |
-| 3 | [[分享创造] [开源] Traffic Monitor： Mac 网速与 F50 Pro 流量看板](https://www.v2ex.com/t/1249014) | V2EX (创意工作者社区) | IP |
-| 4 | [在75公里长的土路尽头，一片内陆田园风光正静候着您](https://www.ft.com/content/0d40c09c-d957-410c-bf0d-51d5142c0f4d) | www.ft.com | 回乡 |
-| 5 | [一个县城教培老板的非典型越南创业记](https://www.huxiu.com/article/4897692.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 2 | [[推广] DGN Cloud 香港云主机正式营业，流量 1.5 美元/TiB，多台共享](https://www.v2ex.com/t/1249147) | V2EX (创意工作者社区) | IP |
+| 3 | [伦敦警察厅被勒令重新调查《神父泰德》联合创作者提出的逮捕投诉](https://news.sky.com/story/police-watchdog-orders-met-to-reinvestigate-graham-linehan-discrimination-complaint-13599474) | news.sky.com | IP |
+| 4 | [一个县城教培老板的非典型越南创业记](https://www.huxiu.com/article/4897692.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 5 | [县城医院里，有太多“再等等”的女性](https://mp.weixin.qq.com/s/_PQM1PfDf4lf9j7G8FnjIQ) | 三联生活周刊 | 回乡/情感 |
 
-> 共 8 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -66,10 +66,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [灵活用工不灵活，自由职业不自由](https://www.huxiu.com/article/4897670.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 2 | [消息称微软 Azure 收入同比大涨 40%，内部却要求削减 20% 成本](https://www.ithome.com/1/013/243.htm) | IT之家 (ITHome) | 变现 |
-| 3 | [独家|和Nex创始人复盘：三年出货100万台，收入增长60倍，如...](https://mp.weixin.qq.com/s/OgT1FbdKViWxoE-hkGlcHA) | 极客公园 | 认知/变现 |
-| 4 | [中国老板要重新学习赚钱这件事](https://www.huxiu.com/article/4897605.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 1 | [[程序员] AI 太牛逼了，总想用 ai 来搞点副业，怎么办？](https://www.v2ex.com/t/1249152) | V2EX (创意工作者社区) | AI/变现 |
+| 2 | [最新研究对“商品及服务税（GST）总是对低收入家庭打击最大”这一观点提出了质疑](https://phys.org/news/2026-10-idea-gst-income-households-hardest.html) | phys.org | 变现/情感 |
+| 3 | [预计俄罗斯10月份的石油和天然气收入将同比增长10%，达到120亿美元](https://reut.rs/4dGmTUT) | reut.rs | 变现 |
+| 4 | [无人驾驶网约车终于能自己赚钱了，可困在方向盘后的几百万失业中年人怎么办？](https://www.huxiu.com/article/4897783.html?f=rss) | 虎嗅 (Huxiu) | 变现/情感 |
+| 5 | [灵活用工不灵活，自由职业不自由](https://www.huxiu.com/article/4897670.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -81,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-15T06:53:36.688Z
-- **总资讯数**：4463 条原始 → 841 条筛选后
+- **聚合时间**：2026-10-15T12:54:12.782Z
+- **总资讯数**：4494 条原始 → 822 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
