@@ -110,7 +110,24 @@ def load_day(day, prefer_json=True):
 
 
 def archive(day):
+    """归档当日快照。合并 AI今日热榜的本地补抓数据（CI 抓不到该源，只在本地存在）。"""
     items = load_from_json(LATEST)
+    aihot_path = os.path.join(REPO, "data", "aihot-latest.json")
+    aihot_n = 0
+    if os.path.exists(aihot_path):
+        try:
+            with open(aihot_path, encoding="utf-8") as f:
+                a = json.load(f)
+            for it in a.get("items", []):
+                items.append({
+                    "title": (it.get("title_bilingual") or it.get("title") or "").strip(),
+                    "source": (it.get("source") or "").strip(),
+                    "site": (it.get("site_name") or "AI今日热榜（本地补抓）").strip(),
+                })
+            aihot_n = len(a.get("items", []))
+        except Exception as e:
+            print(f"[warn] aihot-latest.json 读取失败，已跳过：{e}", file=sys.stderr)
+
     if not items:
         print(f"[skip] {LATEST} 读不到条目，未归档", file=sys.stderr)
         return
@@ -118,7 +135,8 @@ def archive(day):
     dest = os.path.join(SNAP_DIR, f"{day}.json")
     with open(dest, "w", encoding="utf-8") as f:
         json.dump(items, f, ensure_ascii=False)
-    print(f"[archive] {day} → {dest}（{len(items)} 条）")
+    extra = f" + aihot 补抓 {aihot_n}" if aihot_n else ""
+    print(f"[archive] {day} → {dest}（{len(items)} 条{extra}）")
 
 
 # ---------------------------------------------------------------- 统计
@@ -174,11 +192,10 @@ def main():
     cur, cur_origin = load_day(dt)
     prev, prev_origin = load_day(dp)
 
-    print(f"# 议题频次纵向追踪 · {dt} vs {dp}")
-    print(f"\n- 当日条目：**{len(cur)}**（来源：{cur_origin}）")
-    print(f"- 前日条目：**{len(prev)}**（来源：{prev_origin}）")
+    print(f"## 📈 议题纵向追踪 · {dt} vs {dp}\n")
+    print(f"> 当日 **{len(cur)}** 条（{cur_origin}） ←→ 前日 **{len(prev)}** 条（{prev_origin}）")
     if not cur or not prev:
-        print("\n⚠️ 任一侧无数据，无法对比。")
+        print("\n> [!warning] 任一侧无数据，无法对比")
         return
 
     # ---- 校验位：站点数/源数不一致时，频次对比会失真，必须提示
@@ -188,63 +205,75 @@ def main():
     prev_srcs = len({i["source"] for i in prev if i["source"]})
     warn = []
     if cur_sites and prev_sites and cur_sites != prev_sites:
-        warn.append(f"站点数变化（{prev_sites} → {cur_sites}）")
+        warn.append(f"站点数 {prev_sites} → {cur_sites}")
     if cur_srcs and prev_srcs and cur_srcs != prev_srcs:
-        warn.append(f"信息源数变化（{prev_srcs} → {cur_srcs}）")
+        warn.append(f"**信息源数 {prev_srcs} → {cur_srcs}**")
     if warn:
-        print(f"\n⚠️ **源口径校验：{'；'.join(warn)}——下表变化可能来自源增减，不完全是话题冷热。**")
+        print("\n> [!warning] **源口径不一致**")
+        print(f"> {'；'.join(warn)}")
+        print("> 下表的升降**可能来自源增减，不完全是话题冷热**——判断前先追查来源。")
     else:
-        print(f"\n✅ 源口径校验：站点 {cur_sites}/{prev_sites}、信息源 {cur_srcs}/{prev_srcs}，口径一致，频次可比。")
+        print(f"\n> [!success] 源口径一致（站点 {cur_sites}、信息源 {cur_srcs}），**频次可直接对比**")
 
-    # ---- 表1 议题簇
+    # ---- 表1 议题簇（变化列合并差值+占比，控制宽度）
     ch, ph = count_clusters(cur), count_clusters(prev)
-    print("\n## 📊 议题簇频次变化")
-    print("\n| 议题簇 | 前日 | 当日 | 变化 | 占比（前→当） |")
-    print("|---|---:|---:|---|---|")
+    print("\n### 议题簇频次\n")
+    print("| 议题簇 | 前日 | 当日 | 变化 |")
+    print("|:--|--:|--:|:--|")
     rows = []
     for name in CLUSTERS:
         c, p = ch.get(name, 0), ph.get(name, 0)
         rows.append((c - p, name, p, c, p * 100 // max(len(prev), 1), c * 100 // max(len(cur), 1)))
     for delta, name, p, c, pp, cc in sorted(rows, reverse=True):
-        print(f"| {name} | {p} | {c} | {shift(c, p)} | {pp}% → {cc}% |")
+        sign = "+" if delta > 0 else ("−" if delta < 0 else "±")
+        cell = f"{shift(c, p)} **{sign}{abs(delta)}** · 占比 {pp}%→{cc}%"
+        print(f"| {name} | {p} | {c} | {cell} |")
 
-    # ---- 表2 source 量变
+
+    # ---- 表2 信息源异动（增/减合并成一节，用 ↑↓ 分两组，去掉重复表头）
     cs = Counter(i["source"] for i in cur if i["source"])
     ps = Counter(i["source"] for i in prev if i["source"])
-    print("\n## 📡 信息源量变（当日增量 Top 12）")
-    print("\n| 信息源 | 前日 | 当日 | 变化 |")
-    print("|---|---:|---:|---|")
+    print("\n### 信息源异动\n")
+    print("**📈 增量 Top 10**\n")
+    print("| 信息源 | 前日 | 当日 | Δ |")
+    print("|:--|--:|--:|--:|")
     deltas = sorted(((cs[k] - ps.get(k, 0), k, ps.get(k, 0), cs[k]) for k in cs), reverse=True)
-    for delta, k, p, c in deltas[:12]:
-        if delta <= 0:
+    shown = 0
+    for delta, k, p, c in deltas:
+        if delta <= 0 or shown >= 10:
             break
-        print(f"| {k} | {p} | {c} | ↑{delta} |")
+        flag = " 🆕" if k not in ps else ""
+        print(f"| {k}{flag} | {p} | {c} | **+{delta}** |")
+        shown += 1
 
-    print("\n## 🧊 信息源量减（当日降幅 Top 8）")
-    print("\n> ⚠️ **量减不等于信号**。公众号/新闻号本来就按天波动（今天发 1 条、明天发 37 条是常态）。")
-    print("> 只有「降幅 > 60% 且绝对减少 ≥ 15 条」才可能是停更或抓取故障，其余按正常波动看待。")
-    print("\n| 信息源 | 前日 | 当日 | 变化 | 判读 |")
-    print("|---|---:|---:|---|---|")
+    print("\n**📉 降幅 Top 6**\n")
+    print("> [!tip] **量减不等于信号**——公众号按天剧烈波动是常态（今天 1 条、明天 37 条）。")
+    print("> 只有「降幅 > 60% 且绝对减少 ≥ 15 条」才可能是停更或抓取故障。\n")
+    print("| 信息源 | 前日 | 当日 | Δ | 判读 |")
+    print("|:--|--:|--:|--:|:--|")
     downs = sorted(((ps[k] - cs.get(k, 0), k, ps[k], cs.get(k, 0)) for k in ps), reverse=True)
     shown = 0
     for delta, k, p, c in downs:
-        if delta <= 0 or shown >= 8:
+        if delta <= 0 or shown >= 6:
             break
         ratio = delta / p if p else 0
-        verdict = "⚠️ **疑似停更/故障**" if (ratio > 0.6 and delta >= 15) else "正常波动"
-        print(f"| {k} | {p} | {c} | ↓{delta} | {verdict} |")
+        fault = (ratio > 0.6 and delta >= 15)
+        verdict = "⚠️ **疑似停更/故障**" if fault else "正常波动"
+        print(f"| {k} | {p} | {c} | **−{delta}** | {verdict} |")
         shown += 1
 
     # ---- 表3 源的新增与消失
     new_srcs = [k for k in cs if k not in ps]
     gone_srcs = [k for k in ps if k not in cs]
-    print(f"\n## 🔄 源的新增与消失")
-    print(f"\n- **新增源 {len(new_srcs)} 个**：{'、'.join(new_srcs[:15]) if new_srcs else '无'}")
-    print(f"- **消失源 {len(gone_srcs)} 个**：{'、'.join(gone_srcs[:15]) if gone_srcs else '无'}")
+    print(f"\n### 🔄 源的新增与消失\n")
+    print(f"- **新增 {len(new_srcs)} 个**：{'、'.join(new_srcs[:12]) if new_srcs else '无'}"
+          f"{' …' if len(new_srcs) > 12 else ''}")
+    print(f"- **消失 {len(gone_srcs)} 个**：{'、'.join(gone_srcs[:12]) if gone_srcs else '无'}"
+          f"{' …' if len(gone_srcs) > 12 else ''}")
     if gone_srcs:
-        print(f"\n⚠️ 消失 {len(gone_srcs)} 个源值得看一眼——**话题消失比新话题出现信息量大**（记得判断是停更还是退潮）。")
+        print("\n> [!note] 源消失值得看一眼——**退潮比新增信息量大**，但先分清是停更还是话题退潮。")
 
-    print(f"\n---\n生成：trend-tracker.py · {dt}")
+    print(f"\n<sub>trend-tracker.py · {dt}</sub>")
 
 
 if __name__ == "__main__":
