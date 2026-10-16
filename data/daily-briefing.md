@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [刚刚，Claude彻底解禁第三方应用！](https://aiera.com.cn/asi-post.html?id=118936) | 新智元 | AI |
-| 2 | [Claude Code桌面版暴改，一人指挥AI军团飙代码！](https://aiera.com.cn/asi-post.html?id=118926) | 新智元 | AI |
-| 3 | [OpenAI揭秘万级Agent实测！狂飙36小时，狂吞1万亿Token](https://aiera.com.cn/asi-post.html?id=118908) | 新智元 | AI |
-| 4 | [GPT-5.5退出ChatGPT！GPT-4o旧版API进入3个月下架倒计时](https://aiera.com.cn/asi-post.html?id=118867) | 新智元 | AI |
-| 5 | [全球领先！千卡超节点算力巨无霸，成功点亮](https://aiera.com.cn/asi-post.html?id=118855) | 新智元 | AI |
+| 1 | [从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”](https://aiera.com.cn/asi-post.html?id=118942) | 新智元 | AI |
+| 2 | [老干妈靠AI闷赚54亿，你的AI还在写文案？](https://juejin.cn/post/7696118815167807539) | juejin | AI |
+| 3 | [把 AutoCAD 搬进浏览器，到底有多难？聊聊 CADCraft、OpenCAD Studio 和 MLightCAD](https://juejin.cn/post/7696483064553701376) | juejin | 人文 |
+| 4 | [2028编程圈很火的10个Skills](https://juejin.cn/post/7695999629460029466) | juejin | 其他 |
+| 5 | [太猛了，一个月干到15W+，给大家推荐一个最近爆火的开源逆向工具：REA](https://juejin.cn/post/7696048084749484082) | juejin | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Bluesky 的 AI 工具现在可让您制作游戏和应用程序并在社交媒体上分享 / Bluesky’s AI tool now lets you make games and apps to share on social](https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps) | The Verge | AI |
+| 1 | [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945) | sspai | AI |
 | 2 | [Bluesky 扩展了其人工智能驱动的 Attie 应用程序，让任何人都可以构建网站、游戏等 / Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more](https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more) | TechCrunch | AI |
 | 3 | [Bluesky expands Attie, its AI tool for building custom feeds, with a "social vibe coding" feature to create sites, games, quizzes, and more on the AT Protocol (Sarah Perez/TechCrunch)](https://www.techmeme.com/261015/p53) | Techmeme | AI |
-| 4 | [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945) | 少数派 · 热门文章 | AI |
-| 5 | [我用AI做了一款「三国吃鸡」，开局孔明灯，落地青龙刀 ！](https://juejin.cn/post/7695639978206380070) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [我用AI做了一款「三国吃鸡」，开局孔明灯，落地青龙刀 ！](https://juejin.cn/post/7695639978206380070) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [AI Agent 驾驭指南](https://juejin.cn/post/7694559519641632811) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 12 条，以上为 TOP 5。
+> 共 9 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [全球首款，中国造！8K AI空间相机来了，皮克斯抢先上手](https://aiera.com.cn/asi-post.html?id=118892) | 新智元 | AI |
-| 2 | [亚马逊推出新型 Bee“个人人工智能”设备，可监听对话 / Amazon Launches New Bee 'Personal AI' Devices That Listen to Conversations](https://yro.slashdot.org/story/26/10/15/1718232/amazon-launches-new-bee-personal-ai-devices-that-listen-to-conversations) | Slashdot | AI |
-| 3 | [Meta 推出可在 Mac 上运行的开放权重 AI 模型 / Meta launches an open-weight AI model that runs on Macs](https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs) | TechCrunch | AI |
-| 4 | [人工智能求职面试来了，人们已经在尝试打破它们 / AI job interviews are here, and people are already trying to break them](https://mashable.com/tech/ai-job-interviews-chatbots-trolling-hiring) | Mashable | AI |
-| 5 | [CarbonAI 融资 1200 万美元，利用人工智能代理实现商业房地产承保自动化 / CarbonAI raises $12M to automate commercial real estate underwriting with AI agents](https://thenextweb.com/news/carbonai-12m-cre-lending-agents) | The Next Web | AI/人文 |
+| 1 | [开源项目第235期：REA — 让 AI Agent 逆向任何东西，从网站/Electron 应用一路分析到二进制层](https://juejin.cn/post/7695985750949494818) | juejin | AI |
+| 2 | [AI 帮我写的小程序，上线不到一个月流量主突然爆了](https://juejin.cn/post/7696444047594946570) | juejin | AI/IP |
+| 3 | [Gemini 4 Argon 正式发布！](https://juejin.cn/post/7696085941626912831) | juejin | AI |
+| 4 | [Gemini 4上线！又回到御三家了？](https://juejin.cn/post/7696324130459467827) | juejin | AI |
+| 5 | [Juejin Usage v0.1.14更新：看清 AI 用量和订阅额度](https://juejin.cn/post/7696137182473764864) | juejin | AI |
 
-> 共 72 条，以上为 TOP 5。
+> 共 67 条，以上为 TOP 5。
 
 ---
 
@@ -53,10 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [曾经的顶流艺人，如今的澳洲旅行博主Danielle](https://www.huxiu.com/article/4897904.html?f=rss) | 虎嗅 (Huxiu) | IP |
-| 3 | [凯特·格伦维尔《乡村教师》书评——当寻找真相“如同抓水一般”](https://www.theguardian.com/books/2026/oct/16/the-country-schoolmaster-kate-grenville-book-review) | www.theguardian.com | 回乡 |
-| 4 | [作为一名粉丝，展现出对Gleam案例的全面掌握](https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp) | oyster.pckt.blog | IP |
-| 5 | [伦敦警察厅被勒令重新调查《神父泰德》联合创作者提出的逮捕投诉](https://news.sky.com/story/police-watchdog-orders-met-to-reinvestigate-graham-linehan-discrimination-complaint-13599474) | news.sky.com | IP |
+| 2 | [从“抢客户”到“交客户”：助贷流量从“平台自有池”迁向“资方自营池”](https://www.huxiu.com/article/4898040.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 3 | [[推广] 🚀 9HTTP 无限住宅代理｜不限流量，动态住宅 / 长效静态 ISP 7 折](https://www.v2ex.com/t/1249361) | V2EX (创意工作者社区) | IP |
+| 4 | [肖战演唱会500万人抢票？别急着笑粉丝“疯”了](https://www.huxiu.com/article/4897946.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 5 | [曾经的顶流艺人，如今的澳洲旅行博主Danielle](https://www.huxiu.com/article/4897904.html?f=rss) | 虎嗅 (Huxiu) | IP |
+
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -64,8 +66,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [优衣库赚钱的秘密，到底是什么？](https://www.huxiu.com/article/4897770.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 2 | [中国人在医疗保健上的支出占其收入的比例，几乎与美国人一样高 - CNBC](https://news.google.com/read/CBMiqAFBVV95cUxPNWVuY2p1bVBlVlRWUFlLaF9Ca2FKVU5rU0JSTGNaWmViUmFMaGtPN203N2ZTZzNQdzJ1Z0N2OGUtRmlLWEI4WFZndldjd19aV2NZbnN2UUF4aEhqbUhvbVEzWjMwMXpKdXdKY1RfdHExTXlIV0FyWGhWWnJqV1ZBTmZjQWNnQkFtd2RIeEZuZHlCcjRSajM0YzlDY1NGM2tVRzJ5R2l0d3rSAa4BQVVfeXFMUFpGVGFWNUd4al81VkRmbUtmVzEtSGVQMHIyVkxxc3hFUEJCbFE5aldfM3dfQklHRld4ZUJqQ3VQdllBbUpaZXp5OFdjQUxqMFc4a1hBMDBUYWhFMVduM2ZrcUVucTlpeGxuQXBBdHlxdUVhRmxJUmt1TkN1QWVvQ2t5a0ZVdzN6NENMd21pemg2X3pkMFJBUVp6QkpjbW1jMWZUYld6VFlSYUVWdktB?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
+| 1 | [一个人 + AI，58 天：首周 258 个玩家，本周 10 个，收入 0 元](https://juejin.cn/post/7695671592383971382) | juejin | AI/变现 |
+| 2 | [[酷工作] [珠海横琴] 博士后 1 名，博士毕业 3 年内，年收入约 52 万，全职在站](https://www.v2ex.com/t/1249373) | V2EX (创意工作者社区) | 变现 |
+| 3 | [一个文档工具的十年：独立开发者的困境与AI突围](https://www.huxiu.com/article/4897815.html?f=rss) | 虎嗅 (Huxiu) | AI/变现 |
+| 4 | [优衣库赚钱的秘密，到底是什么？](https://www.huxiu.com/article/4897770.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 5 | [中国人在医疗保健上的支出占其收入的比例，几乎与美国人一样高 - CNBC](https://news.google.com/read/CBMiqAFBVV95cUxPNWVuY2p1bVBlVlRWUFlLaF9Ca2FKVU5rU0JSTGNaWmViUmFMaGtPN203N2ZTZzNQdzJ1Z0N2OGUtRmlLWEI4WFZndldjd19aV2NZbnN2UUF4aEhqbUhvbVEzWjMwMXpKdXdKY1RfdHExTXlIV0FyWGhWWnJqV1ZBTmZjQWNnQkFtd2RIeEZuZHlCcjRSajM0YzlDY1NGM2tVRzJ5R2l0d3rSAa4BQVVfeXFMUFpGVGFWNUd4al81VkRmbUtmVzEtSGVQMHIyVkxxc3hFUEJCbFE5aldfM3dfQklHRld4ZUJqQ3VQdllBbUpaZXp5OFdjQUxqMFc4a1hBMDBUYWhFMVduM2ZrcUVucTlpeGxuQXBBdHlxdUVhRmxJUmt1TkN1QWVvQ2t5a0ZVdzN6NENMd21pemg2X3pkMFJBUVp6QkpjbW1jMWZUYld6VFlSYUVWdktB?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
 
 ---
 
@@ -77,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-16T02:15:30.698Z
-- **总资讯数**：4445 条原始 → 761 条筛选后
+- **聚合时间**：2026-10-16T08:32:30.542Z
+- **总资讯数**：4516 条原始 → 762 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
