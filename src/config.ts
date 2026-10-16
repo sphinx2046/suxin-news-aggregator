@@ -255,7 +255,7 @@ export const CONFIG = {
 
     noiseKeywords: ['娱乐', '明星', '八卦', '足球', '篮球', '彩票', '旅游', '美食'],
     commerceNoiseKeywords: [
-      '��宝',
+      '淘宝',
       '天猫',
       '京东',
       '拼多多',

@@ -43,3 +43,6 @@ coverage/
 # Cache
 .eslintcache
 *.tsbuildinfo
+
+# 趋势追踪快照（本地累积，供逐日对比，不入库）
+data/snapshots/
