@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
-| 2 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
-| 3 | [Anthropic 的 IPO 招股说明书真是太疯狂了 / Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
-| 4 | [Functional Ultrasound Imaging from Scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) | Hacker News | 人文 |
-| 5 | [双子座 4 氩 / Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon) | Hacker News | AI |
+| 1 | [MadsLorentzen /      ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | github | AI |
+| 2 | [anthropics /      claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | github | AI |
+| 3 | [akitaonrails /      ai-memory](https://github.com/akitaonrails/ai-memory) | github | AI/人文 |
+| 4 | [mlabonne /      llm-course](https://github.com/mlabonne/llm-course) | github | AI |
+| 5 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -25,12 +25,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [OpenAI is building a humanoid robot, but the body isn't the real challenge](https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge) | Engadget | AI |
-| 2 | [谢尔盖·布林表示，双子座现在正在帮助打造下一个双子座 / Sergey Brin says Gemini now helps build the next Gemini](https://thenextweb.com/news/sergey-brin-gemini-recursive-self-improvement-safety-report) | The Next Web | AI |
-| 3 | [我用AI做了一款「三国吃鸡」，开局孔明灯，落地青龙刀 ！](https://juejin.cn/post/7695639978206380070) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
+| 2 | [Sergey Brin says Gemini now helps build the next Gemini](https://thenextweb.com/news/sergey-brin-gemini-recursive-self-improvement-safety-report) | The Next Web | AI |
+| 3 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [我用AI做了一款「三国吃鸡」，开局孔明灯，落地青龙刀 ！](https://juejin.cn/post/7695639978206380070) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945) | sspai | AI |
 
-> 共 14 条，以上为 TOP 5。
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -38,11 +38,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [苹果更新的应用商店规则针对“裸露”人工智能应用 / Apple’s updated App Store rules go after ‘nudify’ AI apps](https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment) | The Verge | AI |
+| 1 | [Apple’s updated App Store rules go after ‘nudify’ AI apps](https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment) | The Verge | AI |
 | 2 | [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns) | TechCrunch | AI |
-| 3 | [随着 CoreWeave 的债券收益率突破 15%，确保软银债务价格上涨，以及一些甲骨文债券的交易价格接近 80 至 90 美分，人工智能债务担忧加剧（纽约时报） / AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar (New York Times)](https://www.techmeme.com/261018/p5) | Techmeme | AI |
-| 4 | [Holyvolt 是一家开发用于制造和测试新电池材料的人工智能工具的公司，该公司从 Zone II、CC.VC 等公司筹集了 4500 万美元，消息人士称估值为 2.45 亿美元（Nick Lichtenberg/财富） / Holyvolt, which develops AI tools for making and testing new battery materials, raised $45M from Zone II, CC.VC, and others, a source says at a $245M valuation (Nick Lichtenberg/Fortune)](https://www.techmeme.com/261018/p3) | Techmeme | AI |
-| 5 | [假 Drakes 和假 Kanyes：互联网突然充斥着人工智能生成的嘻哈音乐 / Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop](https://www.buzzfeed.com/chrisstokelwalker/ai-hip-hop-rap-music-drake-kanye-weeknd-rihanna-jay-z) | BuzzFeed News | AI |
+| 3 | [Holyvolt, which develops AI tools for making and testing new battery materials, raised $45M from Zone II, CC.VC, and others, a source says at a $245M valuation (Nick Lichtenberg/Fortune)](https://www.techmeme.com/261018/p3) | Techmeme | AI |
+| 4 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
+| 5 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
 
 > 共 51 条，以上为 TOP 5。
 
@@ -62,9 +62,9 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [动辄千集的AI短剧，越长越赚钱？](https://www.36kr.com/p/4030064430684039) | 36氪 · 24小时热榜 | AI/变现 |
-| 2 | [消息称索尼第一方游戏《羊蹄山之魂》销量约 540 万份，收入达 4.07 亿美元](https://www.ithome.com/1/014/586.htm) | IT之家 (ITHome) | 变现 |
-| 3 | [我是一名消防员，为了赚点外快，暂时在优步做兼职。这真是一条艰难的赚钱之路](https://www.businessinsider.com/uber-driver-struggles-gas-costs-southern-california-2026-10) | www.businessinsider.com | 变现 |
-| 4 | [来自菲律宾的“女菩萨”，想用OnlyFans赚钱盖学校](https://www.huxiu.com/article/4898378.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 2 | [[职场话题] 这哥们已经在用 grokbot 赚钱了](https://www.v2ex.com/t/1249816) | V2EX (创意工作者社区) | 变现 |
+| 3 | [消息称索尼第一方游戏《羊蹄山之魂》销量约 540 万份，收入达 4.07 亿美元](https://www.ithome.com/1/014/586.htm) | IT之家 (ITHome) | 变现 |
+| 4 | [我是一名消防员，为了赚点外快，暂时在优步做兼职。这真是一条艰难的赚钱之路](https://www.businessinsider.com/uber-driver-struggles-gas-costs-southern-california-2026-10) | www.businessinsider.com | 变现 |
 | 5 | [Poll: 斯坦福大学的学生宁愿少拿22%的薪水，也要获得年度股权变现机会](https://news.ycombinator.com/item?id=50135643) | news.ycombinator.com | 变现 |
 
 ---
@@ -77,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-18T12:12:57.197Z
-- **总资讯数**：4140 条原始 → 620 条筛选后
+- **聚合时间**：2026-10-18T16:58:41.031Z
+- **总资讯数**：4117 条原始 → 626 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
