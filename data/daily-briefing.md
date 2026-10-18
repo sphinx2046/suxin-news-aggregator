@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [MadsLorentzen /      ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | github | AI |
-| 2 | [anthropics /      claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | github | AI |
-| 3 | [akitaonrails /      ai-memory](https://github.com/akitaonrails/ai-memory) | github | AI/人文 |
-| 4 | [mlabonne /      llm-course](https://github.com/mlabonne/llm-course) | github | AI |
-| 5 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
+| 1 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
+| 2 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
+| 3 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
+| 4 | [Functional Ultrasound Imaging from Scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) | Hacker News | 人文 |
+| 5 | [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [OpenAI is building a humanoid robot, but the body isn't the real challenge](https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge) | Engadget | AI |
-| 2 | [Sergey Brin says Gemini now helps build the next Gemini](https://thenextweb.com/news/sergey-brin-gemini-recursive-self-improvement-safety-report) | The Next Web | AI |
-| 3 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [我用AI做了一款「三国吃鸡」，开局孔明灯，落地青龙刀 ！](https://juejin.cn/post/7695639978206380070) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945) | sspai | AI |
+| 1 | [Sergey Brin says Gemini now helps build the next Gemini](https://thenextweb.com/news/sergey-brin-gemini-recursive-self-improvement-safety-report) | The Next Web | AI |
+| 2 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
+| 3 | [我用AI做了一款「三国吃鸡」，开局孔明灯，落地青龙刀 ！](https://juejin.cn/post/7695639978206380070) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945) | sspai | AI |
+| 5 | [企业级 AI Agent 工作台前端实战教程](https://juejin.cn/post/7696759034847068175) | juejin | AI |
 
-> 共 10 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Apple’s updated App Store rules go after ‘nudify’ AI apps](https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment) | The Verge | AI |
-| 2 | [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns) | TechCrunch | AI |
-| 3 | [Holyvolt, which develops AI tools for making and testing new battery materials, raised $45M from Zone II, CC.VC, and others, a source says at a $245M valuation (Nick Lichtenberg/Fortune)](https://www.techmeme.com/261018/p3) | Techmeme | AI |
-| 4 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
-| 5 | [下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知](https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html) | 美团技术团队 (Meituan Tech) | AI/认知 |
+| 1 | [More Details on Arrested Saudi OpenAI Employee, Who is Seeking Release on Bail](https://yro.slashdot.org/story/26/10/18/0318232/more-details-on-arrested-saudi-openai-employee-who-is-seeking-release-on-bail) | Slashdot | AI |
+| 2 | [Apple’s updated App Store rules go after ‘nudify’ AI apps](https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment) | The Verge | AI |
+| 3 | [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns) | TechCrunch | AI |
+| 4 | [Holyvolt, which develops AI tools for making and testing new battery materials, raised $45M from Zone II, CC.VC, and others, a source says at a $245M valuation (Nick Lichtenberg/Fortune)](https://www.techmeme.com/261018/p3) | Techmeme | AI |
+| 5 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
 
-> 共 51 条，以上为 TOP 5。
+> 共 54 条，以上为 TOP 5。
 
 ---
 
@@ -77,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-18T16:58:41.031Z
-- **总资讯数**：4117 条原始 → 626 条筛选后
+- **聚合时间**：2026-10-18T19:44:04.489Z
+- **总资讯数**：4085 条原始 → 613 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
