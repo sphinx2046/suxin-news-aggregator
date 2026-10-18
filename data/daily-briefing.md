@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-10-17（周六）
+# 素心拾穗 · 每日情报 · 2026-10-18（周日）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Linus用ClaudeCode改Linux内核，大神也没兜住代码里的Bug](https://mp.weixin.qq.com/s/pTq20mS-ts8Y2dJOiOrusA) | AI前线 | AI |
-| 2 | [从Demo到生产：Al Agent缺的到底是什么](https://mp.weixin.qq.com/s/k_49-vJ5U-WwXsU5Y_LTxw) | AI前线 | AI |
-| 3 | [3700点争夺战，外资买了谁？](https://mp.weixin.qq.com/s/ObCWezWXLwkUDZt7D3CmKg) | 财经杂志 | 其他 |
-| 4 | [全球资管中心新格局](https://mp.weixin.qq.com/s/3rFLLqEhGyEAOmKRl8NYSw) | 财经杂志 | 其他 |
-| 5 | [当Roadster“飞”起来，中国飞行汽车在做什么？](https://mp.weixin.qq.com/s/CeIkFnLo6-m8tu1QgxjWEA) | 财经杂志 | 其他 |
+| 1 | [刚刚，老黄RTX Spark开卖！740亿大模型塞进笔记本](https://aiera.com.cn/asi-post.html?id=119273) | 新智元 | AI |
+| 2 | [刚刚，4个Gemini死了605次，竟自己组队打穿《我的世界》！](https://aiera.com.cn/asi-post.html?id=119256) | 新智元 | AI |
+| 3 | [新基准开测「AI第六感」！人类一眼秒懂，最强模型只拿53.6分](https://aiera.com.cn/asi-post.html?id=119239) | 新智元 | AI |
+| 4 | [Gemini 4 Argon打穿AGI终极考场！](https://aiera.com.cn/asi-post.html?id=119205) | 新智元 | AI |
+| 5 | [刚刚，DeepSeek双王炸！许愿式编程暴击GPT-6 Astra](https://aiera.com.cn/asi-post.html?id=119192) | 新智元 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,11 +24,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [利用AI代码智能体优化软件架构的五种方法](https://mp.weixin.qq.com/s/5gm5CFNstHmYIdUTGMk4wg) | InfoQ | AI |
-| 2 | [Sergey Brin says Gemini now helps build the next Gemini](https://thenextweb.com/news/sergey-brin-gemini-recursive-self-improvement-safety-report) | The Next Web | AI |
-| 3 | [A profile of Blackstone President Jon Gray, who is making AI his biggest bet, has built a $200B data center empire, and is building a cloud venture with Google (Preeti Singh/Bloomberg)](https://www.techmeme.com/261017/p10) | Techmeme | AI |
-| 4 | [我用AI做了一款「三国吃鸡」，开局孔明灯，落地青龙刀 ！](https://juejin.cn/post/7695639978206380070) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945) | sspai | AI |
+| 1 | [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945) | sspai | AI |
+| 2 | [OpenAI 正在打造一个人形机器人，但身体并不是真正的挑战 / OpenAI is building a humanoid robot, but the body isn't the real challenge](https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge) | Engadget | AI |
+| 3 | [谢尔盖·布林表示，双子座现在正在帮助打造下一个双子座 / Sergey Brin says Gemini now helps build the next Gemini](https://thenextweb.com/news/sergey-brin-gemini-recursive-self-improvement-safety-report) | The Next Web | AI |
+| 4 | [A profile of Blackstone President Jon Gray, who is making AI his biggest bet, has built a $200B data center empire, and is building a cloud venture with Google (Preeti Singh/Bloomberg)](https://www.techmeme.com/261017/p10) | Techmeme | AI |
+| 5 | [我用AI做了一款「三国吃鸡」，开局孔明灯，落地青龙刀 ！](https://juejin.cn/post/7695639978206380070) | 掘金 · 人工智能本周最热 | AI |
 
 > 共 13 条，以上为 TOP 5。
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [本地跑千亿大模型，终于找到靠谱 AI工具了。](https://mp.weixin.qq.com/s/hrIl6-iM4Sus5SFOixclGw) | GitHubDaily | AI |
-| 2 | [狠人！老哥直接用AI做了个Photoshop，还开源了！](https://mp.weixin.qq.com/s/_xoMLLjAtUFwuSwq3EaoNQ) | GitHubDaily | AI |
-| 3 | [国产 Agent 神器，PilotDeck 2.0 开源！](https://mp.weixin.qq.com/s/KaFgR4sAhwPHmnrm_UXnjg) | GitHubDaily | AI |
-| 4 | [从种子AI 到递归自我改进——自指、极限与最新进展|自指与AI读书...](https://mp.weixin.qq.com/s/tnae6MGvcVYHwSWVSo5wVQ) | 集智俱乐部 | AI/认知/情感 |
-| 5 | [1024 杭州 AI 社区日来了！一天看遍10+行业的AI落地现场](https://mp.weixin.qq.com/s/EFEdQK_7swlb7aeLdk5-Pg) | InfoQ | AI |
+| 1 | [苹果更新的应用商店规则针对“裸露”人工智能应用 / Apple’s updated App Store rules go after ‘nudify’ AI apps](https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment) | The Verge | AI |
+| 2 | [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns) | TechCrunch | AI |
+| 3 | [由于担心人工智能模仿者，游戏开发商取消了即将推出的公开演示 / Game developers cancel upcoming public demo out of fear of AI copycats](https://mashable.com/entertainment/drunken-goddess-reflux-steam-ai-demo-canceled) | Mashable | AI |
+| 4 | [DeepSeek releases V4.1-Flash-1017, an update it says offers "stronger benchmark performance, faster task completion, and shorter outputs" than its predecessor (Saritha Rai/Bloomberg)](https://www.techmeme.com/261017/p13) | Techmeme | AI |
+| 5 | [Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners (FinTech Global)](https://www.techmeme.com/261017/p7) | Techmeme | AI |
 
-> 共 55 条，以上为 TOP 5。
+> 共 52 条，以上为 TOP 5。
 
 ---
 
@@ -53,7 +53,8 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [[宽带症候群] 江苏电信阻断出国流量？](https://www.v2ex.com/t/1249651) | V2EX (创意工作者社区) | IP |
+| 2 | [科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是“人”，是“创作者”](https://www.ithome.com/1/014/439.htm) | IT之家 (ITHome) | AI/IP |
+| 3 | [[宽带症候群] 江苏电信阻断出国流量？](https://www.v2ex.com/t/1249651) | V2EX (创意工作者社区) | IP |
 
 ---
 
@@ -76,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-17T23:32:29.700Z
-- **总资讯数**：4170 条原始 → 645 条筛选后
+- **聚合时间**：2026-10-18T01:39:49.247Z
+- **总资讯数**：4129 条原始 → 621 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
