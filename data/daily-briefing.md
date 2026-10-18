@@ -42,9 +42,9 @@
 | 2 | [Apple’s updated App Store rules go after ‘nudify’ AI apps](https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment) | The Verge | AI |
 | 3 | [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns) | TechCrunch | AI |
 | 4 | [Holyvolt, which develops AI tools for making and testing new battery materials, raised $45M from Zone II, CC.VC, and others, a source says at a $245M valuation (Nick Lichtenberg/Fortune)](https://www.techmeme.com/261018/p3) | Techmeme | AI |
-| 5 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
+| 5 | [PhoneBot 用旧款 50 美元安卓手机作大脑、摄像头作眼睛，打造面向创客的开源人形机器人平台 / PhoneBot uses an old $50 Android smartphone brain with its cameras as eyes — tech Frankenstein is an open source humanoid robot platform for makers](https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers) | TechRadar | AI |
 
-> 共 54 条，以上为 TOP 5。
+> 共 52 条，以上为 TOP 5。
 
 ---
 
@@ -53,7 +53,6 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [YouTube博主如何为视频筹集资金](https://www.ft.com/content/5427eed7-6cfc-4e8b-892f-efbb289e4a53?syn-25a6b1a6=1) | www.ft.com | IP |
 
 ---
 
@@ -77,8 +76,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-18T19:44:04.489Z
-- **总资讯数**：4085 条原始 → 613 条筛选后
+- **聚合时间**：2026-10-18T21:57:59.086Z
+- **总资讯数**：4118 条原始 → 649 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
