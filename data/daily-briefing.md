@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole](https://sspai.com/post/113843) | sspai | 其他 |
-| 2 | [扔掉的是杂念，掌控的是生活：我的断舍离实践经验](https://sspai.com/post/115209) | sspai | 情感 |
-| 3 | [经典任务管理软件的现代重构：新版 2Do 详解](https://sspai.com/post/115166) | sspai | 其他 |
-| 4 | [Codex 定价：Pro 有无限制的 5.6 使用 / Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
-| 5 | [Gemini 4 Argon（高）：智能、性能和价格分析 / Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
+| 1 | [AI 流式输出都用 SSE，什么时候必须换 WebSocket？](https://juejin.cn/post/7697591781001691163) | juejin | AI/认知 |
+| 2 | [从Cursor到Codex，从Skills到Harness：AI编程正在经历第三次范式迁移](https://juejin.cn/post/7672696268489408575) | juejin | AI |
+| 3 | [别再花钱调 OCR 接口了！这个国产开源工具，免费还能离线跑](https://juejin.cn/post/7697873433354485770) | juejin | 其他 |
+| 4 | [Claude的60个子Agent冲击黎曼猜想：AI自主科研的里程碑与边界](https://juejin.cn/post/7672849477074616383) | juejin | AI |
+| 5 | [DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算](https://juejin.cn/post/7697474838380134410) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945) | sspai | AI |
-| 2 | [如何使用Google的SynthID AI检测网站 / How to use Google's SynthID AI detection website](https://www.engadget.com/2286802/how-to-use-google-ai-detection-website-synthid) | Engadget | AI |
-| 3 | [我用来检测 AI 生成的文本、照片和视频的 5 个工具 / 5 tools I rely on to detect AI-generated text, photos, and videos](https://www.androidpolice.com/5-tools-to-detect-ai-generated-text-photos-and-videos) | Android Police | AI |
-| 4 | [Don't fall for this - how to protect yourself from AI scams](https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
-| 5 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [AI 流式传输工程指南：模型吐出半截 JSON，前端如何边收边渲染？](https://juejin.cn/post/7697622920013021219) | juejin | AI |
+| 2 | [Don't fall for this - how to protect yourself from AI scams](https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
+| 3 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [两个 WorkBuddy 客户端总被“合并”解决方法](https://juejin.cn/post/7697162867455688719) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [Show HN: Jev 实战——Keen Code 中的任务分类器和自动模型路由器](https://mochow13.github.io/keen-code/docs/task-classification-using-decision-models.html) | mochow13.github.io | AI |
 
-> 共 11 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [网易LobsterAI发布《中国办公Agent用户行为报告》（9月版）：智谱GLM Token份额环比激增166.7%，居头部厂商之首](https://aiera.com.cn/asi-post.html?id=119490) | 新智元 | AI |
-| 2 | [Anthropic 宣布“公益基金”，承诺持有其 5% 的股份 / Anthropic Announces 'Public Benefit Fund', Committing 5% of Its Shares](https://it.slashdot.org/story/26/10/19/0252201/anthropic-announces-public-benefit-fund-committing-5-of-its-shares) | Slashdot | AI |
-| 3 | [有关被捕的沙特 OpenAI 员工的更多详细信息，该员工正在寻求保释 / More Details on Arrested Saudi OpenAI Employee, Who is Seeking Release on Bail](https://yro.slashdot.org/story/26/10/18/0318232/more-details-on-arrested-saudi-openai-employee-who-is-seeking-release-on-bail) | Slashdot | AI |
-| 4 | [Meta 删除了引起抓取和人工智能培训问题的语言 / Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns) | TechCrunch | AI |
-| 5 | [Amnon Shashua 的 doubleAI 推出了一种可以加速代码运行的人工智能 / Amnon Shashua’s doubleAI launches an AI that speeds up code while it runs](https://thenextweb.com/news/doubleai-maxwell-code-execution-model-compute-costs) | The Next Web | AI |
+| 1 | [AI 帮我写的小程序「厨菜记」上线满月了，挣了两百块！！！](https://juejin.cn/post/7697873433355304970) | juejin | AI |
+| 2 | [从 0 到 1：我用 300 行代码给 AI 记忆加上了“不可篡改的收据”（附开源实现）](https://juejin.cn/post/7697418750073929762) | juejin | AI |
+| 3 | [Chrome DevTools MCP 正式可用：AI 终于能自己开浏览器调试你的页面了](https://juejin.cn/post/7697615256114937898) | juejin | AI |
+| 4 | [DeepSeek V4.1-Flash-1017 发布：当"许愿式编程"成为 API 调用](https://juejin.cn/post/7697422926362689578) | juejin | AI |
+| 5 | [Anthropic Announces 'Public Benefit Fund', Committing 5% of Its Shares](https://it.slashdot.org/story/26/10/19/0252201/anthropic-announces-public-benefit-fund-committing-5-of-its-shares) | Slashdot | AI |
 
-> 共 64 条，以上为 TOP 5。
+> 共 67 条，以上为 TOP 5。
 
 ---
 
@@ -53,9 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [微信发起公众号小说改编短剧激励活动：作者承制方各享 5% 额外收益，上不封顶](https://www.ithome.com/1/015/044.htm) | IT之家 (ITHome) | IP |
-| 3 | [演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空](https://www.aibase.com/news/31713) | AIbase | AI/IP |
-| 4 | [父母「断供」，县城中产天塌了](https://mp.weixin.qq.com/s/xji6FvjyZ5R6UXuEj3-Zbw) | 36氪 | 回乡 |
+| 2 | [迈克尔·戴尔是“特朗普账户”的最大捐助者，但他的慈善事业首先惠及了自己的家乡州；在4月 - The Times of India](https://news.google.com/rss/articles/CBMitwJBVV95cUxPRFhDZFFRbXctVE9mM2lIXzR3Rl9qNWpUYjNoZGY3REZhOFZNRHhHVHA1NExjSXZpRkY5XzNpUEQwUjBCcnZ4dHhySFhsUm9VajlERHVPblByLTJqRGhZWGtEY0tfdmFWRGZpcUFBTDZkMmpHOHFsVWdZX0N6ekJYcnVQTlJrN2RzaGlRTll3NkJiRUJSZWl6am9vSmtPTFQwYldPMGhkaVlaU0Z2UmY4VVM2dktFQXU0UDQxV2NUbFpRc2VVY1F1bHNIUTBILXBYaHVBdndkOEY0TXZiUVhvZ1M0YkZFUmQ2OUZCcmR6blo1eUU5VERvbEhDLUNjR3hzakpZQkp3bXNhT3hwSmZOaUtOOE9RRFF0Q0ZjdEJFZWVFdUczQ1M0S2JxajIydTZvWHNrVjVCQdIBvAJBVV95cUxQaDNhZ2x5VVAxTHVuSVBKbjNXNmlpYnoxaXg2MkRQc2t3N1JvM3l4ZEgyT1doQ2JpYjVQZEtId2pFVWRKYlVuV0FscXZ5LU5vZE1FTzZyUTJITjMySXlwYjR0NW1QUTRjX0hENE51WjFvR0NNdVhOSXN6ZjhqTmhtX0QzeXdQdFQ4cFBWSVZyMlFwWHFpRFBxeWZKNy1qLUpnb3I3b0FwaXRLOEp5RkFuOHVwNlRBb09KQzJFWTRrRUk3d2toWFpLQ25sU29vNUMyT3hjNURNdTBseUlWZ2hFU0tLLWFOOVgwS2dnX3NoTDhvQW9qWmNCMlgyNHc0bHRqanpMR05uZU1QeWZicG94alNBTjhBY0c1ekxYWFNTU3hMTUpRU1piUGdjcThYTUY1WmZtLVVaVEVuTjQy?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 回乡/情感 |
+| 3 | [粉丝/用户被机器人取代了。有人担心吗？](https://news.ycombinator.com/item?id=50154084) | news.ycombinator.com | IP |
+| 4 | [微信发起公众号小说改编短剧激励活动：作者承制方各享 5% 额外收益，上不封顶](https://www.ithome.com/1/015/044.htm) | IT之家 (ITHome) | IP |
+| 5 | [演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空](https://www.aibase.com/news/31713) | AIbase | AI/IP |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -64,9 +67,8 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [卖Token，不好赚钱的新生意](https://www.36kr.com/p/4032091686212230) | 36氪 · 24小时热榜 | 变现 |
-| 2 | [你以为外资在中国落后了，它们其实在闷声赚钱，利润率比华为还高](https://www.huxiu.com/article/4898717.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 3 | [半年收入3个亿，这个老牌上市游戏公司又亏了？](https://www.huxiu.com/article/4898693.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 4 | [储能全线涨价，但电站为什么反而更难赚钱？](https://www.huxiu.com/article/4898614.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 2 | [AI游戏山寨版让独立开发者不敢展示自己的作品](https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work) | arstechnica.com | AI/变现 |
+| 3 | [[服务器] 服务器收入一个季度涨了 52%，但 x86 只涨了 16%，钱基本都去了 GPU 那边](https://www.v2ex.com/t/1250152) | V2EX (创意工作者社区) | 变现 |
 
 ---
 
@@ -78,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-19T15:02:39.283Z
-- **总资讯数**：4415 条原始 → 739 条筛选后
+- **聚合时间**：2026-10-19T20:45:21.764Z
+- **总资讯数**：4360 条原始 → 723 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
