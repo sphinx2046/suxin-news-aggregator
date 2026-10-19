@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-10-18（周日）
+# 素心拾穗 · 每日情报 · 2026-10-19（周一）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -25,12 +25,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [Sergey Brin says Gemini now helps build the next Gemini](https://thenextweb.com/news/sergey-brin-gemini-recursive-self-improvement-safety-report) | The Next Web | AI |
-| 2 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
-| 3 | [我用AI做了一款「三国吃鸡」，开局孔明灯，落地青龙刀 ！](https://juejin.cn/post/7695639978206380070) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945) | sspai | AI |
-| 5 | [企业级 AI Agent 工作台前端实战教程](https://juejin.cn/post/7696759034847068175) | juejin | AI |
+| 2 | [Don't fall for this - how to protect yourself from AI scams](https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
+| 3 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [我用AI做了一款「三国吃鸡」，开局孔明灯，落地青龙刀 ！](https://juejin.cn/post/7695639978206380070) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945) | sspai | AI |
 
-> 共 8 条，以上为 TOP 5。
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -61,10 +61,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [动辄千集的AI短剧，越长越赚钱？](https://www.36kr.com/p/4030064430684039) | 36氪 · 24小时热榜 | AI/变现 |
-| 2 | [[职场话题] 这哥们已经在用 grokbot 赚钱了](https://www.v2ex.com/t/1249816) | V2EX (创意工作者社区) | 变现 |
-| 3 | [消息称索尼第一方游戏《羊蹄山之魂》销量约 540 万份，收入达 4.07 亿美元](https://www.ithome.com/1/014/586.htm) | IT之家 (ITHome) | 变现 |
-| 4 | [我是一名消防员，为了赚点外快，暂时在优步做兼职。这真是一条艰难的赚钱之路](https://www.businessinsider.com/uber-driver-struggles-gas-costs-southern-california-2026-10) | www.businessinsider.com | 变现 |
-| 5 | [Poll: 斯坦福大学的学生宁愿少拿22%的薪水，也要获得年度股权变现机会](https://news.ycombinator.com/item?id=50135643) | news.ycombinator.com | 变现 |
+| 2 | [[问与答] V 站的高收入大佬上岸之后还需要去上班吗](https://www.v2ex.com/t/1249849) | V2EX (创意工作者社区) | 变现 |
+| 3 | [[职场话题] 这哥们已经在用 grokbot 赚钱了](https://www.v2ex.com/t/1249816) | V2EX (创意工作者社区) | 变现 |
+| 4 | [消息称索尼第一方游戏《羊蹄山之魂》销量约 540 万份，收入达 4.07 亿美元](https://www.ithome.com/1/014/586.htm) | IT之家 (ITHome) | 变现 |
+| 5 | [我是一名消防员，为了赚点外快，暂时在优步做兼职。这真是一条艰难的赚钱之路](https://www.businessinsider.com/uber-driver-struggles-gas-costs-southern-california-2026-10) | www.businessinsider.com | 变现 |
 
 ---
 
@@ -76,8 +76,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-18T21:57:59.086Z
-- **总资讯数**：4118 条原始 → 649 条筛选后
+- **聚合时间**：2026-10-18T23:51:20.821Z
+- **总资讯数**：4103 条原始 → 575 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
