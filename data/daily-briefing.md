@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [刚刚，Anthropic官宣！要捐3200亿分给普通人](https://aiera.com.cn/asi-post.html?id=119656) | 新智元 | AI/情感 |
-| 2 | [Claude Code一段话爆改电视：极简零广告，安卓变「苹果」！](https://aiera.com.cn/asi-post.html?id=119637) | 新智元 | AI |
-| 3 | [当Coding Agent开始动态并行，软件开发变得更好了吗？](https://aiera.com.cn/asi-post.html?id=119614) | 新智元 | AI |
-| 4 | [Claude Code「自产自审」：九成代码不再经过人类](https://aiera.com.cn/asi-post.html?id=119600) | 新智元 | AI |
-| 5 | [清华期末考用了真机器人！豪掷2亿元，开进20多所高校](https://aiera.com.cn/asi-post.html?id=119586) | 新智元 | 其他 |
+| 1 | [AI 流式输出都用 SSE，什么时候必须换 WebSocket？](https://juejin.cn/post/7697591781001691163) | juejin | AI/认知 |
+| 2 | [别再花钱调 OCR 接口了！这个国产开源工具，免费还能离线跑](https://juejin.cn/post/7697873433354485770) | juejin | 其他 |
+| 3 | [DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算](https://juejin.cn/post/7697474838380134410) | juejin | AI |
+| 4 | [面向 Schema 配置编程，Vue3 动态表单支持弹框组件](https://juejin.cn/post/7697474838380265482) | juejin | 其他 |
+| 5 | [如何低成本部署网站？Vercel 和 Cloudflare 怎么选？](https://juejin.cn/post/7697615256115363882) | juejin | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -25,12 +25,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [AI 流式传输工程指南：模型吐出半截 JSON，前端如何边收边渲染？](https://juejin.cn/post/7697622920013021219) | juejin | AI |
-| 2 | [Don't fall for this - how to protect yourself from AI scams](https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
-| 3 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [两个 WorkBuddy 客户端总被“合并”解决方法](https://juejin.cn/post/7697162867455688719) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [[分享创造] 受够了 electron 和 webview, 分享一下做了两个来月的 Agent 管理工具](https://www.v2ex.com/t/1250302) | V2EX (创意工作者社区) | AI |
+| 2 | [一人公司的全栈选型指南：让 AI Agent 写得快，也让生意跑得稳](https://juejin.cn/post/7698044277812772873) | juejin | AI/变现 |
+| 3 | [适用于 ChatGPT 和 Claude 的 Jotform 应用程序生成器 / Jotform App Builder for ChatGPT & Claude](https://www.producthunt.com/products/jotform) | producthunt | AI |
+| 4 | [Don't fall for this - how to protect yourself from AI scams](https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
+| 5 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 9 条，以上为 TOP 5。
+> 共 14 条，以上为 TOP 5。
 
 ---
 
@@ -39,12 +39,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布](https://aiera.com.cn/asi-post.html?id=119658) | 新智元 | AI |
-| 2 | [刚刚，OpenAI三大新模型深夜短暂上线！](https://aiera.com.cn/asi-post.html?id=119550) | 新智元 | AI |
-| 3 | [养成系AI玩法来了！可持续进化Personal AI，经验写进DNA](https://aiera.com.cn/asi-post.html?id=119529) | 新智元 | AI |
-| 4 | [AI 帮我写的小程序「厨菜记」上线满月了，挣了两百块！！！](https://juejin.cn/post/7697873433355304970) | juejin | AI |
-| 5 | [从 0 到 1：我用 300 行代码给 AI 记忆加上了“不可篡改的收据”（附开源实现）](https://juejin.cn/post/7697418750073929762) | juejin | AI |
+| 2 | [从 0 到 1：我用 300 行代码给 AI 记忆加上了“不可篡改的收据”（附开源实现）](https://juejin.cn/post/7697418750073929762) | juejin | AI |
+| 3 | [太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！](https://juejin.cn/post/7698283872392757286) | juejin | AI |
+| 4 | [GitHub 热榜周报(10.19)｜5 个把 AI 装回本地的开源项目：多 agent 控制台、本地语音、节点式生成（含技术看点）](https://juejin.cn/post/7698043261042638886) | juejin | AI |
+| 5 | [DeepSeek V4.1-Flash-1017 发布：当"许愿式编程"成为 API 调用](https://juejin.cn/post/7697422926362689578) | juejin | AI |
 
-> 共 72 条，以上为 TOP 5。
+> 共 67 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [[分享创造] 做了一个审美在线的微信公众号 Markdown 排版工具，符合微信官方排版与暗色规范](https://www.v2ex.com/t/1250301) | V2EX (创意工作者社区) | IP |
-| 3 | [[宽带症候群] CNCERT：近期的 DNS 劫持来自境外自治域虚假宣告路由劫持流量](https://www.v2ex.com/t/1250294) | V2EX (创意工作者社区) | IP |
-| 4 | [粉丝用 AI 基于虚幻引擎 5.8 重制《恶霸鲁尼》，Mac 上 1080P 能跑 45 帧](https://www.ithome.com/1/015/250.htm) | IT之家 (ITHome) | AI/IP |
-| 5 | [Show HN: Rouler – 根据应用程序或 IP 地址，在多个接口之间分流 Windows 流量](https://rouler.io/) | rouler.io | IP |
+| 2 | [农村大妈给机器人当“导师”](https://www.huxiu.com/article/4899005.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 3 | [中国农村为北京的AI雄心付出了代价 - Financial Times](https://news.google.com/read/CBMihAFBVV95cUxQZGVCaXJKdkxoRGNLVWpFTWYyUmRUNnJBQWFzZm41QmhyNXJtZ29YV3BHVUY3cDh5RmlkNXlnZkZqT2lJTzE3TE1MLWUwb0dGOEtqRUJOUW5MaEkzSzJFNl9PeFFwdU1ySTJxWk91Zkt4OGxSOTVyVFNXUloxTVlIbUV5Mlc?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | AI/回乡 |
+| 4 | [苏超、东北超、湘超...“省超”第二年，除了流量，城市还能收获什么？](https://mp.weixin.qq.com/s/TnTJmlmLygWFQ4aIxlYCsA) | 第一财经YiMagazine | IP |
+| 5 | [中科院锂电池研究获新进展，疯狂小杨哥新号粉丝被清零，王自如称..](https://mp.weixin.qq.com/s/tWLLNJsjivCNT592OEOv5Q) | 差评 | IP |
 
-> 共 10 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -66,13 +66,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI 把「克隆游戏」门槛砍平，独立开发者开始藏起 Demo 怕被抢跑](https://www.aibase.com/zh/news/31743) | Readhub · AI | AI/变现 |
-| 2 | [Show HN: Death Plan Switch：一款面向独立开发者的自托管“死人开关”](https://deathplanswitch.com/) | deathplanswitch.com | 变现 |
-| 3 | [商业航天的下半场：天上的星星，怎么变成地上的收入？](https://mp.weixin.qq.com/s/DqidLRKP_mJLm8Xsc6GqOg) | 华尔街见闻 | 变现 |
-| 4 | [独家|和Nex创始人复盘：三年出货100万台，收入增长60倍，如...](https://mp.weixin.qq.com/s/OgT1FbdKViWxoE-hkGlcHA) | 极客公园 | 认知/变现 |
-| 5 | [长沙、西安、南京、武汉：论文写进全球前十，可是不会"变现"？](https://www.huxiu.com/article/4898791.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 1 | [探索副业五个月，最终以放弃告终](https://juejin.cn/post/7698569506813394959) | juejin | 变现 |
+| 2 | [SpaceX财报前瞻：AI支出与年度经常性收入正成为更受关注的话题 - Yahoo Finance](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObTBwanpKY2FFd0ZmUFdHZVZFRkZnTzhPRW1YM2txemttSzhhZ0RSRVVEWTZ0SVU3elM0dml0WjNmNE8yS3NFd1ZvYXF0b1lXajhKZVZxbXN4SWRObWluOHZ3RERTOGZXMHVHQ0N6YUhsQU1kSGlvYW8takJoN21JTlFPcGM2UlhvY2tKUFA1QzBVUnRnY2xWZXpOM0xCT0xfajJkRWgyUXV5S3ZtVWxsS0tuZUU5S0RzbnAwcVh5QlhwNzBBZExOWTY0VDZURXdrck1tOWRJckFVbGFaWWtzXzZSSjZjU3N2eEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | AI/变现 |
+| 3 | [“大生意”：路易斯安那州鲜为人知的司法体系接连裁定数千起驱逐案件——并为法官带来数百万的费用收入](https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/louisiana-justice-of-peace-courts-evictions-fees) | www.theguardian.com | 变现 |
+| 4 | [AI 把"克隆游戏"门槛砍平，独立开发者开始藏起 Demo 怕被抢跑](https://www.aibase.com/news/31743) | AIbase | AI/变现 |
+| 5 | [商业航天的下半场：天上的星星，怎么变成地上的收入？](https://mp.weixin.qq.com/s/DqidLRKP_mJLm8Xsc6GqOg) | 华尔街见闻 | 变现 |
 
-> 共 7 条，以上为 TOP 5。
+> 共 9 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-20T06:45:21.095Z
-- **总资讯数**：4509 条原始 → 827 条筛选后
+- **聚合时间**：2026-10-20T13:04:31.497Z
+- **总资讯数**：4570 条原始 → 802 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
