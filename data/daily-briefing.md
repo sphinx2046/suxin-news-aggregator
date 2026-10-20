@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-10-19（周一）
+# 素心拾穗 · 每日情报 · 2026-10-20（周二）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI 流式输出都用 SSE，什么时候必须换 WebSocket？](https://juejin.cn/post/7697591781001691163) | juejin | AI/认知 |
-| 2 | [从Cursor到Codex，从Skills到Harness：AI编程正在经历第三次范式迁移](https://juejin.cn/post/7672696268489408575) | juejin | AI |
-| 3 | [别再花钱调 OCR 接口了！这个国产开源工具，免费还能离线跑](https://juejin.cn/post/7697873433354485770) | juejin | 其他 |
-| 4 | [Claude的60个子Agent冲击黎曼猜想：AI自主科研的里程碑与边界](https://juejin.cn/post/7672849477074616383) | juejin | AI |
-| 5 | [DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算](https://juejin.cn/post/7697474838380134410) | juejin | AI |
+| 1 | [刚刚，Anthropic官宣！要捐3200亿分给普通人](https://aiera.com.cn/asi-post.html?id=119656) | 新智元 | AI/情感 |
+| 2 | [Claude Code一段话爆改电视：极简零广告，安卓变「苹果」！](https://aiera.com.cn/asi-post.html?id=119637) | 新智元 | AI |
+| 3 | [当Coding Agent开始动态并行，软件开发变得更好了吗？](https://aiera.com.cn/asi-post.html?id=119614) | 新智元 | AI |
+| 4 | [Claude Code「自产自审」：九成代码不再经过人类](https://aiera.com.cn/asi-post.html?id=119600) | 新智元 | AI |
+| 5 | [清华期末考用了真机器人！豪掷2亿元，开进20多所高校](https://aiera.com.cn/asi-post.html?id=119586) | 新智元 | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -28,9 +28,9 @@
 | 2 | [Don't fall for this - how to protect yourself from AI scams](https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
 | 3 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
 | 4 | [两个 WorkBuddy 客户端总被“合并”解决方法](https://juejin.cn/post/7697162867455688719) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [Show HN: Jev 实战——Keen Code 中的任务分类器和自动模型路由器](https://mochow13.github.io/keen-code/docs/task-classification-using-decision-models.html) | mochow13.github.io | AI |
+| 5 | [AI试摆、一次搞定送装拆旧试了试天猫买大件的新体验](https://mp.weixin.qq.com/s/SA7BhWU2ISgy50Ky7qQSIg) | 36氪 | AI |
 
-> 共 8 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI 帮我写的小程序「厨菜记」上线满月了，挣了两百块！！！](https://juejin.cn/post/7697873433355304970) | juejin | AI |
-| 2 | [从 0 到 1：我用 300 行代码给 AI 记忆加上了“不可篡改的收据”（附开源实现）](https://juejin.cn/post/7697418750073929762) | juejin | AI |
-| 3 | [Chrome DevTools MCP 正式可用：AI 终于能自己开浏览器调试你的页面了](https://juejin.cn/post/7697615256114937898) | juejin | AI |
-| 4 | [DeepSeek V4.1-Flash-1017 发布：当"许愿式编程"成为 API 调用](https://juejin.cn/post/7697422926362689578) | juejin | AI |
-| 5 | [Anthropic Announces 'Public Benefit Fund', Committing 5% of Its Shares](https://it.slashdot.org/story/26/10/19/0252201/anthropic-announces-public-benefit-fund-committing-5-of-its-shares) | Slashdot | AI |
+| 1 | [刚刚，OpenAI三大新模型深夜短暂上线！](https://aiera.com.cn/asi-post.html?id=119550) | 新智元 | AI |
+| 2 | [养成系AI玩法来了！可持续进化Personal AI，经验写进DNA](https://aiera.com.cn/asi-post.html?id=119529) | 新智元 | AI |
+| 3 | [刚刚，OpenAl三个神秘模型「红绿蓝」曝光了！](https://mp.weixin.qq.com/s/ozmypBccpxrrMIq0pQZ08Q) | 夕小瑶科技说 | AI |
+| 4 | [Lovart 2.0发布个人设计Agent Arti:Personal Agent 在设计赛道先落地了](https://mp.weixin.qq.com/s/zju4LMHs1Aw7QT9j0tQ6zw) | FounderPark | AI |
+| 5 | [Meta 押注开源 AI 硬件，我们却从一只五年前的小机器人身上看到了未来](https://mp.weixin.qq.com/s/3nOe5BpocyiuqTA_rtqByg) | FounderPark | AI |
 
-> 共 67 条，以上为 TOP 5。
+> 共 74 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [迈克尔·戴尔是“特朗普账户”的最大捐助者，但他的慈善事业首先惠及了自己的家乡州；在4月 - The Times of India](https://news.google.com/rss/articles/CBMitwJBVV95cUxPRFhDZFFRbXctVE9mM2lIXzR3Rl9qNWpUYjNoZGY3REZhOFZNRHhHVHA1NExjSXZpRkY5XzNpUEQwUjBCcnZ4dHhySFhsUm9VajlERHVPblByLTJqRGhZWGtEY0tfdmFWRGZpcUFBTDZkMmpHOHFsVWdZX0N6ekJYcnVQTlJrN2RzaGlRTll3NkJiRUJSZWl6am9vSmtPTFQwYldPMGhkaVlaU0Z2UmY4VVM2dktFQXU0UDQxV2NUbFpRc2VVY1F1bHNIUTBILXBYaHVBdndkOEY0TXZiUVhvZ1M0YkZFUmQ2OUZCcmR6blo1eUU5VERvbEhDLUNjR3hzakpZQkp3bXNhT3hwSmZOaUtOOE9RRFF0Q0ZjdEJFZWVFdUczQ1M0S2JxajIydTZvWHNrVjVCQdIBvAJBVV95cUxQaDNhZ2x5VVAxTHVuSVBKbjNXNmlpYnoxaXg2MkRQc2t3N1JvM3l4ZEgyT1doQ2JpYjVQZEtId2pFVWRKYlVuV0FscXZ5LU5vZE1FTzZyUTJITjMySXlwYjR0NW1QUTRjX0hENE51WjFvR0NNdVhOSXN6ZjhqTmhtX0QzeXdQdFQ4cFBWSVZyMlFwWHFpRFBxeWZKNy1qLUpnb3I3b0FwaXRLOEp5RkFuOHVwNlRBb09KQzJFWTRrRUk3d2toWFpLQ25sU29vNUMyT3hjNURNdTBseUlWZ2hFU0tLLWFOOVgwS2dnX3NoTDhvQW9qWmNCMlgyNHc0bHRqanpMR05uZU1QeWZicG94alNBTjhBY0c1ekxYWFNTU3hMTUpRU1piUGdjcThYTUY1WmZtLVVaVEVuTjQy?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 回乡/情感 |
-| 3 | [粉丝/用户被机器人取代了。有人担心吗？](https://news.ycombinator.com/item?id=50154084) | news.ycombinator.com | IP |
-| 4 | [微信发起公众号小说改编短剧激励活动：作者承制方各享 5% 额外收益，上不封顶](https://www.ithome.com/1/015/044.htm) | IT之家 (ITHome) | IP |
-| 5 | [演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空](https://www.aibase.com/news/31713) | AIbase | AI/IP |
+| 2 | [[AI Agent 智能体] 用 Grok Bot 在微信公众号挂号，差点导致微信被封](https://www.v2ex.com/t/1250172) | V2EX (创意工作者社区) | AI/IP |
+| 3 | [中国农村为北京的AI雄心付出了代价](https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e?syn-25a6b1a6=1) | www.ft.com | AI/回乡 |
+| 4 | [苏超、东北超、湘超...“省超”第二年，除了流量，城市还能收获什么？](https://mp.weixin.qq.com/s/TnTJmlmLygWFQ4aIxlYCsA) | 第一财经YiMagazine | IP |
+| 5 | [中科院锂电池研究获新进展，疯狂小杨哥新号粉丝被清零，王自如称..](https://mp.weixin.qq.com/s/tWLLNJsjivCNT592OEOv5Q) | 差评 | IP |
 
-> 共 6 条，以上为 TOP 5。
+> 共 9 条，以上为 TOP 5。
 
 ---
 
@@ -67,8 +67,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [卖Token，不好赚钱的新生意](https://www.36kr.com/p/4032091686212230) | 36氪 · 24小时热榜 | 变现 |
-| 2 | [AI游戏山寨版让独立开发者不敢展示自己的作品](https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work) | arstechnica.com | AI/变现 |
-| 3 | [[服务器] 服务器收入一个季度涨了 52%，但 x86 只涨了 16%，钱基本都去了 GPU 那边](https://www.v2ex.com/t/1250152) | V2EX (创意工作者社区) | 变现 |
+| 2 | [商业航天的下半场：天上的星星，怎么变成地上的收入？](https://mp.weixin.qq.com/s/DqidLRKP_mJLm8Xsc6GqOg) | 华尔街见闻 | 变现 |
+| 3 | [独家|和Nex创始人复盘：三年出货100万台，收入增长60倍，如...](https://mp.weixin.qq.com/s/OgT1FbdKViWxoE-hkGlcHA) | 极客公园 | 认知/变现 |
+| 4 | [长沙、西安、南京、武汉：论文写进全球前十，可是不会"变现"？](https://www.huxiu.com/article/4898791.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 5 | [AI繁荣的另一面：7770亿美元资本开支背后，谁在兑现收入，谁还在...](https://mp.weixin.qq.com/s/wR5n_VBhQcBE5UlSZMbqJw) | 经纬创投 | AI/变现 |
+
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -80,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-19T20:45:21.764Z
-- **总资讯数**：4360 条原始 → 723 条筛选后
+- **聚合时间**：2026-10-20T00:45:30.545Z
+- **总资讯数**：4426 条原始 → 789 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
