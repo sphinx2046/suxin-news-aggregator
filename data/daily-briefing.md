@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [让读书笔记不再吃灰：我做了一款跨平台书摘管理工具](https://sspai.com/post/115688) | sspai | 认知 |
-| 2 | [从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole](https://sspai.com/post/113843) | sspai | 其他 |
-| 3 | [扔掉的是杂念，掌控的是生活：我的断舍离实践经验](https://sspai.com/post/115209) | sspai | 情感 |
-| 4 | [经典任务管理软件的现代重构：新版 2Do 详解](https://sspai.com/post/115166) | sspai | 其他 |
-| 5 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
+| 1 | [40岁，我创业一周年，一个人．(给自己打个85分）](https://mp.weixin.qq.com/s/0EGAubcT2lq7_6an5CCPMw) | 架构师之路 | 其他 |
+| 2 | [上下文是稀缺资源，Agent的上下文里，究竟要放哪些东西？](https://mp.weixin.qq.com/s/TrvnrbQy8Z7mk-Q2WlYGOQ) | 架构师之路 | AI |
+| 3 | [字节Seed人才调整进行时：评测负责人离职，AI安全部门全球招兵](https://mp.weixin.qq.com/s/oCs_N7-barVdoLIRCn31tg) | AI前线 | AI |
+| 4 | [Pi 抛出全新Agent Harness，还把自己骂了一年的MCP装进了核心](https://mp.weixin.qq.com/s/eD8NXqtEX__nQEORQ34FeA) | AI前线 | AI |
+| 5 | [大批APl账户被刷爆！OpenCode遭黑客围攻48小时，官方甩锅“蒸馏攻...](https://mp.weixin.qq.com/s/CPYpAVetjUylbAg9uSV9jQ) | AI前线 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Perplexity makes it easier to run AI workflows entirely on your own Mac](https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac) | Engadget | AI |
-| 2 | [Don't fall for this - how to protect yourself from AI scams](https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
-| 3 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [两个 WorkBuddy 客户端总被“合并”解决方法](https://juejin.cn/post/7697162867455688719) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [刷短剧上头后，我用5090和ComfyUI部署MiniMax H3](https://juejin.cn/post/7697865664233947190) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [Don't fall for this - how to protect yourself from AI scams](https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
+| 2 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
+| 3 | [两个 WorkBuddy 客户端总被“合并”解决方法](https://juejin.cn/post/7697162867455688719) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [刷短剧上头后，我用5090和ComfyUI部署MiniMax H3](https://juejin.cn/post/7697865664233947190) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [Jotform App Builder for ChatGPT & Claude](https://www.producthunt.com/products/jotform) | Product Hunt · 今日新产品 | AI |
 
-> 共 16 条，以上为 TOP 5。
+> 共 13 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool](https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool) | TechCrunch | AI |
-| 2 | [Otter.ai raises $320M from General Catalyst for enterprise growth](https://thenextweb.com/news/otter-ai-320m-general-catalyst) | The Next Web | AI |
-| 3 | [Asymptote Labs raises $5.5M to track and control what AI agents do](https://thenextweb.com/news/asymptote-labs-5-5m-seed-ai-agent-security) | The Next Web | AI |
-| 4 | [迪士尼找到了一种既能收购Character.AI，又无需接手其诉讼的方式 / Disney found a way to buy Character.AI without buying its lawsuits](https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits) | Ars Technica | AI |
-| 5 | [ASI, which makes AI tools for the military and air traffic controllers, raised a $325M Series C at a $3B valuation, after winning an $875M FAA contract in June (Bloomberg)](https://www.techmeme.com/261020/p28) | Techmeme | AI |
+| 1 | [刚刚，DeepSeek又掀桌了！开源推理引擎](https://mp.weixin.qq.com/s/_92qxY50yrITYDkhnKVv5w) | 夕小瑶科技说 | AI |
+| 2 | [美国发布DeepSeek禁令](https://mp.weixin.qq.com/s/VP2KJct2bw05BgM9OMmmZA) | 夕小瑶科技说 | AI |
+| 3 | [让Claude Code爆改电视，这个开源项目有点意思！](https://mp.weixin.qq.com/s/GAElWJJu499wHuVtnv99tQ) | GitHubDaily | AI |
+| 4 | [历史重演！“AI股神"又被打爆，反弹来了，拐点还是喘息？](https://mp.weixin.qq.com/s/BF4z-62t1RgRX9OX0aBuTw) | 华尔街见闻 | AI |
+| 5 | [DeepSeek 新模型登顶开源模型榜首；国内55%算力用于视频和短剧？...](https://mp.weixin.qq.com/s/lrPuZHOrePfo4zn_Tw8hjw) | 极客公园 | AI |
 
-> 共 66 条，以上为 TOP 5。
+> 共 65 条，以上为 TOP 5。
 
 ---
 
@@ -52,13 +52,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [[分享创造] vibecoding 了一个网站流量评级&Adsense 收益预估的工具](https://www.v2ex.com/t/1250461) | V2EX (创意工作者社区) | IP |
-| 3 | [麦当劳推出“反派”万圣节桶——但粉丝们都在问同一个令人毛骨悚然的问题 - New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3pSRVNJNjNuVXBsMG40WURtdkZOV0drZzRGY2FOQk9GeFBoaTVWTnZsdjZram52cDVJTHM5WUp5NVphSFVZRkltdWZYdXpTUFRmQ2lIcE1CS3R1bVplRlduTHUzNzRlbVNRX21UNF9NMGg4dzNwZHotRWk1cTljWHdvNS1La2Y0aVgybWVGTUQ1TWw0ZXRsbUpFTE9pY3FiX3huNg?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 4 | [Show HN: Creatohunt——以十分之一的成本发现、联系并追踪创作者](https://creatohunt.com/) | creatohunt.com | IP |
-| 5 | [中国农村为北京的AI雄心付出了代价 - Financial Times](https://news.google.com/read/CBMihAFBVV95cUxQZGVCaXJKdkxoRGNLVWpFTWYyUmRUNnJBQWFzZm41QmhyNXJtZ29YV3BHVUY3cDh5RmlkNXlnZkZqT2lJTzE3TE1MLWUwb0dGOEtqRUJOUW5MaEkzSzJFNl9PeFFwdU1ySTJxWk91Zkt4OGxSOTVyVFNXUloxTVlIbUV5Mlc?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | AI/回乡 |
-
-> 共 8 条，以上为 TOP 5。
+| 1 | [中考落榜后，一个00后农村男孩凭技能逆袭世界冠军](https://mp.weixin.qq.com/s/VKeh9NbG6-xOrcJPVLYHgw) | 三联生活周刊 | 回乡/情感 |
+| 2 | [县城父母，开始给子女「断供」了](https://mp.weixin.qq.com/s/S2WPMK95rIw_bc91Mqq07w) | 人物 | 回乡 |
+| 3 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 4 | [[分享创造] vibecoding 了一个网站流量评级&Adsense 收益预估的工具](https://www.v2ex.com/t/1250461) | V2EX (创意工作者社区) | IP |
 
 ---
 
@@ -66,13 +63,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [探索副业五个月，最终以放弃告终](https://juejin.cn/post/7698569506813394959) | juejin | 变现 |
-| 2 | [SpaceX财报前瞻：AI支出与年度经常性收入正成为更受关注的话题 - Yahoo Finance](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObTBwanpKY2FFd0ZmUFdHZVZFRkZnTzhPRW1YM2txemttSzhhZ0RSRVVEWTZ0SVU3elM0dml0WjNmNE8yS3NFd1ZvYXF0b1lXajhKZVZxbXN4SWRObWluOHZ3RERTOGZXMHVHQ0N6YUhsQU1kSGlvYW8takJoN21JTlFPcGM2UlhvY2tKUFA1QzBVUnRnY2xWZXpOM0xCT0xfajJkRWgyUXV5S3ZtVWxsS0tuZUU5S0RzbnAwcVh5QlhwNzBBZExOWTY0VDZURXdrck1tOWRJckFVbGFaWWtzXzZSSjZjU3N2eEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | AI/变现 |
-| 3 | [“大生意”：路易斯安那州鲜为人知的司法体系接连裁定数千起驱逐案件——并为法官带来数百万的费用收入](https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/louisiana-justice-of-peace-courts-evictions-fees) | www.theguardian.com | 变现 |
-| 4 | [AI 把"克隆游戏"门槛砍平，独立开发者开始藏起 Demo 怕被抢跑](https://www.aibase.com/news/31743) | AIbase | AI/变现 |
-| 5 | [商业航天的下半场：天上的星星，怎么变成地上的收入？](https://mp.weixin.qq.com/s/DqidLRKP_mJLm8Xsc6GqOg) | 华尔街见闻 | 变现 |
+| 1 | [马斯克宣布「全民高收入」！要捐105亿美元分给「孩子」](https://mp.weixin.qq.com/s/TJKRjHapc5lkvkMHukqAIQ) | 新智元 | 变现 |
+| 2 | [探索副业五个月，最终以放弃告终](https://juejin.cn/post/7698569506813394959) | juejin | 变现 |
+| 3 | [尽管第三季度业绩稳健，但受第四季度营收和广告收入预期下调影响，奈飞股价仍出现下跌 - Deadline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWlBRZUQyQTNlX0Jfb1NFODJROUV4VEktNlltUktWcVUyWUFBWlMtc0JpSHE0Z2NfOHduamFJM0lTVDlQdjk0aDA5Vl9DZE5hRVU1VDVhbTEzYjVGTjNvM0pSdl9YS2pNak5xelFZSmYzWlN3VTBLSEhEZjFiRGN4Y0tZeC16TkpXYk5Z?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
+| 4 | [SpaceX 利润超出预期，得益于人工智能收入的大幅增长](https://www.bloomberg.com/news/articles/2026-10-20/spacex-profit-beats-estimates-on-big-jump-in-ai-business-revenue) | www.bloomberg.com | AI/变现 |
+| 5 | [一家由1人经营、年经常性收入（ARR）达10亿美元的公司是否可能存在？](https://news.ycombinator.com/item?id=50169117) | news.ycombinator.com | 变现 |
 
-> 共 8 条，以上为 TOP 5。
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-20T18:09:05.020Z
-- **总资讯数**：4327 条原始 → 721 条筛选后
+- **聚合时间**：2026-10-20T22:44:37.464Z
+- **总资讯数**：4415 条原始 → 728 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
