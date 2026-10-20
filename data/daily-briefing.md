@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI 流式输出都用 SSE，什么时候必须换 WebSocket？](https://juejin.cn/post/7697591781001691163) | juejin | AI/认知 |
-| 2 | [别再花钱调 OCR 接口了！这个国产开源工具，免费还能离线跑](https://juejin.cn/post/7697873433354485770) | juejin | 其他 |
-| 3 | [DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算](https://juejin.cn/post/7697474838380134410) | juejin | AI |
-| 4 | [面向 Schema 配置编程，Vue3 动态表单支持弹框组件](https://juejin.cn/post/7697474838380265482) | juejin | 其他 |
-| 5 | [如何低成本部署网站？Vercel 和 Cloudflare 怎么选？](https://juejin.cn/post/7697615256115363882) | juejin | 其他 |
+| 1 | [让读书笔记不再吃灰：我做了一款跨平台书摘管理工具](https://sspai.com/post/115688) | sspai | 认知 |
+| 2 | [从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole](https://sspai.com/post/113843) | sspai | 其他 |
+| 3 | [扔掉的是杂念，掌控的是生活：我的断舍离实践经验](https://sspai.com/post/115209) | sspai | 情感 |
+| 4 | [经典任务管理软件的现代重构：新版 2Do 详解](https://sspai.com/post/115166) | sspai | 其他 |
+| 5 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI 流式传输工程指南：模型吐出半截 JSON，前端如何边收边渲染？](https://juejin.cn/post/7697622920013021219) | juejin | AI |
-| 2 | [一人公司的全栈选型指南：让 AI Agent 写得快，也让生意跑得稳](https://juejin.cn/post/7698044277812772873) | juejin | AI/变现 |
-| 3 | [适用于 ChatGPT 和 Claude 的 Jotform 应用程序生成器 / Jotform App Builder for ChatGPT & Claude](https://www.producthunt.com/products/jotform) | producthunt | AI |
-| 4 | [Don't fall for this - how to protect yourself from AI scams](https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
-| 5 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [Perplexity makes it easier to run AI workflows entirely on your own Mac](https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac) | Engadget | AI |
+| 2 | [Don't fall for this - how to protect yourself from AI scams](https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
+| 3 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [两个 WorkBuddy 客户端总被“合并”解决方法](https://juejin.cn/post/7697162867455688719) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [刷短剧上头后，我用5090和ComfyUI部署MiniMax H3](https://juejin.cn/post/7697865664233947190) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 14 条，以上为 TOP 5。
+> 共 16 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布](https://aiera.com.cn/asi-post.html?id=119658) | 新智元 | AI |
-| 2 | [从 0 到 1：我用 300 行代码给 AI 记忆加上了“不可篡改的收据”（附开源实现）](https://juejin.cn/post/7697418750073929762) | juejin | AI |
-| 3 | [太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！](https://juejin.cn/post/7698283872392757286) | juejin | AI |
-| 4 | [GitHub 热榜周报(10.19)｜5 个把 AI 装回本地的开源项目：多 agent 控制台、本地语音、节点式生成（含技术看点）](https://juejin.cn/post/7698043261042638886) | juejin | AI |
-| 5 | [DeepSeek V4.1-Flash-1017 发布：当"许愿式编程"成为 API 调用](https://juejin.cn/post/7697422926362689578) | juejin | AI |
+| 1 | [Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool](https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool) | TechCrunch | AI |
+| 2 | [Otter.ai raises $320M from General Catalyst for enterprise growth](https://thenextweb.com/news/otter-ai-320m-general-catalyst) | The Next Web | AI |
+| 3 | [Asymptote Labs raises $5.5M to track and control what AI agents do](https://thenextweb.com/news/asymptote-labs-5-5m-seed-ai-agent-security) | The Next Web | AI |
+| 4 | [迪士尼找到了一种既能收购Character.AI，又无需接手其诉讼的方式 / Disney found a way to buy Character.AI without buying its lawsuits](https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits) | Ars Technica | AI |
+| 5 | [ASI, which makes AI tools for the military and air traffic controllers, raised a $325M Series C at a $3B valuation, after winning an $875M FAA contract in June (Bloomberg)](https://www.techmeme.com/261020/p28) | Techmeme | AI |
 
-> 共 67 条，以上为 TOP 5。
+> 共 66 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [农村大妈给机器人当“导师”](https://www.huxiu.com/article/4899005.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
-| 3 | [中国农村为北京的AI雄心付出了代价 - Financial Times](https://news.google.com/read/CBMihAFBVV95cUxQZGVCaXJKdkxoRGNLVWpFTWYyUmRUNnJBQWFzZm41QmhyNXJtZ29YV3BHVUY3cDh5RmlkNXlnZkZqT2lJTzE3TE1MLWUwb0dGOEtqRUJOUW5MaEkzSzJFNl9PeFFwdU1ySTJxWk91Zkt4OGxSOTVyVFNXUloxTVlIbUV5Mlc?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | AI/回乡 |
-| 4 | [苏超、东北超、湘超...“省超”第二年，除了流量，城市还能收获什么？](https://mp.weixin.qq.com/s/TnTJmlmLygWFQ4aIxlYCsA) | 第一财经YiMagazine | IP |
-| 5 | [中科院锂电池研究获新进展，疯狂小杨哥新号粉丝被清零，王自如称..](https://mp.weixin.qq.com/s/tWLLNJsjivCNT592OEOv5Q) | 差评 | IP |
+| 2 | [[分享创造] vibecoding 了一个网站流量评级&Adsense 收益预估的工具](https://www.v2ex.com/t/1250461) | V2EX (创意工作者社区) | IP |
+| 3 | [麦当劳推出“反派”万圣节桶——但粉丝们都在问同一个令人毛骨悚然的问题 - New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3pSRVNJNjNuVXBsMG40WURtdkZOV0drZzRGY2FOQk9GeFBoaTVWTnZsdjZram52cDVJTHM5WUp5NVphSFVZRkltdWZYdXpTUFRmQ2lIcE1CS3R1bVplRlduTHUzNzRlbVNRX21UNF9NMGg4dzNwZHotRWk1cTljWHdvNS1La2Y0aVgybWVGTUQ1TWw0ZXRsbUpFTE9pY3FiX3huNg?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
+| 4 | [Show HN: Creatohunt——以十分之一的成本发现、联系并追踪创作者](https://creatohunt.com/) | creatohunt.com | IP |
+| 5 | [中国农村为北京的AI雄心付出了代价 - Financial Times](https://news.google.com/read/CBMihAFBVV95cUxQZGVCaXJKdkxoRGNLVWpFTWYyUmRUNnJBQWFzZm41QmhyNXJtZ29YV3BHVUY3cDh5RmlkNXlnZkZqT2lJTzE3TE1MLWUwb0dGOEtqRUJOUW5MaEkzSzJFNl9PeFFwdU1ySTJxWk91Zkt4OGxSOTVyVFNXUloxTVlIbUV5Mlc?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | AI/回乡 |
 
-> 共 6 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -72,7 +72,7 @@
 | 4 | [AI 把"克隆游戏"门槛砍平，独立开发者开始藏起 Demo 怕被抢跑](https://www.aibase.com/news/31743) | AIbase | AI/变现 |
 | 5 | [商业航天的下半场：天上的星星，怎么变成地上的收入？](https://mp.weixin.qq.com/s/DqidLRKP_mJLm8Xsc6GqOg) | 华尔街见闻 | 变现 |
 
-> 共 9 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-20T13:04:31.497Z
-- **总资讯数**：4570 条原始 → 802 条筛选后
+- **聚合时间**：2026-10-20T18:09:05.020Z
+- **总资讯数**：4327 条原始 → 721 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
