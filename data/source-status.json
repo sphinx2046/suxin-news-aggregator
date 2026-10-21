@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-21T19:42:13.763Z",
+  "generated_at": "2026-10-21T22:49:35.255Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 389,
+      "duration_ms": 435,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 406,
+      "duration_ms": 479,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Info Flow",
       "ok": true,
       "item_count": 319,
-      "duration_ms": 21176,
+      "duration_ms": 19418,
       "error": null
     },
     {
@@ -30,15 +30,15 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 443,
+      "duration_ms": 436,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 2986,
-      "duration_ms": 818,
+      "item_count": 3037,
+      "duration_ms": 1054,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Zeli",
       "ok": true,
       "item_count": 80,
-      "duration_ms": 685,
+      "duration_ms": 682,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 6020,
+      "duration_ms": 5802,
       "error": "fetch failed"
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1533,
+      "duration_ms": 7181,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "AI今日热榜",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 300,
+      "duration_ms": 256,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 122,
-      "duration_ms": 2516,
+      "duration_ms": 4910,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "YouTube",
       "ok": true,
       "item_count": 45,
-      "duration_ms": 186,
+      "duration_ms": 162,
       "error": null
     },
     {
@@ -94,15 +94,15 @@
       "site_name": "新智元",
       "ok": true,
       "item_count": 72,
-      "duration_ms": 3062,
+      "duration_ms": 3029,
       "error": null
     },
     {
       "site_id": "wechat-rss",
       "site_name": "微信公众号",
       "ok": true,
-      "item_count": 165,
-      "duration_ms": 1173,
+      "item_count": 169,
+      "duration_ms": 1180,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "site_name": "OPML RSS",
       "ok": true,
       "item_count": 185,
-      "duration_ms": 5009,
+      "duration_ms": 5836,
       "error": null
     }
   ],
@@ -122,9 +122,9 @@
     "bestblogs",
     "aihot"
   ],
-  "fetched_raw_items": 5143,
-  "items_before_topic_filter": 4787,
-  "items_in_24h": 773,
+  "fetched_raw_items": 5198,
+  "items_before_topic_filter": 4839,
+  "items_in_24h": 786,
   "rss_opml": {
     "enabled": true,
     "path": "/home/runner/work/suxin-news-aggregator/suxin-news-aggregator/feeds/follow.opml",
@@ -144,7 +144,7 @@
         "effective_feed_url": "https://aeon.co/feed.rss",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 121,
+        "duration_ms": 139,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -158,7 +158,7 @@
         "effective_feed_url": "https://bigthink.com/feed/",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 189,
+        "duration_ms": 1416,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -172,7 +172,7 @@
         "effective_feed_url": "https://electricliterature.com/feed/",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 197,
+        "duration_ms": 181,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -186,7 +186,7 @@
         "effective_feed_url": "https://medium.com/feed/tag/attention",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 636,
+        "duration_ms": 632,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -200,7 +200,7 @@
         "effective_feed_url": "https://medium.com/feed/tag/cognition",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 602,
+        "duration_ms": 442,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -214,7 +214,7 @@
         "effective_feed_url": "https://medium.com/feed/tag/decision-making",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 532,
+        "duration_ms": 519,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -228,7 +228,7 @@
         "effective_feed_url": "https://medium.com/feed/tag/grief",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 650,
+        "duration_ms": 622,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -242,7 +242,7 @@
         "effective_feed_url": "https://medium.com/feed/tag/note-taking",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 499,
+        "duration_ms": 486,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -256,7 +256,7 @@
         "effective_feed_url": "https://medium.com/feed/tag/solitude",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 488,
+        "duration_ms": 418,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -270,7 +270,7 @@
         "effective_feed_url": "https://medium.com/feed/tag/thinking",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 299,
+        "duration_ms": 263,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -284,7 +284,7 @@
         "effective_feed_url": "https://www.theatlantic.com/feed/channel/books/",
         "ok": true,
         "item_count": 25,
-        "duration_ms": 595,
+        "duration_ms": 514,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -298,7 +298,7 @@
         "effective_feed_url": "https://www.newyorker.com/feed/everything",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 201,
+        "duration_ms": 204,
         "error": null,
         "skipped": false,
         "skip_reason": null,

@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI 流式输出都用 SSE，什么时候必须换 WebSocket？](https://juejin.cn/post/7697591781001691163) | juejin | AI/认知 |
-| 2 | [别再花钱调 OCR 接口了！这个国产开源工具，免费还能离线跑](https://juejin.cn/post/7697873433354485770) | juejin | 其他 |
-| 3 | [程序员 1v1 访谈系列第四期：全栈比 Agent 重要](https://juejin.cn/post/7697622920013987875) | juejin | AI |
-| 4 | [如何低成本部署网站？Vercel 和 Cloudflare 怎么选？](https://juejin.cn/post/7697615256115363882) | juejin | 其他 |
-| 5 | [我数了 647 条大厂前端 JD：AI 不再只是加分项](https://juejin.cn/post/7698254253442793507) | juejin | AI |
+| 1 | [退休是一种怎样的体验](https://mp.weixin.qq.com/s/n7Rm1v5Vli1PqklE45275w) | 产品犬舍 | 其他 |
+| 2 | [劝大家不要过度担心失业。。。](https://mp.weixin.qq.com/s/mWyFKO8v3boZVD9HQ_Qoyw) | 架构师之路 | 其他 |
+| 3 | [600 万奖金的KDD Cup，摸到了推荐系统 Scaling Law的关键](https://mp.weixin.qq.com/s/4eVBAjFKjR7JQjo5yfU0kQ) | 夕小瑶科技说 | 其他 |
+| 4 | [Anthropic出手！Claude 64小时狂造30万蛋白！17个成功锁死蝎毒](https://mp.weixin.qq.com/s/MKlGcIB9t3sOnMwdMC-5WA) | 夕小瑶科技说 | AI |
+| 5 | [17岁Kimi前研究员陈广宇被曝投奔JeffDean创业团队，新公司正寻...](https://mp.weixin.qq.com/s/HHvihjqsP97VuE1BGSJLhQ) | AI前线 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,11 +24,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [一人公司的全栈选型指南：让 AI Agent 写得快，也让生意跑得稳](https://juejin.cn/post/7698044277812772873) | juejin | AI/变现 |
-| 2 | [不要上当——如何保护自己免受人工智能诈骗 / Don't fall for this - how to protect yourself from AI scams](https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
-| 3 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [两个 WorkBuddy 客户端总被“合并”解决方法](https://juejin.cn/post/7697162867455688719) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [刷短剧上头后，我用5090和ComfyUI部署MiniMax H3](https://juejin.cn/post/7697865664233947190) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [Don't fall for this - how to protect yourself from AI scams](https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
+| 2 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
+| 3 | [两个 WorkBuddy 客户端总被“合并”解决方法](https://juejin.cn/post/7697162867455688719) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [刷短剧上头后，我用5090和ComfyUI部署MiniMax H3](https://juejin.cn/post/7697865664233947190) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [Jotform App Builder for ChatGPT & Claude](https://www.producthunt.com/products/jotform) | Product Hunt · 今日新产品 | AI |
 
 > 共 10 条，以上为 TOP 5。
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！](https://juejin.cn/post/7698283872392757286) | juejin | AI |
-| 2 | [预算 1000 美金的开源软件，DeepSeek 只花 1 美金就做完了（Day 6）](https://juejin.cn/post/7698512689525538825) | juejin | AI |
-| 3 | [GitHub 热榜周报(10.19)｜5 个把 AI 装回本地的开源项目：多 agent 控制台、本地语音、节点式生成（含技术看点）](https://juejin.cn/post/7698043261042638886) | juejin | AI |
-| 4 | [亚马逊封锁人工智能代理，沃尔玛却推出欢迎垫 / While Amazon blocks AI agents, Walmart rolls out the welcome mat](https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat) | TechCrunch | AI |
-| 5 | [Legal AI startup Legora raises $550M Series E at $8.8B valuation](https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation) | TechCrunch | AI |
+| 1 | [上市前夕估值被砍5000亿美元！Anthropic最新招股书曝上半年...](https://mp.weixin.qq.com/s/fpifjifWMK2kPTdoSMOS_Q) | AI前线 | AI |
+| 2 | [OpenAI收购了一家药物研发管理初创，新药研发的项目经理由AI来当](https://mp.weixin.qq.com/s/MHQ732nvVtywtkkLgpY8iw) | DeepTech深科技 | AI |
+| 3 | [DeepSeek 把自家「印钞机」开源了，这才是真的OpenAl](https://mp.weixin.qq.com/s/dOxvig-F5ZalRPf6EFuCpw) | APPSO | AI |
+| 4 | [OpenAI抢滩AI制药：又收购一家初创，CTO来自北大](https://mp.weixin.qq.com/s/wadkLvUJYN57APJGZZm2lQ) | 量子位 | AI |
+| 5 | [Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation](https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation) | TechCrunch | AI |
 
-> 共 67 条，以上为 TOP 5。
+> 共 56 条，以上为 TOP 5。
 
 ---
 
@@ -52,11 +52,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [我用 WorkBuddy + ima 把公众号文章做成了知识库。](https://juejin.cn/post/7698208410021527594) | juejin | IP |
+| 1 | [爆款、流量、价格之后，中国企业出海拼什么？](https://mp.weixin.qq.com/s/XLIcr4AQMYoeWs1E0kyYBg) | 财经杂志 | IP |
 | 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 3 | [Kling 4.0 - 面向高产内容创作者的快速且经济实惠的AI视频服务](https://www.producthunt.com/r/PD452OUFK3N4VN) | www.producthunt.com | AI/IP |
-| 4 | [中考落榜后，一个00后农村男孩凭技能逆袭世界冠军](https://mp.weixin.qq.com/s/VKeh9NbG6-xOrcJPVLYHgw) | 三联生活周刊 | 回乡/情感 |
-| 5 | [县城父母，开始给子女「断供」了](https://mp.weixin.qq.com/s/S2WPMK95rIw_bc91Mqq07w) | 人物 | 回乡 |
+| 3 | [[吐槽] 中文互联网最好笑的事情之一是和某个西方人不是朋友，非要用名字而不是姓称呼对方，比如把 Amodei 说成 Dario，把 Sutskever 说成 Ilya。而且几乎人人这样说，包括有海外经验的播客博主。也是服了](https://www.v2ex.com/t/1250784) | V2EX (创意工作者社区) | IP |
+| 4 | [我用 WorkBuddy + ima 把公众号文章做成了知识库。](https://juejin.cn/post/7698208410021527594) | juejin | IP |
+| 5 | [网红兼电子游戏创作者曼努埃尔·奥托在一场骇人的直播中自焚身亡 - New York Post](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFdDdUtmMmdkX3FzMjYwbnhzc1M2X0lZR3dQaEN2VmJhaHJjdU1nSzIyZk9KaGtWUnFwMmNEMmRUMm5GTklEZnd3M01TSXVNbVV1YVZhN2hCNlJtRVk2TWxYRm1reGQ5VGVIVTJVbklma0E1VzE3WkFCdXF2NlJGNGlnN2NVMDBjVkZSSExPb3Q0b2VGUnRUdzFSaVpleFZBT1ZrZnM3amx2QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
+
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -64,13 +66,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [探索副业五个月，最终以放弃告终](https://juejin.cn/post/7698569506813394959) | juejin | 变现 |
-| 2 | [VR、XR、MR 的 2026，谁在真正赚钱？](https://www.36kr.com/p/4034920386614406) | 36氪 · 24小时热榜 | 变现 |
-| 3 | [梁文锋把赚钱的秘密开源了](https://www.36kr.com/p/4035275515598721) | 36氪 · 24小时热榜 | 变现 |
-| 4 | [马斯克画饼「全民高收入」，AI干了我的活，还能给我分钱？](https://www.36kr.com/p/4035092270125958) | 36氪 · 24小时热榜 | AI/变现 |
-| 5 | [谷歌 CEO 桑达尔 · 皮查伊：公司正牺牲云业务短期收入支持前沿 AI 研发，2027 年算力难以锁定](https://www.ithome.com/1/016/137.htm) | IT之家 (ITHome) | AI/变现 |
+| 1 | [字节最赚钱的AI，竟然不是豆包？](https://mp.weixin.qq.com/s/ZvT6iOHcVuzEKzLShWuUHQ) | 人人都是产品经理 | AI/变现 |
+| 2 | [AI漫剧越做越快，赚钱却没那么容易了](https://mp.weixin.qq.com/s/-VQKeYR5Utsx9AY9d-NPMg) | 极客公园 | AI/变现 |
+| 3 | [马斯克画饼「全民高收入」，AI干了我的活，还能给我分钱？](https://mp.weixin.qq.com/s/tABltaVjdozqWkX6PoOsBQ) | APPSO | AI/变现 |
+| 4 | [VR、XR、MR 的 2026，谁在真正赚钱？](https://www.36kr.com/p/4034920386614406) | 36氪 · 24小时热榜 | 变现 |
+| 5 | [梁文锋把赚钱的秘密开源了](https://www.36kr.com/p/4035275515598721) | 36氪 · 24小时热榜 | 变现 |
 
-> 共 7 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -82,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-21T19:42:13.763Z
-- **总资讯数**：4416 条原始 → 773 条筛选后
+- **聚合时间**：2026-10-21T22:49:35.255Z
+- **总资讯数**：4445 条原始 → 786 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
