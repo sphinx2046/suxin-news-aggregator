@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [我数了 647 条大厂前端 JD：AI 不再只是加分项](https://juejin.cn/post/7698254253442793507) | juejin | AI |
-| 2 | [调用量霸榜12天！神秘兔子真身是MiniMax，新模型成本降70%](https://juejin.cn/post/7698568843102617626) | juejin | AI |
-| 3 | [潜伏 20 年没人能利用的 PHP 漏洞，AI 一周做成了武器](https://juejin.cn/post/7698999578180075547) | juejin | AI |
-| 4 | [从"性价比之王"到"贵到离谱"：DeepSeek API 涨价背后的模型经济学](https://juejin.cn/post/7673690348011388964) | juejin | AI |
-| 5 | [在职前端Leader学习/转行 AI Agent -DAY81](https://juejin.cn/post/7698227087581134848) | juejin | AI |
+| 1 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
+| 2 | [Gemini 4 Argon（高）：智能、性能和价格分析 / Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
+| 3 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
+| 4 | [Functional Ultrasound Imaging from Scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) | Hacker News | 人文 |
+| 5 | [双子座 4 氩 / Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Java AI框架选型指南](https://juejin.cn/post/7698620283800404002) | juejin | AI |
-| 2 | [2026 Web 技术选型指南，AI 时代如何选择适合项目的技术栈](https://juejin.cn/post/7698546640890986496) | juejin | AI |
-| 3 | [从零手搓 AI 伴侣：Java + 大模型 + 多模态的工程化踩坑实录](https://juejin.cn/post/7698306160449208355) | juejin | AI |
-| 4 | [Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown) | TechCrunch | AI |
-| 5 | [Meta wants to pay for its broad AI buildout with a newly created class of stock](https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock) | TechCrunch | AI |
+| 1 | [Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown) | TechCrunch | AI |
+| 2 | [Meta 希望通过新创建的股票类别来支付其广泛的人工智能建设费用 / Meta wants to pay for its broad AI buildout with a newly created class of stock](https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock) | TechCrunch | AI |
+| 3 | [我让 Google Keep 中的 Gemini 为我创建清单；它加快了我的日常工作流程 / I let Gemini in Google Keep create checklists for me; it sped up my daily workflow](https://www.androidpolice.com/gemini-in-google-keep-create-checklists-sped-up-daily-workflow) | Android Police | AI |
+| 4 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [两个 WorkBuddy 客户端总被“合并”解决方法](https://juejin.cn/post/7697162867455688719) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 14 条，以上为 TOP 5。
+> 共 15 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！](https://juejin.cn/post/7698283872392757286) | juejin | AI |
-| 2 | [预算 1000 美金的开源软件，DeepSeek 只花 1 美金就做完了（Day 6）](https://juejin.cn/post/7698512689525538825) | juejin | AI |
-| 3 | [开源项目第242期：HyperFrames —— 写 HTML 就能渲染视频，专为 AI Agent 设计的确定性视频框架](https://juejin.cn/post/7698552541928194063) | juejin | AI |
-| 4 | [Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation](https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation) | TechCrunch | AI |
-| 5 | [Recursive launches Flint, a laptop coding model it says was largely built by AI](https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai) | TechCrunch | AI |
+| 1 | [据报道 DeepSeek 在美国限制几天后筹集了 150 亿美元 / DeepSeek reportedly raises $15B days after US restrictions](https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions) | TechCrunch | AI |
+| 2 | [Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation](https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation) | TechCrunch | AI |
+| 3 | [Recursive launches Flint, a laptop coding model it says was largely built by AI](https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai) | TechCrunch | AI |
+| 4 | [来认识一下 Claude Duet，它是旨在减轻您工作量的最新 AI 代理 / Meet Claude Duet, the latest AI agent intended to lighten your workload](https://mashable.com/tech/anthropic-claude-duet-announced) | Mashable | AI |
+| 5 | [Hugging Face 发布 Carbon-X，这是一个解决 DNA 问题的人工智能模型 / Hugging Face releases Carbon-X, an AI model for questions about DNA](https://thenextweb.com/news/hugging-face-carbon-x-dna-ai-model) | The Next Web | AI |
 
-> 共 52 条，以上为 TOP 5。
+> 共 54 条，以上为 TOP 5。
 
 ---
 
@@ -52,13 +52,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [我用 WorkBuddy + ima 把公众号文章做成了知识库。](https://juejin.cn/post/7698208410021527594) | juejin | IP |
-| 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 3 | [欧洲日益空化的乡村如何助长了新一轮野火危机](https://reut.rs/3WpaVZX) | reut.rs | 回乡 |
-| 4 | [爆款、流量、价格之后，中国企业出海拼什么？](https://mp.weixin.qq.com/s/XLIcr4AQMYoeWs1E0kyYBg) | 财经杂志 | IP |
-| 5 | [第一批返乡创业的中产，已经“旺铺招租”了？](https://www.huxiu.com/article/4899142.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 2 | [[推广] 做了个用一张照片生成 Window Peeper 风格短视频的小工具，想听听大家的意见](https://www.v2ex.com/t/1251066) | V2EX (创意工作者社区) | IP |
+| 3 | [[推广] 晚间福利掉落，免费送家宽住宅 IP 流量，可当落地， AI](https://www.v2ex.com/t/1251050) | V2EX (创意工作者社区) | AI/IP |
+| 4 | [333个Tor出口节点被劫持，用于拦截SSH流量并获取明文电子邮件](https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email) | arstechnica.com | IP |
+| 5 | [短剧“变天”，微信绿泡泡挟流量入局，红果告别“看剧赚金币”](https://www.huxiu.com/article/4899671.html?f=rss) | 虎嗅 (Huxiu) | IP |
 
-> 共 6 条，以上为 TOP 5。
+> 共 9 条，以上为 TOP 5。
 
 ---
 
@@ -66,13 +66,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [探索副业五个月，最终以放弃告终](https://juejin.cn/post/7698569506813394959) | juejin | 变现 |
-| 2 | [小程序能收款了，对公户还没开？独立开发者的交付闭环踩坑②](https://juejin.cn/post/7698268211587350554) | juejin | 变现 |
-| 3 | [梁文锋把赚钱的秘密开源了](https://www.36kr.com/p/4035275515598721) | 36氪 · 24小时热榜 | 变现 |
-| 4 | [每100元收入有22元来自养老金，天津是一座退休金之城吗？](https://www.huxiu.com/article/4899581.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 5 | [米其林，到底藏了多少副业？](https://www.huxiu.com/article/4898197.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 1 | [小程序能收款了，对公户还没开？独立开发者的交付闭环踩坑②](https://juejin.cn/post/7698268211587350554) | juejin | 变现 |
+| 2 | [IBM股价下跌，因季度咨询收入未达预期](https://www.bloomberg.com/news/articles/2026-10-21/ibm-posts-5-sales-growth-says-infrastructure-deals-came-back) | www.bloomberg.com | 变现 |
+| 3 | [德国财政部称税收收入无财政回旋余地](https://www.bloomberg.com/news/articles/2026-10-22/german-finance-ministry-says-no-fiscal-leeway-with-tax-revenue) | www.bloomberg.com | 变现 |
+| 4 | [AI艺人扎堆出道，赚钱的却没几个？](https://www.huxiu.com/article/4899700.html?f=rss) | 虎嗅 (Huxiu) | AI/变现 |
+| 5 | [收入快速增长，MiniMax却破发了？](https://www.huxiu.com/article/4899672.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
 
-> 共 9 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-22T08:57:32.214Z
-- **总资讯数**：4513 条原始 → 781 条筛选后
+- **聚合时间**：2026-10-22T14:43:06.431Z
+- **总资讯数**：4606 条原始 → 806 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
