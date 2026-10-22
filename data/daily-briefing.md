@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [奥特曼曝出SI三大终局！最强AI只剩一家，否则熔掉全世界GPU](https://aiera.com.cn/asi-post.html?id=120014) | 新智元 | AI |
-| 2 | [刚刚，Claude首次设计出抗蝎毒蛋白！狂算64小时，已过实测](https://aiera.com.cn/asi-post.html?id=119995) | 新智元 | AI |
-| 3 | [哈佛重磅研究：AI凭人脸照片，就能预测癌症患者死亡风险！](https://aiera.com.cn/asi-post.html?id=119963) | 新智元 | AI |
-| 4 | [自进化AI「杀」进物理世界！王者峡谷屠神，从0打到全胜](https://aiera.com.cn/asi-post.html?id=119947) | 新智元 | AI |
-| 5 | [走向超级智能体，AI还需要主动性：UIUC、谷歌等联合综述](https://aiera.com.cn/asi-post.html?id=119920) | 新智元 | AI |
+| 1 | [我数了 647 条大厂前端 JD：AI 不再只是加分项](https://juejin.cn/post/7698254253442793507) | juejin | AI |
+| 2 | [调用量霸榜12天！神秘兔子真身是MiniMax，新模型成本降70%](https://juejin.cn/post/7698568843102617626) | juejin | AI |
+| 3 | [潜伏 20 年没人能利用的 PHP 漏洞，AI 一周做成了武器](https://juejin.cn/post/7698999578180075547) | juejin | AI |
+| 4 | [从"性价比之王"到"贵到离谱"：DeepSeek API 涨价背后的模型经济学](https://juejin.cn/post/7673690348011388964) | juejin | AI |
+| 5 | [在职前端Leader学习/转行 AI Agent -DAY81](https://juejin.cn/post/7698227087581134848) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown) | TechCrunch | AI |
-| 2 | [Meta wants to pay for its broad AI buildout with a newly created class of stock](https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock) | TechCrunch | AI |
-| 3 | [我让 Google Keep 中的 Gemini 为我创建清单；它加快了我的日常工作流程 / I let Gemini in Google Keep create checklists for me; it sped up my daily workflow](https://www.androidpolice.com/gemini-in-google-keep-create-checklists-sped-up-daily-workflow) | Android Police | AI |
-| 4 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [两个 WorkBuddy 客户端总被“合并”解决方法](https://juejin.cn/post/7697162867455688719) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [Java AI框架选型指南](https://juejin.cn/post/7698620283800404002) | juejin | AI |
+| 2 | [2026 Web 技术选型指南，AI 时代如何选择适合项目的技术栈](https://juejin.cn/post/7698546640890986496) | juejin | AI |
+| 3 | [从零手搓 AI 伴侣：Java + 大模型 + 多模态的工程化踩坑实录](https://juejin.cn/post/7698306160449208355) | juejin | AI |
+| 4 | [Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown) | TechCrunch | AI |
+| 5 | [Meta wants to pay for its broad AI buildout with a newly created class of stock](https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock) | TechCrunch | AI |
 
-> 共 10 条，以上为 TOP 5。
+> 共 14 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [上市前夕估值被砍5000亿美元！Anthropic最新招股书曝上半年...](https://mp.weixin.qq.com/s/fpifjifWMK2kPTdoSMOS_Q) | AI前线 | AI |
-| 2 | [Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation](https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation) | TechCrunch | AI |
-| 3 | [Recursive launches Flint, a laptop coding model it says was largely built by AI](https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai) | TechCrunch | AI |
-| 4 | [合法人工智能初创公司 Legora 以 8.8B 美元估值筹集 5.5 亿美元 E 轮融资 / Legal AI startup Legora raises $550M Series E at $8.8B valuation](https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation) | TechCrunch | AI |
-| 5 | [Photon Bridge 融资 1000 万欧元，用于大规模生产用于 AI 数据中心的激光器 / Photon Bridge raises €10M to mass-produce lasers for AI data centres](https://thenextweb.com/news/photon-bridge-10m-ai-data-centre-lasers) | The Next Web | AI |
+| 1 | [太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！](https://juejin.cn/post/7698283872392757286) | juejin | AI |
+| 2 | [预算 1000 美金的开源软件，DeepSeek 只花 1 美金就做完了（Day 6）](https://juejin.cn/post/7698512689525538825) | juejin | AI |
+| 3 | [开源项目第242期：HyperFrames —— 写 HTML 就能渲染视频，专为 AI Agent 设计的确定性视频框架](https://juejin.cn/post/7698552541928194063) | juejin | AI |
+| 4 | [Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation](https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation) | TechCrunch | AI |
+| 5 | [Recursive launches Flint, a laptop coding model it says was largely built by AI](https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai) | TechCrunch | AI |
 
-> 共 60 条，以上为 TOP 5。
+> 共 52 条，以上为 TOP 5。
 
 ---
 
@@ -52,13 +52,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [爆款、流量、价格之后，中国企业出海拼什么？](https://mp.weixin.qq.com/s/XLIcr4AQMYoeWs1E0kyYBg) | 财经杂志 | IP |
-| 3 | [我用 WorkBuddy + ima 把公众号文章做成了知识库。](https://juejin.cn/post/7698208410021527594) | juejin | IP |
-| 4 | [[分享创造] AWS Lightsail 全球多区域共享流量监控与自动停机部署手册](https://www.v2ex.com/t/1250791) | V2EX (创意工作者社区) | IP |
+| 1 | [我用 WorkBuddy + ima 把公众号文章做成了知识库。](https://juejin.cn/post/7698208410021527594) | juejin | IP |
+| 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 3 | [欧洲日益空化的乡村如何助长了新一轮野火危机](https://reut.rs/3WpaVZX) | reut.rs | 回乡 |
+| 4 | [爆款、流量、价格之后，中国企业出海拼什么？](https://mp.weixin.qq.com/s/XLIcr4AQMYoeWs1E0kyYBg) | 财经杂志 | IP |
 | 5 | [第一批返乡创业的中产，已经“旺铺招租”了？](https://www.huxiu.com/article/4899142.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
 
-> 共 9 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -66,13 +66,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [VR、XR、MR 的 2026，谁在真正赚钱？](https://www.36kr.com/p/4034920386614406) | 36氪 · 24小时热榜 | 变现 |
-| 2 | [梁文锋把赚钱的秘密开源了](https://www.36kr.com/p/4035275515598721) | 36氪 · 24小时热榜 | 变现 |
-| 3 | [探索副业五个月，最终以放弃告终](https://juejin.cn/post/7698569506813394959) | juejin | 变现 |
-| 4 | [字节最赚钱的AI，竟然不是豆包？](https://mp.weixin.qq.com/s/ZvT6iOHcVuzEKzLShWuUHQ) | 人人都是产品经理 | AI/变现 |
-| 5 | [AI漫剧越做越快，赚钱却没那么容易了](https://mp.weixin.qq.com/s/-VQKeYR5Utsx9AY9d-NPMg) | 极客公园 | AI/变现 |
+| 1 | [探索副业五个月，最终以放弃告终](https://juejin.cn/post/7698569506813394959) | juejin | 变现 |
+| 2 | [小程序能收款了，对公户还没开？独立开发者的交付闭环踩坑②](https://juejin.cn/post/7698268211587350554) | juejin | 变现 |
+| 3 | [梁文锋把赚钱的秘密开源了](https://www.36kr.com/p/4035275515598721) | 36氪 · 24小时热榜 | 变现 |
+| 4 | [每100元收入有22元来自养老金，天津是一座退休金之城吗？](https://www.huxiu.com/article/4899581.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 5 | [米其林，到底藏了多少副业？](https://www.huxiu.com/article/4898197.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
 
-> 共 7 条，以上为 TOP 5。
+> 共 9 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-22T02:02:58.406Z
-- **总资讯数**：4473 条原始 → 778 条筛选后
+- **聚合时间**：2026-10-22T08:57:32.214Z
+- **总资讯数**：4513 条原始 → 781 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
