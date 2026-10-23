@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [世界模型在游戏社交中找到商业化场景？赤子城 x Viggle合作落地3D小游戏](https://aiera.com.cn/asi-post.html?id=120198) | 新智元 | AI |
-| 2 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
-| 3 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
-| 4 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
-| 5 | [Functional Ultrasound Imaging from Scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) | Hacker News | 人文 |
+| 1 | [You can’t eliminate uncertainty — but you can prevent it from paralyzing you](https://bigthink.com/books/safer-book) | Big Think | 其他 |
+| 2 | [Codex 定价：Pro 有无限制的 5.6 使用 / Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
+| 3 | [Gemini 4 Argon（高）：智能、性能和价格分析 / Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
+| 4 | [Anthropic 的 IPO 招股说明书真是太疯狂了 / Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
+| 5 | [从头开始功能性超声成像 / Functional Ultrasound Imaging from Scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) | Hacker News | 人文 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -27,10 +27,10 @@
 | 1 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
 | 2 | [两个 WorkBuddy 客户端总被“合并”解决方法](https://juejin.cn/post/7697162867455688719) | 掘金 · 人工智能本周最热 | AI |
 | 3 | [刷短剧上头后，我用5090和ComfyUI部署MiniMax H3](https://juejin.cn/post/7697865664233947190) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [Java AI框架选型指南](https://juejin.cn/post/7698620283800404002) | juejin | AI |
-| 5 | [2026 Web 技术选型指南，AI 时代如何选择适合项目的技术栈](https://juejin.cn/post/7698546640890986496) | juejin | AI |
+| 4 | [从零手搓 AI 伴侣：Java + 大模型 + 多模态的工程化踩坑实录](https://juejin.cn/post/7698306160449208355) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [Java AI框架选型指南](https://juejin.cn/post/7698620283800404002) | juejin | AI |
 
-> 共 9 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [1Password launches a way for AI agents to log in on your behalf without seeing your password](https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password) | TechCrunch | AI |
-| 2 | [Former OpenAI science lead launches Warp Science to automate wet labs with robots](https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots) | TechCrunch | AI |
-| 3 | [Nvidia launches Minerva to catch failing parts in giant AI data centres](https://thenextweb.com/news/nvidia-minerva-aiops-ai-factory-monitoring) | The Next Web | AI |
-| 4 | [Ex-OpenAI science head Kevin Weil launches Warp Sciences with $215M](https://thenextweb.com/news/warp-sciences-kevin-weil-215m-ai-drug-lab) | The Next Web | AI |
-| 5 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
+| 1 | [OpenAI 致力于在 IPO 前以 1.25T 美元的估值进行新的 30B 美元融资 / OpenAI working on new $30B raise at $1.25T valuation ahead of IPO](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo) | TechCrunch | AI |
+| 2 | [1Password 推出了一种让 AI 代理代表您登录而无需查看您的密码的方法 / 1Password launches a way for AI agents to log in on your behalf without seeing your password](https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password) | TechCrunch | AI |
+| 3 | [前 OpenAI 科学负责人推出 Warp Science，利用机器人实现湿实验室自动化 / Former OpenAI science lead launches Warp Science to automate wet labs with robots](https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots) | TechCrunch | AI |
+| 4 | [Recursive 发布了 Flint，这是一种主要由其自己的 AI 构建的笔记本电脑编码模型 / Recursive releases Flint, a laptop coding model largely built by its own AI](https://thenextweb.com/news/recursive-flint-local-coding-model-eureka-machine) | The Next Web | AI |
+| 5 | [Eka Robotics 融资 1.5 亿美元，用于教机器人凭感觉抓握 / Eka Robotics raises $150M to teach robots to grip by feel](https://thenextweb.com/news/eka-robotics-150m-series-a-vision-force-robots) | The Next Web | AI |
 
-> 共 57 条，以上为 TOP 5。
+> 共 67 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,9 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [诋毁嘲讽尊界 S800，博主“赛车星冰乐”向尊界汽车道歉](https://www.ithome.com/1/017/086.htm) | IT之家 (ITHome) | IP |
-| 3 | [[推广] 用两张单人照生成亲吻图片或短视频 - 可免费试用](https://www.v2ex.com/t/1251301) | V2EX (创意工作者社区) | IP |
-| 4 | [[推广] 周五动态住宅 ip 流量，免费试用！](https://www.v2ex.com/t/1251286) | V2EX (创意工作者社区) | IP |
-| 5 | [印度知名财经博主自杀后，一名YouTube博主被捕](https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | IP |
-
-> 共 7 条，以上为 TOP 5。
+| 2 | [用 TRAE 把 Markdown文档 搬到微信公众号](https://juejin.cn/post/7699372774716997642) | juejin | IP |
+| 3 | [成本和流量压力之下，大厂又开始自建MCN了](https://www.huxiu.com/article/4899970.html?f=rss) | 虎嗅 (Huxiu) | IP/情感 |
+| 4 | [克里姆林宫表示，俄罗斯并未以释放美国公民斯蒂芬·哈伯德作为交换条件，以换取一名俄罗斯战争博主的自由](https://www.reuters.com/world/europe/kremlin-says-russia-did-not-free-us-citizen-stephen-hubbard-exchange-russian-war-2026-10-23) | www.reuters.com | IP |
 
 ---
 
@@ -66,13 +63,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [中国1-9月财政收入同比增长5.1%](https://www.reuters.com/world/asia-pacific/chinas-january-september-fiscal-revenue-up-51-yy-2026-10-23) | www.reuters.com | 变现 |
-| 2 | [副业搞钱之代办永不过时](https://juejin.cn/post/7699487378045730852) | juejin | 变现 |
-| 3 | [小程序能收款了，对公户还没开？独立开发者的交付闭环踩坑②](https://juejin.cn/post/7698268211587350554) | juejin | 变现 |
-| 4 | [[独立开发] 全栈/独立开发者看过来，进群一起聊副业和产品](https://www.v2ex.com/t/1251284) | V2EX (创意工作者社区) | 变现 |
-| 5 | [和辉光电 2026Q3 营业收入同比下降 19.82%，亏损 4.96 亿元](https://www.ithome.com/1/016/878.htm) | IT之家 (ITHome) | 变现 |
+| 1 | [副业搞钱之代办永不过时](https://juejin.cn/post/7699487378045730852) | juejin | 变现 |
+| 2 | [硅谷最赚钱的VC，也裁员了](https://www.huxiu.com/article/4900028.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 3 | [从一通客服电话，看招行的赚钱能力从哪里来](https://mp.weixin.qq.com/s/bYHjZdm1L1TiJd8t4sdScg) | 辉哥奇谭 | 变现 |
+| 4 | [梁文锋把赚钱的秘密开源了](https://mp.weixin.qq.com/s/Yeq0ccqsUYBr-AqRPG3Tbw) | 36氪 | 变现 |
+| 5 | [在旧金山，年收入32.5万美元的家庭有资格获得政府援助](https://www.nytimes.com/2026/10/21/us/san-francisco-cost-living-affordable-housing.html?smid=nytcore-ios-share) | www.nytimes.com | 变现/情感 |
 
-> 共 10 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-23T08:52:31.715Z
-- **总资讯数**：4502 条原始 → 717 条筛选后
+- **聚合时间**：2026-10-23T14:29:38.548Z
+- **总资讯数**：4449 条原始 → 720 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
