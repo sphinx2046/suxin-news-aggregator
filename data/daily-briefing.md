@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Anthropic首发公益报告，自曝「人类拯救计划」！](https://aiera.com.cn/asi-post.html?id=120360) | 新智元 | AI |
-| 2 | [Claude狂写1.8亿行证明！万亿次测试漏掉的Bug，被AI一锅端](https://aiera.com.cn/asi-post.html?id=120295) | 新智元 | AI |
-| 3 | [Transformer宗师空降中国！行业首个Pro Agent来了，中国队率先出手](https://aiera.com.cn/asi-post.html?id=120212) | 新智元 | AI |
-| 4 | [实时视频AI第一份公开成绩单出炉！最高才15分，37个模型全军覆没](https://mp.weixin.qq.com/s/F_4xsHTW9kXW-TvBsySEYg) | 夕小瑶科技说 | AI |
-| 5 | [Claude狂写1.8亿行证明，挖出数百个bug](https://mp.weixin.qq.com/s/654MiHO20vJjofZhOl5bMw) | 夕小瑶科技说 | AI |
+| 1 | [与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长](https://sspai.com/post/116585) | sspai | 认知 |
+| 2 | [让读书笔记不再吃灰：我做了一款跨平台书摘管理工具](https://sspai.com/post/115688) | sspai | 认知 |
+| 3 | [从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole](https://sspai.com/post/113843) | sspai | 其他 |
+| 4 | [扔掉的是杂念，掌控的是生活：我的断舍离实践经验](https://sspai.com/post/115209) | sspai | 情感 |
+| 5 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [100万道实战题，还得防AI作弊！320B国产基模技术细节揭秘](https://aiera.com.cn/asi-post.html?id=120247) | 新智元 | AI |
-| 2 | [Java AI框架选型指南](https://juejin.cn/post/7698620283800404002) | juejin | AI |
-| 3 | [多智能体编排：拆分、隔离与收敛的完整实战](https://juejin.cn/post/7698625451761631268) | juejin | AI |
-| 4 | [本地大模型微调与 GGUF 部署全指南](https://juejin.cn/post/7698567279269199906) | juejin | AI |
-| 5 | [Unitree is building AI that lets its humanoid robots improve themselves](https://thenextweb.com/news/unitree-rehearsal-self-improving-robots-2028-breakthrough) | The Next Web | AI |
+| 1 | [Unitree is building AI that lets its humanoid robots improve themselves](https://thenextweb.com/news/unitree-rehearsal-self-improving-robots-2028-breakthrough) | The Next Web | AI |
+| 2 | [我用 REA 逆向了付费颜色 APP，结果很意外！](https://juejin.cn/post/7696894428150300682) | 掘金 · 人工智能本周最热 | AI |
+| 3 | [两个 WorkBuddy 客户端总被“合并”解决方法](https://juejin.cn/post/7697162867455688719) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [刷短剧上头后，我用5090和ComfyUI部署MiniMax H3](https://juejin.cn/post/7697865664233947190) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [100万道实战题，还得防AI作弊！320B国产基模技术细节揭秘](https://aiera.com.cn/asi-post.html?id=120247) | 新智元 | AI |
 
-> 共 11 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [刚刚，全球互联网已被AI攻陷！史上最黑暗48小时来了](https://aiera.com.cn/asi-post.html?id=120346) | 新智元 | AI |
-| 2 | [刚刚，Claude自动模式将全球上线！OpenAI曝出最恐怖一幕](https://aiera.com.cn/asi-post.html?id=120308) | 新智元 | AI |
-| 3 | [RSI两大里程碑发布！单人手搓千亿模型，英伟达大佬教「保命」法则](https://aiera.com.cn/asi-post.html?id=120232) | 新智元 | AI |
-| 4 | [又一国产决策模型发布：面向企业高频判断任务，23项开源基测准确...](https://mp.weixin.qq.com/s/hKlZY8kkr3w2lCV3EYEJ3w) | AI前线 | AI |
-| 5 | [React 正式登场！GenUI SDK v1.4.0 三框架渲染、出码与 Agent 生态重磅升级~](https://juejin.cn/post/7698677378389835812) | juejin | AI |
+| 1 | [Recursive releases Flint, a laptop coding model largely built by its own AI](https://thenextweb.com/news/recursive-flint-local-coding-model-eureka-machine) | The Next Web | AI |
+| 2 | [Eka Robotics raises $150M to teach robots to grip by feel](https://thenextweb.com/news/eka-robotics-150m-series-a-vision-force-robots) | The Next Web | AI |
+| 3 | [Utopai 是一家人工智能电影工作室，自称有 20 多个项目正在进行中，以 10 亿美元的估值筹集了 6000 万美元（Rocket Drew/The Information） / Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation (Rocket Drew/The Information)](https://www.techmeme.com/261023/p24) | Techmeme | AI |
+| 4 | [Mave 正在开发一种人工智能驱动的工具来自动化安全调查，并筹集了由红点领投的 2800 万美元 A 轮融资，使其总资金达到 3400 万美元（Meir Orbach/CTech） / Mave, which is developing an AI-driven tool to automate security investigations, raised a $28M Series A led by Red Dot, bringing its total funding to $34M (Meir Orbach/CTech)](https://www.techmeme.com/261023/p22) | Techmeme | AI |
+| 5 | [假 Drakes 和假 Kanyes：互联网突然充斥着人工智能生成的嘻哈音乐 / Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop](https://www.buzzfeed.com/chrisstokelwalker/ai-hip-hop-rap-music-drake-kanye-weeknd-rihanna-jay-z) | BuzzFeed News | AI |
 
-> 共 51 条，以上为 TOP 5。
+> 共 59 条，以上为 TOP 5。
 
 ---
 
@@ -52,11 +52,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [用 TRAE 把 Markdown文档 搬到微信公众号](https://juejin.cn/post/7699372774716997642) | juejin | IP |
-| 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 3 | [一位网红兼游戏创作者在直播中遭遇据称骇人听闻的事件后，年仅30岁便不幸离世 - Bored Panda](https://news.google.com/rss/articles/CBMingFBVV95cUxOYW50WHp2cTQ3UGRPMm9hQ2U1LVNjVEQ1eTZLTXpNbFZnVVh5R3YyWkM1MHhTeGJrLUJGRmc5ZDlwRUJORXZRZDkwQnRGLXJVZGdyejBhQ1hJU1o5eWxEcWJNOHZScFA1N2J2SDJXQnFid1VkOVNKc1ZEMWxYdTdILUNiTWRjRzYxSk9HRGFJOExDalZoX3NQLVozelZ4QQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 4 | [《Stick Run》制作人曼努埃尔·奥托在直播中自焚身亡，其粉丝们向这位游戏“传奇”致敬 - New York Post](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcDQ0UnF1eG1kMV9vNnJCT1RSLXJfWjdtenhQTDF0enlKYW5SdTcwOG4tZnVpclZaNGxzR2NPZng0bmlFeW9zYWtFSVV4ZjZrWmJlS2tlWnZWOVdqYndkWVY5LW1JVkN3dE9OSFpnS0haQ2hycy12eGw1TW5ZM3oydHEwRnZFRUNROGpPbVVXNnI2QklTMnUwMW9Yb25MeVhrcmFMTzM2UC11RDg2UXlyazBFVmlRVUxNNlNrWHpHUVAxbk9NTGFtZ3NlOW0zcXd5ZFdvMEc4OHRCTHFDYU1ULXFWdXZ4R3VY?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 5 | [IT早报 1024：月之暗面发布 Kimi K3.1 Pro；诋毁嘲讽尊界 S800 自媒体博主向尊界道歉；华为 Pura90 Plus 开启预订；iPhone Duo 内屏膜撕下秒变亮面屏...](https://www.ithome.com/1/017/291.htm) | IT之家 (ITHome) | IP |
+| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 2 | [[VPS] [收] 老款诺联 NovixLink LAS-COX lite/Basic（2TB/4TB 流量）](https://www.v2ex.com/t/1251494) | V2EX (创意工作者社区) | IP |
+| 3 | [用 TRAE 把 Markdown文档 搬到微信公众号](https://juejin.cn/post/7699372774716997642) | juejin | IP |
+| 4 | [乡村音乐与牛仔帽：巴西向右转](https://www.ft.com/content/40a3e26b-a4ca-40f3-ae06-2d1ec7346134?syn-25a6b1a6=1) | www.ft.com | 回乡 |
+| 5 | [[推广] 10.24 程序员节， Zooproxy 免费送落地家宽住宅 IP 流量快来领取吧](https://www.v2ex.com/t/1251440) | V2EX (创意工作者社区) | IP |
 
 > 共 9 条，以上为 TOP 5。
 
@@ -66,7 +66,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [副业搞钱之代办永不过时](https://juejin.cn/post/7699487378045730852) | juejin | 变现 |
+| 1 | [DeepSeek 披露单 GPU 每小时可创造 38 美元计费收入，AI 推理盈利能力引发关注](https://www.theblockbeats.info/flash/373499) | Readhub · AI | AI/变现 |
+| 2 | [AI 短剧的桎梏：用户时长拉满了，但为什么就是不赚钱？](https://wallstreetcn.com/member/articles/3784285) | Readhub · AI | AI/变现 |
+| 3 | [副业搞钱之代办永不过时](https://juejin.cn/post/7699487378045730852) | juejin | 变现 |
 
 ---
 
@@ -78,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-24T02:06:09.514Z
-- **总资讯数**：4316 条原始 → 681 条筛选后
+- **聚合时间**：2026-10-24T08:26:34.009Z
+- **总资讯数**：4351 条原始 → 709 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
