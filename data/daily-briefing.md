@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长](https://sspai.com/post/116585) | sspai | 认知 |
-| 2 | [让读书笔记不再吃灰：我做了一款跨平台书摘管理工具](https://sspai.com/post/115688) | sspai | 认知 |
-| 3 | [从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole](https://sspai.com/post/113843) | sspai | 其他 |
-| 4 | [扔掉的是杂念，掌控的是生活：我的断舍离实践经验](https://sspai.com/post/115209) | sspai | 情感 |
-| 5 | [怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？](https://sspai.com/post/115107) | sspai | 情感 |
+| 1 | [Agent的长期记忆要怎么做？RAG是不是最好的选择？(4/12)](https://mp.weixin.qq.com/s/IiOPrsmLetMhez5haRvNQA) | 架构师之路 | AI |
+| 2 | [造成50人以上死伤才能叫停AI模型?Anthropic私下推动监管草案惹众...](https://mp.weixin.qq.com/s/7pqR76N7m7J4DdlUAKN0Mw) | AI前线 | AI |
+| 3 | [九成具身智能公司在东部沿海，长沙抢走了另一样东西](https://mp.weixin.qq.com/s/VlMZAfSka_4QEvvcueLhxg) | AI前线 | AI |
+| 4 | [企业有需求，FDE团队有能力，为什么AI项目仍难落地?](https://mp.weixin.qq.com/s/4SXm0WUVbesf_wwLFNtLFg) | AI前线 | AI |
+| 5 | [超万亿元存款“大迁徙”，为何资金涌向保险?](https://mp.weixin.qq.com/s/DBr2V9CNJwJtKmI3tdouQw) | 财经杂志 | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Unitree is building AI that lets its humanoid robots improve themselves](https://thenextweb.com/news/unitree-rehearsal-self-improving-robots-2028-breakthrough) | The Next Web | AI |
-| 2 | [刷短剧上头后，我用5090和ComfyUI部署MiniMax H3](https://juejin.cn/post/7697865664233947190) | 掘金 · 人工智能本周最热 | AI |
-| 3 | [研究人员通过 DNS 数据库发现数千个公开的 Muse 聊天记录分享链接，Meta 已修复](https://www.ithome.com/1/017/517.htm) | Readhub · AI | AI |
-| 4 | [前端转Agent开发 | JavaScript 从 0 到 1 完全指南](https://juejin.cn/post/7699025957739397163) | juejin | AI |
-| 5 | [[程序员] 分享 Vibe Coding 作品： AI Vault，多 Agent 技能管理工具+llama.cpp 本地部署工具](https://www.v2ex.com/t/1251583) | V2EX (创意工作者社区) | AI |
+| 1 | [生产级大模型平台工程实战手册](https://mp.weixin.qq.com/s/sL8aHTQ4mHpP-Jt_m8IqiA) | InfoQ | AI |
+| 2 | [前端转Agent开发 | JavaScript 从 0 到 1 完全指南](https://juejin.cn/post/7699025957739397163) | juejin | AI |
+| 3 | [Unitree is building AI that lets its humanoid robots improve themselves](https://thenextweb.com/news/unitree-rehearsal-self-improving-robots-2028-breakthrough) | The Next Web | AI |
+| 4 | [刷短剧上头后，我用5090和ComfyUI部署MiniMax H3](https://juejin.cn/post/7697865664233947190) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [[分享发现] 谈谈我的每月 20 美元 AI 工具搭配策略：为什么我停掉了官方 Claude Pro 订阅](https://www.v2ex.com/t/1251587) | V2EX (创意工作者社区) | AI |
 
-> 共 10 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Block unveils Dessa, a "true speech-to-speech" AI model trained on "nothing but human conversation" that it says runs locally on a MacBook Pro M4 Max or better (Jay Peters/The Verge)](https://www.techmeme.com/261024/p5) | Techmeme | AI |
-| 2 | [Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation (Rocket Drew/The Information)](https://www.techmeme.com/261023/p24) | Techmeme | AI |
-| 3 | [Mave, which is developing an AI-driven tool to automate security investigations, raised a $28M Series A led by Red Dot, bringing its total funding to $34M (Meir Orbach/CTech)](https://www.techmeme.com/261023/p22) | Techmeme | AI |
-| 4 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
-| 5 | [太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！](https://juejin.cn/post/7698283872392757286) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [KimiK3.1Pro发布：多项测试超越GPT-6，最强开源模型回归](https://mp.weixin.qq.com/s/6e53kW-kGnqBfmtjye29DA) | DeepTech深科技 | AI |
+| 2 | [突发，Claude Code灵魂人物TharigShihipar宣布离职!](https://mp.weixin.qq.com/s/2mkO2QKRg_dRfVnxZKswlQ) | 新智元 | AI |
+| 3 | [Kimi K3.1 Pro发布，超GPT-6杀回前4/首部「龙标」AI电影上映/国办...](https://mp.weixin.qq.com/s/KF_P2UW-yExGtCH8ClDSPw) | APPSO | AI |
+| 4 | [多地回应网传家电国补即将停止，DeepSeek完成开源和海外授权使...](https://mp.weixin.qq.com/s/b_bqbNHhpomlA499_qcuCg) | 差评 | AI |
+| 5 | [Block unveils Dessa, a "true speech-to-speech" AI model trained on "nothing but human conversation" that it says runs locally on a MacBook Pro M4 Max or better (Jay Peters/The Verge)](https://www.techmeme.com/261024/p5) | Techmeme | AI |
 
-> 共 50 条，以上为 TOP 5。
+> 共 37 条，以上为 TOP 5。
 
 ---
 
@@ -52,10 +52,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 1 | [乡村兽医，修猫修狗](https://mp.weixin.qq.com/s/q2ws4Ug5sIfSHLV2XlkyGg) | 人物 | 回乡 |
 | 2 | [用 TRAE 把 Markdown文档 搬到微信公众号](https://juejin.cn/post/7699372774716997642) | juejin | IP |
-| 3 | [Show HN: Shotstash——面向创作者的自托管媒体云（MIT 许可，自带 AI）](https://github.com/Aldyernesto/shotstash) | github.com | AI/IP |
-| 4 | [乡村音乐与牛仔帽：巴西向右转](https://www.ft.com/content/40a3e26b-a4ca-40f3-ae06-2d1ec7346134?syn-25a6b1a6=1) | www.ft.com | 回乡 |
+| 3 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 4 | [Show HN: Shotstash——面向创作者的自托管媒体云（MIT 许可，自带 AI）](https://github.com/Aldyernesto/shotstash) | github.com | AI/IP |
+| 5 | [乡村音乐与牛仔帽：巴西向右转](https://www.ft.com/content/40a3e26b-a4ca-40f3-ae06-2d1ec7346134?syn-25a6b1a6=1) | www.ft.com | 回乡 |
 
 ---
 
@@ -73,8 +74,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-24T19:52:56.497Z
-- **总资讯数**：4207 条原始 → 656 条筛选后
+- **聚合时间**：2026-10-24T22:01:18.512Z
+- **总资讯数**：4141 条原始 → 612 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
