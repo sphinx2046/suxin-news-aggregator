@@ -24,11 +24,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [前端转Agent开发 | JavaScript 从 0 到 1 完全指南](https://juejin.cn/post/7699025957739397163) | juejin | AI |
-| 2 | [Claude Code 接入 Cloudflare 3.7万星安全审计 Skill：从全量烧钱到按需裁剪的实战方案](https://juejin.cn/post/7699654593328840745) | juejin | AI |
-| 3 | [Unitree is building AI that lets its humanoid robots improve themselves](https://thenextweb.com/news/unitree-rehearsal-self-improving-robots-2028-breakthrough) | The Next Web | AI |
-| 4 | [刷短剧上头后，我用5090和ComfyUI部署MiniMax H3](https://juejin.cn/post/7697865664233947190) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [Building Reasoning Models from the Ground Up: A Full Video Course](https://magazine.sebastianraschka.com/p/building-reasoning-models) | Readhub · AI | AI |
+| 1 | [Unitree is building AI that lets its humanoid robots improve themselves](https://thenextweb.com/news/unitree-rehearsal-self-improving-robots-2028-breakthrough) | The Next Web | AI |
+| 2 | [刷短剧上头后，我用5090和ComfyUI部署MiniMax H3](https://juejin.cn/post/7697865664233947190) | 掘金 · 人工智能本周最热 | AI |
+| 3 | [[分享发现] 发现一个速度堪比 Deepseek 官方的渠道](https://www.v2ex.com/t/1251635) | V2EX (创意工作者社区) | AI |
+| 4 | [Claude Code 接入 Cloudflare 3.7万星安全审计 Skill：从全量烧钱到按需裁剪的实战方案](https://juejin.cn/post/7699654593328840745) | juejin | AI |
+| 5 | [[分享创造] 嫌等 Tibo 重置 Codex 太无聊，顺手搓了个致敬 cowsay 的「Tibo 说」监控与 AI 预](https://www.v2ex.com/t/1251631) | V2EX (创意工作者社区) | AI |
 
 > 共 14 条，以上为 TOP 5。
 
@@ -39,12 +39,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [突发，Claude Code灵魂人物Thariq Shihipar宣布离职！](https://aiera.com.cn/asi-post.html?id=120392) | 新智元 | AI |
-| 2 | [Block unveils Dessa, a "true speech-to-speech" AI model trained on "nothing but human conversation" that it says runs locally on a MacBook Pro M4 Max or better (Jay Peters/The Verge)](https://www.techmeme.com/261024/p5) | Techmeme | AI |
-| 3 | [Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation (Rocket Drew/The Information)](https://www.techmeme.com/261023/p24) | Techmeme | AI |
+| 2 | [Baba, which develops AI tools to help Medicare and Medicaid patients connect to care teams and handle advocacy tasks, raised a $40M Series A led by FirstMark (Cailey Gleeson/Fierce Healthcare)](https://www.techmeme.com/261025/p5) | Techmeme | AI |
+| 3 | [Block unveils Dessa, a "true speech-to-speech" AI model trained on "nothing but human conversation" that it says runs locally on a MacBook Pro M4 Max or better (Jay Peters/The Verge)](https://www.techmeme.com/261024/p5) | Techmeme | AI |
 | 4 | [How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors](https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors) | TechRadar | AI |
 | 5 | [美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化](https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html) | 美团技术团队 (Meituan Tech) | AI |
 
-> 共 43 条，以上为 TOP 5。
+> 共 47 条，以上为 TOP 5。
 
 ---
 
@@ -52,11 +52,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [用 TRAE 把 Markdown文档 搬到微信公众号](https://juejin.cn/post/7699372774716997642) | juejin | IP |
-| 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 3 | [曼努埃尔·奥托生命的最后时刻曝光，《棍子跑》创作者在自焚前露出了诡异的笑容 - BollywoodShaadis](https://news.google.com/rss/articles/CBMihwFBVV95cUxNTmdTY28yckx6SkczdGNsWXZuRmxyZ21kdE8xQVFfdWd3MV96OHI4UDJIMkM0Ykh0TGdCMk9YemhSUDl4bVVCU2dBbDlkTTdOSWNaaEVIaUt2b0ItSWRnUXhUa1NmOGhNWG5ZQXNieEhMTXhZcXJ5Ny1rbS1NMXJTaUo0aG16c2vSAYwBQVVfeXFMTl9DZ2pKUmlsTjBZRU5sRjE0elF0Z0Q2aUhaaE9TRVhNeXZ6TFFaRW1ONXVVMzgwUDBMTVBKQjhfdDFnZXh1OWlrZC1mM3ZWZ1JhQURGZl9aQWhQcm9Dak5nc2VKVjBvbk1Jc2YzSEc0MUQ2U2F6aXZzTVczNFk5VG4yOXJvM19ndjdURlQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
+| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 2 | [用 TRAE 把 Markdown文档 搬到微信公众号](https://juejin.cn/post/7699372774716997642) | juejin | IP |
+| 3 | [麻六记流量拐点，藏在阿宽财报里](https://www.huxiu.com/article/4900235.html?f=rss) | 虎嗅 (Huxiu) | IP |
 | 4 | [乡村兽医，修猫修狗](https://mp.weixin.qq.com/s/q2ws4Ug5sIfSHLV2XlkyGg) | 人物 | 回乡 |
-| 5 | [乡村音乐与牛仔帽：巴西向右转](https://www.ft.com/content/40a3e26b-a4ca-40f3-ae06-2d1ec7346134?syn-25a6b1a6=1) | www.ft.com | 回乡 |
 
 ---
 
@@ -76,8 +75,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-25T01:52:40.476Z
-- **总资讯数**：4172 条原始 → 640 条筛选后
+- **聚合时间**：2026-10-25T07:01:25.281Z
+- **总资讯数**：4202 条原始 → 647 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
