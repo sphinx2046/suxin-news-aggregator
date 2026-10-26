@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [人类审稿被AI一波团灭！哈佛派出最强专家，错误率高达3倍](https://aiera.com.cn/asi-post.html?id=120696) | 新智元 | AI |
-| 2 | [突发！Claude Code桌面之父官宣离职，从高中辍学逆袭AI之巅](https://aiera.com.cn/asi-post.html?id=120676) | 新智元 | AI |
-| 3 | [外国小哥「虐待」自家电视，42 小时后惨遭OpenAI封号！Claude也下狠手](https://aiera.com.cn/asi-post.html?id=120656) | 新智元 | AI |
-| 4 | [NeurIPS&#8217;26｜大模型有思考惯性：答案越开放，越停不下思考](https://aiera.com.cn/asi-post.html?id=120630) | 新智元 | AI |
-| 5 | [人类最后只剩签字权？清华沈阳教授谈AI终局](https://aiera.com.cn/asi-post.html?id=120594) | 新智元 | AI |
+| 1 | [从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”](https://aiera.com.cn/asi-post.html?id=120702) | 新智元 | AI/情感 |
+| 2 | [CloudKnife](https://www.producthunt.com/products/cloudknife) | producthunt | 其他 |
+| 3 | [ManyAgents](https://www.producthunt.com/products/manyagents) | producthunt | AI |
+| 4 | [AI Bridge](https://www.producthunt.com/products/ai-bridge) | producthunt | AI |
+| 5 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [High-frequency trading firms such as Jane Street are investing in AI and chip startups and neoclouds, and building data centers to gain an edge in the AI era (Bloomberg)](https://www.techmeme.com/261025/p15) | Techmeme | AI |
-| 2 | [Claude Code 接入 Cloudflare 3.7万星安全审计 Skill：从全量烧钱到按需裁剪的实战方案](https://juejin.cn/post/7699654593328840745) | juejin | AI |
-| 3 | [[分享创造] 为了 Claude 不被封号，做了个浏览器插件，填住宅 IP 自动生成链式代理的分流配置](https://www.v2ex.com/t/1251886) | V2EX (创意工作者社区) | AI |
-| 4 | [[分享创造] 用 ai 写了个静态工具站，目前自我感觉良好](https://www.v2ex.com/t/1251884) | V2EX (创意工作者社区) | AI/情感 |
-| 5 | [[分享发现] 小红书搞了个「明日公园」，看到一群人用 AI + 硬件做各种很酷的东西](https://www.v2ex.com/t/1251877) | V2EX (创意工作者社区) | AI |
+| 1 | [Meta计划通过股票出售筹集最多950亿美元，用于资助其大规模的人工智能建设 / Meta looks to raise up to $95 billion from stock sales to fund its huge AI build-out](https://www.businessinsider.com/meta-equity-ai-funding-stock-sale-2026-10) | Business Insider | AI |
+| 2 | [[Claude] AI Vibe Coding 实战： SMS 套件提示词与开发方案](https://www.v2ex.com/t/1252031) | V2EX (创意工作者社区) | AI |
+| 3 | [分享下我用AI 生成HTML 动画的提示词。](https://www.huxiu.com/article/4900590.html?f=rss) | 虎嗅 (Huxiu) | AI |
+| 4 | [[分享创造] 分享一个自用的小工具： yolo-ai，用一个前缀统一所有 AI CLI 的权限跳过开关](https://www.v2ex.com/t/1252016) | V2EX (创意工作者社区) | AI |
+| 5 | [手把手教你用AI逆向现实世界，把一切改成自己喜欢的样子](https://www.huxiu.com/article/4900366.html?f=rss) | 虎嗅 (Huxiu) | AI |
 
-> 共 8 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI硬件卷向办公桌，实丰文化AI硬件品牌Rootix正式发布](https://aiera.com.cn/asi-post.html?id=120697) | 新智元 | AI |
-| 2 | [重磅！谷歌开源双层RSI框架Harness²，Gemini 3.5性能原地暴涨](https://aiera.com.cn/asi-post.html?id=120548) | 新智元 | AI |
-| 3 | [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey) | TechCrunch | AI |
-| 4 | [Baba, which develops AI tools to help Medicare and Medicaid patients connect to care teams and handle advocacy tasks, raised a $40M Series A led by FirstMark (Cailey Gleeson/Fierce Healthcare)](https://www.techmeme.com/261025/p5) | Techmeme | AI |
-| 5 | [阿波罗表示，人工智能为美国企业带来了“零经济回报” / Apollo says AI has delivered 'zero financial payoff' outside the tech industry](https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10) | Business Insider | AI |
+| 1 | [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey) | TechCrunch | AI |
+| 2 | [Verizon raises 2026 forecast and signs $2bn AI deal with AWS](https://thenextweb.com/news/verizon-aws-ai-deal-2026-forecast) | The Next Web | AI |
+| 3 | [Meta launches $35bn share sale to fund its AI spending](https://thenextweb.com/news/meta-35bn-stock-offering-ai) | The Next Web | AI |
+| 4 | [Swedish startup Strawberry launches AI browser for non-technical teams](https://thenextweb.com/news/strawberry-ai-browser-1-0-launch) | The Next Web | AI |
+| 5 | [Elon Musk says SpaceX has raised $40bn in debt to buy AI chips](https://thenextweb.com/news/spacex-40bn-debt-ai-chips-musk) | The Next Web | AI |
 
-> 共 54 条，以上为 TOP 5。
+> 共 67 条，以上为 TOP 5。
 
 ---
 
@@ -53,9 +53,14 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [[推广] 🎃Zooproxy 万圣节特惠！充值即享优惠，送大额流量;不给套路，只给福利！](https://www.v2ex.com/t/1251899) | V2EX (创意工作者社区) | IP |
-| 3 | [印度的漫画家们在网上积累了一批粉丝——如今他们的帖子却遭到限制](https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | IP |
-| 4 | [筛查工具衡量不利处境的方式，可能导致农村社区在公共支持中被忽视](https://phys.org/news/2026-10-screening-tools-disadvantage-rural-communities.html) | phys.org | 回乡 |
+| 2 | [我40岁时搬回了老家。现在，我和丈夫、蹒跚学步的孩子一起住在妈妈家的客厅里。](https://www.businessinsider.com/moved-back-home-live-in-moms-one-bedroom-apartment-2026-10) | www.businessinsider.com | 回乡/情感 |
+| 3 | [[酷工作] 游戏公司远程直招
+
+服务端/买量策划/数据运营/运营/双语客服/平台运营/发行负责/SEO 增长/AI 视频/素材/影游导演/AIGC 影像/核心导演/短剧编剧/短剧剪辑/创作者运营/产品数据/产品经理/游戏 UI/特效](https://www.v2ex.com/t/1252042) | V2EX (创意工作者社区) | AI/IP |
+| 4 | [唐纳德·特朗普对美国农村地区来说是一场灾难 史蒂文·格林豪斯](https://www.theguardian.com/commentisfree/2026/oct/26/donald-trump-policy-disaster-rural-america) | www.theguardian.com | 回乡 |
+| 5 | [机器人集合店：有流量，钱难赚](https://www.huxiu.com/article/4900539.html?f=rss) | 虎嗅 (Huxiu) | IP |
+
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -63,13 +68,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [世界银行指出，索马里税收收入低是其面临的主要财政挑战](https://www.bloomberg.com/news/articles/2026-10-26/world-bank-somalia-low-tax-revenue-key-fiscal-challenge) | www.bloomberg.com | 变现 |
-| 2 | [美国工资占国内总收入（GDI）的比重降至75年来最低水平](https://fred.stlouisfed.org/series/W270RE1A156NBEA) | fred.stlouisfed.org | 变现 |
-| 3 | [[独立开发者 👨‍💻] 独立开发周记 193： Token 狂飙，得失难料](https://www.v2ex.com/t/1251866) | V2EX (创意工作者社区) | 变现 |
-| 4 | [[职场话题] 程序员自由职业一年，复盘一下](https://www.v2ex.com/t/1251862) | V2EX (创意工作者社区) | 认知/变现 |
-| 5 | [[问与答] 和朋友一起做的产品被 AI 复刻、逆向破解 这 2 个月收入不到 100 人民币](https://www.v2ex.com/t/1251858) | V2EX (创意工作者社区) | AI/变现 |
+| 1 | [Gartner 调研：44% 的 CEO 说不清 AI 到底赚没赚钱](https://www.aibase.com/news/31868) | AIbase | AI/变现 |
+| 2 | [从卖门票到卖体验，中国网球的赚钱逻辑变了](https://www.huxiu.com/article/4900511.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 3 | [MRRaudit - 了解您的月经常性收入（MRR）出现差异的原因，并获得一个您信赖的数值](https://www.producthunt.com/r/L62GHB4OGSZKLT) | www.producthunt.com | 变现 |
+| 4 | [美国工资占国内总收入（GDI）的比重降至75年来最低水平](https://fred.stlouisfed.org/series/W270RE1A156NBEA) | fred.stlouisfed.org | 变现 |
+| 5 | [电动化转型有了起色，沃尔沃却越来越难赚钱了](https://mp.weixin.qq.com/s/yB3IiY1uSIZjnHMnTODCRg) | 钛媒体 | 变现 |
 
-> 共 7 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -81,8 +86,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-26T07:08:15.150Z
-- **总资讯数**：4268 条原始 → 681 条筛选后
+- **聚合时间**：2026-10-26T14:36:40.289Z
+- **总资讯数**：4456 条原始 → 750 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
