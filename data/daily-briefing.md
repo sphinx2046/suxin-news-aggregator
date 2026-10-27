@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [刚刚，Claude破纪录！日烧3万亿Token，神秘Fable 5.5压轴登场](https://aiera.com.cn/asi-post.html?id=120869) | 新智元 | AI |
-| 2 | [Anthropic悄悄改Claude额度！薅羊毛最狠的人，被精准薅了回去](https://aiera.com.cn/asi-post.html?id=120779) | 新智元 | AI |
-| 3 | [别学编程了！Anthropic CEO直言：代码工作快速消失，人类应该学弹钢琴](https://aiera.com.cn/asi-post.html?id=120767) | 新智元 | AI |
-| 4 | [ChatGPT攻克26年猜想，千位数学家宣战AI！数学界彻底撕裂了](https://aiera.com.cn/asi-post.html?id=120724) | 新智元 | AI |
-| 5 | [为什么说工具是Agent 的手？工具的入餐出餐决定工具的效果！(6/12...](https://mp.weixin.qq.com/s/Zl7YdHBjVxdlOOhxwRLXUA) | 架构师之路 | AI |
+| 1 | [2026全球开发者先锋大会暨国际具身智能技能大赛圆满落幕](https://aiera.com.cn/asi-post.html?id=120909) | 新智元 | 其他 |
+| 2 | [刚刚，Claude破纪录！日烧3万亿Token，神秘Fable 5.5压轴登场](https://aiera.com.cn/asi-post.html?id=120869) | 新智元 | AI |
+| 3 | [Anthropic悄悄改Claude额度！薅羊毛最狠的人，被精准薅了回去](https://aiera.com.cn/asi-post.html?id=120779) | 新智元 | AI |
+| 4 | [别学编程了！Anthropic CEO直言：代码工作快速消失，人类应该学弹钢琴](https://aiera.com.cn/asi-post.html?id=120767) | 新智元 | AI |
+| 5 | [ChatGPT攻克26年猜想，千位数学家宣战AI！数学界彻底撕裂了](https://aiera.com.cn/asi-post.html?id=120724) | 新智元 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI大家说|2026年SaaS并购案例回顾：AI时代，什么软件能溢价卖出?](https://mp.weixin.qq.com/s/rfcq5NY2luZKVPRvbxPGpQ) | 红杉汇 | AI |
-| 2 | [传统产品经理的AI自救指南：2026年你还在画原型写 PRD吗？](https://mp.weixin.qq.com/s/9SpTZETt7VvduAAw0AUypg) | 人人都是产品经理 | AI |
-| 3 | [[分享发现] AI 时代到来， 3 年前发的帖子有答案了](https://www.v2ex.com/t/1252089) | V2EX (创意工作者社区) | AI |
-| 4 | [[分享创造] eros3.ai 可能是目前最好的中文 AI 伴侣 [送码]](https://www.v2ex.com/t/1252086) | V2EX (创意工作者社区) | AI |
+| 1 | [[分享创造] [自荐]做了个 AI 音乐创作工具 SongGen，送 10 份 300 积分体验码](https://www.v2ex.com/t/1252212) | V2EX (创意工作者社区) | AI |
+| 2 | [[分享创造] 分享一个用 AI 搞怪/整活的小工具（可生成 15 秒视频）](https://www.v2ex.com/t/1252177) | V2EX (创意工作者社区) | AI |
+| 3 | [AI大家说|2026年SaaS并购案例回顾：AI时代，什么软件能溢价卖出?](https://mp.weixin.qq.com/s/rfcq5NY2luZKVPRvbxPGpQ) | 红杉汇 | AI |
+| 4 | [传统产品经理的AI自救指南：2026年你还在画原型写 PRD吗？](https://mp.weixin.qq.com/s/9SpTZETt7VvduAAw0AUypg) | 人人都是产品经理 | AI |
 | 5 | [你的Personal Agent 如何真正跑起来？Agent实战指南](https://mp.weixin.qq.com/s/Nh-uiZ4N5C1qO9Uf9Im4bg) | 腾讯技术工程 | AI |
 
-> 共 10 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -42,9 +42,9 @@
 | 2 | [刚刚，Reddit最大开源社区全面封杀AI！Linux和Python被除名](https://aiera.com.cn/asi-post.html?id=120841) | 新智元 | AI |
 | 3 | [让决策成为模型设计的起点！NUS推出原生System One架构](https://aiera.com.cn/asi-post.html?id=120796) | 新智元 | AI |
 | 4 | [AI教科书全错！底层公式惊天Bug曝光，Gemini率先自我修复](https://aiera.com.cn/asi-post.html?id=120748) | 新智元 | AI/情感 |
-| 5 | [终于 Token 自由了，AI 开支下降 10 倍](https://juejin.cn/post/7700531646282809407) | juejin | AI |
+| 5 | [Microsoft Announces Open Source Tool Evaluating Your Software's Optimization For AI Coding Agents](https://news.slashdot.org/story/26/10/26/0420240/microsoft-announces-open-source-tool-evaluating-your-softwares-optimization-for-ai-coding-agents) | Slashdot | AI |
 
-> 共 82 条，以上为 TOP 5。
+> 共 75 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [OnlyFans 创作者怒怼 Meta：只许 Al撩人，不许真人营业](https://mp.weixin.qq.com/s/P4che-hd3_VfGmrgkTwfaA) | APPSO | IP |
-| 3 | [“为什么山东人做不了霸总”背后：方言梗，成了爆火流量密码？](https://mp.weixin.qq.com/s/ooIg6NN9HQ8lpJImy_gRvQ) | 三联生活周刊 | IP/情感 |
-| 4 | [Show HN: Hugonot——赞助一位专注于人工智能的博主](https://www.hugonot.com/) | www.hugonot.com | AI/IP |
-| 5 | [我40岁时搬回了老家。现在，我和丈夫、蹒跚学步的孩子一起住在妈妈家的客厅里。](https://www.businessinsider.com/moved-back-home-live-in-moms-one-bedroom-apartment-2026-10) | www.businessinsider.com | 回乡/情感 |
+| 2 | [[分享创造] 做了个叫 发发蜂 的自媒体工作台 支持 40+主流平台，免费送试用](https://www.v2ex.com/t/1252195) | V2EX (创意工作者社区) | IP |
+| 3 | [微信鸿蒙版 App 获 8.0.23.16 邀测升级：公众号图标对齐其他端、新增铃声设置入口等](https://www.ithome.com/1/018/336.htm) | IT之家 (ITHome) | IP |
+| 4 | [反诈博主“徽剑”被曝 2 年前遭买凶遇害，曾公开举报陈志犯罪集团重要骨干成员刘忍](https://www.ithome.com/1/018/321.htm) | IT之家 (ITHome) | IP |
+| 5 | [AI自媒体扎堆做号：鱼塘边上挤满了钓鱼佬](https://www.huxiu.com/article/4900686.html?f=rss) | 虎嗅 (Huxiu) | AI/IP |
 
-> 共 7 条，以上为 TOP 5。
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -66,11 +66,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [恒大清盘进展：债权申报3600亿港元，已变现34亿港元](https://mp.weixin.qq.com/s/RkCbkXfAiBUVar9baYNh0g) | 财经杂志 | 变现 |
-| 2 | [赚钱为什么越来越难？|【经纬低调分享】](https://mp.weixin.qq.com/s/LkmMlftT1vNrVDoUMd46Ag) | 经纬创投 | 变现 |
-| 3 | [NeoLab第一个商业模式：转售GPU](https://mp.weixin.qq.com/s/tUB9ryx8yZqHxuFEYNr6Hw) | 量子位 | 变现 |
-| 4 | [赚钱为什么越来越难？这是我看过最深刻的一篇](https://mp.weixin.qq.com/s/ohY-ZzSW5LMw_91cjaK1oQ) | 虎嗅App | 变现 |
-| 5 | [[商业模式] 抖音账号搞了半年才 1000 粉，至今为止 0 变现](https://www.v2ex.com/t/1252065) | V2EX (创意工作者社区) | 变现 |
+| 1 | [随着人工智能收入的增长，印度IT服务集团迎来转机](https://www.ft.com/content/42dc1a1c-2454-4eaf-bafe-ded5ad7855e4?syn-25a6b1a6=1) | www.ft.com | AI/变现 |
+| 2 | [汇丰银行公布第三季度税前利润符合预期，得益于净利息收入的增长 - CNBC](https://news.google.com/rss/articles/CBMicEFVX3lxTE5mc25mSWhrcmxzSGE5OG4wQTdSSzhacTJmZFZiUkJ3QXA5bHdpTklSNWJQVEI4UXh1S2tfam9QS1dPejFjN3A4NlRHaExfWThpOGt6NkpqUGtEY0ZxN2Vfd2JBeWdIZWY5M1RLMnBsQ3nSAXZBVV95cUxQbzUyd1E5a3pQczU4ajl5RGdaRUdvOGU0OXZuOXBhUU5mLUR3ZVliOUJqYnpXVXJFZmotdVQ3ZEIzbzZMWkduaWZvMGx0Z0kzOUhtbXNQbUs4SjBWWmoyeVZjYjhZTGxhSGhyUllnTTNmcUlDVnJn?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
+| 3 | [Anthropic招股书：此刻把智能做成赚钱生意的唯一说明书](https://www.huxiu.com/article/4900706.html?f=rss) | 虎嗅 (Huxiu) | AI/变现 |
+| 4 | [恒大清盘进展：债权申报3600亿港元，已变现34亿港元](https://mp.weixin.qq.com/s/RkCbkXfAiBUVar9baYNh0g) | 财经杂志 | 变现 |
+| 5 | [赚钱为什么越来越难？|【经纬低调分享】](https://mp.weixin.qq.com/s/LkmMlftT1vNrVDoUMd46Ag) | 经纬创投 | 变现 |
 
 > 共 8 条，以上为 TOP 5。
 
@@ -84,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-27T00:57:12.035Z
-- **总资讯数**：4439 条原始 → 796 条筛选后
+- **聚合时间**：2026-10-27T06:53:47.494Z
+- **总资讯数**：4482 条原始 → 798 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
