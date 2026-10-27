@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-10-26（周一）
+# 素心拾穗 · 每日情报 · 2026-10-27（周二）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
-| 2 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
-| 3 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
-| 4 | [Functional Ultrasound Imaging from Scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) | Hacker News | 人文 |
-| 5 | [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon) | Hacker News | AI |
+| 1 | [刚刚，Claude破纪录！日烧3万亿Token，神秘Fable 5.5压轴登场](https://aiera.com.cn/asi-post.html?id=120869) | 新智元 | AI |
+| 2 | [Anthropic悄悄改Claude额度！薅羊毛最狠的人，被精准薅了回去](https://aiera.com.cn/asi-post.html?id=120779) | 新智元 | AI |
+| 3 | [别学编程了！Anthropic CEO直言：代码工作快速消失，人类应该学弹钢琴](https://aiera.com.cn/asi-post.html?id=120767) | 新智元 | AI |
+| 4 | [ChatGPT攻克26年猜想，千位数学家宣战AI！数学界彻底撕裂了](https://aiera.com.cn/asi-post.html?id=120724) | 新智元 | AI |
+| 5 | [为什么说工具是Agent 的手？工具的入餐出餐决定工具的效果！(6/12...](https://mp.weixin.qq.com/s/Zl7YdHBjVxdlOOhxwRLXUA) | 架构师之路 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,9 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [[分享创造] 最近做了个好玩的 AI Rap Video Generator - rapvideo.io 欢迎大家免费来玩](https://www.v2ex.com/t/1252070) | V2EX (创意工作者社区) | AI |
-| 2 | [塞巴斯蒂安·拉施卡关于构建推理模型的零基础视频课程](https://magazine.sebastianraschka.com/p/building-reasoning-models) | magazine.sebastianraschka.com | AI |
-| 3 | [[Claude] AI Vibe Coding 实战： SMS 套件提示词与开发方案](https://www.v2ex.com/t/1252031) | V2EX (创意工作者社区) | AI |
+| 1 | [AI大家说|2026年SaaS并购案例回顾：AI时代，什么软件能溢价卖出?](https://mp.weixin.qq.com/s/rfcq5NY2luZKVPRvbxPGpQ) | 红杉汇 | AI |
+| 2 | [传统产品经理的AI自救指南：2026年你还在画原型写 PRD吗？](https://mp.weixin.qq.com/s/9SpTZETt7VvduAAw0AUypg) | 人人都是产品经理 | AI |
+| 3 | [[分享发现] AI 时代到来， 3 年前发的帖子有答案了](https://www.v2ex.com/t/1252089) | V2EX (创意工作者社区) | AI |
+| 4 | [[分享创造] eros3.ai 可能是目前最好的中文 AI 伴侣 [送码]](https://www.v2ex.com/t/1252086) | V2EX (创意工作者社区) | AI |
+| 5 | [你的Personal Agent 如何真正跑起来？Agent实战指南](https://mp.weixin.qq.com/s/Nh-uiZ4N5C1qO9Uf9Im4bg) | 腾讯技术工程 | AI |
+
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -34,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Microsoft Announces Open Source Tool Evaluating Your Software's Optimization For AI Coding Agents](https://news.slashdot.org/story/26/10/26/0420240/microsoft-announces-open-source-tool-evaluating-your-softwares-optimization-for-ai-coding-agents) | Slashdot | AI |
-| 2 | [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey) | TechCrunch | AI |
-| 3 | [Apple adds more Siri AI tools in its 27.2 system updates, out today](https://www.engadget.com/2297577/apple-adds-more-siri-ai-tools-in-27-2-system-updates-out-today) | Engadget | AI |
-| 4 | [Goldman’s Pasquariello says the tech sell-off raises doubts about AI stocks](https://thenextweb.com/news/goldman-hedge-funds-dump-tech-ai-trade) | The Next Web | AI |
-| 5 | [Apple Releases iOS 27.2 With New Siri AI Languages](https://www.macrumors.com/2026/10/26/apple-releases-ios-27-2) | Mac Rumors | AI |
+| 1 | [OpenAI新模型曝光！GPT-6.1 Terra把旗舰反超了？](https://aiera.com.cn/asi-post.html?id=120899) | 新智元 | AI |
+| 2 | [刚刚，Reddit最大开源社区全面封杀AI！Linux和Python被除名](https://aiera.com.cn/asi-post.html?id=120841) | 新智元 | AI |
+| 3 | [让决策成为模型设计的起点！NUS推出原生System One架构](https://aiera.com.cn/asi-post.html?id=120796) | 新智元 | AI |
+| 4 | [AI教科书全错！底层公式惊天Bug曝光，Gemini率先自我修复](https://aiera.com.cn/asi-post.html?id=120748) | 新智元 | AI/情感 |
+| 5 | [终于 Token 自由了，AI 开支下降 10 倍](https://juejin.cn/post/7700531646282809407) | juejin | AI |
 
-> 共 67 条，以上为 TOP 5。
+> 共 82 条，以上为 TOP 5。
 
 ---
 
@@ -49,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [我40岁时搬回了老家。现在，我和丈夫、蹒跚学步的孩子一起住在妈妈家的客厅里。](https://www.businessinsider.com/moved-back-home-live-in-moms-one-bedroom-apartment-2026-10) | www.businessinsider.com | 回乡/情感 |
-| 3 | [[酷工作] 游戏公司远程直招
+| 2 | [OnlyFans 创作者怒怼 Meta：只许 Al撩人，不许真人营业](https://mp.weixin.qq.com/s/P4che-hd3_VfGmrgkTwfaA) | APPSO | IP |
+| 3 | [“为什么山东人做不了霸总”背后：方言梗，成了爆火流量密码？](https://mp.weixin.qq.com/s/ooIg6NN9HQ8lpJImy_gRvQ) | 三联生活周刊 | IP/情感 |
+| 4 | [Show HN: Hugonot——赞助一位专注于人工智能的博主](https://www.hugonot.com/) | www.hugonot.com | AI/IP |
+| 5 | [我40岁时搬回了老家。现在，我和丈夫、蹒跚学步的孩子一起住在妈妈家的客厅里。](https://www.businessinsider.com/moved-back-home-live-in-moms-one-bedroom-apartment-2026-10) | www.businessinsider.com | 回乡/情感 |
 
-服务端/买量策划/数据运营/运营/双语客服/平台运营/发行负责/SEO 增长/AI 视频/素材/影游导演/AIGC 影像/核心导演/短剧编剧/短剧剪辑/创作者运营/产品数据/产品经理/游戏 UI/特效](https://www.v2ex.com/t/1252042) | V2EX (创意工作者社区) | AI/IP |
-| 4 | [唐纳德·特朗普在竞选集会上与“头号粉丝”妮琪·米娜一同亮相](https://news.sky.com/story/donald-trump-joined-by-number-one-fan-nicki-minaj-at-campaign-rally-13603867) | news.sky.com | IP |
-| 5 | [印度的漫画家们在网上积累了一批粉丝——如今他们的帖子却遭到限制](https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | IP |
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -62,11 +66,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Gartner 调研：44% 的 CEO 说不清 AI 到底赚没赚钱](https://www.aibase.com/news/31868) | AIbase | AI/变现 |
-| 2 | [[商业模式] 抖音账号搞了半年才 1000 粉，至今为止 0 变现](https://www.v2ex.com/t/1252065) | V2EX (创意工作者社区) | 变现 |
-| 3 | [[分享发现] [开源] 拯救独立开发者的美术危机：视频转游戏素材神器 Game Assets Maker](https://www.v2ex.com/t/1252061) | V2EX (创意工作者社区) | 变现 |
-| 4 | [Show HN: ASOClimb——独立开发者的App Store关键词排名及收入区间](https://asoclimb.com/) | asoclimb.com | 变现 |
-| 5 | [MRRaudit - 了解您的月经常性收入（MRR）出现差异的原因，并获得一个您信赖的数值](https://www.producthunt.com/r/L62GHB4OGSZKLT) | www.producthunt.com | 变现 |
+| 1 | [恒大清盘进展：债权申报3600亿港元，已变现34亿港元](https://mp.weixin.qq.com/s/RkCbkXfAiBUVar9baYNh0g) | 财经杂志 | 变现 |
+| 2 | [赚钱为什么越来越难？|【经纬低调分享】](https://mp.weixin.qq.com/s/LkmMlftT1vNrVDoUMd46Ag) | 经纬创投 | 变现 |
+| 3 | [NeoLab第一个商业模式：转售GPU](https://mp.weixin.qq.com/s/tUB9ryx8yZqHxuFEYNr6Hw) | 量子位 | 变现 |
+| 4 | [赚钱为什么越来越难？这是我看过最深刻的一篇](https://mp.weixin.qq.com/s/ohY-ZzSW5LMw_91cjaK1oQ) | 虎嗅App | 变现 |
+| 5 | [[商业模式] 抖音账号搞了半年才 1000 粉，至今为止 0 变现](https://www.v2ex.com/t/1252065) | V2EX (创意工作者社区) | 变现 |
 
 > 共 8 条，以上为 TOP 5。
 
@@ -80,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-26T20:46:48.685Z
-- **总资讯数**：4317 条原始 → 727 条筛选后
+- **聚合时间**：2026-10-27T00:57:12.035Z
+- **总资讯数**：4439 条原始 → 796 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
