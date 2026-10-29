@@ -25,10 +25,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [企业智能知识库 Python 后端实战：FastAPI + RAG + KAG 企业级 AI 项目](https://juejin.cn/post/7700790717106847754) | juejin | AI |
-| 2 | [人工智能高管是否太脱离现实，无法为公众构建人工智能？ / Are AI Execs Too Out of Touch To Build For the General Public?](https://slashdot.org/story/26/10/28/199238/are-ai-execs-too-out-of-touch-to-build-for-the-general-public) | Slashdot | AI |
-| 3 | [人工智能高管可能太脱离现实，无法为公众服务 / AI execs may be too out of touch to build for the general public](https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public) | TechCrunch | AI |
-| 4 | [OpenAI and ServiceNow expand partnership across enterprise workflows](https://openai.com/index/openai-servicenow-partnership-expansion) | Readhub · AI | AI |
-| 5 | [起薪3OK的高薪AI产品经理，O经验如何快速转型入行？](https://mp.weixin.qq.com/s/tRbgaGPvO7ZMX8uf7mhhJg) | 人人都是产品经理 | AI |
+| 2 | [美国银行恳请您不要与人工智能助手分享您的密码 / Bank of America Kindly Asks That You Don't Share Your Password With Your AI Assistant](https://yro.slashdot.org/story/26/10/28/2247205/bank-of-america-kindly-asks-that-you-dont-share-your-password-with-your-ai-assistant) | Slashdot | AI |
+| 3 | [人工智能高管是否太脱离现实，无法为公众打造人工智能？ / Are AI Execs Too Out of Touch To Build For the General Public?](https://slashdot.org/story/26/10/28/199238/are-ai-execs-too-out-of-touch-to-build-for-the-general-public) | Slashdot | AI |
+| 4 | [人工智能高管可能太脱离现实，无法为公众服务 / AI execs may be too out of touch to build for the general public](https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public) | TechCrunch | AI |
+| 5 | [Healthcare AI: Building Trustworthy Systems Where Every Prediction Matters](https://mandarpandit.medium.com/healthcare-ai-building-trustworthy-systems-where-every-prediction-matters-afdf0e9378fd?source=rss------decision_making-5) | Medium · Decision Making | AI |
 
 > 共 13 条，以上为 TOP 5。
 
@@ -41,10 +41,10 @@
 | 1 | [刚刚，谷歌重磅发布Genie 4：这才是真正的「世界模型」！](https://aiera.com.cn/asi-post.html?id=121262) | 新智元 | AI |
 | 2 | [现实版「思想钢印」！ Anthropic惊悚实验曝光，86%顶尖专家关键决策被AI控制](https://aiera.com.cn/asi-post.html?id=121201) | 新智元 | AI |
 | 3 | [刚刚，国产开源AI横扫全球4项第一！1.3B逆袭大厂，OCR极限实测杀疯了](https://aiera.com.cn/asi-post.html?id=121138) | 新智元 | AI |
-| 4 | [Google 重磅发布 Genie 4:世界模型终于活了](https://mp.weixin.qq.com/s/wiUYsKNzNniLhcXdp_k-BA) | 夕小瑶科技说 | AI |
-| 5 | [GPT-6.1 Terra上线：更便宜了，干活到底怎么样？](https://juejin.cn/post/7701352628311392297) | juejin | AI |
+| 4 | [GPT-6.1 Terra上线：更便宜了，干活到底怎么样？](https://juejin.cn/post/7701352628311392297) | juejin | AI |
+| 5 | [我用 DeepSeek 做了 4 个零依赖的赚钱小工具，全部开源](https://juejin.cn/post/7673809190474629155) | juejin | AI/变现 |
 
-> 共 73 条，以上为 TOP 5。
+> 共 71 条，以上为 TOP 5。
 
 ---
 
@@ -56,9 +56,9 @@
 | 2 | [机器人集合店：有流量，钱难赚](https://mp.weixin.qq.com/s/yZvsd0HlcMGWjTVunqoKsA) | 钛媒体 | IP |
 | 3 | [聊一聊：在你老家，最难翻译成普通话的方言词语是啥？](https://mp.weixin.qq.com/s/wRyTETf1hTRl1W7F1CBH7g) | 差评 | 回乡 |
 | 4 | [第一批重金找FDE的县城老板，被坑惨](https://mp.weixin.qq.com/s/uRObJtfQWGJPEJdgvtZxkw) | 虎嗅App | 回乡 |
-| 5 | [“门票在13分钟内售罄”：浪漫奇幻小说作家萨拉·J·马斯的新作引发粉丝狂热](https://www.theguardian.com/books/2026/oct/28/we-sold-out-tickets-within-13-minutes-new-novel-from-romantasy-author-sarah-j-maas-sparks-fan-mania) | www.theguardian.com | IP |
+| 5 | [明尼苏达州检察官针对该州初选期间发生的一起事件，以非法投票和盗用身份罪对保守派活动家詹姆斯·奥基夫（James O’Keefe）和内容创作者卡姆·希格比（Cam Higby）提起公诉。](https://on.wsj.com/4e7cge5) | on.wsj.com | IP |
 
-> 共 10 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -66,13 +66,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [10月，我们推荐这20位独立开发者，和他们的100款产品](https://mp.weixin.qq.com/s/7bufBGEzRS4KWqfOUO10lg) | FounderPark | 变现 |
-| 2 | [由于增长放缓，YouTube的广告收入未达预期](https://www.businessinsider.com/youtube-misses-ad-revenue-third-quarter-2026-10) | www.businessinsider.com | 变现 |
-| 3 | [苹果发布两款M6新Mac/红果短剧否认「年收入400亿」/有线电视不...](https://mp.weixin.qq.com/s/3vxjiX57h5_8PDnY0fSmAw) | APPSO | 变现 |
-| 4 | [宇树跑得更快了，赚钱却更难了](https://www.huxiu.com/article/4901250.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 5 | [Ask HN: 寻求关于我的“免费增值”应用变现模式的建议](https://news.ycombinator.com/item?id=50280505) | news.ycombinator.com | 变现 |
+| 1 | [想做个人副业别乱买服务器！我的 5 个月真实开销分享](https://juejin.cn/post/7701510609427185690) | juejin | 变现 |
+| 2 | [8点1氪丨姆巴佩中国代言收入近2200万欧元；长鑫科技已被纳入上证指数；宇树科技：前三季度净利润3.87亿元，同比增长270.54%](https://www.36kr.com/p/4046203581289345) | 36氪 · 24小时热榜 | 变现 |
+| 3 | [微软单季从 OpenAI 相关合作获得 100 亿美元收入，占当季总营收近 11%](https://www.aibase.com/zh/news/31953) | Readhub · AI | AI/变现 |
+| 4 | [腾讯 WorkBuddy 开放平台内测 Skill 变现功能，开发者可自主定价](https://www.aibase.com/zh/news/31958) | Readhub · AI | AI/变现 |
+| 5 | [消息称腾讯WorkBuddy开放平台内测Skill变现功能，开发者可自主定价](https://www.aibase.com/news/31958) | AIbase | 变现 |
 
-> 共 7 条，以上为 TOP 5。
+> 共 12 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-29T01:21:07.153Z
-- **总资讯数**：4428 条原始 → 751 条筛选后
+- **聚合时间**：2026-10-29T07:42:35.232Z
+- **总资讯数**：4470 条原始 → 772 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
