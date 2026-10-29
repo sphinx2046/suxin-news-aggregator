@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI写88小时，人类读7周！数学家开始读懂OpenAI千禧难题证明](https://aiera.com.cn/asi-post.html?id=121234) | 新智元 | AI |
-| 2 | [黄仁勋的AI工厂，还缺一个「粮仓」！中国公司出手了](https://aiera.com.cn/asi-post.html?id=121183) | 新智元 | AI |
-| 3 | [Claude向癌症发起猛攻！狂搓3.5万抗体，一人带AI造出绝症解药](https://aiera.com.cn/asi-post.html?id=121172) | 新智元 | AI |
-| 4 | [「软件已死」？独立开发大佬退订几乎所有工作软件：要啥让AI造](https://aiera.com.cn/asi-post.html?id=121153) | 新智元 | AI |
-| 5 | [EMNLP&#8217;26｜GPT也不会「读空气」，狼人杀基准测出社交盲区](https://aiera.com.cn/asi-post.html?id=121106) | 新智元 | AI |
+| 1 | [与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长](https://sspai.com/post/116585) | sspai | 认知 |
+| 2 | [让读书笔记不再吃灰：我做了一款跨平台书摘管理工具](https://sspai.com/post/115688) | sspai | 认知 |
+| 3 | [从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole](https://sspai.com/post/113843) | sspai | 其他 |
+| 4 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
+| 5 | [Gemini 4 Argon（高）：智能、性能和价格分析 / Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [企业智能知识库 Python 后端实战：FastAPI + RAG + KAG 企业级 AI 项目](https://juejin.cn/post/7700790717106847754) | juejin | AI |
-| 2 | [美国银行恳请您不要与人工智能助手分享您的密码 / Bank of America Kindly Asks That You Don't Share Your Password With Your AI Assistant](https://yro.slashdot.org/story/26/10/28/2247205/bank-of-america-kindly-asks-that-you-dont-share-your-password-with-your-ai-assistant) | Slashdot | AI |
-| 3 | [人工智能高管是否太脱离现实，无法为公众打造人工智能？ / Are AI Execs Too Out of Touch To Build For the General Public?](https://slashdot.org/story/26/10/28/199238/are-ai-execs-too-out-of-touch-to-build-for-the-general-public) | Slashdot | AI |
-| 4 | [人工智能高管可能太脱离现实，无法为公众服务 / AI execs may be too out of touch to build for the general public](https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public) | TechCrunch | AI |
-| 5 | [Healthcare AI: Building Trustworthy Systems Where Every Prediction Matters](https://mandarpandit.medium.com/healthcare-ai-building-trustworthy-systems-where-every-prediction-matters-afdf0e9378fd?source=rss------decision_making-5) | Medium · Decision Making | AI |
+| 1 | [美国银行恳请您不要与人工智能助手分享您的密码 / Bank of America Kindly Asks That You Don't Share Your Password With Your AI Assistant](https://yro.slashdot.org/story/26/10/28/2247205/bank-of-america-kindly-asks-that-you-dont-share-your-password-with-your-ai-assistant) | Slashdot | AI |
+| 2 | [人工智能高管是否太脱离现实，无法为公众构建人工智能？ / Are AI Execs Too Out of Touch To Build For the General Public?](https://slashdot.org/story/26/10/28/199238/are-ai-execs-too-out-of-touch-to-build-for-the-general-public) | Slashdot | AI |
+| 3 | [Anthropic’s business plan: Build God or die trying](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive) | The Verge | AI |
+| 4 | [为什么人工智能智能眼镜需要隐私优先的方法 / Why AI smart glasses need a privacy-first approach](https://www.techradar.com/pro/why-ai-smart-glasses-need-a-privacy-first-approach) | TechRadar | AI |
+| 5 | [[分享创造] 万圣节快到了, 拿 Claude 做了个小鬼抓南瓜的在线游戏](https://www.v2ex.com/t/1252994) | V2EX (创意工作者社区) | AI |
 
-> 共 13 条，以上为 TOP 5。
+> 共 19 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [刚刚，谷歌重磅发布Genie 4：这才是真正的「世界模型」！](https://aiera.com.cn/asi-post.html?id=121262) | 新智元 | AI |
-| 2 | [现实版「思想钢印」！ Anthropic惊悚实验曝光，86%顶尖专家关键决策被AI控制](https://aiera.com.cn/asi-post.html?id=121201) | 新智元 | AI |
-| 3 | [刚刚，国产开源AI横扫全球4项第一！1.3B逆袭大厂，OCR极限实测杀疯了](https://aiera.com.cn/asi-post.html?id=121138) | 新智元 | AI |
-| 4 | [GPT-6.1 Terra上线：更便宜了，干活到底怎么样？](https://juejin.cn/post/7701352628311392297) | juejin | AI |
-| 5 | [我用 DeepSeek 做了 4 个零依赖的赚钱小工具，全部开源](https://juejin.cn/post/7673809190474629155) | juejin | AI/变现 |
+| 1 | [谷歌推出 Gemini 4 Carbon，在网络安全方面实现“重大飞跃” / Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier) | The Verge | AI |
+| 2 | [Deepgram 收购 Pipecat 制造商 Daily 以加强其语音人工智能基础设施 / Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure](https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure) | TechCrunch | AI |
+| 3 | [Anthropic 刚刚推出了工具，向公司展示他们的人工智能支出正在购买什么 / Anthropic just launched tools to show companies what their AI spending is buying](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying) | TechCrunch | AI |
+| 4 | [Apple Creator Studio 更新了一系列 AI 功能，以及用于 Keynote 的新开放 JSON 文件格式 / Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote](https://daringfireball.net/linked/2026/10/27/apple-creator-studio-updates) | Daring Fireball | AI |
+| 5 | [谷歌发布了Gemini 4 Carbon——其最新的前沿AI模型，但你无法使用它 / Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use](https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use) | Ars Technica | AI |
 
-> 共 71 条，以上为 TOP 5。
+> 共 68 条，以上为 TOP 5。
 
 ---
 
@@ -53,10 +53,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [机器人集合店：有流量，钱难赚](https://mp.weixin.qq.com/s/yZvsd0HlcMGWjTVunqoKsA) | 钛媒体 | IP |
-| 3 | [聊一聊：在你老家，最难翻译成普通话的方言词语是啥？](https://mp.weixin.qq.com/s/wRyTETf1hTRl1W7F1CBH7g) | 差评 | 回乡 |
-| 4 | [第一批重金找FDE的县城老板，被坑惨](https://mp.weixin.qq.com/s/uRObJtfQWGJPEJdgvtZxkw) | 虎嗅App | 回乡 |
-| 5 | [明尼苏达州检察官针对该州初选期间发生的一起事件，以非法投票和盗用身份罪对保守派活动家詹姆斯·奥基夫（James O’Keefe）和内容创作者卡姆·希格比（Cam Higby）提起公诉。](https://on.wsj.com/4e7cge5) | on.wsj.com | IP |
+| 2 | [中国对粉丝制作的孙悟空和林黛玉AI视频感到不满 - The New York Times](https://news.google.com/read/CBMikAFBVV95cUxQN0dONjM1TWMtclN4S0RKcENwekcyWl9OQ2RvUUVFenliZVdZMmFhSjN1czlBRmxjVVJuYVFsRXBMREVXNE51MG1yN3hNWmR3eGZzbXZwUDJTc1Q2V05SRzZQQlFUcElER1IwdjVCZzdXbzVNbzc2a3c0bFY0YVlvMHdndFpoV1hZRlFyZUJBRlM?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | AI/IP |
+| 3 | [机器人集合店：有流量，钱难赚](https://mp.weixin.qq.com/s/yZvsd0HlcMGWjTVunqoKsA) | 钛媒体 | IP |
+| 4 | [聊一聊：在你老家，最难翻译成普通话的方言词语是啥？](https://mp.weixin.qq.com/s/wRyTETf1hTRl1W7F1CBH7g) | 差评 | 回乡 |
+| 5 | [第一批重金找FDE的县城老板，被坑惨](https://mp.weixin.qq.com/s/uRObJtfQWGJPEJdgvtZxkw) | 虎嗅App | 回乡 |
 
 > 共 6 条，以上为 TOP 5。
 
@@ -66,13 +66,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [想做个人副业别乱买服务器！我的 5 个月真实开销分享](https://juejin.cn/post/7701510609427185690) | juejin | 变现 |
-| 2 | [8点1氪丨姆巴佩中国代言收入近2200万欧元；长鑫科技已被纳入上证指数；宇树科技：前三季度净利润3.87亿元，同比增长270.54%](https://www.36kr.com/p/4046203581289345) | 36氪 · 24小时热榜 | 变现 |
-| 3 | [微软单季从 OpenAI 相关合作获得 100 亿美元收入，占当季总营收近 11%](https://www.aibase.com/zh/news/31953) | Readhub · AI | AI/变现 |
-| 4 | [腾讯 WorkBuddy 开放平台内测 Skill 变现功能，开发者可自主定价](https://www.aibase.com/zh/news/31958) | Readhub · AI | AI/变现 |
-| 5 | [消息称腾讯WorkBuddy开放平台内测Skill变现功能，开发者可自主定价](https://www.aibase.com/news/31958) | AIbase | 变现 |
+| 1 | [8点1氪丨姆巴佩中国代言收入近2200万欧元；长鑫科技已被纳入上证指数；宇树科技：前三季度净利润3.87亿元，同比增长270.54%](https://www.36kr.com/p/4046203581289345) | 36氪 · 24小时热榜 | 变现 |
+| 2 | [史诗级封号收入](https://juejin.cn/post/7701870817483259958) | 掘金 · 人工智能本周最热 | AI/变现 |
+| 3 | [消息称腾讯WorkBuddy开放平台内测Skill变现功能，开发者可自主定价](https://www.aibase.com/news/31958) | AIbase | 变现 |
+| 4 | [想做个人副业别乱买服务器！我的 5 个月真实开销分享](https://juejin.cn/post/7701510609427185690) | juejin | 变现 |
+| 5 | [随着战争给克里姆林宫的财政带来压力，普京正从更多渠道寻找新的收入来源 - The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdU1PeXZneVpqUFhJbkJmYmlKOVJ2UTUwMEhQUmpNSlpUZUhMLXJGejRVUlExRTQxYzNFUDM3bGRiTFE4dmR0bU9DX1luNlRBMWZrQTdlb19CTXhsVUpTcFVEdGhlRzQwQ1FRa18xNGRsZFg3V3NSZVdsc09FeDlMNzJ2U0RGd2lfdm9vNDl0NzA0YmF3YW5oWjNZN3FsdWU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现/情感 |
 
-> 共 12 条，以上为 TOP 5。
+> 共 13 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-29T07:42:35.232Z
-- **总资讯数**：4470 条原始 → 772 条筛选后
+- **聚合时间**：2026-10-29T14:41:52.775Z
+- **总资讯数**：4553 条原始 → 776 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
