@@ -12,9 +12,9 @@
 |---|------|------|------|
 | 1 | [与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长](https://sspai.com/post/116585) | sspai | 认知 |
 | 2 | [让读书笔记不再吃灰：我做了一款跨平台书摘管理工具](https://sspai.com/post/115688) | sspai | 认知 |
-| 3 | [从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole](https://sspai.com/post/113843) | sspai | 其他 |
-| 4 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
-| 5 | [Gemini 4 Argon（高）：智能、性能和价格分析 / Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
+| 3 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
+| 4 | [Gemini 4 Argon（高）：智能、性能和价格分析 / Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
+| 5 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [美国银行恳请您不要与人工智能助手分享您的密码 / Bank of America Kindly Asks That You Don't Share Your Password With Your AI Assistant](https://yro.slashdot.org/story/26/10/28/2247205/bank-of-america-kindly-asks-that-you-dont-share-your-password-with-your-ai-assistant) | Slashdot | AI |
-| 2 | [人工智能高管是否太脱离现实，无法为公众构建人工智能？ / Are AI Execs Too Out of Touch To Build For the General Public?](https://slashdot.org/story/26/10/28/199238/are-ai-execs-too-out-of-touch-to-build-for-the-general-public) | Slashdot | AI |
-| 3 | [Anthropic’s business plan: Build God or die trying](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive) | The Verge | AI |
-| 4 | [为什么人工智能智能眼镜需要隐私优先的方法 / Why AI smart glasses need a privacy-first approach](https://www.techradar.com/pro/why-ai-smart-glasses-need-a-privacy-first-approach) | TechRadar | AI |
-| 5 | [[分享创造] 万圣节快到了, 拿 Claude 做了个小鬼抓南瓜的在线游戏](https://www.v2ex.com/t/1252994) | V2EX (创意工作者社区) | AI |
+| 1 | [Are AI Execs Too Out of Touch To Build For the General Public?](https://slashdot.org/story/26/10/28/199238/are-ai-execs-too-out-of-touch-to-build-for-the-general-public) | Slashdot | AI |
+| 2 | [Anthropic 的商业计划：要么创造上帝，要么死去 / Anthropic’s business plan: Build God or die trying](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive) | The Verge | AI |
+| 3 | [Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round](https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round) | TechCrunch | AI |
+| 4 | [Building a multiplayer game world with autonomous Fable-class models](https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world) | Readhub · AI | AI |
+| 5 | [一句话叫车：货拉拉小程序 AI 叫车实战](https://juejin.cn/post/7701490621295607849) | juejin | AI |
 
-> 共 19 条，以上为 TOP 5。
+> 共 17 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [谷歌推出 Gemini 4 Carbon，在网络安全方面实现“重大飞跃” / Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier) | The Verge | AI |
-| 2 | [Deepgram 收购 Pipecat 制造商 Daily 以加强其语音人工智能基础设施 / Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure](https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure) | TechCrunch | AI |
-| 3 | [Anthropic 刚刚推出了工具，向公司展示他们的人工智能支出正在购买什么 / Anthropic just launched tools to show companies what their AI spending is buying](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying) | TechCrunch | AI |
-| 4 | [Apple Creator Studio 更新了一系列 AI 功能，以及用于 Keynote 的新开放 JSON 文件格式 / Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote](https://daringfireball.net/linked/2026/10/27/apple-creator-studio-updates) | Daring Fireball | AI |
-| 5 | [谷歌发布了Gemini 4 Carbon——其最新的前沿AI模型，但你无法使用它 / Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use](https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use) | Ars Technica | AI |
+| 1 | [人工智能的突破使数十年的计算机科学研究变得“无关紧要” / An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’](https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant) | Wired | AI |
+| 2 | [人类工程师宣布编程面试已死 / Anthropic Engineer Declares the Coding Interview Dead](https://slashdot.org/story/26/10/28/2222217/anthropic-engineer-declares-the-coding-interview-dead) | Slashdot | AI |
+| 3 | [OpenAI 支持的 Thrive Holdings 收购 ADT / OpenAI-backed Thrive Holdings acquires ADT](https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt) | TechCrunch | AI |
+| 4 | [Meta quietly launches an AI fashion app called Style Sketch](https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch) | TechCrunch | AI |
+| 5 | [Palantir 前高管从 a16z 获得 1700 万美元推出 Dream，以构建用于建筑的人工智能世界模型 / Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction](https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction) | TechCrunch | AI |
 
-> 共 68 条，以上为 TOP 5。
+> 共 71 条，以上为 TOP 5。
 
 ---
 
@@ -58,8 +58,6 @@
 | 4 | [聊一聊：在你老家，最难翻译成普通话的方言词语是啥？](https://mp.weixin.qq.com/s/wRyTETf1hTRl1W7F1CBH7g) | 差评 | 回乡 |
 | 5 | [第一批重金找FDE的县城老板，被坑惨](https://mp.weixin.qq.com/s/uRObJtfQWGJPEJdgvtZxkw) | 虎嗅App | 回乡 |
 
-> 共 6 条，以上为 TOP 5。
-
 ---
 
 ## 💰 变现雷达
@@ -68,11 +66,11 @@
 |---|------|------|------|
 | 1 | [8点1氪丨姆巴佩中国代言收入近2200万欧元；长鑫科技已被纳入上证指数；宇树科技：前三季度净利润3.87亿元，同比增长270.54%](https://www.36kr.com/p/4046203581289345) | 36氪 · 24小时热榜 | 变现 |
 | 2 | [史诗级封号收入](https://juejin.cn/post/7701870817483259958) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 3 | [消息称腾讯WorkBuddy开放平台内测Skill变现功能，开发者可自主定价](https://www.aibase.com/news/31958) | AIbase | 变现 |
-| 4 | [想做个人副业别乱买服务器！我的 5 个月真实开销分享](https://juejin.cn/post/7701510609427185690) | juejin | 变现 |
-| 5 | [随着战争给克里姆林宫的财政带来压力，普京正从更多渠道寻找新的收入来源 - The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdU1PeXZneVpqUFhJbkJmYmlKOVJ2UTUwMEhQUmpNSlpUZUhMLXJGejRVUlExRTQxYzNFUDM3bGRiTFE4dmR0bU9DX1luNlRBMWZrQTdlb19CTXhsVUpTcFVEdGhlRzQwQ1FRa18xNGRsZFg3V3NSZVdsc09FeDlMNzJ2U0RGd2lfdm9vNDl0NzA0YmF3YW5oWjNZN3FsdWU0?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现/情感 |
+| 3 | [想做个人副业别乱买服务器！我的 5 个月真实开销分享](https://juejin.cn/post/7701510609427185690) | juejin | 变现 |
+| 4 | [您何时能收到11月份的社会保障金和补充保障收入？ - Yahoo Finance](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUS05YzRQWk9FSXV2aTd2cnZhMjF1LWRqZGJybjQ1djJwNGtmYUppTGZvMEtEcmg4OXcxLUNXMEhWekM5WVN1WXF6NDBZdDI0MEpBWDR6MDZKSmR0cWN0WUJIWE1WVGdWbFFvbzBmajBLYWVtSFJ4U3UzbUNTOHNkbmNrb0xjOWJNdk1uSXRhb19hYkd3bVpDX0VwM0dWSHpxbGs1QWRRazFfUHFlY016QUk0SzZicVo4cmF5WVhZUExPRHZSeVZhX3VLOVNfcVR1TG50ODFLU2cydEhFY1BHdGZ0RFBaVE8tZ2xrWEhvNjRsX2lRN2lFQWxKaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
+| 5 | [Ask HN: 你有每月收入超过500美元的副业吗？](https://news.ycombinator.com/item?id=50293459) | news.ycombinator.com | 变现 |
 
-> 共 13 条，以上为 TOP 5。
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-29T14:41:52.775Z
-- **总资讯数**：4553 条原始 → 776 条筛选后
+- **聚合时间**：2026-10-29T20:42:13.766Z
+- **总资讯数**：4420 条原始 → 756 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
