@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-10-29（周四）
+# 素心拾穗 · 每日情报 · 2026-10-30（周五）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长](https://sspai.com/post/116585) | sspai | 认知 |
-| 2 | [让读书笔记不再吃灰：我做了一款跨平台书摘管理工具](https://sspai.com/post/115688) | sspai | 认知 |
-| 3 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
-| 4 | [Gemini 4 Argon（高）：智能、性能和价格分析 / Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
-| 5 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
+| 1 | [一块面包，就让全球机器人集体破防？幕后真相终于被这家黑马破解](https://aiera.com.cn/asi-post.html?id=121398) | 新智元 | 其他 |
+| 2 | [AI不光得会说，还不能乱插嘴！Omni AI变革实时交互](https://aiera.com.cn/asi-post.html?id=121377) | 新智元 | AI |
+| 3 | [AI王座，一夜两度易主！神秘模型Obsidian 3泄露](https://aiera.com.cn/asi-post.html?id=121317) | 新智元 | AI |
+| 4 | [为什么说工具是Agent的手？工具的入餐出餐决定工具的效果！(6/12...](https://mp.weixin.qq.com/s/Zl7YdHBjVxdlOOhxwRLXUA) | 架构师之路 | AI |
+| 5 | [TRAE给开发者配了个人助理，终于不用挨个催进度了..](https://mp.weixin.qq.com/s/rT-kWxB7rOKDz7v6ncUskg) | 夕小瑶科技说 | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Are AI Execs Too Out of Touch To Build For the General Public?](https://slashdot.org/story/26/10/28/199238/are-ai-execs-too-out-of-touch-to-build-for-the-general-public) | Slashdot | AI |
-| 2 | [Anthropic 的商业计划：要么创造上帝，要么死去 / Anthropic’s business plan: Build God or die trying](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive) | The Verge | AI |
-| 3 | [Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round](https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round) | TechCrunch | AI |
-| 4 | [Building a multiplayer game world with autonomous Fable-class models](https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world) | Readhub · AI | AI |
-| 5 | [一句话叫车：货拉拉小程序 AI 叫车实战](https://juejin.cn/post/7701490621295607849) | juejin | AI |
+| 1 | [一句话叫车：货拉拉小程序 AI 叫车实战](https://juejin.cn/post/7701490621295607849) | juejin | AI |
+| 2 | [Anthropic’s business plan: Build God or die trying](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive) | The Verge | AI |
+| 3 | [Sam Altman says OpenAI will point its robots at building data centres](https://thenextweb.com/news/sam-altman-openai-robots-self-replicating-data-centres-cheeky-pint) | The Next Web | AI |
+| 4 | [纽约巨人队的一位共同所有者如何利用人工智能，携手哥谭FC打造女子体育劲旅 / How a co-owner of the New York Giants is using AI to build a women's sports powerhouse with Gotham FC](https://www.businessinsider.com/carolyn-tisch-blodgett-womens-sports-gotham-fc-new-york-giants-2026-10) | Business Insider | AI/人文 |
+| 5 | [Building a multiplayer game world with autonomous Fable-class models](https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world) | Readhub · AI | AI |
 
-> 共 17 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [人工智能的突破使数十年的计算机科学研究变得“无关紧要” / An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’](https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant) | Wired | AI |
-| 2 | [人类工程师宣布编程面试已死 / Anthropic Engineer Declares the Coding Interview Dead](https://slashdot.org/story/26/10/28/2222217/anthropic-engineer-declares-the-coding-interview-dead) | Slashdot | AI |
-| 3 | [OpenAI 支持的 Thrive Holdings 收购 ADT / OpenAI-backed Thrive Holdings acquires ADT](https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt) | TechCrunch | AI |
-| 4 | [Meta quietly launches an AI fashion app called Style Sketch](https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch) | TechCrunch | AI |
-| 5 | [Palantir 前高管从 a16z 获得 1700 万美元推出 Dream，以构建用于建筑的人工智能世界模型 / Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction](https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction) | TechCrunch | AI |
+| 1 | [刚刚，Gemini 4 Carbon发布，谷歌重回世界第一！](https://aiera.com.cn/asi-post.html?id=121433) | 新智元 | AI |
+| 2 | [最后一天赶紧蹬！Codex 200刀额度砍半，ChatGPT入口大更新](https://aiera.com.cn/asi-post.html?id=121366) | 新智元 | AI |
+| 3 | [刚刚，国产模型拿下三大榜单第一！年底全面开源](https://aiera.com.cn/asi-post.html?id=121345) | 新智元 | AI |
+| 4 | [GPT-8来了，AI公司要被一口吃掉？这家黑马给出另一种答案](https://aiera.com.cn/asi-post.html?id=121295) | 新智元 | AI |
+| 5 | [Gemini 4 Carbon 发布，重回巅峰](https://mp.weixin.qq.com/s/HZF20fgB8xi2VHYQIJ6edw) | 夕小瑶科技说 | AI |
 
-> 共 71 条，以上为 TOP 5。
+> 共 59 条，以上为 TOP 5。
 
 ---
 
@@ -53,10 +53,9 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [中国对粉丝制作的孙悟空和林黛玉AI视频感到不满 - The New York Times](https://news.google.com/read/CBMikAFBVV95cUxQN0dONjM1TWMtclN4S0RKcENwekcyWl9OQ2RvUUVFenliZVdZMmFhSjN1czlBRmxjVVJuYVFsRXBMREVXNE51MG1yN3hNWmR3eGZzbXZwUDJTc1Q2V05SRzZQQlFUcElER1IwdjVCZzdXbzVNbzc2a3c0bFY0YVlvMHdndFpoV1hZRlFyZUJBRlM?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | AI/IP |
-| 3 | [机器人集合店：有流量，钱难赚](https://mp.weixin.qq.com/s/yZvsd0HlcMGWjTVunqoKsA) | 钛媒体 | IP |
-| 4 | [聊一聊：在你老家，最难翻译成普通话的方言词语是啥？](https://mp.weixin.qq.com/s/wRyTETf1hTRl1W7F1CBH7g) | 差评 | 回乡 |
-| 5 | [第一批重金找FDE的县城老板，被坑惨](https://mp.weixin.qq.com/s/uRObJtfQWGJPEJdgvtZxkw) | 虎嗅App | 回乡 |
+| 2 | [回乡偶书](https://www.huxiu.com/article/4901558.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 3 | [我回到长岛老家，探寻伊朗战争如何影响中期选举](https://on.wsj.com/4yUdKjp) | on.wsj.com | 回乡 |
+| 4 | [Instagram 重启长视频业务，试图以最高 50 万美元吸引 YouTube 创作者](https://www.ithome.com/1/019/804.htm) | IT之家 (ITHome) | IP |
 
 ---
 
@@ -64,13 +63,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [8点1氪丨姆巴佩中国代言收入近2200万欧元；长鑫科技已被纳入上证指数；宇树科技：前三季度净利润3.87亿元，同比增长270.54%](https://www.36kr.com/p/4046203581289345) | 36氪 · 24小时热榜 | 变现 |
-| 2 | [史诗级封号收入](https://juejin.cn/post/7701870817483259958) | 掘金 · 人工智能本周最热 | AI/变现 |
+| 1 | [10月，我们推荐这 20位独立开发者，和他们的100款产品](https://mp.weixin.qq.com/s/7bufBGEzRS4KWqfOUO10lg) | FounderPark | 变现 |
+| 2 | [史诗级封号收入](https://juejin.cn/post/7701870817483259958) | juejin | 变现 |
 | 3 | [想做个人副业别乱买服务器！我的 5 个月真实开销分享](https://juejin.cn/post/7701510609427185690) | juejin | 变现 |
-| 4 | [您何时能收到11月份的社会保障金和补充保障收入？ - Yahoo Finance](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUS05YzRQWk9FSXV2aTd2cnZhMjF1LWRqZGJybjQ1djJwNGtmYUppTGZvMEtEcmg4OXcxLUNXMEhWekM5WVN1WXF6NDBZdDI0MEpBWDR6MDZKSmR0cWN0WUJIWE1WVGdWbFFvbzBmajBLYWVtSFJ4U3UzbUNTOHNkbmNrb0xjOWJNdk1uSXRhb19hYkd3bVpDX0VwM0dWSHpxbGs1QWRRazFfUHFlY016QUk0SzZicVo4cmF5WVhZUExPRHZSeVZhX3VLOVNfcVR1TG50ODFLU2cydEhFY1BHdGZ0RFBaVE8tZ2xrWEhvNjRsX2lRN2lFQWxKaw?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
-| 5 | [Ask HN: 你有每月收入超过500美元的副业吗？](https://news.ycombinator.com/item?id=50293459) | news.ycombinator.com | 变现 |
+| 4 | [8点1氪丨姆巴佩中国代言收入近2200万欧元；长鑫科技已被纳入上证指数；宇树科技：前三季度净利润3.87亿元，同比增长270.54%](https://www.36kr.com/p/4046203581289345) | 36氪 · 24小时热榜 | 变现 |
+| 5 | [除了卖咖啡和当二房东，书店还能咋赚钱？](https://www.huxiu.com/article/4901562.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
 
-> 共 10 条，以上为 TOP 5。
+> 共 14 条，以上为 TOP 5。
 
 ---
 
@@ -82,8 +81,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-29T20:42:13.766Z
-- **总资讯数**：4420 条原始 → 756 条筛选后
+- **聚合时间**：2026-10-30T01:23:17.712Z
+- **总资讯数**：4437 条原始 → 767 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
