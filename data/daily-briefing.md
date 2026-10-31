@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [突发！ChatGPT Pro所有档位额度，官宣翻倍](https://aiera.com.cn/asi-post.html?id=121613) | 新智元 | AI |
-| 2 | [刚刚，奥特曼自曝OpenAI新模型：让我兴奋到两晚没睡！](https://aiera.com.cn/asi-post.html?id=121600) | 新智元 | AI |
-| 3 | [刚刚，中国首个AI定义芯片诞生！](https://aiera.com.cn/asi-post.html?id=121582) | 新智元 | AI |
-| 4 | [连拿四个第一，力压Genie 4和Atlas！中国团队造出真物理世界模型](https://aiera.com.cn/asi-post.html?id=121544) | 新智元 | AI |
-| 5 | [GPT-6「看不懂 3D」实锤！250道题只拿0.53分，Claude没及格](https://aiera.com.cn/asi-post.html?id=121507) | 新智元 | AI |
+| 1 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
+| 2 | [Gemini 4 Argon（高）：智能、性能和价格分析 / Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
+| 3 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
+| 4 | [Functional Ultrasound Imaging from Scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) | Hacker News | 人文 |
+| 5 | [双子座 4 氩 / Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -27,10 +27,10 @@
 | 1 | [大型科技公司现已投入超过 3 万亿美元用于人工智能建设 / Big Tech has now committed more than $3 trillion to the AI build-out](https://thenextweb.com/news/big-tech-3-trillion-ai-spending-commitments) | The Next Web | AI |
 | 2 | [Anthropic says a malicious actor used access to Cursor's marketplace to publish a "tampered" copy of the Claude Code extension, which it didn't build or publish (Felix Rieseberg/@felixrieseberg)](https://www.techmeme.com/261031/p2) | Techmeme | AI |
 | 3 | [腾讯 Buddy One 来了，办公全家桶一键打通WorkBuddy（附教程）](https://juejin.cn/post/7701870817484210230) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [浏览器的“无痕模式”是当代最大安慰剂？我用 30 行 JS 提取硬件指纹，跨网络换代理照样精准锁定你](https://juejin.cn/post/7700462324586528778) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [Jev 实战：为AI工作流引入轻量决策层 x10倍提速｜得物技术](https://juejin.cn/post/7701614603223203881) | juejin | AI |
+| 4 | [Jev 实战：为AI工作流引入轻量决策层 x10倍提速｜得物技术](https://juejin.cn/post/7701614603223203881) | juejin | AI |
+| 5 | [[分享创造] ai 把我的电脑弄挂了，我该怎么办？](https://www.v2ex.com/t/1253449) | V2EX (创意工作者社区) | AI |
 
-> 共 13 条，以上为 TOP 5。
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [马斯克脑机接口最狠升级！Grok接入大脑，意念可操控AI了](https://aiera.com.cn/asi-post.html?id=121561) | 新智元 | AI |
-| 2 | [人类要关停，AI不能躲！OpenAI更新模型家法](https://aiera.com.cn/asi-post.html?id=121519) | 新智元 | AI |
-| 3 | [Meta悄然推出一款人工智能时尚应用程序，用于虚拟试衣 / Meta quietly launches an AI fashion app for virtually trying on clothes](https://www.engadget.com/2302003/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes) | Engadget | AI |
-| 4 | [TBC launches Mischief, an AI video model shaped by brain cells](https://thenextweb.com/news/tbc-mischief-neuron-derived-ai-video-model) | The Next Web | AI |
-| 5 | [Apple Creator Studio 更新了一系列 AI 功能，以及用于 Keynote 的新开放 JSON 文件格式 / Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote](https://daringfireball.net/linked/2026/10/27/apple-creator-studio-updates) | Daring Fireball | AI |
+| 1 | [Meta quietly launches an AI fashion app for virtually trying on clothes](https://www.engadget.com/2302003/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes) | Engadget | AI |
+| 2 | [据英国《金融时报》报道，OpenAI 将融资目标下调至 200 亿美元 / OpenAI cuts its funding round target to $20bn, FT reports](https://thenextweb.com/news/openai-funding-round-20bn-target-cut-ft) | The Next Web | AI |
+| 3 | [Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote](https://daringfireball.net/linked/2026/10/27/apple-creator-studio-updates) | Daring Fireball | AI |
+| 4 | [约翰·特努斯 (John Ternus) 表示，苹果公司并不想“为了人工智能而推出人工智能”，而蒂姆·库克 (Tim Cook) 在政策方面“无论我在哪里提出要求，都可以提供帮助”；特纳斯尚未与特朗普会面（史蒂文·利维/连线） / John Ternus says Apple doesn't "want to ship AI for AI's sake" and that Tim Cook is "available to help wherever I ask" on policy; Ternus has yet to meet Trump (Steven Levy/Wired)](https://www.techmeme.com/261031/p1) | Techmeme | AI |
+| 5 | [资料来源：OpenAI 目前在最新一轮融资中寻求约 200 亿美元的估值，估值从 1.4T 美元的估值 300 亿美元增至约 200 亿美元，原因是一些投资者在人工智能抛售期间削减了投资承诺（《金融时报》） / Sources: OpenAI now seeks ~$20B at a $1.25T valuation for its latest round, from $30B at a $1.4T valuation, as some investors cut commitments amid an AI selloff (Financial Times)](https://www.techmeme.com/261030/p30) | Techmeme | AI |
 
-> 共 53 条，以上为 TOP 5。
+> 共 50 条，以上为 TOP 5。
 
 ---
 
@@ -53,7 +53,9 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [电视的退场是一场被低估的流量转移](https://www.huxiu.com/article/4901904.html?f=rss) | 虎嗅 (Huxiu) | IP |
+| 2 | [开源！公众号排版+一键发布工具懒人版](https://juejin.cn/post/7701894834219155496) | juejin | IP |
+| 3 | [[分享创造] 周末不想再刷短视频？给浏览器加个快乐入口： xrhshui.com](https://www.v2ex.com/t/1253410) | V2EX (创意工作者社区) | IP |
+| 4 | [电视的退场是一场被低估的流量转移](https://www.huxiu.com/article/4901904.html?f=rss) | 虎嗅 (Huxiu) | IP |
 
 ---
 
@@ -62,9 +64,6 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [史诗级封号收入](https://juejin.cn/post/7701870817483259958) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 2 | [想做个人副业别乱买服务器！我的 5 个月真实开销分享](https://juejin.cn/post/7701510609427185690) | juejin | 变现 |
-| 3 | [[问与答] 算力销售赚钱吗](https://www.v2ex.com/t/1253383) | V2EX (创意工作者社区) | AI/变现 |
-| 4 | [工信部：2026 年前三季度我国软件业务收入 118031 亿元，同比增长 8.4%](https://www.ithome.com/1/020/450.htm) | IT之家 (ITHome) | 变现 |
 
 ---
 
@@ -76,8 +75,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-31T07:36:13.560Z
-- **总资讯数**：3848 条原始 → 635 条筛选后
+- **聚合时间**：2026-10-31T13:55:58.044Z
+- **总资讯数**：3856 条原始 → 617 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
