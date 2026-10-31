@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [基础标签人工智能 / BaseTab AI](https://www.producthunt.com/products/basetab-ai) | producthunt | AI |
-| 2 | [Codex 定价：Pro 有无限制的 5.6 使用 / Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
-| 3 | [Gemini 4 Argon（高）：智能、性能和价格分析 / Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
-| 4 | [Anthropic 的 IPO 招股说明书真是太疯狂了 / Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
-| 5 | [从头开始功能性超声成像 / Functional Ultrasound Imaging from Scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) | Hacker News | 人文 |
+| 1 | [Agent架构，know-how怎么设计?(7/12)](https://mp.weixin.qq.com/s/ALaR8GSq4jOnXNkct5jgLQ) | 架构师之路 | AI |
+| 2 | [写给用模型的人类：怎样使用AI更有野心](https://mp.weixin.qq.com/s/iHhuwaDFzKHqek-sY8I5PA) | 夕小瑶科技说 | AI |
+| 3 | [拿到无限Token后，这位27岁程序员要用两个人重写思科98%旧代码](https://mp.weixin.qq.com/s/MF-GAJyks0tJxAh0ofxtrQ) | AI前线 | AI |
+| 4 | [31省份居民消费榜：谁最能花钱?](https://mp.weixin.qq.com/s/tVysXq3-c-rkwaZ3BjNg8w) | 财经杂志 | 其他 |
+| 5 | [拉斯·特维德对话邵怡蕾：AI时代的就业选择与财富流向](https://mp.weixin.qq.com/s/BNHPKa_-wGA_XlahsCYQ9w) | 财经杂志 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [大型科技公司现已投入超过 3 万亿美元用于人工智能建设 / Big Tech has now committed more than $3 trillion to the AI build-out](https://thenextweb.com/news/big-tech-3-trillion-ai-spending-commitments) | The Next Web | AI |
-| 2 | [Sources: Meta built a prototype humanoid robot with Chinese firm Fourier in three months and is building a second; Meta says it has no plans to sell these units (Jyoti Mann/The Information)](https://www.techmeme.com/261031/p10) | Techmeme | AI |
-| 3 | [Anthropic says a malicious actor used access to Cursor's marketplace to publish a "tampered" copy of the Claude Code extension, which it didn't build or publish (Felix Rieseberg/@felixrieseberg)](https://www.techmeme.com/261031/p2) | Techmeme | AI |
-| 4 | [腾讯 Buddy One 来了，办公全家桶一键打通WorkBuddy（附教程）](https://juejin.cn/post/7701870817484210230) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [Jev 实战：为AI工作流引入轻量决策层 x10倍提速｜得物技术](https://juejin.cn/post/7701614603223203881) | juejin | AI |
+| 1 | [Sources: Meta built a prototype humanoid robot with Chinese firm Fourier in three months and is building a second; Meta says it has no plans to sell these units (Jyoti Mann/The Information)](https://www.techmeme.com/261031/p10) | Techmeme | AI |
+| 2 | ['They're not done': Oracle co-founder Larry Ellison says AI can finally help us 'finish' building apps, dismissing SaaSpocalypse fears](https://www.techradar.com/pro/theyre-not-done-oracle-co-founder-larry-ellison-says-ai-can-finally-help-us-finish-building-apps-dismissing-saaspocalypse-fears) | TechRadar | AI |
+| 3 | [腾讯 Buddy One 来了，办公全家桶一键打通WorkBuddy（附教程）](https://juejin.cn/post/7701870817484210230) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [Jev 实战：为AI工作流引入轻量决策层 x10倍提速｜得物技术](https://juejin.cn/post/7701614603223203881) | juejin | AI |
+| 5 | [[分享创造] 做了个给 2D 游戏用的 AI 精灵图生成器：一张角色图生成待机、攻击动画，直接导出精灵图和 JSON](https://www.v2ex.com/t/1253461) | V2EX (创意工作者社区) | AI |
 
-> 共 9 条，以上为 TOP 5。
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [据报道 OpenAI 降低了新一轮融资目标 / OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round) | TechCrunch | AI |
-| 2 | [据英国《金融时报》报道，OpenAI 将融资目标下调至 200 亿美元 / OpenAI cuts its funding round target to $20bn, FT reports](https://thenextweb.com/news/openai-funding-round-20bn-target-cut-ft) | The Next Web | AI |
-| 3 | [约翰·特努斯 (John Ternus) 告诉《连线》杂志，苹果不会为了人工智能而推出人工智能 / John Ternus tells WIRED Apple won’t ship AI for AI’s sake](https://thenextweb.com/news/john-ternus-wired-apple-ai-for-ais-sake) | The Next Web | AI |
-| 4 | [特朗普宣布进口机器人对国家安全构成威胁 / Trump declares robot imports a national security threat](https://thenextweb.com/news/trump-robot-imports-national-security-section-232) | The Next Web | AI |
-| 5 | [Apple Creator Studio 更新了一系列 AI 功能，以及用于 Keynote 的新开放 JSON 文件格式 / Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote](https://daringfireball.net/linked/2026/10/27/apple-creator-studio-updates) | Daring Fireball | AI |
+| 1 | [48小时像素级复刻谷歌最强世界模型？腾讯混元用开源的Hy-Nomas...](https://mp.weixin.qq.com/s/TStM0ccr_LgV-H8jVm40Wg) | AI前线 | AI |
+| 2 | [刚刚，DeepSeek 开源新 Agent 架构：可接Github和飞书，研究让AI...](https://mp.weixin.qq.com/s/saE3M7h9bhzzvq_6gaoHaQ) | InfoQ | AI |
+| 3 | [GitLab19.4发布，新增目标驱动型智能体，强化成本控制](https://mp.weixin.qq.com/s/Kk5kSVBK3z1ZFRByQ1YgxA) | InfoQ | AI |
+| 4 | [DeepSeek千亿融资曝光/于东来...](https://mp.weixin.qq.com/s/zZCUNPQ65THZhu4n8XLyjQ) | 爱范儿 | AI |
+| 5 | [大模型从60分走到90分，下一代AI的突破在哪里？对话上交大陈明达](https://mp.weixin.qq.com/s/8cDiFIRvP2oh-UqQLHHB1A) | DeepTech深科技 | AI |
 
-> 共 51 条，以上为 TOP 5。
+> 共 60 条，以上为 TOP 5。
 
 ---
 
@@ -52,8 +52,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [开源！公众号排版+一键发布工具懒人版](https://juejin.cn/post/7701894834219155496) | juejin | IP |
+| 1 | [第一批返乡创业的中产，已经“旺铺招租”了](https://mp.weixin.qq.com/s/zktcKe8dMCTrC_zyVK3xlw) | 虎嗅App | 回乡 |
+| 2 | [独生子女的合作VS.在短视频下的成长](https://mp.weixin.qq.com/s/O3Hn0b3YscIjpGmofYk1oA) | 槽边往事 | 认知/IP |
+| 3 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 4 | [开源！公众号排版+一键发布工具懒人版](https://juejin.cn/post/7701894834219155496) | juejin | IP |
 
 ---
 
@@ -61,7 +63,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [史诗级封号收入](https://juejin.cn/post/7701870817483259958) | 掘金 · 人工智能本周最热 | AI/变现 |
+| 1 | [短剧的通胀危机：为何AI没有让内容生意更好赚钱?](https://mp.weixin.qq.com/s/MTZ_Yjn7lS3fqCRafKEuzA) | 钛媒体 | AI/变现 |
+| 2 | [史诗级封号收入](https://juejin.cn/post/7701870817483259958) | 掘金 · 人工智能本周最热 | AI/变现 |
+| 3 | [一人公司，单月收入近10万，我做了这三门生意（OPC系列-3）](https://juejin.cn/post/7702438435248160804) | juejin | 变现 |
 
 ---
 
@@ -73,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-10-31T18:01:08.214Z
-- **总资讯数**：3725 条原始 → 564 条筛选后
+- **聚合时间**：2026-10-31T22:53:04.229Z
+- **总资讯数**：3757 条原始 → 568 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
