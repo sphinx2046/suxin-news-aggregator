@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [ChatGPT要和Codex抢额度了！奥特曼一声令下，12月Token全部合池](https://aiera.com.cn/asi-post.html?id=121888) | 新智元 | AI |
-| 2 | [AI推导出「外星数学」！38年无解混沌难题，被GPT-6联手Claude终结](https://aiera.com.cn/asi-post.html?id=121871) | 新智元 | AI |
-| 3 | [今天，纪念那些死去的模型](https://aiera.com.cn/asi-post.html?id=121853) | 新智元 | AI |
-| 4 | [奥特曼暴论被骂翻！普通人电脑装内存太浪费，不如统一交给AI](https://aiera.com.cn/asi-post.html?id=121846) | 新智元 | AI/情感 |
-| 5 | [数亿美元做数学！奥特曼：OpenAI还有发现没公开](https://aiera.com.cn/asi-post.html?id=121804) | 新智元 | AI |
+| 1 | [存算一体与感存算融合：类脑视觉的技术突破](https://juejin.cn/post/7703007994455343138) | juejin | 其他 |
+| 2 | [用 WorkBuddy+DeepSeek 跑了30天自动矩阵，事情没那么简单](https://juejin.cn/post/7702247558392070171) | juejin | AI |
+| 3 | [为什么几乎所有的知名开源项目都是外国人写的？](https://juejin.cn/post/7703046191176990771) | juejin | 其他 |
+| 4 | [Codex Co²：AI 时代的结对编程，应该是怎样的？](https://juejin.cn/post/7702592913591517203) | juejin | AI |
+| 5 | [我把 0.6B 大模型塞进安卓手机：596 秒到 10 秒](https://juejin.cn/post/7702408998457344026) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [谷歌正在为 NASA 打造机器人医生，用于未来的深空任务 / Google is building NASA a robot doctor for use on future deep space missions](https://www.techradar.com/pro/google-is-building-nasa-a-robot-doctor-for-use-on-future-deep-space-missions) | TechRadar | AI |
-| 2 | [腾讯 Buddy One 来了，办公全家桶一键打通WorkBuddy（附教程）](https://juejin.cn/post/7701870817484210230) | 掘金 · 人工智能本周最热 | AI |
-| 3 | [浏览器的“无痕模式”是当代最大安慰剂？我用 30 行 JS 提取硬件指纹，跨网络换代理照样精准锁定你](https://juejin.cn/post/7700462324586528778) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [WEF：2026 年金融服务业人工智能行动指南](https://www.199it.com/archives/1846482.html) | Readhub · AI | AI |
-| 5 | [[分享创造] 做了一个网页旁的画布：收藏带来源，圈出细节交给 Codex / Claude Code](https://www.v2ex.com/t/1253627) | V2EX (创意工作者社区) | AI |
+| 1 | [MCP 开发实战：把已知可用的后端 API 接入 Agent，让AI使用。](https://juejin.cn/post/7702736770072510499) | juejin | AI |
+| 2 | [Google is building NASA a robot doctor for use on future deep space missions](https://www.techradar.com/pro/google-is-building-nasa-a-robot-doctor-for-use-on-future-deep-space-missions) | TechRadar | AI |
+| 3 | [腾讯 Buddy One 来了，办公全家桶一键打通WorkBuddy（附教程）](https://juejin.cn/post/7701870817484210230) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [Jev 实战：为AI工作流引入轻量决策层 x10倍提速｜得物技术](https://juejin.cn/post/7701614603223203881) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [[分享发现] 即兴喜剧和 AI 很像？？](https://www.v2ex.com/t/1253862) | V2EX (创意工作者社区) | AI |
 
-> 共 9 条，以上为 TOP 5。
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [驳AI泡沫破灭论！Anthropic成「垃圾股」，OpenAI融资爆降都是胡扯](https://aiera.com.cn/asi-post.html?id=121821) | 新智元 | AI |
-| 2 | [Apple智能接入阿里千问11月4日上线；OpenAI官宣合并ChatGPT和Cod...](https://mp.weixin.qq.com/s/4mqbBMhwFWcC9tlYaOwQDw) | AI前线 | AI |
-| 3 | [2026年10月30日AI早报：Gemini 4 Carbon登顶、DeepSeek融资1055亿、智元机器人上岗实测](https://juejin.cn/post/7702106290617286682) | juejin | AI |
-| 4 | [据报道 OpenAI 降低了新一轮融资目标 / OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round) | TechCrunch | AI |
-| 5 | [Anthropic 更新了 Claude，以阻止其重新创建现有的视频游戏 / Anthropic updates Claude to stop it from recreating existing video games](https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games) | Engadget | AI |
+| 1 | [蚂蚁数科发布Agentar医疗版 入选2026互联网之光博览会“十大精品首发成果”](https://aiera.com.cn/asi-post.html?id=121890) | 新智元 | AI |
+| 2 | [Android Studio Rabbit 2 发布：除了Gemini，40+ AI Agent 正式入驻！](https://juejin.cn/post/7702984654097367049) | juejin | AI |
+| 3 | [Anthropic updates Claude to stop it from recreating existing video games](https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games) | Engadget | AI |
+| 4 | [Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote](https://daringfireball.net/linked/2026/10/27/apple-creator-studio-updates) | Daring Fireball | AI |
+| 5 | [Bites, whose AI tools deliver personalized training to frontline workers via WhatsApp, SMS, Slack, and other channels, raised a $40M Series A led by PeakSpan (Meir Orbach/CTech)](https://www.techmeme.com/261102/p3) | Techmeme | AI |
 
-> 共 42 条，以上为 TOP 5。
+> 共 66 条，以上为 TOP 5。
 
 ---
 
@@ -54,9 +54,7 @@
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
 | 2 | [法国议员批准了一项税收政策，对每千兆字节的互联网流量征收0.055欧元的税款](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026) | www.assemblee-nationale.fr | IP |
-| 3 | [[职场话题] 失业快半年，回老家消费低但也没啥斗气了，是不是应该回去出租屋给自己压力？](https://www.v2ex.com/t/1253607) | V2EX (创意工作者社区) | 回乡/情感 |
-| 4 | [[推广] 做了一个 AI Rap Video Generator，上传照片生成说唱短视频](https://www.v2ex.com/t/1253580) | V2EX (创意工作者社区) | AI/IP |
-| 5 | [廉价的流量对印度人来说是件好事，但对印度的声誉却并非如此](https://www.economist.com/asia/2026/11/01/cheap-data-is-great-for-indians-but-not-for-indias-reputation) | www.economist.com | IP |
+| 3 | [廉价的流量对印度人来说是件好事，但对印度的声誉却并非如此](https://www.economist.com/asia/2026/11/01/cheap-data-is-great-for-indians-but-not-for-indias-reputation) | www.economist.com | IP |
 
 ---
 
@@ -64,13 +62,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [一人公司，单月收入近10万，我做了这三门生意（OPC系列-3）](https://juejin.cn/post/7702438435248160804) | juejin | 变现 |
-| 2 | [史诗级封号收入](https://juejin.cn/post/7701870817483259958) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 3 | [三位教授开公司，零收入，估值 1400 亿](https://www.pencilnews.cn/p/47278.html) | Readhub · AI | AI/变现 |
-| 4 | [给漫剧卖铲子能赚钱吗？](https://www.huxiu.com/article/4902153.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 5 | [当时我想一边给三个孩子进行家庭教育，一边找份兼职。后来，我做蛋糕棒的副业就火起来了。](https://www.businessinsider.com/homeschool-mom-started-business-instead-part-time-job-2026-11) | www.businessinsider.com | 变现/情感 |
+| 1 | [史诗级封号收入](https://juejin.cn/post/7701870817483259958) | 掘金 · 人工智能本周最热 | AI/变现 |
+| 2 | [一人公司，单月收入近10万，我做了这三门生意（OPC系列-3）](https://juejin.cn/post/7702438435248160804) | 掘金 · 人工智能本周最热 | AI/变现 |
+| 3 | [[问与答] 你有什么可以赚钱的爱好](https://www.v2ex.com/t/1253848) | V2EX (创意工作者社区) | 变现 |
+| 4 | [Raah.dev - 跟踪您的收入、分析数据和网站性能](https://www.producthunt.com/r/JWF4HOBIH2FG6T) | www.producthunt.com | 变现 |
+| 5 | [鸿蒙智行问界 M9 Ultimate 领世加长版车主画像官方揭秘，近 7 成家庭税后年收入超百万](https://www.ithome.com/1/021/040.htm) | IT之家 (ITHome) | 变现/情感 |
 
-> 共 7 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -82,8 +80,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-02T01:04:10.817Z
-- **总资讯数**：4166 条原始 → 631 条筛选后
+- **聚合时间**：2026-11-02T08:28:06.540Z
+- **总资讯数**：4298 条原始 → 697 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
