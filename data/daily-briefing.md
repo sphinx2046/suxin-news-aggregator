@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Anthropic 14万亿参数神级模型泄露！6个月内杀死视频、图像模型](https://aiera.com.cn/asi-post.html?id=122178) | 新智元 | AI |
-| 2 | [用AI给种子「编程」这事，中国科学家正在加速！](https://aiera.com.cn/asi-post.html?id=122140) | 新智元 | AI |
-| 3 | [OpenAI个人智能体要添新搭档！比旗舰快3倍，单价只要1/10](https://aiera.com.cn/asi-post.html?id=122131) | 新智元 | AI |
-| 4 | [全网200万人爆笑围观！6个机器人熬夜极限pk，4台卷王成功上岸](https://aiera.com.cn/asi-post.html?id=122116) | 新智元 | 其他 |
-| 5 | [清华Nature子刊：上千智能体组网后自发站队，观点极化涌现](https://aiera.com.cn/asi-post.html?id=122088) | 新智元 | AI |
+| 1 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
+| 2 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
+| 3 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
+| 4 | [Functional Ultrasound Imaging from Scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) | Hacker News | 人文 |
+| 5 | [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,11 +24,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [腾讯 Buddy One 来了，办公全家桶一键打通WorkBuddy（附教程）](https://juejin.cn/post/7701870817484210230) | 掘金 · 人工智能本周最热 | AI |
-| 2 | [Skill、MCP、Workflow、Rules、Memory 有什么区别？拿几次真实开发任务讲清楚](https://juejin.cn/post/7702438435236446227) | 掘金 · 人工智能本周最热 | AI/人文 |
+| 1 | [Industry experts warn that slow US power grid expansion could stifle its AI boom and give China an edge, as China builds power infrastructure faster (Martha Muir/Financial Times)](https://www.techmeme.com/261104/p8) | Techmeme | AI |
+| 2 | [腾讯 Buddy One 来了，办公全家桶一键打通WorkBuddy（附教程）](https://juejin.cn/post/7701870817484210230) | 掘金 · 人工智能本周最热 | AI |
 | 3 | [Jev 实战：为AI工作流引入轻量决策层 x10倍提速｜得物技术](https://juejin.cn/post/7701614603223203881) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [MCP 开发实战：把已知可用的后端 API 接入 Agent，让AI使用。](https://juejin.cn/post/7702736770072510499) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [[分享创造] ✌️ 我让 AI 给我做了个 APP，电饭锅做早饭计算预约时间](https://www.v2ex.com/t/1254359) | V2EX (创意工作者社区) | AI |
+| 4 | [Skill、MCP、Workflow、Rules、Memory 有什么区别？拿几次真实开发任务讲清楚](https://juejin.cn/post/7702438435236446227) | 掘金 · 人工智能本周最热 | AI/人文 |
+| 5 | [[分享发现] Clootee：给 claude code 和 codex 做了 10 几套精美的界面](https://www.v2ex.com/t/1254521) | V2EX (创意工作者社区) | AI |
 
 > 共 10 条，以上为 TOP 5。
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [后摩智能低调完成数十亿元B轮融资，端侧大模型AI芯片进入规模化兑现期](https://aiera.com.cn/asi-post.html?id=122212) | 新智元 | AI |
-| 2 | [奥特曼：攻下千禧难题的GPT，即将上线！](https://aiera.com.cn/asi-post.html?id=122211) | 新智元 | AI |
-| 3 | [Anthropic突然更新！AI自进化已突破红线，人类根本来不及反应](https://aiera.com.cn/asi-post.html?id=122192) | 新智元 | AI |
-| 4 | [Robot lamp maker Syncere raises $11M pre-seed led by a16z Speedrun](https://thenextweb.com/news/syncere-lume-robot-lamp-11m-a16z) | The Next Web | AI |
-| 5 | [Following backlash against its education updates, Google says schools can choose to enable Gemini, Gemini Notebook, and Search individually (Isabel O'Brien/CNBC)](https://www.techmeme.com/261103/p44) | Techmeme | AI |
+| 1 | [Valve just changed its Steam release rules amid a flood of AI games](https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games) | Engadget | AI |
+| 2 | [Traversal raises $120M at a $1B valuation to fix what AI code breaks](https://thenextweb.com/news/traversal-120m-series-b-1b-valuation-ai-sre) | The Next Web | AI |
+| 3 | [Tencent releases its Hy4 open-weight foundation model, which it says joins the top tier of Chinese open-weight AI for the first time, and plans a Flash version (Bloomberg)](https://www.techmeme.com/261104/p14) | Techmeme | AI |
+| 4 | [ITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI (Reuters)](https://www.techmeme.com/261104/p7) | Techmeme | AI |
+| 5 | [美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型](https://tech.meituan.com/2026/11/02/Meituan-LongCat-2.5.html) | 美团技术团队 (Meituan Tech) | AI |
 
-> 共 51 条，以上为 TOP 5。
+> 共 45 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [搜索版图被撕开一道口子：ChatGPT 抢下谷歌两成流量](https://www.aibase.com/news/32064) | AIbase | AI/IP |
-| 3 | [Show HN: HackerReels——专为在Hacker News上引发热议的帖子制作的短视频](https://wile.ai/v/BPOH3BHCRWWCAKU4OVNOTEQ73A) | wile.ai | AI/IP |
-| 4 | [全球最大视频平台 YouTube 推广 AI 配乐工具，帮创作者化解音频版权纠纷](https://www.ithome.com/1/021/877.htm) | IT之家 (ITHome) | AI/IP |
-| 5 | [Videco - 借助人工智能，将每段视频转化为内容营销活动](https://www.producthunt.com/r/X2LXQUKZ33REIZ) | www.producthunt.com | AI/IP |
+| 2 | [创作者最怕的"版权申诉"，YouTube 用 AI 配乐一键化解](https://www.aibase.com/news/32075) | AIbase | AI/IP |
+| 3 | [终未等到《GTA 6》发售：25 岁重症游戏粉丝 Jerry 离世，社区玩家承诺用游戏 ID 纪念他](https://www.ithome.com/1/022/382.htm) | IT之家 (ITHome) | IP |
+| 4 | [小米智能 4G 摄像机 3 开启众筹：500 万像素、免费流量，首发价 199 元](https://www.ithome.com/1/022/272.htm) | IT之家 (ITHome) | IP |
+| 5 | [[分享发现] 免费获取 eSIM 流量手机卡～](https://www.v2ex.com/t/1254461) | V2EX (创意工作者社区) | IP |
 
-> 共 6 条，以上为 TOP 5。
+> 共 9 条，以上为 TOP 5。
 
 ---
 
@@ -66,13 +66,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [独家 | Seedance 海外收入占比已达 50%，国内市场腾讯、B站等互联网企业为主要客户](https://www.36kr.com/p/4053733300196487) | 36氪 · 24小时热榜 | 变现 |
-| 2 | [史诗级封号收入](https://juejin.cn/post/7701870817483259958) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 3 | [Seedance海外收入占比达50%，半年增长近5倍](https://www.aibase.com/news/32067) | AIbase | 变现 |
+| 1 | [史诗级封号收入](https://juejin.cn/post/7701870817483259958) | 掘金 · 人工智能本周最热 | AI/变现 |
+| 2 | [2027 年最赚钱的 AI 创业方向](https://juejin.cn/post/7704140653420888091) | 掘金 · 人工智能本周最热 | AI/变现 |
+| 3 | [OpenAI 员工的「副业」硬件：GPT-6 Astra 一周出图、一月出样](https://www.aibase.com/zh/news/32089) | Readhub · AI | AI/变现 |
 | 4 | [Ask HN: AI 领域的副业/个人项目能否提升就业竞争力？](https://news.ycombinator.com/item?id=50360823) | news.ycombinator.com | AI/变现 |
-| 5 | [[推广] 看大家做订阅站都赚钱了，我也跟风做一个](https://www.v2ex.com/t/1254336) | V2EX (创意工作者社区) | 变现 |
+| 5 | [10月，我们推荐这20位独立开发者，和他们的100款产品](https://mp.weixin.qq.com/s/7bufBGEzRS4KWqfOUO10lg) | FounderPark | 变现 |
 
-> 共 11 条，以上为 TOP 5。
+> 共 9 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-04T03:28:53.795Z
-- **总资讯数**：4404 条原始 → 702 条筛选后
+- **聚合时间**：2026-11-04T11:38:49.402Z
+- **总资讯数**：4511 条原始 → 714 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
