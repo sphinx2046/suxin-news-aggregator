@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-11-03（周二）
+# 素心拾穗 · 每日情报 · 2026-11-04（周三）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [我和GPT协作开放性命题的一次经历](https://mp.weixin.qq.com/s/YHb954c7Y_QUmS9wE5JDKg) | 产品犬舍 | AI |
-| 2 | [Agent架构，安全和成本，如何设计？(10/12)](https://mp.weixin.qq.com/s/zoLkzpHWGH1JXI7AIXDW1g) | 架构师之路 | AI |
-| 3 | [Anthropic 改了招股书，承认Claude无法替代自己的研发团队](https://mp.weixin.qq.com/s/IKKsjZFEfYcJ_PqbsXT6zQ) | 夕小瑶科技说 | AI |
-| 4 | [GPT-6自主爆改Qwen权重被吹成神?Meta知名研究员泼冷水](https://mp.weixin.qq.com/s/CD6jJiGHuS9Y2SZsF5bakg) | AI前线 | AI |
-| 5 | [66岁Yann LeCun发新论文挑战Scaling Law:1.09 亿参数胜过 7...](https://mp.weixin.qq.com/s/n5u9hDCJSIdkWdCEQRNqQA) | AI前线 | AI |
+| 1 | [Anthropic 14万亿参数神级模型泄露！6个月内杀死视频、图像模型](https://aiera.com.cn/asi-post.html?id=122178) | 新智元 | AI |
+| 2 | [用AI给种子「编程」这事，中国科学家正在加速！](https://aiera.com.cn/asi-post.html?id=122140) | 新智元 | AI |
+| 3 | [OpenAI个人智能体要添新搭档！比旗舰快3倍，单价只要1/10](https://aiera.com.cn/asi-post.html?id=122131) | 新智元 | AI |
+| 4 | [全网200万人爆笑围观！6个机器人熬夜极限pk，4台卷王成功上岸](https://aiera.com.cn/asi-post.html?id=122116) | 新智元 | 其他 |
+| 5 | [清华Nature子刊：上千智能体组网后自发站队，观点极化涌现](https://aiera.com.cn/asi-post.html?id=122088) | 新智元 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [一句话生成看板Ⅰ灯塔AI数据分析从O到1完整指南](https://mp.weixin.qq.com/s/6i6Tt3Am0bTOILzAdbXzCw) | 腾讯技术工程 | AI |
-| 2 | [DeepSeek官方智能体教程来了：一句话造插件，7套提示词免费公开](https://www.36kr.com/p/4053409634800768) | 36氪 · 24小时热榜 | AI |
-| 3 | [腾讯 Buddy One 来了，办公全家桶一键打通WorkBuddy（附教程）](https://juejin.cn/post/7701870817484210230) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [Jev 实战：为AI工作流引入轻量决策层 x10倍提速｜得物技术](https://juejin.cn/post/7701614603223203881) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [Skill、MCP、Workflow、Rules、Memory 有什么区别？拿几次真实开发任务讲清楚](https://juejin.cn/post/7702438435236446227) | 掘金 · 人工智能本周最热 | AI/人文 |
+| 1 | [腾讯 Buddy One 来了，办公全家桶一键打通WorkBuddy（附教程）](https://juejin.cn/post/7701870817484210230) | 掘金 · 人工智能本周最热 | AI |
+| 2 | [Skill、MCP、Workflow、Rules、Memory 有什么区别？拿几次真实开发任务讲清楚](https://juejin.cn/post/7702438435236446227) | 掘金 · 人工智能本周最热 | AI/人文 |
+| 3 | [Jev 实战：为AI工作流引入轻量决策层 x10倍提速｜得物技术](https://juejin.cn/post/7701614603223203881) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [MCP 开发实战：把已知可用的后端 API 接入 Agent，让AI使用。](https://juejin.cn/post/7702736770072510499) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [[分享创造] ✌️ 我让 AI 给我做了个 APP，电饭锅做早饭计算预约时间](https://www.v2ex.com/t/1254359) | V2EX (创意工作者社区) | AI |
 
-> 共 14 条，以上为 TOP 5。
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [具身智能也需要Harness？港中文发布Agentic Robots综述](https://mp.weixin.qq.com/s/Q1ve5b3aFCk80J3mcbPe0A) | PaperWeekly | AI |
-| 2 | [GPT-6爆改Qwen 大脑，AI「编程」AI的时代来了？](https://mp.weixin.qq.com/s/zBJSIrSzVxfHP9mlMmZWMA) | 爱范儿 | AI |
-| 3 | [猛玛推出探境3直播相机/美团发布LongCat-2.5 原生多模态 Al 模型..](https://mp.weixin.qq.com/s/yVVbDaKPBN89wk0rv8bNeA) | 少数派 | AI |
-| 4 | [苹果Mac销量创历史新高/奥特曼预告下一代GPT，或近期发布/李佳琦...](https://mp.weixin.qq.com/s/2V_QoC066gIcIZ28gb3ASw) | APPSO | AI |
-| 5 | [Robot lamp maker Syncere raises $11M pre-seed led by a16z Speedrun](https://thenextweb.com/news/syncere-lume-robot-lamp-11m-a16z) | The Next Web | AI |
+| 1 | [后摩智能低调完成数十亿元B轮融资，端侧大模型AI芯片进入规模化兑现期](https://aiera.com.cn/asi-post.html?id=122212) | 新智元 | AI |
+| 2 | [奥特曼：攻下千禧难题的GPT，即将上线！](https://aiera.com.cn/asi-post.html?id=122211) | 新智元 | AI |
+| 3 | [Anthropic突然更新！AI自进化已突破红线，人类根本来不及反应](https://aiera.com.cn/asi-post.html?id=122192) | 新智元 | AI |
+| 4 | [Robot lamp maker Syncere raises $11M pre-seed led by a16z Speedrun](https://thenextweb.com/news/syncere-lume-robot-lamp-11m-a16z) | The Next Web | AI |
+| 5 | [Following backlash against its education updates, Google says schools can choose to enable Gemini, Gemini Notebook, and Search individually (Isabel O'Brien/CNBC)](https://www.techmeme.com/261103/p44) | Techmeme | AI |
 
-> 共 40 条，以上为 TOP 5。
+> 共 51 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [全球最大视频平台 YouTube 推广 AI 配乐工具，帮创作者化解音频版权纠纷](https://www.ithome.com/1/021/877.htm) | IT之家 (ITHome) | AI/IP |
-| 3 | [Show HN: Collabrun——面向TikTok Shop卖家的联盟创作者拓展服务](https://www.collabrun.com/) | www.collabrun.com | IP |
-| 4 | [那些喜欢和爸妈一起尽情摇滚的“金属乐队”铁杆粉丝](https://on.wsj.com/3WiO0Qc) | on.wsj.com | IP |
+| 2 | [搜索版图被撕开一道口子：ChatGPT 抢下谷歌两成流量](https://www.aibase.com/news/32064) | AIbase | AI/IP |
+| 3 | [Show HN: HackerReels——专为在Hacker News上引发热议的帖子制作的短视频](https://wile.ai/v/BPOH3BHCRWWCAKU4OVNOTEQ73A) | wile.ai | AI/IP |
+| 4 | [全球最大视频平台 YouTube 推广 AI 配乐工具，帮创作者化解音频版权纠纷](https://www.ithome.com/1/021/877.htm) | IT之家 (ITHome) | AI/IP |
 | 5 | [Videco - 借助人工智能，将每段视频转化为内容营销活动](https://www.producthunt.com/r/X2LXQUKZ33REIZ) | www.producthunt.com | AI/IP |
 
-> 共 7 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -66,13 +66,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [10月，我们推荐这20位独立开发者，和他们的100款产品](https://mp.weixin.qq.com/s/7bufBGEzRS4KWqfOUO10lg) | FounderPark | 变现 |
-| 2 | [苹果第四财季营收增长12%，服务收入再创新高/《影之刃零》72小时...](https://mp.weixin.qq.com/s/Ec3AGLUp4x7V6ofiXMrx7Q) | 爱范儿 | 变现 |
-| 3 | [Seedance海外收入占比已达50%|36氪独家](https://mp.weixin.qq.com/s/DsW75tvFBN7n0ZESe0METw) | 36氪 | 变现 |
-| 4 | [独家 | Seedance 海外收入占比已达 50%，国内市场腾讯、B站等互联网企业为主要客户](https://www.36kr.com/p/4053733300196487) | 36氪 · 24小时热榜 | 变现 |
-| 5 | [史诗级封号收入](https://juejin.cn/post/7701870817483259958) | 掘金 · 人工智能本周最热 | AI/变现 |
+| 1 | [独家 | Seedance 海外收入占比已达 50%，国内市场腾讯、B站等互联网企业为主要客户](https://www.36kr.com/p/4053733300196487) | 36氪 · 24小时热榜 | 变现 |
+| 2 | [史诗级封号收入](https://juejin.cn/post/7701870817483259958) | 掘金 · 人工智能本周最热 | AI/变现 |
+| 3 | [Seedance海外收入占比达50%，半年增长近5倍](https://www.aibase.com/news/32067) | AIbase | 变现 |
+| 4 | [Ask HN: AI 领域的副业/个人项目能否提升就业竞争力？](https://news.ycombinator.com/item?id=50360823) | news.ycombinator.com | AI/变现 |
+| 5 | [[推广] 看大家做订阅站都赚钱了，我也跟风做一个](https://www.v2ex.com/t/1254336) | V2EX (创意工作者社区) | 变现 |
 
-> 共 10 条，以上为 TOP 5。
+> 共 11 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-03T22:36:58.598Z
-- **总资讯数**：4368 条原始 → 736 条筛选后
+- **聚合时间**：2026-11-04T03:28:53.795Z
+- **总资讯数**：4404 条原始 → 702 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
