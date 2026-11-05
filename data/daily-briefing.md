@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Anthropic亲手终结「套壳AI」！17秒扒下假模型头套，验身速度快5000倍](https://aiera.com.cn/asi-post.html?id=122378) | 新智元 | AI |
-| 2 | [Claude前设计负责人转投马斯克！从设计Cowork到操刀Grok Bot](https://aiera.com.cn/asi-post.html?id=122357) | 新智元 | AI |
-| 3 | [禁令解封！拆自家电视被封号，11 天后OpenAI低头道歉，Anthropic不听](https://aiera.com.cn/asi-post.html?id=122320) | 新智元 | AI |
-| 4 | [5000词需求文档，Claude也只能交付14%！实测28种Agent组合](https://aiera.com.cn/asi-post.html?id=122264) | 新智元 | AI |
-| 5 | [我跟Codex协作产出高质量运营文案的技巧](https://mp.weixin.qq.com/s/vat2GO29sgTX7EzqTr2pwg) | 产品犬舍 | 其他 |
+| 1 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
+| 2 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
+| 3 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
+| 4 | [Functional Ultrasound Imaging from Scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) | Hacker News | 人文 |
+| 5 | [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI大家说|2026年SaaS并购案例回顾：AI时代，什么软件能溢价卖出？](https://mp.weixin.qq.com/s/rfcq5NY2luZKVPRvbxPGpQ) | 红杉汇 | AI |
-| 2 | [Data center shares fall as investors expect slower AI buildout after Democrats win Congress; Hut 8 drops 23%, IREN 11%, Core Scientific 10%, Applied Digital 7% (Reuters)](https://www.techmeme.com/261104/p55) | Techmeme | AI |
-| 3 | [腾讯 Buddy One 来了，办公全家桶一键打通WorkBuddy（附教程）](https://juejin.cn/post/7701870817484210230) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [Skill、MCP、Workflow、Rules、Memory 有什么区别？拿几次真实开发任务讲清楚](https://juejin.cn/post/7702438435236446227) | 掘金 · 人工智能本周最热 | AI/人文 |
-| 5 | [Jev 实战：为AI工作流引入轻量决策层 x10倍提速｜得物技术](https://juejin.cn/post/7701614603223203881) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [皮克斯联合创始人埃德·卡特穆尔（81岁）表示，在人工智能时代，最明智的职业选择是助力打造未来的新事物。 / Pixar cofounder Ed Catmull, 81, says the smartest AI-era career move is to help build what comes next](https://www.businessinsider.com/pixar-cofounder-ed-catmull-advice-workers-worried-ai-2026-11) | Business Insider | AI |
+| 2 | [腾讯 Buddy One 来了，办公全家桶一键打通WorkBuddy（附教程）](https://juejin.cn/post/7701870817484210230) | 掘金 · 人工智能本周最热 | AI |
+| 3 | [Skill、MCP、Workflow、Rules、Memory 有什么区别？拿几次真实开发任务讲清楚](https://juejin.cn/post/7702438435236446227) | 掘金 · 人工智能本周最热 | AI/人文 |
+| 4 | [MCP 开发实战：把已知可用的后端 API 接入 Agent，让AI使用。](https://juejin.cn/post/7702736770072510499) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [[远程工作] [远程] AI-First Builder｜全职 / 实习](https://www.v2ex.com/t/1254756) | V2EX (创意工作者社区) | AI |
 
-> 共 19 条，以上为 TOP 5。
+> 共 16 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Anthropic未发布模型，挖出Linux系统级致命漏洞！](https://aiera.com.cn/asi-post.html?id=122392) | 新智元 | AI |
-| 2 | [GPT-6.2 Astra要来了！神秘「双模型」闪现API，OpenAI火速撤回](https://aiera.com.cn/asi-post.html?id=122343) | 新智元 | AI |
-| 3 | [今天，OpenAI发布AGI新标准！价值1.7万亿美元，接管全球80亿人类](https://aiera.com.cn/asi-post.html?id=122302) | 新智元 | AI |
-| 4 | [普林斯顿CS女学霸，突然告别Anthropic！一手带火Claude Code](https://aiera.com.cn/asi-post.html?id=122279) | 新智元 | AI |
-| 5 | [全球唯二，百度抢先交卷！首个物理AI世界模型来了](https://aiera.com.cn/asi-post.html?id=122251) | 新智元 | AI |
+| 1 | [Netflix Launches First AI-Branded Content Recommendations Feature on TVs](https://entertainment.slashdot.org/story/26/11/04/2034237/netflix-launches-first-ai-branded-content-recommendations-feature-on-tvs) | Slashdot | AI |
+| 2 | [Nothing teases a screen-free AI device ahead of launch next month](https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei) | The Verge | AI |
+| 3 | [Valve just changed its Steam release rules amid a flood of AI games](https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games) | Engadget | AI |
+| 4 | [Barcelona’s Kabilio raises €10M to bring AI agents to accounting firms](https://thenextweb.com/news/kabilio-raises-e10m-to-bring-ai-agents-to-accounting-firms) | The Next Web | AI |
+| 5 | [Pangram’s new models spot AI fakes in images and video, it says](https://thenextweb.com/news/pangram-image-1-0-flash-ai-image-video-detection) | The Next Web | AI |
 
-> 共 67 条，以上为 TOP 5。
+> 共 69 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [流量见顶之后，家居增长的下半场在哪？](https://mp.weixin.qq.com/s/vIPykq7_pfiner5hn28caw) | 36氪Pro | IP |
-| 3 | [陪70岁的妈妈做手术，一对农村母女决定共同面对老去](https://mp.weixin.qq.com/s/PRd4FtsGBuxte78o_oJWQg) | 三联生活周刊 | 回乡/情感 |
-| 4 | [这位澳大利亚户外博主绝不会不战而降，把刚钓到的鱼送给鳄鱼 OutKick - Fox News](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSEctUlc2a29zMGp3UDlLVDhRUFJNeTgxVmpudXRTNDE2dHdQVlRoQTNmNGs4WE81MGpJWmpRR0hDMnl4VzBNQ1N5X1hMYnhidFJqNkZfdF9KS1Jwd2RITm5MQkNyMXRSR285elY5aHU5YUlLQ3pXS3VLR1lmaWw0MFhKRzVpSXhpdm1NOXZHLXZhdTBObjJWWkdrZVc5by1sbHlBZmRBM09sUkxSUE1tdnNXR3RxQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 5 | [民主党如何扩大选区版图并赢得美国农村选民的支持](https://reut.rs/4zrwJCJ) | reut.rs | 回乡 |
+| 2 | [2026年中国五家信誉良好的蝶阀制造商：推动工业流量控制发展 - The Courier-Journal](https://news.google.com/read/CBMi5wFBVV95cUxQNTdWZGswZ0pNaHVkdHB2NmNMQS1CU1I3MlZFX1pNTVRteWJsNnpHX0RwQUV6ZE5hWTBfZTFmMnM5SVI4aWRWY0tGZ2VIZDZkeWVOU0kzT2NyajVnRVBTZS1YSkdUMlZrZndkdlRQZGJIblBHMDZodGtKU0R3MHhxaTN0UXpDSTY3emdnUEVTU1JZRjV2ekRDZ0pTSmZEZ0NMR0dvUTdzay1yS3FLc3M0VW8ydHBrZ1BhdF9pZF9rbVByZFU4ZTlhNmc5bmxNRG9rOHdDZENacWFpd0ZrZTdkbm9ndVo0NTQ?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
+| 3 | [AI 服务器里一颗 0.2 毫米的电容，为什么是在粤西一个县城的稻田边上造出来的？](https://www.huxiu.com/article/4903155.html?f=rss) | 虎嗅 (Huxiu) | AI/回乡 |
+| 4 | [在农村，穷家娇子越来越多了](https://www.huxiu.com/article/4903114.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 5 | [流量见顶之后，家居增长的下半场在哪？](https://mp.weixin.qq.com/s/vIPykq7_pfiner5hn28caw) | 36氪Pro | IP |
 
-> 共 8 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -66,11 +66,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [10月，我们推荐这 20位独立开发者，和他们的100款产品](https://mp.weixin.qq.com/s/7bufBGEzRS4KWqfOUO10lg) | FounderPark | 变现 |
-| 2 | [史诗级封号收入](https://juejin.cn/post/7701870817483259958) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 3 | [2027 年最赚钱的 AI 创业方向](https://juejin.cn/post/7704140653420888091) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 4 | [Sensor Tower 估算《GTA 6》数字预购收入超 7.5 亿美元，索尼 PS5 占比 74%](https://www.ithome.com/1/022/484.htm) | IT之家 (ITHome) | 变现 |
-| 5 | [数十亿的收入证明了国际足联在世界杯问题上的做法是正确的——但这仅限于它所关心的方面](https://www.theguardian.com/football/2026/nov/04/fifa-world-cup-billions-revenue) | www.theguardian.com | 变现 |
+| 1 | [2027 年最赚钱的 AI 创业方向](https://juejin.cn/post/7704140653420888091) | 掘金 · 人工智能本周最热 | AI/变现 |
+| 2 | [瑞士再保险公布盈利超预期，但收入前景疲软令喜讯蒙上阴影](https://www.bloomberg.com/news/articles/2026-11-05/swiss-re-posts-profit-beat-aided-by-fewer-natural-catastrophes) | www.bloomberg.com | 变现 |
+| 3 | [[分享创造] 分享一下我在 taptap 上架的游戏广告收入](https://www.v2ex.com/t/1254755) | V2EX (创意工作者社区) | 变现 |
+| 4 | [五家最会赚钱的公司，开始借钱过日子了](https://www.huxiu.com/article/4903238.html?f=rss) | 虎嗅 (Huxiu) | 变现/情感 |
+| 5 | [Wi‑Fi/5G 极客神器：多功能无线设备 Flipper One 开启预订，厂商坦言“几乎不赚钱”](https://www.ithome.com/1/022/763.htm) | IT之家 (ITHome) | 变现 |
 
 > 共 6 条，以上为 TOP 5。
 
@@ -84,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-05T00:33:25.329Z
-- **总资讯数**：4455 条原始 → 733 条筛选后
+- **聚合时间**：2026-11-05T08:37:22.174Z
+- **总资讯数**：4488 条原始 → 735 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
