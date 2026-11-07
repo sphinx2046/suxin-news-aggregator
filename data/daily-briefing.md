@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替](https://sspai.com/post/118317) | sspai | AI |
-| 2 | [如何成为不吃压力的「大心脏」？](https://sspai.com/post/117244) | sspai | 情感 |
-| 3 | [与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长](https://sspai.com/post/116585) | sspai | 认知 |
-| 4 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
-| 5 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
+| 1 | [为什么我对VibeCoding软件毫无兴趣](https://mp.weixin.qq.com/s/QTFKdfM8UjFxrW555L0PnA) | 产品犬舍 | 其他 |
+| 2 | [天赋的贬值](https://mp.weixin.qq.com/s/-yRHItuIqX6T9IklcQBguQ) | 产品犬舍 | 其他 |
+| 3 | [的Agent系统？(11/12)](https://mp.weixin.qq.com/s/CP7vt_mZ167_lLaS4uGeTA) | 架构师之路 | AI |
+| 4 | [谷歌启动全球自愿离职计划，最高补偿12个月工资！哈萨比斯：未来...](https://mp.weixin.qq.com/s/6LeOVKFlhozQ8YMjxt-GvQ) | AI前线 | AI |
+| 5 | [智能体 Harness的演进：从链、图到代码化](https://mp.weixin.qq.com/s/iZ_vc2gHIKW_jXINWXUgbw) | AI前线 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -30,7 +30,7 @@
 | 4 | [土豆姐 Lauren 关于 Grok Bot 团队打造指南](https://juejin.cn/post/7702895830278275123) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [[分享发现] Antigravity Remote Agents 服务器 很舍得， Google 大善人！](https://www.v2ex.com/t/1255270) | V2EX (创意工作者社区) | AI |
 
-> 共 12 条，以上为 TOP 5。
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation) | TechCrunch | AI |
-| 2 | [Paris start-up Physicl raises $10M to make training data for physical AI](https://thenextweb.com/news/physicl-10m-seed-physical-ai-training-data) | The Next Web | AI |
-| 3 | [Chicago-based data analytics company Ocient raised a $100M Series C co-led by Boka Capital and OCA Ventures to grow its agentic AI analytics business (Paul Gillin/SiliconANGLE)](https://www.techmeme.com/261107/p10) | Techmeme | AI |
-| 4 | [Beijing-based Sand.ai, an AI startup specializing in video generation, raised a $200M Series A+, bringing its total funding over the past 10 months to $300M (Eudora Wang/DealStreetAsia)](https://www.techmeme.com/261107/p1) | Techmeme | AI |
-| 5 | [美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型](https://tech.meituan.com/2026/11/02/Meituan-LongCat-2.5.html) | 美团技术团队 (Meituan Tech) | AI |
+| 1 | [刚刚，百度开源文心5.5Flash预训练模型基座，重构混合稀疏注意力](https://mp.weixin.qq.com/s/SpqlGkMmmzqrcZoWXNTPvg) | AI前线 | AI |
+| 2 | [在GPT Images 2.6 发布后，我又找到了这个开源项目](https://mp.weixin.qq.com/s/8i5tVuqfUeq77zXFKRBoVA) | GitHubDaily | AI |
+| 3 | [多次霸榜GitHub，一个专为桌面端打造的Agent 开源了!](https://mp.weixin.qq.com/s/PZqCHHE1vRZo4MU4Ytql8A) | GitHubDaily | AI |
+| 4 | [腾讯混元发布 Hy4，首次成为最强开源模型之一](https://mp.weixin.qq.com/s/5L1-ON3EUhqrJqjmAuKpaw) | 腾讯技术工程 | AI |
+| 5 | [A社超强模型曝光！三天攻破量子计算圣杯，Agent Harness立大功](https://mp.weixin.qq.com/s/kTt3JojsUZpDiJMZytcoLA) | 新智元 | AI |
 
-> 共 58 条，以上为 TOP 5。
+> 共 51 条，以上为 TOP 5。
 
 ---
 
@@ -58,17 +58,15 @@
 | 4 | [张艺谋谈 AI 冲击电影行业：AI 短视频产值已到几百亿，是很大的挑战](https://www.ithome.com/1/023/786.htm) | IT之家 (ITHome) | AI/IP |
 | 5 | [K-pop超级粉丝圈、我的女儿和我](https://www.ft.com/content/32066a67-a697-4eb4-a779-c6dff8cc2ac7) | www.ft.com | IP |
 
-> 共 6 条，以上为 TOP 5。
-
 ---
 
 ## 💰 变现雷达
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [2027 年最赚钱的 AI 创业方向](https://juejin.cn/post/7704140653420888091) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 2 | [一个人就是一支工程队：AI 时代超级个体的 90 天变现 SOP](https://juejin.cn/post/7704589926880411684) | juejin | AI/变现 |
-| 3 | [坐在办公室里，是想不出赚钱办法的](https://mp.weixin.qq.com/s/FWp0W8LEOWMJ-9P3hKCzuA) | 刘润 | 变现 |
+| 1 | [收入差不多，为什么宇树赚钱了，优必选却没有|巴伦港股](https://mp.weixin.qq.com/s/sZfgglMATx8_hcifY5RehQ) | 钛媒体 | 变现 |
+| 2 | [2027 年最赚钱的 AI 创业方向](https://juejin.cn/post/7704140653420888091) | 掘金 · 人工智能本周最热 | AI/变现 |
+| 3 | [一个人就是一支工程队：AI 时代超级个体的 90 天变现 SOP](https://juejin.cn/post/7704589926880411684) | juejin | AI/变现 |
 | 4 | [我辞去了做了17年的工作，开始经营6项副业。现在，我的工作时间减少了一半，收入却几乎和以前一样多。](https://www.businessinsider.com/quit-job-childcare-cost-six-side-hustles-income-2026-11) | www.businessinsider.com | 变现 |
 
 ---
@@ -81,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-07T17:01:24.963Z
-- **总资讯数**：4261 条原始 → 690 条筛选后
+- **聚合时间**：2026-11-07T21:07:28.713Z
+- **总资讯数**：4251 条原始 → 662 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
