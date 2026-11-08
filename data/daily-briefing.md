@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [主人睡了！凌晨4点Claude停下机械臂，嫌颜色不对自己兑了一个](https://aiera.com.cn/asi-post.html?id=122903) | 新智元 | AI |
-| 2 | [Claude Code 同需求写两版对比：装不装 frontend-design 差多远？](https://juejin.cn/post/7704499167134335018) | juejin | AI |
-| 3 | [AI 还原 Figma 效果总达不到预期？先别急着让它写代码](https://juejin.cn/post/7704502089117368320) | juejin | AI |
-| 4 | [神级 Skill，让 AI 用 HTML 代替 Markdown 回复](https://juejin.cn/post/7704902910831853587) | juejin | AI |
-| 5 | [程序员 1v1 访谈系列第十二期：普通人没有核心竞争力](https://juejin.cn/post/7704557568358170624) | juejin | 情感 |
+| 1 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
+| 2 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
+| 3 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
+| 4 | [Functional Ultrasound Imaging from Scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) | Hacker News | 人文 |
+| 5 | [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -25,10 +25,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [AI scams are everywhere — and they’re slick. Here’s how to protect yourself and your family.](https://www.vox.com/advice/509649/ai-scam-chatgpt-google-phishing-calls) | Recode | AI |
-| 2 | [腾讯 Buddy One 来了，办公生态一键打通 WorkBuddy（附教程）](https://juejin.cn/post/7703780916560396323) | 掘金 · 人工智能本周最热 | AI |
-| 3 | [[分享创造] 分享一个自托管的 omp-web：在浏览器里用 Claude Code、Codex、Pi，终端和文件也在同一页](https://www.v2ex.com/t/1255329) | V2EX (创意工作者社区) | AI |
-| 4 | [[Claude] 哪位大神的 claude 没有被封过，分享下方法哇，拜托，人麻了](https://www.v2ex.com/t/1255324) | V2EX (创意工作者社区) | AI |
-| 5 | [[分享创造] 周末无聊,为了榨干 gemini 3.8](https://www.v2ex.com/t/1255318) | V2EX (创意工作者社区) | AI |
+| 2 | [Inside Inner Mongolia, China's fastest-growing AI data center region, where construction is accelerating with low building cost and no public backlash (SemiAnalysis)](https://www.techmeme.com/261108/p7) | Techmeme | AI |
+| 3 | [腾讯 Buddy One 来了，办公生态一键打通 WorkBuddy（附教程）](https://juejin.cn/post/7703780916560396323) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [[分享创造] 想要 Claude Code 控制 Codex， Deepseek 控制 Claude Code, Grob Bot 控制一切，用这个， So easy](https://www.v2ex.com/t/1255401) | V2EX (创意工作者社区) | AI |
+| 5 | [AI Can Build Almost Anything. That Doesn't Mean You Should.](https://colinritman.medium.com/ai-can-build-almost-anything-that-doesnt-mean-you-should-25d6cf45fdd4?source=rss------decision_making-5) | Medium · Decision Making | AI |
+
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -36,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [一天一个开源项目（第255篇）：Mika —— 装在安卓手机里的 AI 代理，在后台虚拟屏上替你操作 App 和网页](https://juejin.cn/post/7704935347230408755) | juejin | AI |
-| 2 | [212 个需求、22 万行代码：Agent 接管开源项目的 19 天](https://juejin.cn/post/7704590673761648667) | juejin | AI |
-| 3 | [一天一个开源项目（第254篇）：NVIDIA Auto Ontology —— 给数据 Agent 搭一层「可认证的语义层」，答不了就老实说答不了](https://juejin.cn/post/7704530961837260826) | juejin | AI |
-| 4 | [AlpineBSD Announced - an AI-free FOSS OS](https://bsd.slashdot.org/story/26/11/08/0044219/alpinebsd-announced---an-ai-free-foss-os) | Slashdot | AI |
-| 5 | [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation) | TechCrunch | AI |
+| 1 | [AlpineBSD Announced - an AI-free FOSS OS](https://bsd.slashdot.org/story/26/11/08/0044219/alpinebsd-announced---an-ai-free-foss-os) | Slashdot | AI |
+| 2 | [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation) | TechCrunch | AI |
+| 3 | [Beijing-based GenRobot AI, which develops equipment and software for collecting human demonstrations that can be used to train robots, raised a $100M Series A+ (TechNode)](https://www.techmeme.com/261108/p2) | Techmeme | AI |
+| 4 | [美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型](https://tech.meituan.com/2026/11/02/Meituan-LongCat-2.5.html) | 美团技术团队 (Meituan Tech) | AI |
+| 5 | [我用workBuddy开发了自己的第一个小程序并成功上线了](https://juejin.cn/post/7702866392132337718) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 55 条，以上为 TOP 5。
+> 共 47 条，以上为 TOP 5。
 
 ---
 
@@ -58,10 +60,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [一个人就是一支工程队：AI 时代超级个体的 90 天变现 SOP](https://juejin.cn/post/7704589926880411684) | juejin | AI/变现 |
-| 2 | [2027 年最赚钱的 AI 创业方向](https://juejin.cn/post/7704140653420888091) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 3 | [马斯克再抛惊人目标：明年SpaceX年化收入5000亿美](https://www.huxiu.com/article/4903895.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 4 | [收入差不多，为什么宇树赚钱了，优必选却没有|巴伦港股](https://mp.weixin.qq.com/s/sZfgglMATx8_hcifY5RehQ) | 钛媒体 | 变现 |
+| 1 | [2027 年最赚钱的 AI 创业方向](https://juejin.cn/post/7704140653420888091) | 掘金 · 人工智能本周最热 | AI/变现 |
+| 2 | [一个人就是一支工程队：AI 时代超级个体的 90 天变现 SOP](https://juejin.cn/post/7704589926880411684) | 掘金 · 人工智能本周最热 | AI/变现 |
+| 3 | [[职场话题] 怎么才能稳定的副业搞点钱 ？](https://www.v2ex.com/t/1255399) | V2EX (创意工作者社区) | 变现 |
+| 4 | [沙克为以防万一失去财产而制定了一个备用计划。他说，明年这个计划每月能给他带来100万美元的收入。](https://www.businessinsider.com/shaquille-oneal-shaq-annuity-retirement-income-wealth-investing-inheritance-google-2026-11) | www.businessinsider.com | 变现 |
+| 5 | [我经营着一家梦想中的葡萄酒与书籍主题酒吧，作为副业。当我需要小憩时，朋友们会帮我照看店。](https://www.businessinsider.com/run-business-while-working-full-time-director-job-best-advice-2026-11) | www.businessinsider.com | 变现 |
+
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -73,8 +78,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-08T08:07:58.740Z
-- **总资讯数**：4149 条原始 → 619 条筛选后
+- **聚合时间**：2026-11-08T16:24:06.974Z
+- **总资讯数**：4065 条原始 → 606 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
