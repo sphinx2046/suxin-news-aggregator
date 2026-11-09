@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Perplexity给你配了个AI同事：半夜报警它先查，修复写好才叫醒你批](https://aiera.com.cn/asi-post.html?id=123088) | 新智元 | AI |
-| 2 | [一周只上3天！Anthropic 35页报告：全球科研产出或拉爆16倍](https://aiera.com.cn/asi-post.html?id=123080) | 新智元 | AI |
-| 3 | [九成代码AI写，谁来审？Claude Code亮出6道关卡！](https://aiera.com.cn/asi-post.html?id=123059) | 新智元 | AI |
-| 4 | [起底Claude掌门人！31岁确诊睾丸癌，用杀鸡计算全人类的命](https://aiera.com.cn/asi-post.html?id=123048) | 新智元 | AI |
-| 5 | [AI亲手改写Transformer架构！DeepSeek自我改造暴涨7分](https://aiera.com.cn/asi-post.html?id=123031) | 新智元 | AI/情感 |
+| 1 | [从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”](https://aiera.com.cn/asi-post.html?id=123090) | 新智元 | AI |
+| 2 | [投早、投小、投硬科技：浦东是AI创业者绕不开的科技梦想启航热土](https://aiera.com.cn/asi-post.html?id=123089) | 新智元 | AI |
+| 3 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
+| 4 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
+| 5 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Don't like Google Health's AI Coach? Here's how to turn it off](https://www.engadget.com/2309626/dont-like-google-health-ai-coach-how-turn-off) | Engadget | AI |
-| 2 | [AI scams are everywhere — and they’re slick. Here’s how to protect yourself and your family.](https://www.vox.com/advice/509649/ai-scam-chatgpt-google-phishing-calls) | Recode | AI |
-| 3 | [Inside Inner Mongolia, China's fastest-growing AI data center region, where construction is accelerating with low building cost and no public backlash (SemiAnalysis)](https://www.techmeme.com/261108/p7) | Techmeme | AI |
-| 4 | [Nvidia hits back at US data center gloom with plans to repurpose old telephone and telecom buildings owned by Brightspeed into small AI data centers](https://www.techradar.com/pro/nvidia-hits-back-at-us-data-center-gloom-with-plans-to-repurpose-old-telephone-and-telecom-buildings-owned-by-brightspeed-into-small-ai-data-centers) | TechRadar | AI |
-| 5 | [腾讯 Buddy One 来了，办公生态一键打通 WorkBuddy（附教程）](https://juejin.cn/post/7703780916560396323) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [AI scams are everywhere — and they’re slick. Here’s how to protect yourself and your family.](https://www.vox.com/advice/509649/ai-scam-chatgpt-google-phishing-calls) | Recode | AI |
+| 2 | [Job listings show Amazon is building a "new-to-world" home robot to operate "alongside family members", after its $1,450 Astro reached only a few thousand homes (Annie Palmer/CNBC)](https://www.techmeme.com/261108/p20) | Techmeme | AI |
+| 3 | [Nvidia hits back at US data center gloom with plans to repurpose old telephone and telecom buildings owned by Brightspeed into small AI data centers](https://www.techradar.com/pro/nvidia-hits-back-at-us-data-center-gloom-with-plans-to-repurpose-old-telephone-and-telecom-buildings-owned-by-brightspeed-into-small-ai-data-centers) | TechRadar | AI |
+| 4 | [腾讯 Buddy One 来了，办公生态一键打通 WorkBuddy（附教程）](https://juejin.cn/post/7703780916560396323) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [Magpie 实战教程：一个本地网关，让 Claude Code 跑 Kimi、Codex 跑 DeepSeek](https://juejin.cn/post/7704221897298460681) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 10 条，以上为 TOP 5。
+> 共 12 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [小心，Claude Code会擅自泄露你的邮箱！请抓紧时间更新](https://aiera.com.cn/asi-post.html?id=122978) | 新智元 | AI |
-| 2 | [AlpineBSD Announced - an AI-free FOSS OS](https://bsd.slashdot.org/story/26/11/08/0044219/alpinebsd-announced---an-ai-free-foss-os) | Slashdot | AI |
-| 3 | [DeepSeek says its open-source agent app Harness hit 1.54M DAUs on November 4, less than three months after launch, and uses ~92T tokens a day, or ~60M per user (Saritha Rai/Bloomberg)](https://www.techmeme.com/261108/p12) | Techmeme | AI |
-| 4 | [美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型](https://tech.meituan.com/2026/11/02/Meituan-LongCat-2.5.html) | 美团技术团队 (Meituan Tech) | AI |
-| 5 | [腾讯混元 Hy4 正式版发布了](https://juejin.cn/post/7704150793607462950) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [AlpineBSD Announced - an AI-free FOSS OS](https://bsd.slashdot.org/story/26/11/08/0044219/alpinebsd-announced---an-ai-free-foss-os) | Slashdot | AI |
+| 2 | [Google rolls out a Googlebook update that frees up 3GB-6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Android flaws, and more (Jay Bonggolto/Android Central)](https://www.techmeme.com/261109/p4) | Techmeme | AI |
+| 3 | [美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型](https://tech.meituan.com/2026/11/02/Meituan-LongCat-2.5.html) | 美团技术团队 (Meituan Tech) | AI |
+| 4 | [8点1氪丨黄仁勋发布全员信承认婚外情；比亚迪高管回应收购玛莎拉蒂传闻；Anthropic估值被砍至1.2万亿至1.3万亿美元](https://www.36kr.com/p/4061760472585347) | 36氪 · 24小时热榜 | AI |
+| 5 | [无预警，OpenAI 突然大规模封号](https://www.36kr.com/p/4059618356089985) | 36氪 · 24小时热榜 | AI |
 
-> 共 42 条，以上为 TOP 5。
+> 共 47 条，以上为 TOP 5。
 
 ---
 
@@ -52,8 +52,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [月入十万跨国生意：印尼农村找大妈面对面做Claude身份验证，20美...](https://mp.weixin.qq.com/s/rNnw4lgTTUcWushn4gcMXg) | InfoQ | AI/回乡 |
+| 1 | [寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学](https://www.qbitai.com/2026/11/508566.html) | 量子位 · 每日最新 | AI/IP |
+| 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 3 | [你能解出来吗？这款风靡全球的多选题数学测验](https://www.theguardian.com/science/2026/nov/09/can-you-solve-it-the-multi-choice-maths-quiz-taking-over-the-world) | www.theguardian.com | IP |
+| 4 | [[分享发现] Elon Musk： Chinese 𝕏 is 牛逼。流量目前 492 万！](https://www.v2ex.com/t/1255555) | V2EX (创意工作者社区) | IP |
+| 5 | [月入十万跨国生意：印尼农村找大妈面对面做Claude身份验证，20美...](https://mp.weixin.qq.com/s/rNnw4lgTTUcWushn4gcMXg) | InfoQ | AI/回乡 |
 
 ---
 
@@ -63,11 +66,11 @@
 |---|------|------|------|
 | 1 | [2027 年最赚钱的 AI 创业方向](https://juejin.cn/post/7704140653420888091) | 掘金 · 人工智能本周最热 | AI/变现 |
 | 2 | [一个人就是一支工程队：AI 时代超级个体的 90 天变现 SOP](https://juejin.cn/post/7704589926880411684) | 掘金 · 人工智能本周最热 | AI/变现 |
-| 3 | [马斯克再抛惊人目标：明年SpaceX年化收入5000亿美元](https://mp.weixin.qq.com/s/BMU8uXVKZ2oyiX-Y2SH8_A) | 华尔街见闻 | 变现 |
-| 4 | [中国正迈向高收入国家行列，国内外政策面临重大考验 - East Asia Forum](https://news.google.com/read/CBMitwFBVV95cUxPbVA4N2V0SHZ5OWtZNEdDYWlQVV82dlBKMDNqSXZFME1OaHRDWHZuanFqNUVFV3pRSkNqR0VwWVQyQk9nM05TUF9xSWNCSTEzYVpCaFpvSU9aRTFZM2x2UG5tYjZoNVN1VnYtdEp4TWV0RHR0bzFYQ1A5bnp1Yk8tOHAzOVJKRjJuMnBGMmlfLVhRQUg4STFNcGRxOHhvNjFrSnV0TlZ4dkNLazdtVHhIb2g1SmstTW8?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
-| 5 | [[职场话题] 怎么才能稳定的副业搞点钱 ？](https://www.v2ex.com/t/1255399) | V2EX (创意工作者社区) | 变现 |
+| 3 | [程序员的副业 IP 探索之路----小白用AI做了个游戏，发出去第一天居然有300多个人玩！！！](https://juejin.cn/post/7704893278949179402) | juejin | AI/变现 |
+| 4 | [[独立开发者 👨‍💻] 独立开发周记 195：大事化小，不再费脑](https://www.v2ex.com/t/1255594) | V2EX (创意工作者社区) | 变现 |
+| 5 | [一汽大众取消两年“年终奖”，这项收入占部分员工年薪近半](https://www.huxiu.com/article/4904040.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
 
-> 共 8 条，以上为 TOP 5。
+> 共 9 条，以上为 TOP 5。
 
 ---
 
@@ -79,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-09T01:15:12.488Z
-- **总资讯数**：4147 条原始 → 631 条筛选后
+- **聚合时间**：2026-11-09T08:45:33.017Z
+- **总资讯数**：4269 条原始 → 661 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
