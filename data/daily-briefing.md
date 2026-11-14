@@ -30,7 +30,7 @@
 | 4 | [DeepSeek-V4.1-Flash-1017 官方许愿案例太吸睛，我也复刻了一个](https://juejin.cn/post/7705412224672366627) | 掘金 · 人工智能本周最热 | AI |
 | 5 | [DeepSeek Harness 完全指南，打造你的专属工作台](https://juejin.cn/post/7707106224123166755) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 11 条，以上为 TOP 5。
+> 共 12 条，以上为 TOP 5。
 
 ---
 
@@ -44,7 +44,7 @@
 | 4 | [Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation (Lucinda Shen/Axios)](https://www.techmeme.com/261114/p6) | Techmeme | AI |
 | 5 | [WhiteMatter, which builds "guardian" AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A (Alice Tecotzky/Business Insider)](https://www.techmeme.com/261114/p5) | Techmeme | AI |
 
-> 共 51 条，以上为 TOP 5。
+> 共 48 条，以上为 TOP 5。
 
 ---
 
@@ -53,9 +53,9 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [部长回应全美航班停飞：事件与微软无关、没有发生网络攻击，只是路由器太旧扛不住流量数据过载](https://www.ithome.com/1/027/047.htm) | IT之家 (ITHome) | IP |
-| 3 | [“早7晚12”、一场只赚十几块，农村女性为何还要做直播](https://www.huxiu.com/article/4905544.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
-| 4 | [福克斯旗下的Tubi将投入25万美元，用于其最新一轮吸引创作者的举措](https://www.businessinsider.com/tubi-kickstarter-funding-emerging-creators-2026-11) | www.businessinsider.com | IP |
+| 2 | [“揪出他来”：Cybertruck忠实粉丝们正深感悲痛——他们要求埃隆·马斯克给出解释 - WIRED](https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2NtMF9sQlRJa0JFNDZkT0J4WVdKN0JtazNGRlZDTHJ3MnRVNElLZ3Q4Z2d1NU9NM2tVTTlrd0YxSU02N2J6QjBkX0EtU0JNU3Fldk15TmlKdEtCX0J6d25xN0RxeWdVdlh1dWZEWmZHN1VHMGQ4Z0gwYzA4T2FCU3lYa2Q0N3Z0OTAxZTBIbE8zNUs5dmt6S1lLZVI3TUl0eWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
+| 3 | [“最糟糕的消息”：特斯拉取消其带轮电动垃圾箱后，Cybertruck粉丝们情绪崩溃 - Jalopnik](https://news.google.com/rss/articles/CBMinAFBVV95cUxNS2VpQVkzRHZxcWZ3dlhrNkxucFZ0dURodllxTS1qTFVGcVd5bkhiY3poLU12X3hyMW9GbXUtTEhFWWVMM1QyXzVyYU43TFpRbzBpUFRrWXZheVNWclNuMG9vRU40UFJRcWNpUGlJYmpRVV92NkIyYU9EVGFoSU5hYnBDMDhqR01iY05ocEpieWFycE5DS3NvUWJ3U20?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP/情感 |
+| 4 | [新设立的颁奖典礼旨在表彰人工智能音乐及其创作者](https://reut.rs/4t3wxHF) | reut.rs | AI/IP |
 
 ---
 
@@ -64,10 +64,10 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [太牛了！这AI做出来的游戏，居然还能变现！](https://juejin.cn/post/7707235507143491624) | juejin | AI/变现 |
-| 2 | [[分享创造] 我的李维刚模拟器赚钱了](https://www.v2ex.com/t/1257023) | V2EX (创意工作者社区) | 变现 |
-| 3 | [Show HN: Claude Code 客户洞察与变现工具包](https://github.com/Satvik-jain/customer-intelligence-toolkit) | github.com | AI/变现 |
-| 4 | [“中国企业天生就是为了赚钱”：AI先驱李开复谈关于中国AI竞赛的3大误区 - Fortune](https://news.google.com/read/CBMi2AFBVV95cUxQb29mM2F1UkdjRWlRTVhoekg3eXJMMzlQQ3JOZGZRQ1Q5ejVKZDBfSVp5VmQ3NTl3WEpFQnFHWmZrODVtem10a1k0UXJhY2YzQ09vQXJReFlfd1MtaDZaTVFPQ2Y5eUVILTBMQmJDUDU0bFNqTldJbWU2MjNXYVpMS1owb0ljT0JjbXA1ZXNWTExYLUtiUC03a3JUSE8xbFVfS0JhSmp3M0pBWktrdDBNV2lDdC1ZUjJpamhDY3J3QzMtdVY5OHpJWG00UWd5SldZUl9aeUY4c0o?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | AI/变现 |
-| 5 | [对创作者而言，收入的增加意味着在使用人工智能方面面临更大的压力](https://www.businessinsider.com/higher-earning-creators-face-more-ai-pressure-2026-11) | www.businessinsider.com | AI/IP/变现/情感 |
+| 2 | [Meta Quest App 商业模式生变：应用内购吸金能力已超越付费 App，成 Horizon 商店核心收入来源](https://www.ithome.com/1/027/224.htm) | IT之家 (ITHome) | 变现 |
+| 3 | [Ask HN: 我的产品能赚钱，编程工作由人工智能完成，而我觉得自己毫无用处](https://news.ycombinator.com/item?id=50495982) | news.ycombinator.com | AI/变现 |
+| 4 | [你的孩子有副业吗？](https://www.ft.com/content/d309eebb-21b7-4b8e-bebd-83de96b0a184) | www.ft.com | 变现 |
+| 5 | [美联储理事巴尔：AI 快速普及，短期内收入不平等恐加剧](https://www.ithome.com/1/027/177.htm) | IT之家 (ITHome) | AI/变现 |
 
 ---
 
@@ -79,8 +79,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-14T08:10:45.763Z
-- **总资讯数**：4357 条原始 → 699 条筛选后
+- **聚合时间**：2026-11-14T16:11:17.685Z
+- **总资讯数**：4292 条原始 → 653 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
