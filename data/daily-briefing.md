@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
-| 2 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
-| 3 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
-| 4 | [Functional Ultrasound Imaging from Scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) | Hacker News | 人文 |
-| 5 | [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon) | Hacker News | AI |
+| 1 | [代码都被AI写了，那人的价值在哪里？(SDD超级干货)](https://mp.weixin.qq.com/s/q8cFtNN8uvEeL0FI471-gw) | 架构师之路 | AI |
+| 2 | [“无人敢说'不'毁了黄仁勋，无人能接棒困住英伟达”](https://mp.weixin.qq.com/s/q9V__Q7hKb1ypdLJQ3SRrw) | AI前线 | AI |
+| 3 | [一家创立117年的美妆企业，如何用开放式创新把外部技术变成业务价值?](https://mp.weixin.qq.com/s/jrzYOuPpcbGr7HjK3s4nNw) | FounderPark | 其他 |
+| 4 | [全美停飞背后：空管系统服役50年、备件靠海淘](https://mp.weixin.qq.com/s/OA4o5hRE9H180NQOtzQhAg) | 财经杂志 | 其他 |
+| 5 | [证监会主席吴清：进一步深化市场稳定长效机制研究](https://mp.weixin.qq.com/s/WauI0RDmFljhHQwVz-TVdg) | 财经杂志 | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Gemini can now tell you where your money is going, and how to save more of it](https://www.androidpolice.com/google-wallet-and-gemini-integration) | Android Police | AI |
+| 1 | [I replaced learning apps with Gemini Guided Learning; it remembers my progress and adapts to my pace](https://www.androidpolice.com/replaced-learning-apps-with-gemini-guided-learning-remembers-progress-adapts-to-pace) | Android Police | AI |
 | 2 | [AI scams are everywhere — and they’re slick. Here’s how to protect yourself and your family.](https://www.vox.com/advice/509649/ai-scam-chatgpt-google-phishing-calls) | Recode | AI |
 | 3 | [Someone used Claude Code to build a Linux phone OS, and you can try it in your browser](https://www.makeuseof.com/someone-used-claude-code-to-build-a-linux-phone-os-and-you-can-try-it-in-your-browser) | MakeUseOf | AI |
-| 4 | [DeepSeek-V4.1-Flash-1017 官方许愿案例太吸睛，我也复刻了一个](https://juejin.cn/post/7705412224672366627) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [DeepSeek Harness 完全指南，打造你的专属工作台](https://juejin.cn/post/7707106224123166755) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [DeepSeek Harness 完全指南，打造你的专属工作台](https://juejin.cn/post/7707106224123166755) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [DeepSeek-V4.1-Flash-1017 官方许愿案例太吸睛，我也复刻了一个](https://juejin.cn/post/7705412224672366627) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 12 条，以上为 TOP 5。
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Advocacy Groups Sue AI Giants to Freeze New Models, Warning of 'Catastrophic' Risks](https://news.slashdot.org/story/26/11/13/1734203/advocacy-groups-sue-ai-giants-to-freeze-new-models-warning-of-catastrophic-risks) | Slashdot | AI |
-| 2 | [Siri AI Still Not Enabled on HomePod Mini 2 With Latest Software Update](https://www.macrumors.com/2026/11/13/homepod-mini-2-still-lacks-siri-ai) | Mac Rumors | AI |
-| 3 | [Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs](https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1) | Mac Rumors | AI |
-| 4 | [Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation (Lucinda Shen/Axios)](https://www.techmeme.com/261114/p6) | Techmeme | AI |
-| 5 | [WhiteMatter, which builds "guardian" AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A (Alice Tecotzky/Business Insider)](https://www.techmeme.com/261114/p5) | Techmeme | AI |
+| 1 | [微软悄然开源了一款ClaudeCode 神器](https://mp.weixin.qq.com/s/xrLxegJapJItEQZ5pa9Akw) | GitHubDaily | AI |
+| 2 | [Anthropic 上市路演，CEO称“不在乎什么市场条件”，希望“少承诺、…](https://mp.weixin.qq.com/s/SFAoDb1xOz_gA5NU70D6Tw) | 华尔街见闻 | AI |
+| 3 | [OpenAI机器人团队突然解散！GPT-6Astra把行业一锅端了](https://mp.weixin.qq.com/s/GRM0a9mIXtq28kFKCNHOTg) | 新智元 | AI |
+| 4 | [「让AI研究AI」最新综述：三项关键决策框架，重新审视研究自主性](https://mp.weixin.qq.com/s/oXmwKPG7DLCF-sBTBlu87g) | 新智元 | AI |
+| 5 | [「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭](https://mp.weixin.qq.com/s/HGoMt5bKUDGHE8b19FXXig) | 量子位 | AI |
 
-> 共 48 条，以上为 TOP 5。
+> 共 42 条，以上为 TOP 5。
 
 ---
 
@@ -53,9 +53,7 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [“揪出他来”：Cybertruck忠实粉丝们正深感悲痛——他们要求埃隆·马斯克给出解释 - WIRED](https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2NtMF9sQlRJa0JFNDZkT0J4WVdKN0JtazNGRlZDTHJ3MnRVNElLZ3Q4Z2d1NU9NM2tVTTlrd0YxSU02N2J6QjBkX0EtU0JNU3Fldk15TmlKdEtCX0J6d25xN0RxeWdVdlh1dWZEWmZHN1VHMGQ4Z0gwYzA4T2FCU3lYa2Q0N3Z0OTAxZTBIbE8zNUs5dmt6S1lLZVI3TUl0eWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 3 | [“最糟糕的消息”：特斯拉取消其带轮电动垃圾箱后，Cybertruck粉丝们情绪崩溃 - Jalopnik](https://news.google.com/rss/articles/CBMinAFBVV95cUxNS2VpQVkzRHZxcWZ3dlhrNkxucFZ0dURodllxTS1qTFVGcVd5bkhiY3poLU12X3hyMW9GbXUtTEhFWWVMM1QyXzVyYU43TFpRbzBpUFRrWXZheVNWclNuMG9vRU40UFJRcWNpUGlJYmpRVV92NkIyYU9EVGFoSU5hYnBDMDhqR01iY05ocEpieWFycE5DS3NvUWJ3U20?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP/情感 |
-| 4 | [新设立的颁奖典礼旨在表彰人工智能音乐及其创作者](https://reut.rs/4t3wxHF) | reut.rs | AI/IP |
+| 2 | [新设立的颁奖典礼旨在表彰人工智能音乐及其创作者](https://reut.rs/4t3wxHF) | reut.rs | AI/IP |
 
 ---
 
@@ -79,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-14T16:11:17.685Z
-- **总资讯数**：4292 条原始 → 653 条筛选后
+- **聚合时间**：2026-11-14T21:42:48.459Z
+- **总资讯数**：4173 条原始 → 630 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
