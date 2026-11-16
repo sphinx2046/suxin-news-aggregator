@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-11-15（周日）
+# 素心拾穗 · 每日情报 · 2026-11-16（周一）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [我跟Codex协作产出高质量运营文案的技巧](https://mp.weixin.qq.com/s/vat2GO29sgTX7EzqTr2pwg) | 产品犬舍 | 其他 |
-| 2 | [是不是引入某一个工具集，就算SDD？(arch.md开源)](https://mp.weixin.qq.com/s/IPsdbWPLVt_LOz8YJ_J75w) | 架构师之路 | 其他 |
-| 3 | [SpaceX星舰首次轨道回收飞船成功；黄仁勋回归请愿书签名者突破13...](https://mp.weixin.qq.com/s/ZHTm0z3tRKwQpNC9yTJ8pg) | AI前线 | AI |
-| 4 | [无人敢说不'毁了黄仁勋，无人能接棒困住英伟达](https://mp.weixin.qq.com/s/q9V__Q7hKb1ypdLJQ3SRrw) | AI前线 | AI |
-| 5 | [对话蚂蚁灵波沈宇军：Fable5.2都能拧瓶盖了，机器人为什么还需要...](https://mp.weixin.qq.com/s/7pPyuDfTjJYxLyqTbn3_Ww) | FounderPark | 其他 |
+| 1 | [Claude杀进Office全家桶腹地！微软市值一夜蒸发6000亿](https://aiera.com.cn/asi-post.html?id=124005) | 新智元 | AI |
+| 2 | [NeurIPS&#8217;26｜无需训练+梯度：引导离散扩散模型设计DNA/蛋白质](https://aiera.com.cn/asi-post.html?id=123993) | 新智元 | AI |
+| 3 | [Claude能进视频会议了！边听边写方案，白板当场画](https://aiera.com.cn/asi-post.html?id=123969) | 新智元 | AI |
+| 4 | [一张图吓得研究员当场辞职！Anthropic最疯神图流出](https://aiera.com.cn/asi-post.html?id=123959) | 新智元 | AI |
+| 5 | [10000个AI分身88小时攻下千禧难题！奥特曼两夜没睡，却不领100万奖金](https://aiera.com.cn/asi-post.html?id=123942) | 新智元 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -25,12 +25,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [井道无信号、满手黑机油，我们如何用 DeepSeek V4 打造不“犯浑”的电梯维保 Agent？](https://juejin.cn/post/7707639689457582106) | juejin | AI |
-| 2 | [I replaced learning apps with Gemini Guided Learning; it remembers my progress and adapts to my pace](https://www.androidpolice.com/replaced-learning-apps-with-gemini-guided-learning-remembers-progress-adapts-to-pace) | Android Police | AI |
-| 3 | [AI scams are everywhere — and they’re slick. Here’s how to protect yourself and your family.](https://www.vox.com/advice/509649/ai-scam-chatgpt-google-phishing-calls) | Recode | AI |
-| 4 | [Someone used Claude Code to build a Linux phone OS, and you can try it in your browser](https://www.makeuseof.com/someone-used-claude-code-to-build-a-linux-phone-os-and-you-can-try-it-in-your-browser) | MakeUseOf | AI |
-| 5 | [The race to build autonomous war robots faces a problem that self-driving cars don't. There are no rules of the road.](https://www.businessinsider.com/making-autonomous-war-robots-challenges-self-driving-cars-dont-ukraine-2026-11) | Business Insider | AI |
+| 2 | [代码越来越便宜，判断力越来越贵：AI 时代的 Android 架构与协程避坑指南](https://juejin.cn/post/7707957158462357546) | juejin | AI |
+| 3 | [AI Agent 子智能体协作实战：怎样用好 Subagent 分工与省 Token｜Oil Book](https://juejin.cn/post/7707927071724486665) | juejin | AI |
+| 4 | [模拟面试智能体开发实战 08：总评报告先过三道闸，防泄题防夸大防错建议，才敢发到候选人手上](https://juejin.cn/post/7707541989944000552) | juejin | AI |
+| 5 | [I replaced learning apps with Gemini Guided Learning; it remembers my progress and adapts to my pace](https://www.androidpolice.com/replaced-learning-apps-with-gemini-guided-learning-remembers-progress-adapts-to-pace) | Android Police | AI |
 
-> 共 13 条，以上为 TOP 5。
+> 共 12 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Agent如何越用越强？中科院自动化所、美团等推出RSI综述](https://mp.weixin.qq.com/s/qSGDg7qCREq-dNgXYx2Y9g) | 机器之心 | AI |
-| 2 | [掘金用量重要更新来了!全新本地 AI 网关正式上线：一站式掌控你的模型、用量与工具!TRAE用量支持](https://juejin.cn/post/7706396464942972954) | juejin | AI |
-| 3 | [一天一个开源项目（第259篇）：Modern Web Guidance —— Chrome 团队给 AI 编码 Agent 的「现代 Web 最佳实践」外挂](https://juejin.cn/post/7707533858106884115) | juejin | AI |
-| 4 | [AI Agent场景组件库 TinyRobot v1.0 正式发布：一站式打造您的AI助手](https://juejin.cn/post/7707300643656368137) | juejin | AI |
-| 5 | [Siri AI Still Not Enabled on HomePod Mini 2 With Latest Software Update](https://www.macrumors.com/2026/11/13/homepod-mini-2-still-lacks-siri-ai) | Mac Rumors | AI |
+| 1 | [掘金用量重要更新来了!全新本地 AI 网关正式上线：一站式掌控你的模型、用量与工具!TRAE用量支持](https://juejin.cn/post/7706396464942972954) | juejin | AI |
+| 2 | [一天一个开源项目（第259篇）：Modern Web Guidance —— Chrome 团队给 AI 编码 Agent 的「现代 Web 最佳实践」外挂](https://juejin.cn/post/7707533858106884115) | juejin | AI |
+| 3 | [AI Agent场景组件库 TinyRobot v1.0 正式发布：一站式打造您的AI助手](https://juejin.cn/post/7707300643656368137) | juejin | AI |
+| 4 | [Gemini 4 Hydrogen：发布即全量，但 Flash 的低价时代结束了](https://juejin.cn/post/7707532087125966858) | juejin | AI |
+| 5 | [Apple launches new app to study how people use AI for health](https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health) | TechCrunch | AI |
 
-> 共 46 条，以上为 TOP 5。
+> 共 41 条，以上为 TOP 5。
 
 ---
 
@@ -52,11 +52,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [自媒体人“徽剑”之死：当曝光电诈头目招来致命报复](https://mp.weixin.qq.com/s/lppEPNm0yQO3HOUSzLZAIA) | 三联生活周刊 | IP/情感 |
-| 2 | [“早7晚12”、一场只赚十几块，农村女性为何还要做直播](https://mp.weixin.qq.com/s/YVthAiinEdcrNrC4UUswew) | 虎嗅App | 回乡 |
-| 3 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 4 | [[随想] 我想起老家屋檐下一个个小沙坑，然后知道每个坑底都有一只蚁狮，看历史](https://www.v2ex.com/t/1257247) | V2EX (创意工作者社区) | 回乡 |
-| 5 | [YouTube博主MKBHD谈Cybertruck停产："这对Roadster来说可不是什么好兆头"](https://www.businessinsider.com/mkbhd-cybertruck-cancellation-roadster-question-2026-11) | www.businessinsider.com | IP |
+| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 2 | [229 元小米智能 4G 摄像机 3 发布：中国电信联通双不限 4G 免费流量，500 万像素 3K 看护 + 双向实时语音](https://www.ithome.com/1/027/533.htm) | IT之家 (ITHome) | IP |
+| 3 | [[分享发现] [点点合数] 小游戏周四开通了种子计划，周六一下子来了 693 个用户，周日开通了流量主，第一天赚了 2 块 5 毛](https://www.v2ex.com/t/1257310) | V2EX (创意工作者社区) | IP |
+| 4 | [自媒体人“徽剑”之死：当曝光电诈头目招来致命报复](https://mp.weixin.qq.com/s/lppEPNm0yQO3HOUSzLZAIA) | 三联生活周刊 | IP/情感 |
+| 5 | [“早7晚12”、一场只赚十几块，农村女性为何还要做直播](https://mp.weixin.qq.com/s/YVthAiinEdcrNrC4UUswew) | 虎嗅App | 回乡 |
 
 > 共 7 条，以上为 TOP 5。
 
@@ -67,9 +67,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [太牛了！这AI做出来的游戏，居然还能变现！](https://juejin.cn/post/7707235507143491624) | juejin | AI/变现 |
-| 2 | [在人工智能经济中，全民基本收入能否成为解决方案的一部分？ - DW.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUFMRFoxc01TM241MDJxRFpOT3hIVjZhOVd3d3JtaXB5eGRCV21qdkdqRnkxaG0tejNSdzhvQ0RzQ0p1NHcybTRuVGQ5Wlc0SThtWHZzLTNzSmVRY0lsbG50cXV4RHJOR1RxY0J3RDJUQVlPcVVYN0RCWGh6V0pfZjZmbVF0UdIBhgFBVV95cUxPYUlRZk1JV1ZVZkZUZFRPT0oxMlhuWmdycXlpRHROUkY1cEhiUGg4OGRtUGJvOXBRQnVxcDJMY3F5cmprbElDVndobTVUaHgwRmg1bTdlaGFqQ0VoZFdHblhhOE1pVjBnLVVXUW0yVm9jUmNLN1NRYTQ4OWFWa1h3ejhwQlFPQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | AI/变现 |
-| 3 | [一位Z世代年轻人分享了他遵循的4条规则，凭借这4条规则，他从宿舍起步，将35美元做成了年收入六位数的营销公司](https://www.businessinsider.com/gen-z-entrepreneur-marketing-agency-rules-for-small-business-2026-11) | www.businessinsider.com | 变现 |
-| 4 | [Sensor Tower：《GTA6》预购销量突破 1200 万份，收入突破 11.8 亿美元](https://www.ithome.com/1/027/362.htm) | IT之家 (ITHome) | 变现 |
+| 2 | [[独立开发者 👨‍💻] 看样子, AI 编程的 SuperAgent 应该是得到了大家的普遍认可了. Livid 在 V 站的新 UI 实践应该也是用的这种范式.](https://www.v2ex.com/t/1257334) | V2EX (创意工作者社区) | AI/变现 |
+| 3 | [[分享创造] 果农上架了：给独立开发者看购买、续订和收入的小工具](https://www.v2ex.com/t/1257332) | V2EX (创意工作者社区) | 变现 |
+| 4 | [当卖车不赚钱后，汽车后市场终于迎来正规化](https://www.huxiu.com/article/4905790.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 5 | [最懂赚钱的苏州老板，季亏4亿，68岁妻子顶上了](https://www.huxiu.com/article/4905773.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -81,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-15T22:09:01.397Z
-- **总资讯数**：4109 条原始 → 635 条筛选后
+- **聚合时间**：2026-11-16T03:21:13.464Z
+- **总资讯数**：4198 条原始 → 616 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
