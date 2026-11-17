@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [[Claude] 人在新加坡，是不是不会被 Claude 封号了](https://www.v2ex.com/t/1257825) | V2EX (创意工作者社区) | AI |
-| 2 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
-| 3 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
-| 4 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
-| 5 | [Functional Ultrasound Imaging from Scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) | Hacker News | 人文 |
+| 1 | [不是人类在AI面前一败涂地，而是你在 AI面前一败涂地](https://mp.weixin.qq.com/s/XbtLiFhitBbvhKfpEhgs-g) | 产品犬舍 | AI |
+| 2 | [算力新规：海外租卡也要被限制了](https://mp.weixin.qq.com/s/eQMj7-0j22SnIX3pJA3dQQ) | 夕小瑶科技说 | AI |
+| 3 | [82 亿美元买下李飞飞团队，AMD不想再只靠卖芯片挑战英伟达了](https://mp.weixin.qq.com/s/owjHv1HCV7tu2XUhltW41A) | AI前线 | AI |
+| 4 | [Photon：帮硅谷最火的PA接入iMessage，450 万美元融资、4…..](https://mp.weixin.qq.com/s/1JHVqFzcInrXdHcxR7MGLg) | FounderPark | 其他 |
+| 5 | [走！一起去CES，把你的硬件卖到全世界](https://mp.weixin.qq.com/s/zrtMCbfppDSVTiUUhwiI0Q) | FounderPark | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business](https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business) | Wired | AI |
-| 2 | [AI-Assisted Coders Run Windows on iPhone Duo, Build a Floppy Disk-Based AI Chatbot for MS-DOS](https://tech.slashdot.org/story/26/11/16/0848255/ai-assisted-coders-run-windows-on-iphone-duo-build-a-floppy-disk-based-ai-chatbot-for-ms-dos) | Slashdot | AI |
-| 3 | [I integrated Google Gemini across Docs, Keep, Tasks, and Sheets to streamline my daily workflow](https://www.androidpolice.com/i-integrated-google-gemini-across-docs-keep-tasks-and-sheets-streamline-daily-workflow) | Android Police | AI |
-| 4 | [AI scams are everywhere — and they’re slick. Here’s how to protect yourself and your family.](https://www.vox.com/advice/509649/ai-scam-chatgpt-google-phishing-calls) | Recode | AI |
-| 5 | [Someone used Claude to build a chatbot that fits on a floppy disk](https://www.makeuseof.com/someone-used-claude-to-build-a-chatbot-that-fits-on-a-floppy-disk) | MakeUseOf | AI |
+| 1 | [科学家怎么用ChatGPT？OpenAI做了一项调研](https://mp.weixin.qq.com/s/nnO6FOVLrAEOZXTOB1Uw_w) | DeepTech深科技 | AI |
+| 2 | [DeepSeek不限额的用法，都在这里了|附指南](https://mp.weixin.qq.com/s/K_WaeqeXmHhAc1YTCkz9fw) | APPSO | AI |
+| 3 | [AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business](https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business) | Wired | AI |
+| 4 | [How to make a great video with an AI agent](https://thenextweb.com/news/how-to-make-great-video-ai-agent) | The Next Web | AI |
+| 5 | [AI scams are everywhere — and they’re slick. Here’s how to protect yourself and your family.](https://www.vox.com/advice/509649/ai-scam-chatgpt-google-phishing-calls) | Recode | AI |
 
-> 共 22 条，以上为 TOP 5。
+> 共 18 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [华为云“行业AI梦工厂”发布并开源昇腾原生具身世界模型CloudRobo-WM1.2](https://aiera.com.cn/asi-post.html?id=124161) | 新智元 | AI |
-| 2 | [Apple Eyes 2027 Launch For AI-Powered Smart Glasses](https://apple.slashdot.org/story/26/11/16/186242/apple-eyes-2027-launch-for-ai-powered-smart-glasses) | Slashdot | AI |
-| 3 | [Genesis AI raises $500 million to deploy glove-wearing robots](https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots) | TechCrunch | AI |
-| 4 | [Munich startup RHISE AI raises angel round for personal AI assistant Lucie](https://thenextweb.com/news/rhise-ai-lucie-angel-round) | The Next Web | AI |
-| 5 | [Isomorphic Labs raises $5bn from Sequoia and Greenoaks for AI drug design](https://thenextweb.com/news/isomorphic-labs-5bn-series-c-sequoia-greenoaks) | The Next Web | AI |
+| 1 | [Gemini4 Hydrogen发布，主打一个快](https://mp.weixin.qq.com/s/ReNNw2vr5u2KJtPKtd-lrg) | 夕小瑶科技说 | AI |
+| 2 | [企业AI Native 研发流程升级与重塑](https://mp.weixin.qq.com/s/2Pw77C_P9zB_FtLL9SgaQw) | InfoQ | AI |
+| 3 | [陈丹琦兼职加入斯坦福系初创Noeri！押注持续学习的AI，已获融资1.1...](https://mp.weixin.qq.com/s/SJ8Yw4_FAjdLecZcM0ONwg) | DeepTech深科技 | AI |
+| 4 | [反超谷歌王牌模型！决策新王拿下全球榜首，全尺寸开源](https://mp.weixin.qq.com/s/FR8k0oNTcKvlPMJDeor9qw) | 新智元 | AI |
+| 5 | [GPT-6.2Astra难产真相曝光！OpenAI突然彻查迄今最大RL训练](https://mp.weixin.qq.com/s/WQXdICzHWzXAZo9x6cUYFQ) | 新智元 | AI |
 
-> 共 44 条，以上为 TOP 5。
+> 共 54 条，以上为 TOP 5。
 
 ---
 
@@ -52,10 +52,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [《莎拉的频道》：在这部越来越让人感同身受的恶搞视频中，一位美妆博主对世界末日置若罔闻](https://www.theguardian.com/culture/2026/nov/18/sarahs-channel-streaming-youtube-au-comedian-claudia-odoherty-beauty-influenecer-spoof) | www.theguardian.com | IP |
-| 3 | [日本Suica企鹅吉祥物即将退休，粉丝们难以释怀。 - The New York Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkFMMmhhY2N3cW5vbmxpbmhrU1p5MklzTU9kYmdVekQ0QXZocm44SS1ZMnFOXy12OVoyZE9MQzY5Ri1OelplY1RDMlRtT3pmZDVqYlNWQW5LN3RWV3ljNU1NODZuNWlGZmJXNWt5dXlWMElrZTNvVmRHZ3BXdkdPcQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 4 | [新西兰的“花招”与年假——粉丝们为了《GTA 6》不惜付出多大努力](https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss) | www.bbc.co.uk | IP |
+| 1 | [行业观察Ⅰ流量套利盯上实体经济，虚假摆拍如何反噬商家？](https://mp.weixin.qq.com/s/jCNpgR8gcG-hqGZPRoS0gQ) | 财经杂志 | IP |
+| 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
+| 3 | [[推广] 做了个把照片生成「弯臂比心」短视频的小工具，欢迎拍砖](https://www.v2ex.com/t/1257867) | V2EX (创意工作者社区) | IP |
+| 4 | [为了在洛杉矶抓住一个梦想般的机会，我离开了家乡。不到一年，我就回到了中西部。](https://www.businessinsider.com/left-nebraska-hometown-moved-back-to-be-with-parents-2026-11) | www.businessinsider.com | 回乡/情感 |
+| 5 | [日本Suica企鹅吉祥物即将退休，粉丝们难以释怀。](https://nyti.ms/4zQ0ugL) | nyti.ms | IP |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -63,13 +66,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [大家都不看电视了，为什么TCL电子还那么赚钱](https://www.huxiu.com/article/4906357.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 2 | [英伟达的动荡标志着人工智能交易“轻松赚钱”时代的终结](https://reut.rs/3XeBkdn) | reut.rs | AI/变现 |
-| 3 | [苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定](https://www.aibase.com/news/32351) | AIbase | AI/变现 |
-| 4 | [Ask HN: 新的开源商业模式是什么](https://news.ycombinator.com/item?id=50529909) | news.ycombinator.com | 变现 |
+| 1 | [Fable5.2疑心重，知道自己在被测试！避免犯错反而赚钱少了](https://mp.weixin.qq.com/s/HVaxqC7NYcYfYe4frSZ6nA) | 新智元 | 变现 |
+| 2 | [我从加利福尼亚搬到了日本，年收入为90,000美元。现在我的生活开销更低了。](https://www.businessinsider.com/software-engineer-us-to-japan-the-pay-check-2026-11) | www.businessinsider.com | 变现/情感 |
+| 3 | [我利用空闲时间填写AI问卷，每月最多能赚800美元。这份副业帮我支付了度假和乐高套装的费用。](https://www.businessinsider.com/how-project-manager-earns-800-month-completing-ai-surveys-2026-11) | www.businessinsider.com | AI/变现 |
+| 4 | [苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定](https://www.aibase.com/news/32351) | AIbase | AI/变现 |
 | 5 | [百度三季度AI业务收入占比连续三季度过半，AI云基础设施收入同比增长94%](https://www.aibase.com/news/32348) | AIbase | AI/变现 |
-
-> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -81,8 +82,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-17T14:58:14.855Z
-- **总资讯数**：4440 条原始 → 731 条筛选后
+- **聚合时间**：2026-11-17T23:11:40.812Z
+- **总资讯数**：4341 条原始 → 736 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
