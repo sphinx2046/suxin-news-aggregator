@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [微软全球宕机30小时，AI替代员工裁到大动脉？](https://aiera.com.cn/asi-post.html?id=124300) | 新智元 | AI |
-| 2 | [OpenAI证明了「标准模型」！物理学家直言：GPT-6 Astra全程主导](https://aiera.com.cn/asi-post.html?id=124223) | 新智元 | AI |
-| 3 | [GPT控制机械臂太危险！把菜刀悬在人手上，手机丢进水里](https://aiera.com.cn/asi-post.html?id=124206) | 新智元 | AI |
-| 4 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
-| 5 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
+| 1 | [在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？](https://sspai.com/post/118512) | sspai | AI |
+| 2 | [城市漫步指南 | 安特卫普，时尚就在生活中](https://sspai.com/post/118781) | sspai | 情感 |
+| 3 | [一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验](https://sspai.com/post/118227) | sspai | 情感 |
+| 4 | [你不知道的客户端开发：AI 时代下的选型、原生与借力](https://sspai.com/post/117713) | sspai | AI |
+| 5 | [社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替](https://sspai.com/post/118317) | sspai | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [How to make a great video with an AI agent](https://thenextweb.com/news/how-to-make-great-video-ai-agent) | The Next Web | AI |
-| 2 | [AI scams are everywhere — and they’re slick. Here’s how to protect yourself and your family.](https://www.vox.com/advice/509649/ai-scam-chatgpt-google-phishing-calls) | Recode | AI |
-| 3 | [Someone used Claude to build a chatbot that fits on a floppy disk](https://www.makeuseof.com/someone-used-claude-to-build-a-chatbot-that-fits-on-a-floppy-disk) | MakeUseOf | AI |
-| 4 | [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153) | 少数派 · 热门文章 | AI/认知 |
-| 5 | [DeepSeek Harness 完全指南，打造你的专属工作台](https://juejin.cn/post/7707106224123166755) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153) | sspai | AI/认知 |
+| 2 | [Someone used Claude to build a chatbot that fits on a floppy disk](https://www.makeuseof.com/someone-used-claude-to-build-a-chatbot-that-fits-on-a-floppy-disk) | MakeUseOf | AI |
+| 3 | [tried Gemini Notebook's new website builder](https://www.techradar.com/ai-platforms-assistants/gemini/gemini-now-turns-your-notes-into-interactive-websites-with-a-single-prompt-after-trying-it-i-was-genuinely-impressed) | TechRadar | AI |
+| 4 | [DeepSeek Harness 完全指南，打造你的专属工作台](https://juejin.cn/post/7707106224123166755) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [我用 REA 逆向自己的 Electron 桌面端，扒出 178 个 IPC 通道后我反而放心了](https://juejin.cn/post/7707510918535659561) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 20 条，以上为 TOP 5。
+> 共 19 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [GPT-6.2 Astra难产真相曝光！OpenAI突然彻查迄今最大RL训练](https://aiera.com.cn/asi-post.html?id=124286) | 新智元 | AI |
-| 2 | [反超谷歌王牌模型！决策新王拿下全球榜首，全尺寸开源](https://aiera.com.cn/asi-post.html?id=124254) | 新智元 | AI |
-| 3 | [Promise Robotics raises C$40M for robot factories that build homes](https://thenextweb.com/news/promise-robotics-40m-cad-series-b-robot-homebuilding) | The Next Web | AI |
-| 4 | [美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型](https://tech.meituan.com/2026/11/02/Meituan-LongCat-2.5.html) | 美团技术团队 (Meituan Tech) | AI |
-| 5 | [掘金用量重要更新来了!全新本地 AI 网关正式上线：一站式掌控你的模型、用量与工具!TRAE用量支持](https://juejin.cn/post/7706396464942972954) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线](https://aiera.com.cn/asi-post.html?id=124303) | 新智元 | AI |
+| 2 | [India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers) | TechCrunch | AI |
+| 3 | [Bengaluru-based Humyn Labs, which creates robot training data using first-person footage from cameras, raised $26M in equity led by Accel and $21M in debt (Jagmeet Singh/TechCrunch)](https://www.techmeme.com/261118/p17) | Techmeme | AI |
+| 4 | [Hacks, AI or just overdue updates - why have there been so many outages?](https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss) | BBC News | AI |
+| 5 | [美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型](https://tech.meituan.com/2026/11/02/Meituan-LongCat-2.5.html) | 美团技术团队 (Meituan Tech) | AI |
 
-> 共 48 条，以上为 TOP 5。
+> 共 54 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [229 元小米智能 4G 摄像机 3 开售：中国电信联通双不限 4G 免费流量，500 万像素 3K 看护 + 双向实时语音](https://www.ithome.com/1/028/698.htm) | IT之家 (ITHome) | IP |
-| 3 | [谷歌的AI回答功能导致搜索流量减少了40%](https://revscope.co/blog/search-seo-geo-2026) | revscope.co | AI/IP |
-| 4 | [行业观察Ⅰ流量套利盯上实体经济，虚假摆拍如何反噬商家？](https://mp.weixin.qq.com/s/jCNpgR8gcG-hqGZPRoS0gQ) | 财经杂志 | IP |
-| 5 | [县城小火锅：一边狂飙，一边批量倒闭](https://www.huxiu.com/article/4906442.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
+| 2 | [Show HN: HookChecker——一款用于在发布前检查短视频开场钩子的工具](https://hookchecker.com/) | hookchecker.com | IP |
+| 3 | [“希望急救人员能为那些激情戏场面待命！”这场湿漉漉又狂野的电视体验让粉丝们目眩神迷](https://www.theguardian.com/tv-and-radio/2026/nov/18/i-hope-paramedics-are-on-standby-for-the-sex-scenes-the-wet-and-wild-tv-experience-leaving-fans-dizzy-heated-rivalry) | www.theguardian.com | IP |
+| 4 | [[推广] 又到一年吃橙季！老家江西赣州寻乌核心产区赣南脐橙熟了，树上自然熟现摘现发，带箱 10 斤 50 元，欢迎 V 友尝鲜](https://www.v2ex.com/t/1258058) | V2EX (创意工作者社区) | 回乡 |
+| 5 | [谷歌的AI回答功能导致搜索流量减少了40%](https://revscope.co/blog/search-seo-geo-2026) | revscope.co | AI/IP |
 
-> 共 7 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -66,10 +66,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Fable 5.2疑心重，知道自己在被测试！避免犯错反而赚钱少了](https://aiera.com.cn/asi-post.html?id=124268) | 新智元 | 变现 |
-| 2 | [Fable5.2疑心重，知道自己在被测试！避免犯错反而赚钱少了](https://mp.weixin.qq.com/s/HVaxqC7NYcYfYe4frSZ6nA) | 新智元 | 变现 |
-| 3 | [我从加利福尼亚搬到了日本，年收入为90,000美元。现在我的生活开销更低了。](https://www.businessinsider.com/software-engineer-us-to-japan-the-pay-check-2026-11) | www.businessinsider.com | 变现/情感 |
-| 4 | [我利用空闲时间填写AI问卷，每月最多能赚800美元。这份副业帮我支付了度假和乐高套装的费用。](https://www.businessinsider.com/how-project-manager-earns-800-month-completing-ai-surveys-2026-11) | www.businessinsider.com | AI/变现 |
+| 1 | [腾讯三季报:WorkBuddy日均Token用量国内第一，云收入同比增长35%](https://www.aibase.com/news/32385) | AIbase | 变现 |
+| 2 | [腾讯：WorkBuddy 最近七天收入按年化折算超 5 亿美元，三季度收入是第二季度的 5 倍以上](https://www.ithome.com/1/029/110.htm) | IT之家 (ITHome) | 变现 |
+| 3 | [通用汽车力争将国防业务收入翻一番](https://www.ft.com/content/b36bf99b-e7b9-4591-aedb-5aa2b82bdf37?syn-25a6b1a6=1) | www.ft.com | 变现 |
+| 4 | [方圆3公里开20家，近年爆火的网吧，真的赚钱吗？](https://www.huxiu.com/article/4904071.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 5 | [气候变化可能会加剧收入不平等](https://phys.org/news/2026-11-climate-worsen-income-inequality.html) | phys.org | 变现 |
+
+> 共 7 条，以上为 TOP 5。
 
 ---
 
@@ -81,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-18T04:48:45.563Z
-- **总资讯数**：4414 条原始 → 755 条筛选后
+- **聚合时间**：2026-11-18T14:38:56.285Z
+- **总资讯数**：4497 条原始 → 771 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
