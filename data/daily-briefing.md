@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
-| 2 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
-| 3 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
-| 4 | [Functional Ultrasound Imaging from Scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) | Hacker News | 人文 |
-| 5 | [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon) | Hacker News | AI |
+| 1 | [专访大晓吕健勤：Mundo给机器人造一个能试错的世界](https://mp.weixin.qq.com/s/50BcIdajH5jYCKD_hNzGEg) | AI前线 | AI |
+| 2 | [老黄离职后首次全员大会：提前涨薪发股票，不会寻找“黄仁勋的克隆...](https://mp.weixin.qq.com/s/pXcRbRLsDXHSVDLw5Gfyhg) | AI前线 | AI |
+| 3 | [商汤林达华：拿 20% 资源做没有产品的研究，商汤如何押注模型竞争？](https://mp.weixin.qq.com/s/aXOaS9pDfc07_gfX_N9UHA) | FounderPark | AI |
+| 4 | [影视飓风、Manus、影石、OPPO.…极客公园创新大会 2027 嘉宾阵...](https://mp.weixin.qq.com/s/9G75NadJZpKSCHANvKOBdA) | FounderPark | 其他 |
+| 5 | [LobeHub线复盘：实践 Super-Agent 半年后，我们对于Agent .](https://mp.weixin.qq.com/s/lejkRQ8Uc-QvnI6zLrHFJg) | FounderPark | AI/认知 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor](https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor) | TechCrunch | AI |
-| 2 | [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153) | 少数派 · 热门文章 | AI/认知 |
-| 3 | [我用 REA 逆向自己的 Electron 桌面端，扒出 178 个 IPC 通道后我反而放心了](https://juejin.cn/post/7707510918535659561) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [DeepSeek Harness 实战与架构解析：让 Agent 从“会聊”到“能交付”](https://juejin.cn/post/7708058421904392242) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [Vibe 知识视频火了！不剪辑不烧积分，我用 WorkBuddy 直出两条成片](https://juejin.cn/post/7708141298793234459) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [如今程序员面试，为什么都问Agent?(代码，架构图，提示词，PPT都分享)](https://mp.weixin.qq.com/s/o3jq1Z7zE8fTXBtv1zCgzg) | 架构师之路 | AI |
+| 2 | [0经验转AI产品经理，拿下4OW年薪offer!](https://mp.weixin.qq.com/s/x2soS1lL-c0mB8Ljk4SkGw) | 人人都是产品经理 | AI |
+| 3 | [人生不过三万天，Anthropic一万亿|【经纬低调分享】](https://mp.weixin.qq.com/s/vXzORwbBKHwEfMVpXa4Otw) | 经纬创投 | AI/情感 |
+| 4 | [AI的万亿账单：技术革命继续，美国算力投资见顶了？|【经纬低调分享】](https://mp.weixin.qq.com/s/XmYTBpl9Y9txAM4FsJ9aYA) | 经纬创投 | AI |
+| 5 | [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153) | 少数派 · 热门文章 | AI/认知 |
 
-> 共 12 条，以上为 TOP 5。
+> 共 15 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Blue Origin will launch Google’s AI server satellites in 2029](https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029) | The Verge | AI |
-| 2 | [Tony Fadell joins Smartex as chair as it launches AI fabric checks for H&M](https://thenextweb.com/news/tony-fadell-joins-smartex-as-chair-as-it-launches-ai-fabric-checks-for-hm) | The Next Web | AI |
-| 3 | [Google partners with Jeff Bezos' Blue Origin to launch TPU-powered AI server satellites aboard the New Glenn rocket in Q1 2029, as part of Project Suncatcher (Emma Roth/The Verge)](https://www.techmeme.com/261119/p30) | Techmeme | AI |
-| 4 | [Snap launches Easy Lens CLI on Mac, Windows, and Linux, letting developers build AR Lenses using external AI coding tools like Claude Code (Aisha Malik/TechCrunch)](https://www.techmeme.com/261119/p19) | Techmeme | AI |
-| 5 | [A look at Jeff Bezos' AI startup Prometheus, which raised $18B and employs ~250 people; sources say it is building an end-to-end agentic AI engineering system (Rebecca Heilweil/Fast Company)](https://www.techmeme.com/261119/p17) | Techmeme | AI |
+| 1 | [斯坦福Agent工程课开源：教你从零搭Agent](https://mp.weixin.qq.com/s/bQ6xEgRT90RjaEmlUHErpA) | 夕小瑶科技说 | AI |
+| 2 | [芯片版 RSI 来了？OpenAI 帮 AMD 改芯片](https://mp.weixin.qq.com/s/nCNehJh_pxTBF0Sj017SjQ) | 夕小瑶科技说 | AI |
+| 3 | [腾讯混元Hy4 flash上线首日登顶OpenRouter，2 毛钱就能跑完一...](https://mp.weixin.qq.com/s/-3wi5SbEVnMsiINc8Nv5Vw) | AI前线 | AI |
+| 4 | [万亿估值的Anthropic将上市，全球AI重新定价?](https://mp.weixin.qq.com/s/dDncPA521yOgIReBIZjD-A) | 财经杂志 | AI |
+| 5 | [微软悄然开源了一款 Claude Code 神器](https://mp.weixin.qq.com/s/xrLxegJapJItEQZ5pa9Akw) | GitHubDaily | AI |
 
-> 共 57 条，以上为 TOP 5。
+> 共 66 条，以上为 TOP 5。
 
 ---
 
@@ -53,9 +53,8 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [《GTA 6》发售掀起直播狂潮，主播计划通宵直播抢抓流量窗口期](https://www.ithome.com/1/029/683.htm) | IT之家 (ITHome) | IP |
-| 3 | [版权、流量与AI：在线音乐平台迎来新战事](https://www.huxiu.com/article/4906785.html?f=rss) | 虎嗅 (Huxiu) | AI/IP |
-| 4 | [博·弗伦奇被剥夺得克萨斯州乡村俱乐部会员资格politi.co/4j8lDvQ](https://www.politico.com/news/2026/11/18/bo-french-texas-country-club-membership-01173063) | www.politico.com | 回乡 |
+| 2 | [《侠盗猎车手》粉丝们为了玩新作，甚至不惜请假、通宵达旦地玩](https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters) | www.theguardian.com | IP |
+| 3 | [《GTA 6》发售掀起直播狂潮，主播计划通宵直播抢抓流量窗口期](https://www.ithome.com/1/029/683.htm) | IT之家 (ITHome) | IP |
 
 ---
 
@@ -63,13 +62,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [阿里云外部收入增长 64%，增速创近六年新高](https://www.leiphone.com/category/industrynews/GlHj8MIKX7YGLxU3.html) | Readhub · AI | AI/变现 |
-| 2 | [沃尔玛上调全年业绩预期，因高收入消费者推动销售额增长 - Fox Business](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdnBfU1R3UV90NDBVcDRuN1RmRTVZVEw3eWRQaGMtX2VMR3htWGlLV21NdTFrYm9KeWQ2MjBrc3lDOENqSzJzZzRWUUJOTU4tRFNVQzg2VFJ3RUR5dVBXTWkzYW84aWxPRmIxdjdVOUgyWVlsUXo5dWxnN1BiLVplRGpEaDBYM25YNmlkVVBfeVFlTDZwQnVlQTNVUXEwSHpORDYzblpKWdIBrAFBVV95cUxQODlRcnZGd3I5dGVXY25OOG1tVVhDUm0yS3RsRy1WSlo4YkUzNzNiVW94QkNXOG8yMTFHR0xoTEZGYlVpNi05N1ZSdTNTaEREeDdOWk5OTVVJNjMzTDdxR1BESldRcTBVUXRJNXFMbzVnM0ZBUmU3UERCU3ItUE83bTZYeGZBSnJQOVloTmRVa2E4R05LMG5WTzJoaGJNMjNCOV9oeVlhc2pvdWtZ?oc=5&hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
-| 3 | [[问与答] 有没有赚钱的路子？](https://www.v2ex.com/t/1258381) | V2EX (创意工作者社区) | 变现 |
-| 4 | [沃尔玛的业务持续增长，越来越多的高收入消费者前来购买食品杂货和加油](https://www.businessinsider.com/walmarts-growth-continues-with-shoppers-coming-for-groceries-and-gas-2026-11) | www.businessinsider.com | 变现 |
-| 5 | [我辞去了公司的工作，转而经营一家霉菌治理公司。在蓝领行业，我的收入更高，而且拥有更大的自由度。](https://www.businessinsider.com/worked-at-spacex-whirlpool-career-pivot-blue-collar-mold-remediation-2026-11) | www.businessinsider.com | 变现 |
-
-> 共 7 条，以上为 TOP 5。
+| 1 | [Newzoo：《GTA 6》首周收入有望超《星球大战》《指环王》《哈利 · 波特》各自最卖座影片总和](https://www.ithome.com/1/029/696.htm) | IT之家 (ITHome) | 变现 |
+| 2 | [[问与答] 有没有赚钱的路子？](https://www.v2ex.com/t/1258381) | V2EX (创意工作者社区) | 变现 |
+| 3 | [沃尔玛的业务持续增长，越来越多的高收入消费者前来购买食品杂货和加油](https://www.businessinsider.com/walmarts-growth-continues-with-shoppers-coming-for-groceries-and-gas-2026-11) | www.businessinsider.com | 变现 |
+| 4 | [我辞去了公司的工作，转而经营一家霉菌治理公司。在蓝领行业，我的收入更高，而且拥有更大的自由度。](https://www.businessinsider.com/worked-at-spacex-whirlpool-career-pivot-blue-collar-mold-remediation-2026-11) | www.businessinsider.com | 变现 |
 
 ---
 
@@ -81,8 +77,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-19T14:45:01.973Z
-- **总资讯数**：4496 条原始 → 793 条筛选后
+- **聚合时间**：2026-11-19T22:47:38.072Z
+- **总资讯数**：4347 条原始 → 772 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
