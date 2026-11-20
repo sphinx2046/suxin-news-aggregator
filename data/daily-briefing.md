@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [不用训练！Opus 5.5直接手写Transformer权重，13类任务全拿100%](https://aiera.com.cn/asi-post.html?id=124534) | 新智元 | AI |
-| 2 | [奥特曼给「AI造AI」踩刹车！方向盘必须握在人类手中](https://aiera.com.cn/asi-post.html?id=124502) | 新智元 | AI |
-| 3 | [Fable 5.2开卷80%，闭卷仅47%！最强编程智能体遇上机器人难题](https://aiera.com.cn/asi-post.html?id=124490) | 新智元 | AI |
-| 4 | [Claude开AI工厂：7周造38个模型，狂揽5.5万下载！](https://aiera.com.cn/asi-post.html?id=124470) | 新智元 | AI |
-| 5 | [ChatGPT听写告别「盲说」！边说边出字，10分钟上限也砍了](https://aiera.com.cn/asi-post.html?id=124458) | 新智元 | AI |
+| 1 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
+| 2 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
+| 3 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
+| 4 | [Functional Ultrasound Imaging from Scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) | Hacker News | 人文 |
+| 5 | [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -25,12 +25,12 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [Apple is hiring engineers to build its own AI agent](https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing) | The Verge | AI |
-| 2 | [Apple is Building an AI Agent That Can Use Apps and Code](https://www.macrumors.com/2026/11/19/apple-ai-agent-development) | Mac Rumors | AI |
-| 3 | [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153) | 少数派 · 热门文章 | AI/认知 |
-| 4 | [我用 REA 逆向自己的 Electron 桌面端，扒出 178 个 IPC 通道后我反而放心了](https://juejin.cn/post/7707510918535659561) | 掘金 · 人工智能本周最热 | AI |
+| 2 | [Mistral opens Asia Pacific headquarters in Singapore to build sovereign AI](https://thenextweb.com/news/mistral-opens-asia-pacific-headquarters-in-singapore-to-build-sovereign-ai) | The Next Web | AI |
+| 3 | [Apple is Building an AI Agent That Can Use Apps and Code](https://www.macrumors.com/2026/11/19/apple-ai-agent-development) | Mac Rumors | AI |
+| 4 | [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153) | 少数派 · 热门文章 | AI/认知 |
 | 5 | [DeepSeek Harness 实战与架构解析：让 Agent 从“会聊”到“能交付”](https://juejin.cn/post/7708058421904392242) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 15 条，以上为 TOP 5。
+> 共 16 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [全新Gemini 4 Neon震撼上线！编程Agent夺冠，暴击Opus 5.5](https://aiera.com.cn/asi-post.html?id=124552) | 新智元 | AI |
+| 1 | [Linq raises $90M to give AI assistants a phone and a computer](https://thenextweb.com/news/linq-raises-90m-ai-assistants-phone-computer-a16z) | The Next Web | AI |
 | 2 | [Everful raises $48.5M for AI agents that source products from factories](https://thenextweb.com/news/everful-48-5m-series-a-ai-sourcing-global-commerce) | The Next Web | AI |
-| 3 | [Model ML raises $250m at a $1.5bn valuation for bankers’ AI agents](https://thenextweb.com/news/model-ml-250m-series-b-1-5bn-valuation-ai-agents-bankers) | The Next Web | AI |
-| 4 | [MegaRobo raises nearly $200M to let AI run real lab experiments](https://thenextweb.com/news/megarobo-200m-oman-investment-authority-ai-lab-experiments) | The Next Web | AI |
-| 5 | [Google books Blue Origin’s New Glenn to launch its AI satellites in 2029](https://thenextweb.com/news/google-blue-origin-new-glenn-project-suncatcher-2029) | The Next Web | AI/人文 |
+| 3 | [Anthropic raises an additional $12.2B as underwriters exercise their "greenshoe" overallotment of shares, bringing the total raised in its IPO to $93.5B (Ashley Capoot/CNBC)](https://www.techmeme.com/261120/p14) | Techmeme | AI/人文 |
+| 4 | [Sources: Shanghai-based Pragmatik Labs, founded by ex-Qwen AI head Junyang Lin, raised tens of millions of dollars at a $5B valuation, up from $2B in August (Bloomberg)](https://www.techmeme.com/261120/p10) | Techmeme | AI |
+| 5 | [BrightAI, which uses AI to help industrial companies detect malfunctioning equipment, raised $97M led by Smith Point, bringing its total funding to $184M (Maria Deutscher/SiliconANGLE)](https://www.techmeme.com/261120/p2) | Techmeme | AI |
 
-> 共 70 条，以上为 TOP 5。
+> 共 73 条，以上为 TOP 5。
 
 ---
 
@@ -53,12 +53,9 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [[分享创造] GTA6 最近非常热，跟风做了个小站，看看能不能有流量](https://www.v2ex.com/t/1258476) | V2EX (创意工作者社区) | IP |
-| 3 | [苹果关闭全球最大粉丝社区，Apple 支持社区结束 28 年运营今日永久关闭](https://www.ithome.com/1/029/779.htm) | IT之家 (ITHome) | IP |
+| 2 | [为何《GTA 6》将成为创作者经济的下一个金矿——以及品牌能从中汲取哪些经验](https://www.businessinsider.com/gta-6-creator-economys-next-big-growth-engine-2026-11) | www.businessinsider.com | IP |
+| 3 | [好丽友在县城零食店拿到“大结果”](https://www.huxiu.com/article/4907160.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
 | 4 | [维基媒体流量的新时代：超越页面浏览量的思考](https://diff.wikimedia.org/2026/11/19/the-new-era-of-wikimedia-traffic-thinking-beyond-pageviews) | diff.wikimedia.org | IP |
-| 5 | [曝 Meta 全新 AI 硬件 Muse Charm 售 300 美元，附赠一年 5G 流量](https://www.ithome.com/1/029/771.htm) | IT之家 (ITHome) | AI/IP |
-
-> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -66,8 +63,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [[推广] 程序员整点副业了哎](https://www.v2ex.com/t/1258463) | V2EX (创意工作者社区) | 变现 |
-| 2 | [沃尔玛的业务持续增长，越来越多的高收入消费者前来购买食品杂货和加油](https://www.businessinsider.com/walmarts-growth-continues-with-shoppers-coming-for-groceries-and-gas-2026-11) | www.businessinsider.com | 变现 |
+| 1 | [阿波罗测算AI投资回报：2028年底或需2万亿美元年收入](https://www.huxiu.com/article/4907301.html?f=rss) | 虎嗅 (Huxiu) | AI/变现 |
+| 2 | [Ask HN: 独立开发者如果没有Mac，该如何在Mac上测试自己的工具？](https://news.ycombinator.com/item?id=50573910) | news.ycombinator.com | 变现 |
+| 3 | [今年前三季度我国数字产业收入超 32 万亿元，同比增长 14.8%](https://www.ithome.com/1/030/135.htm) | IT之家 (ITHome) | 变现 |
+| 4 | [阿里三季报：云业务发展强劲，既涨收入，又涨利润](https://www.huxiu.com/article/4907188.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
 
 ---
 
@@ -79,8 +78,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-20T04:29:59.782Z
-- **总资讯数**：4417 条原始 → 804 条筛选后
+- **聚合时间**：2026-11-20T14:26:37.226Z
+- **总资讯数**：4486 条原始 → 820 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
