@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派](https://sspai.com/post/118975) | sspai | 认知 |
-| 2 | [在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？](https://sspai.com/post/118512) | sspai | AI |
-| 3 | [城市漫步指南 | 安特卫普，时尚就在生活中](https://sspai.com/post/118781) | sspai | 情感 |
-| 4 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
-| 5 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
+| 1 | [海外市场波动加大，监管发布三项稳市举措](https://mp.weixin.qq.com/s/p7O-9c39240kg6TQu47xwg) | 财经杂志 | 其他 |
+| 2 | [2027年人民币汇率的三种情景](https://mp.weixin.qq.com/s/oXwmiV01-Gt8WJEb8KTw0A) | 财经杂志 | 其他 |
+| 3 | [重估用电成本和低碳价值，绿电直连的商业化考验](https://mp.weixin.qq.com/s/HoLDXU4_b_clijBfN9Itjg) | 财经杂志 | 其他 |
+| 4 | [腾讯开始疯狂消费WorkBuddy](https://mp.weixin.qq.com/s/N7yHeloJW63MrEFmwTb-ng) | 人人都是产品经理 | 其他 |
+| 5 | [产品经理的2026年度总结，怎样写得有价值](https://mp.weixin.qq.com/s/q3CaN4SmfPAnrCCwrm1KxQ) | 人人都是产品经理 | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153) | sspai | AI/认知 |
-| 2 | [Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.](https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building) | TechCrunch | AI |
-| 3 | [I let Gemini build 5 widgets for my Pixel home screen; the results surprised me](https://www.androidpolice.com/i-tried-google-pixel-create-my-widget) | Android Police | AI |
+| 1 | [大厂疯抢AI人才，产品起薪30K！0经验如何快速入行？](https://mp.weixin.qq.com/s/6HAs_1TZE0YOdLvW9u-oHA) | 人人都是产品经理 | AI |
+| 2 | [OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development) | TechCrunch | AI |
+| 3 | [Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.](https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building) | TechCrunch | AI |
 | 4 | [Trump threatens ban on US firms building AI data centres overseas](https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss) | BBC News | AI |
-| 5 | [AI Agent 如何进入实时交易系统：货拉拉的三个实践与一套工程方法论](https://juejin.cn/post/7710060982517432356) | juejin | AI |
+| 5 | [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153) | 少数派 · 热门文章 | AI/认知 |
 
-> 共 15 条，以上为 TOP 5。
+> 共 16 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google's latest search page redesign drops the search button, adds AI sidebar](https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar) | Ars Technica | AI |
-| 2 | [美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型](https://tech.meituan.com/2026/11/02/Meituan-LongCat-2.5.html) | 美团技术团队 (Meituan Tech) | AI |
-| 3 | [GPT6.2“买家秀”来了，吼吼呵呵！](https://juejin.cn/post/7709526633031942186) | 掘金 · 人工智能本周最热 | AI |
-| 4 | [AI 热点日报（2026-11-18）：OpenAI 发布 GPT-6.2，APEC 峰会聚焦 AI，AI 制药融资创新高](https://juejin.cn/post/7709030297351094335) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [AI 热点日报（2026-11-19）：Anthropic 全球史上最大 IPO 上市，谷歌发布 Gemini 4 Neon](https://juejin.cn/post/7709679151842246697) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [DeepSeek首位创业者开源个人Agent；黎曼猜想证明在Claude...](https://mp.weixin.qq.com/s/pUGpTtl3ES_ELoaGer11FQ) | AI前线 | AI |
+| 2 | [上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力](https://mp.weixin.qq.com/s/Al4zB6-KgUM_01uV3xDtpg) | 华尔街见闻 | AI/情感 |
+| 3 | [哈佛开源虚拟细胞模型：编辑DNA前先预演整个细胞，AlphaGenome...](https://mp.weixin.qq.com/s/KEEKLuRS4VF3mSftwReyng) | 量子位 | AI |
+| 4 | [谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google's latest search page redesign drops the search button, adds AI sidebar](https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar) | Ars Technica | AI |
+| 5 | [美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型](https://tech.meituan.com/2026/11/02/Meituan-LongCat-2.5.html) | 美团技术团队 (Meituan Tech) | AI |
 
-> 共 38 条，以上为 TOP 5。
+> 共 33 条，以上为 TOP 5。
 
 ---
 
@@ -53,9 +53,7 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [风暴肆虐巴西乡村小镇，农作物和民众生命安全面临威胁](https://www.bloomberg.com/news/articles/2026-11-22/storm-devastates-rural-brazilian-town-in-threat-to-crops-lives) | www.bloomberg.com | 回乡 |
-| 3 | [将容器标记为“不健康”并未阻止其处理流量](https://dev.to/alexgeorgiev17/marking-a-container-unhealthy-didnt-stop-it-from-taking-traffic-54lf) | dev.to | IP |
-| 4 | [苹果关闭全球最大粉丝社区](https://mp.weixin.qq.com/s/iGeqqX41h-7PH79haA8Z_g) | 少数派 | IP |
+| 2 | [将容器标记为“不健康”并未阻止其处理流量](https://dev.to/alexgeorgiev17/marking-a-container-unhealthy-didnt-stop-it-from-taking-traffic-54lf) | dev.to | IP |
 
 ---
 
@@ -63,8 +61,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [我23岁时买下了第一套出租房。现在我拥有12套房产，收入已经足够让我辞去正职工作。](https://www.businessinsider.com/bought-12-rental-properties-make-money-to-quit-day-job-2026-11) | www.businessinsider.com | 变现 |
-| 2 | [零跑李腾飞谈“与欧宝车型合作”：1 亿欧元含项目开发、授权使用费等，收入将持续多年](https://www.ithome.com/1/030/694.htm) | IT之家 (ITHome) | 变现 |
+| 1 | [黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入37.9亿美元，.](https://mp.weixin.qq.com/s/o3jGt_k8v36_l_43suXQ5g) | 极客公园 | 变现 |
+| 2 | [我23岁时买下了第一套出租房。现在我拥有12套房产，收入已经足够让我辞去正职工作。](https://www.businessinsider.com/bought-12-rental-properties-make-money-to-quit-day-job-2026-11) | www.businessinsider.com | 变现 |
+| 3 | [零跑李腾飞谈“与欧宝车型合作”：1 亿欧元含项目开发、授权使用费等，收入将持续多年](https://www.ithome.com/1/030/694.htm) | IT之家 (ITHome) | 变现 |
 
 ---
 
@@ -76,8 +75,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-22T17:26:58.744Z
-- **总资讯数**：4067 条原始 → 624 条筛选后
+- **聚合时间**：2026-11-22T22:52:29.605Z
+- **总资讯数**：4080 条原始 → 650 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
