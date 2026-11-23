@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [黎曼猜想迎来大结局！Lean官方认证：Claude证明无误](https://aiera.com.cn/asi-post.html?id=124905) | 新智元 | AI |
-| 2 | [OpenAI爆改旗舰GPU，AMD直接送厂流片！](https://aiera.com.cn/asi-post.html?id=124888) | 新智元 | AI |
-| 3 | [数学界疯狂48小时！有限域黎曼猜想也被GPT-6 Astra攻克了](https://aiera.com.cn/asi-post.html?id=124870) | 新智元 | AI |
-| 4 | [Anthropic开出2.7亿天价疯抢CS本科生！OpenAI迎史上最惨一周](https://aiera.com.cn/asi-post.html?id=124852) | 新智元 | AI |
-| 5 | [「外星智能」降临，AI联手人类砸碎了百年数学圣杯](https://aiera.com.cn/asi-post.html?id=124831) | 新智元 | AI |
+| 1 | [我们开源了公司的内部组件库，然后被各业务线骂成了筛子](https://juejin.cn/post/7710892674455126070) | juejin | 其他 |
+| 2 | [A2UI 1.0 详解：让 AI 生成 Flutter 界面，还不怕它乱写](https://juejin.cn/post/7710647322556547123) | juejin | AI |
+| 3 | [我把公司内部的 12 个 CRUD 接口交给了 AI Agent，然后省出了两周](https://juejin.cn/post/7710455506234327080) | juejin | AI |
+| 4 | [七家中国 AI 公司被控「蒸馏」Claude：模型蒸馏的原理、攻防与争议全解（附一手资料截图）](https://juejin.cn/post/7710853195052990499) | juejin | AI |
+| 5 | [用 Seedance 2.5 Flash 实现1分钟AI短剧，满足孩子的超级英雄对战梦](https://juejin.cn/post/7710180572464758838) | juejin | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [AI Agent 如何进入实时交易系统：货拉拉的三个实践与一套工程方法论](https://juejin.cn/post/7710060982517432356) | juejin | AI |
-| 2 | [codex 接本地模型，单次输出卡在 3208 token：一份照着做就能改的完整教程](https://juejin.cn/post/7710109647361572864) | juejin | AI/认知 |
-| 3 | [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153) | sspai | AI/认知 |
-| 4 | [OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development) | TechCrunch | AI |
-| 5 | [How to use AI glasses as a teleprompter](https://www.engadget.com/2319553/how-to-use-ai-glasses-as-teleprompter) | Engadget | AI |
+| 1 | [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153) | sspai | AI/认知 |
+| 2 | [OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development) | TechCrunch | AI |
+| 3 | [How to use AI glasses as a teleprompter](https://www.engadget.com/2319553/how-to-use-ai-glasses-as-teleprompter) | Engadget | AI |
+| 4 | [Trump threatens ban on US firms building AI data centres overseas](https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss) | BBC News | AI |
+| 5 | [新出的 Hy4 flash 好用吗？我用 WorkBuddy 做了个小测试](https://juejin.cn/post/7708963436193955874) | 掘金 · 人工智能本周最热 | AI |
 
-> 共 13 条，以上为 TOP 5。
+> 共 12 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [NUS发布System One模型评测基准：能力有多宽，决策有多稳？](https://aiera.com.cn/asi-post.html?id=124920) | 新智元 | AI |
-| 2 | [2026 GitHub 最火的 10 个视频制作与剪辑开源项目：AI 出片、代码生视频、无损剪辑怎么选（附实测截图）](https://juejin.cn/post/7710123265189412904) | juejin | AI |
-| 3 | [谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google's latest search page redesign drops the search button, adds AI sidebar](https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar) | Ars Technica | AI |
-| 4 | [美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型](https://tech.meituan.com/2026/11/02/Meituan-LongCat-2.5.html) | 美团技术团队 (Meituan Tech) | AI |
-| 5 | [GPT6.2“买家秀”来了，吼吼呵呵！](https://juejin.cn/post/7709526633031942186) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [2026 GitHub 最火的 10 个视频制作与剪辑开源项目：AI 出片、代码生视频、无损剪辑怎么选（附实测截图）](https://juejin.cn/post/7710123265189412904) | juejin | AI |
+| 2 | [Team8 launches Infra Village at NYSE and announces Next AI Leaders of 2027](https://thenextweb.com/news/team8-infra-village-nyse-next-ai-leaders-2027) | The Next Web | AI/人文 |
+| 3 | [Levenza launches personal AI agents globally for the enterprise](https://thenextweb.com/news/levenza-personal-ai-agents-enterprise-fluid-inference) | The Next Web | AI |
+| 4 | [谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google's latest search page redesign drops the search button, adds AI sidebar](https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar) | Ars Technica | AI |
+| 5 | [Marlowe, which develops cloud infrastructure and performance tools to optimize non-Nvidia AI chips, raised a $277M seed led by Accel at a $1.15B valuation (Dina Bass/Bloomberg)](https://www.techmeme.com/261123/p16) | Techmeme | AI |
 
-> 共 39 条，以上为 TOP 5。
+> 共 38 条，以上为 TOP 5。
 
 ---
 
@@ -52,9 +52,8 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 2 | [机器人公司老板当自媒体，图什么？](https://www.huxiu.com/article/4907609.html?f=rss) | 虎嗅 (Huxiu) | IP |
-| 3 | [将容器标记为“不健康”并未阻止其处理流量](https://dev.to/alexgeorgiev17/marking-a-container-unhealthy-didnt-stop-it-from-taking-traffic-54lf) | dev.to | IP |
+| 1 | [workbuddy可以操控电脑！真的太省心了，AI博主利器啊](https://juejin.cn/post/7710647322555760691) | juejin | AI/IP |
+| 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
 
 ---
 
@@ -62,13 +61,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [谷歌 AI 搜索变现受阻，苹果服务业务收入增长也随之放缓](https://www.ithome.com/1/030/783.htm) | IT之家 (ITHome) | AI/变现 |
-| 2 | [[商业模式] 程序员转行拼豆店有搞头没？](https://www.v2ex.com/t/1259034) | V2EX (创意工作者社区) | 变现 |
-| 3 | [高通汽车芯片业务年收入达 80 亿美元，有望 2027 年登顶全球汽车半导体市场](https://www.ithome.com/1/030/776.htm) | IT之家 (ITHome) | 变现 |
-| 4 | [黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入37.9亿美元，.](https://mp.weixin.qq.com/s/o3jGt_k8v36_l_43suXQ5g) | 极客公园 | 变现 |
-| 5 | [福特终于在美国造出电池，宁德时代却换了一种赚钱方式](https://www.huxiu.com/article/4907567.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-
-> 共 6 条，以上为 TOP 5。
+| 1 | [调用量霸榜三十周，赚钱还差一关：国产模型的两张榜单](https://www.aibase.com/news/32467) | AIbase | AI/变现 |
+| 2 | [意法半导体：目标 2025~2028 年实现 STM32 芯片收入翻倍](https://www.ithome.com/1/031/179.htm) | IT之家 (ITHome) | 变现 |
+| 3 | [黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入37.9亿美元，.](https://mp.weixin.qq.com/s/o3jGt_k8v36_l_43suXQ5g) | 极客公园 | 变现 |
 
 ---
 
@@ -80,8 +75,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-23T04:12:32.399Z
-- **总资讯数**：4156 条原始 → 657 条筛选后
+- **聚合时间**：2026-11-23T16:35:36.496Z
+- **总资讯数**：4235 条原始 → 675 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
