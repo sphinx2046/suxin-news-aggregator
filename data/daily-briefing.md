@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-11-24（周二）
+# 素心拾穗 · 每日情报 · 2026-11-25（周三）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [我们开源了公司的内部组件库，然后被各业务线骂成了筛子](https://juejin.cn/post/7710892674455126070) | juejin | 其他 |
-| 2 | [七家中国 AI 公司被控「蒸馏」Claude：模型蒸馏的原理、攻防与争议全解（附一手资料截图）](https://juejin.cn/post/7710853195052990499) | juejin | AI |
-| 3 | [AI 写代码越来越快，程序员为什么反而更累了](https://juejin.cn/post/7710966014792810515) | juejin | AI |
-| 4 | [A2UI 1.0 详解：让 AI 生成 Flutter 界面，还不怕它乱写](https://juejin.cn/post/7710647322556547123) | juejin | AI |
-| 5 | [我把公司内部的 12 个 CRUD 接口交给了 AI Agent，然后省出了两周](https://juejin.cn/post/7710455506234327080) | juejin | AI |
+| 1 | [答对全靠背，Agent只是假装搜索！仅24%准确率 | EMNLP&#8217;26 Oral](https://aiera.com.cn/asi-post.html?id=125168) | 新智元 | AI |
+| 2 | [谷歌Gemini 4破解量子计算「天书」！核聚变进度条拉满了](https://aiera.com.cn/asi-post.html?id=125152) | 新智元 | AI |
+| 3 | [Karpathy预言成真！横扫8项全球最高分，硅谷这个LLM新风口落地中国](https://aiera.com.cn/asi-post.html?id=125120) | 新智元 | AI |
+| 4 | [Gemini 4包揽前三！能打败谷歌的只有谷歌](https://aiera.com.cn/asi-post.html?id=125085) | 新智元 | AI |
+| 5 | [古典产品经理的衰亡](https://mp.weixin.qq.com/s/2hY0IObrsrJeUwRmaS8KFA) | 产品犬舍 | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153) | sspai | AI/认知 |
-| 2 | [UK finance watchdog warns AI agent builders they may need a licence](https://thenextweb.com/news/fca-agentic-ai-authorisation) | The Next Web | AI |
-| 3 | [Trump threatens ban on US firms building AI data centres overseas](https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss) | BBC News | AI |
-| 4 | [新出的 Hy4 flash 好用吗？我用 WorkBuddy 做了个小测试](https://juejin.cn/post/7708963436193955874) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [Gemini 4 系列与 Antigravity 使用心得：Carbon、Argon 与 Hydrogen 实测与提速方法](https://juejin.cn/post/7709402258643582976) | 掘金 · 人工智能本周最热 | AI |
+| 1 | [Al这么强，产品经理如何用Agent进行“摸鱼”](https://mp.weixin.qq.com/s/5q9G9jNUKwcopOuKcdMTmQ) | 人人都是产品经理 | AI |
+| 2 | [Trump threatens ban on US firms building AI data centres overseas](https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss) | BBC News | AI |
+| 3 | [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153) | 少数派 · 热门文章 | AI/认知 |
+| 4 | [Gemini 4 系列与 Antigravity 使用心得：Carbon、Argon 与 Hydrogen 实测与提速方法](https://juejin.cn/post/7709402258643582976) | 掘金 · 人工智能本周最热 | AI |
+| 5 | [Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton](https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance) | Readhub · AI | AI |
 
-> 共 11 条，以上为 TOP 5。
+> 共 10 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [华为云发布智能体伙伴开放计划 帮助伙伴搭建流量入口](https://aiera.com.cn/asi-post.html?id=125067) | 新智元 | AI/IP |
-| 2 | [电脑操作AI超越人类了？这款开源Agent吊打GPT、Claude全自动操控电脑](https://juejin.cn/post/7711164513240072192) | juejin | AI |
-| 3 | [Anthropic Launches Claude Ship to Review, Fix, and Approve Code](https://features.slashdot.org/story/26/11/23/2116230/anthropic-launches-claude-ship-to-review-fix-and-approve-code) | Slashdot | AI |
-| 4 | [Supertake raises $20M to let AI agents turn your market predictions into stock portfolios](https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios) | TechCrunch | AI |
-| 5 | [Avicena raises $100M to link AI chips with microLEDs instead of lasers](https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai) | The Next Web | AI |
+| 1 | [ClaudeCode新模式来了！不换模型，Token消耗最高砍掉77%](https://mp.weixin.qq.com/s/hJ4Z2itcOtuJw-DLaS2k1g) | AI前线 | AI |
+| 2 | [OceanBase发布AI数据平OceanLake！CEO杨冰：我们赌...](https://mp.weixin.qq.com/s/bf71L6nnmJRcsBql6Lqe4w) | AI前线 | AI |
+| 3 | [只有 8B，一个令人惊艳的国产图像模型，开源了！](https://mp.weixin.qq.com/s/TqyLU2FVGQ_zkR8Ldw8lmw) | GitHubDaily | AI |
+| 4 | [大模型后训练面试「高考卷」来了，做题家狂喜](https://mp.weixin.qq.com/s/Ku27HeuxiGAxS_nI2Se-FA) | PaperWeekly | AI |
+| 5 | [Anthropic Launches Claude Ship to Review, Fix, and Approve Code](https://features.slashdot.org/story/26/11/23/2116230/anthropic-launches-claude-ship-to-review-fix-and-approve-code) | Slashdot | AI |
 
-> 共 64 条，以上为 TOP 5。
+> 共 62 条，以上为 TOP 5。
 
 ---
 
@@ -52,11 +52,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [workbuddy可以操控电脑！真的太省心了，AI博主利器啊](https://juejin.cn/post/7710647322555760691) | juejin | AI/IP |
+| 1 | [workbuddy可以操控电脑！真的太省心了，AI博主利器啊](https://juejin.cn/post/7710647322555760691) | 掘金 · 人工智能本周最热 | AI/IP |
 | 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 3 | [[分享创造] 做了一个内容互助工具：奇伴批阅，给创作者找真实反馈](https://www.v2ex.com/t/1259509) | V2EX (创意工作者社区) | IP |
-| 4 | [月薪5000的深圳打工人，开始给农村父母补缴社保](https://www.huxiu.com/article/4907962.html?f=rss) | 虎嗅 (Huxiu) | 回乡 |
-| 5 | [我们搬到了另一端的一个生活成本更高的城市。我很喜欢这里，但每当老家朋友来访时，我总觉得有点难为情。](https://www.businessinsider.com/moved-to-more-expensive-city-across-country-better-complicated-feelings-2026-11) | www.businessinsider.com | 回乡/情感 |
+| 3 | [“卡塔戈居民阿尔·戈尔”收购了其家乡田纳西州的一家报纸](https://nyti.ms/4zJ6NlD) | nyti.ms | 回乡/情感 |
+| 4 | [阿尔·戈尔正在收购其家乡的一家报纸politi.co/4kEM66B](https://www.politico.com/news/2026/11/24/al-gore-newspaper-carthage-courier-01182203) | www.politico.com | 回乡/情感 |
 
 ---
 
@@ -64,13 +63,7 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [150美元就能买到梅拉尼娅看起来像蜡像的照片？特朗普一家难道永远不会用尽赚钱的点子吗？ 阿尔瓦·马赫达维](https://www.theguardian.com/commentisfree/2026/nov/24/photos-melania-looking-like-a-waxwork-will-the-trumps-ever-run-out-of-money-making-ideas) | www.theguardian.com | 变现 |
-| 2 | [餐饮老板不愿面对的真相：把店关对，可能比把店开多更赚钱](https://www.huxiu.com/article/4908130.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
-| 3 | [翻完11307次AI购物测试，我发现消费品牌的赚钱逻辑变了](https://www.huxiu.com/article/4908116.html?f=rss) | 虎嗅 (Huxiu) | AI/变现 |
-| 4 | [大众旗下 Elli 推出双向充电桩，电动汽车能给电网供电赚钱](https://www.ithome.com/1/031/795.htm) | IT之家 (ITHome) | 变现 |
-| 5 | [[分享发现] [点点合数] 微信小游戏开了广告 9 天，后台收入 26.26 元，晒一下数据](https://www.v2ex.com/t/1259523) | V2EX (创意工作者社区) | 变现 |
-
-> 共 6 条，以上为 TOP 5。
+| 1 | [我仅用3天时间就获得了487美元的月经常性收入（MRR），且完全没有投放广告。以下是我采用的具体分发流程：](https://news.ycombinator.com/item?id=50635126) | news.ycombinator.com | 变现 |
 
 ---
 
@@ -82,8 +75,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-24T14:20:21.918Z
-- **总资讯数**：4481 条原始 → 728 条筛选后
+- **聚合时间**：2026-11-25T00:11:00.604Z
+- **总资讯数**：4355 条原始 → 712 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
