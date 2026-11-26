@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [爆肝实测四大国产AI神器！7大变态考题，逼出最野导演](https://aiera.com.cn/asi-post.html?id=120096) | 新智元 | AI |
-| 2 | [史上最大IPO，4天破发！Anthropic比首日开盘一度跌三成](https://aiera.com.cn/asi-post.html?id=125338) | 新智元 | AI |
-| 3 | [Claude也能用摇杆操控了！一台小街机通吃9大Agent](https://aiera.com.cn/asi-post.html?id=125336) | 新智元 | AI |
-| 4 | [Claude能自己批代码了！8个月前还说那是人的事](https://aiera.com.cn/asi-post.html?id=125318) | 新智元 | AI |
-| 5 | [具身评测提速约16倍：上交发布一站式评测工具RoboScopeKit](https://aiera.com.cn/asi-post.html?id=125285) | 新智元 | 其他 |
+| 1 | [Codex Pricing: Pro has unlimited 5.6 usage](https://chatgpt.com/codex/pricing) | Hacker News | 其他 |
+| 2 | [Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon) | Hacker News | AI |
+| 3 | [Anthropic's IPO Prospectus Is a Fucking Doozy](https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus) | Hacker News | AI |
+| 4 | [Functional Ultrasound Imaging from Scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) | Hacker News | 人文 |
+| 5 | [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon) | Hacker News | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -24,13 +24,9 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [前端转 Java 全栈：用 AI 两天交付一个能跑的 Demo，踩坑全记录](https://juejin.cn/post/7711260888724291620) | juejin | AI |
-| 2 | [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153) | sspai | AI/认知 |
-| 3 | [Siemens is building an AI robot to unpack parts at its Erlangen plant](https://thenextweb.com/news/siemens-ai-unpacking-robot-production-planner-sps-2026) | The Next Web | AI |
-| 4 | [零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体](https://www.qbitai.com/2026/11/512715.html) | 量子位 · 每日最新 | AI |
-| 5 | [[分享发现] Chrome 的 Gemini 比客户端更好用](https://www.v2ex.com/t/1259955) | V2EX (创意工作者社区) | AI |
-
-> 共 8 条，以上为 TOP 5。
+| 1 | [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153) | 少数派 · 热门文章 | AI/认知 |
+| 2 | [AI Agent Skill 入门指南：文件夹本质、渐进式加载与挑选方法](https://juejin.cn/post/7709761919902482466) | 掘金 · 人工智能本周最热 | AI |
+| 3 | [How to use an AI note taker without a bot in the call](https://medium.com/@reitawood_52024/how-to-use-an-ai-note-taker-without-a-bot-in-the-call-5fc43991e4da?source=rss------note_taking-5) | Medium · Note Taking | AI |
 
 ---
 
@@ -38,13 +34,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [突发！证明黎曼猜想之后，Anthropic未发布AI模型强到令人恐惧](https://aiera.com.cn/asi-post.html?id=125356) | 新智元 | AI |
-| 2 | [中国AI视频新王诞生！4800亿参数登顶全球，一折价格还要开源](https://aiera.com.cn/asi-post.html?id=125311) | 新智元 | AI |
-| 3 | [阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年](https://juejin.cn/post/7711283330075377698) | juejin | AI |
-| 4 | [电脑操作AI超越人类了？这款开源Agent吊打GPT、Claude全自动操控电脑](https://juejin.cn/post/7711164513240072192) | juejin | AI |
-| 5 | [Anthropic, OpenAI Employees Fear Models Are Too Unsafe to Ever Release](https://slashdot.org/story/26/11/25/0814233/anthropic-openai-employees-fear-models-are-too-unsafe-to-ever-release) | Slashdot | AI |
+| 1 | [Anthropic, OpenAI Employees Fear Models Are Too Unsafe to Ever Release](https://slashdot.org/story/26/11/25/0814233/anthropic-openai-employees-fear-models-are-too-unsafe-to-ever-release) | Slashdot | AI |
+| 2 | [Saudi National Charged In OpenAI Bugging To Be Released On $1 Million Bond](https://yro.slashdot.org/story/26/11/25/0633231/saudi-national-charged-in-openai-bugging-to-be-released-on-1-million-bond) | Slashdot | AI |
+| 3 | [AI media company Every raises $17.5M to help teams become AI-native](https://thenextweb.com/news/every-17-5m-series-a-ai-native-media) | The Next Web | AI |
+| 4 | [Sources: Z.ai's 3T-parameter flagship GLM-5.5 missed its November release and could be delayed to Q1 2027 or later due to US rules and labs' distillation curbs (Reuters)](https://www.techmeme.com/261126/p11) | Techmeme | AI |
+| 5 | [Sources: leading AI labs are sitting on major, unreleased algorithmic breakthroughs that could break deployed cryptosystems, but their exact nature is unknown (Scott Aaronson/Shtetl-Optimized)](https://www.techmeme.com/261126/p8) | Techmeme | AI |
 
-> 共 48 条，以上为 TOP 5。
+> 共 54 条，以上为 TOP 5。
 
 ---
 
@@ -54,11 +50,8 @@
 |---|------|------|------|
 | 1 | [workbuddy可以操控电脑！真的太省心了，AI博主利器啊](https://juejin.cn/post/7710647322555760691) | 掘金 · 人工智能本周最热 | AI/IP |
 | 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 3 | [顾依琳肩关节脱臼，因缺席世界杯向中国粉丝致歉 - South China Morning Post](https://news.google.com/read/CBMi0gFBVV95cUxNYlVsYTY1bzAzZ1NENEVUSWczZ0JkU1lnbkl6dV9aTU1kSnNCN2xBZ3dPQ2hyRkx2VWZ5T01zV2pYdWdoczRGSmEyX0dLYW11U3Boam12b1I4OEVaRHFiTTdYN1V3eXAxZkM0cW1jR0ZHcTlWNlZBb2NEajYtUERBVWFpRUk1RzBtSkFQVWlvaUxiLVhUVWFIdkdVRExkSUtiYzRNZWhZNFRWZUV3dGhuNVBFOWk1UDdxY2xZa0N3akdKZ2k5UXZuWFpWQ1NDbGY1blE?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 4 | [罗技 MX Master 4 创作者特别版鼠标上市，899 元](https://www.ithome.com/1/032/578.htm) | IT之家 (ITHome) | IP |
-| 5 | [亚伦·索金谈好莱坞眼中的美国政治——这位曾凭借《社交网络》斩获奥斯卡奖的编剧、《白宫风云》的创作者，将在《纽约客》节上与泰勒·福加特进行现场对谈。](https://www.newyorker.com/podcast/political-scene/aaron-sorkin-on-hollywoods-vision-of-american-politics) | www.newyorker.com | IP |
-
-> 共 6 条，以上为 TOP 5。
+| 3 | [亚伦·索金谈好莱坞眼中的美国政治——这位曾凭借《社交网络》斩获奥斯卡奖的编剧、《白宫风云》的创作者，将在《纽约客》节上与泰勒·福加特进行现场对谈。](https://www.newyorker.com/podcast/political-scene/aaron-sorkin-on-hollywoods-vision-of-american-politics) | www.newyorker.com | IP |
+| 4 | [波多黎各选手詹妮弗·巴雷托在家乡夺得“环球小姐”桂冠](https://nyti.ms/4fqWHhQ) | nyti.ms | 回乡/情感 |
 
 ---
 
@@ -66,13 +59,10 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [《Media Partners Asia》报告显示，微剧收入将在2026年达到200亿美元，但中国以外地区的利润仍显微薄 - Yahoo Finance UK](https://news.google.com/read/CBMiigFBVV95cUxQdDdXUWtVUVBiS3Z1ank0ellSLVZ5dnhtZE1PR1A5VnQ1UnVPZzZnYjJJWksxam4wc2U2UmN2NHpncS1INTY0QUpGWnBnNGN0OTRscThscEVlZ1ZTekpkdFRNbTFYaVZXMjR5QW03aVBydVNOWWktZ3VwQXc2eFVZR0dyQUpqal83OVE?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
-| 2 | [《GTA VI》环境背景变现间谍软件](https://news.ycombinator.com/item?id=50650230) | news.ycombinator.com | 变现 |
-| 3 | [B站越赚钱，越不能张扬](https://www.huxiu.com/article/4908547.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 1 | [AI最火的时候，最赚钱的是一块布](https://www.36kr.com/p/4085169946159492) | 36氪 · 24小时热榜 | AI/变现 |
+| 2 | [随着人工智能取代脑力工作，人们该如何赚钱？](https://news.ycombinator.com/item?id=50651911) | news.ycombinator.com | AI/变现 |
+| 3 | [《GTA VI》环境背景变现间谍软件](https://news.ycombinator.com/item?id=50650230) | news.ycombinator.com | 变现 |
 | 4 | [学生贷款借款人正收到新的通知，要求他们退出基于收入的还款计划](https://www.businessinsider.com/student-loan-borrowers-kicked-off-ibr-repayment-plan-new-notices-2026-11) | www.businessinsider.com | 变现 |
-| 5 | [该谈谈AI的商业模式了](https://www.huxiu.com/article/4908522.html?f=rss) | 虎嗅 (Huxiu) | AI/变现 |
-
-> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -84,8 +74,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-26T03:48:59.394Z
-- **总资讯数**：4346 条原始 → 708 条筛选后
+- **聚合时间**：2026-11-26T13:16:02.912Z
+- **总资讯数**：4074 条原始 → 622 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
