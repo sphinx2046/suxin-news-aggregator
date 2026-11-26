@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-11-25（周三）
+# 素心拾穗 · 每日情报 · 2026-11-26（周四）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [elementalsouls /      Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | github | AI |
-| 2 | [Tracer-Cloud /      opensre](https://github.com/Tracer-Cloud/opensre) | github | 其他 |
-| 3 | [我们开源了公司的内部组件库，然后被各业务线骂成了筛子](https://juejin.cn/post/7710892674455126070) | juejin | 其他 |
-| 4 | [七家中国 AI 公司被控「蒸馏」Claude：模型蒸馏的原理、攻防与争议全解（附一手资料截图）](https://juejin.cn/post/7710853195052990499) | juejin | AI |
-| 5 | [AI 写代码越来越快，程序员为什么反而更累了](https://juejin.cn/post/7710966014792810515) | juejin | AI |
+| 1 | [爆肝实测四大国产AI神器！7大变态考题，逼出最野导演](https://aiera.com.cn/asi-post.html?id=120096) | 新智元 | AI |
+| 2 | [史上最大IPO，4天破发！Anthropic比首日开盘一度跌三成](https://aiera.com.cn/asi-post.html?id=125338) | 新智元 | AI |
+| 3 | [Claude也能用摇杆操控了！一台小街机通吃9大Agent](https://aiera.com.cn/asi-post.html?id=125336) | 新智元 | AI |
+| 4 | [Claude能自己批代码了！8个月前还说那是人的事](https://aiera.com.cn/asi-post.html?id=125318) | 新智元 | AI |
+| 5 | [具身评测提速约16倍：上交发布一站式评测工具RoboScopeKit](https://aiera.com.cn/asi-post.html?id=125285) | 新智元 | 其他 |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -27,10 +27,10 @@
 | 1 | [前端转 Java 全栈：用 AI 两天交付一个能跑的 Demo，踩坑全记录](https://juejin.cn/post/7711260888724291620) | juejin | AI |
 | 2 | [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153) | sspai | AI/认知 |
 | 3 | [Siemens is building an AI robot to unpack parts at its Erlangen plant](https://thenextweb.com/news/siemens-ai-unpacking-robot-production-planner-sps-2026) | The Next Web | AI |
-| 4 | [人工智能代理有望彻底改变工作方式。科技巨头们则希望从中牟利。 / Google builds a new toll booth for AI agents. Could Microsoft follow?](https://www.businessinsider.com/google-ai-agent-access-limits-fees-gmail-drive-microsoft-copilot-2026-11) | Business Insider | AI |
-| 5 | [Gemini 4 系列与 Antigravity 使用心得：Carbon、Argon 与 Hydrogen 实测与提速方法](https://juejin.cn/post/7709402258643582976) | 掘金 · 人工智能本周最热 | AI |
+| 4 | [零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体](https://www.qbitai.com/2026/11/512715.html) | 量子位 · 每日最新 | AI |
+| 5 | [[分享发现] Chrome 的 Gemini 比客户端更好用](https://www.v2ex.com/t/1259955) | V2EX (创意工作者社区) | AI |
 
-> 共 11 条，以上为 TOP 5。
+> 共 8 条，以上为 TOP 5。
 
 ---
 
@@ -38,13 +38,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年](https://juejin.cn/post/7711283330075377698) | juejin | AI |
-| 2 | [电脑操作AI超越人类了？这款开源Agent吊打GPT、Claude全自动操控电脑](https://juejin.cn/post/7711164513240072192) | juejin | AI |
-| 3 | [AI media company Every raises $17.5M to help teams become AI-native](https://thenextweb.com/news/every-17-5m-series-a-ai-native-media) | The Next Web | AI |
-| 4 | [Every, a media company that provides consulting services to help companies become AI-native, raised a $17.5M Series A at a $110M post-money valuation (Allie Garfinkle/Fortune)](https://www.techmeme.com/261125/p28) | Techmeme | AI |
-| 5 | [美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型](https://tech.meituan.com/2026/11/02/Meituan-LongCat-2.5.html) | 美团技术团队 (Meituan Tech) | AI |
+| 1 | [突发！证明黎曼猜想之后，Anthropic未发布AI模型强到令人恐惧](https://aiera.com.cn/asi-post.html?id=125356) | 新智元 | AI |
+| 2 | [中国AI视频新王诞生！4800亿参数登顶全球，一折价格还要开源](https://aiera.com.cn/asi-post.html?id=125311) | 新智元 | AI |
+| 3 | [阿里开源的AI代码审查工具，GitHub 52.1K+ star，阿里内部用了两年](https://juejin.cn/post/7711283330075377698) | juejin | AI |
+| 4 | [电脑操作AI超越人类了？这款开源Agent吊打GPT、Claude全自动操控电脑](https://juejin.cn/post/7711164513240072192) | juejin | AI |
+| 5 | [Anthropic, OpenAI Employees Fear Models Are Too Unsafe to Ever Release](https://slashdot.org/story/26/11/25/0814233/anthropic-openai-employees-fear-models-are-too-unsafe-to-ever-release) | Slashdot | AI |
 
-> 共 41 条，以上为 TOP 5。
+> 共 48 条，以上为 TOP 5。
 
 ---
 
@@ -54,11 +54,11 @@
 |---|------|------|------|
 | 1 | [workbuddy可以操控电脑！真的太省心了，AI博主利器啊](https://juejin.cn/post/7710647322555760691) | 掘金 · 人工智能本周最热 | AI/IP |
 | 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 3 | [中国ODI数据实录（第一部分）：流量、存量与趋势 - China Briefing](https://news.google.com/read/CBMimAFBVV95cUxPaXhVRkhwTXVHVDNDUWk3dXp5ekZWdjRXU01vcjh0Y2RzTHFQTHBpTzFvVVRaNnFvbFpvZ0V2dzE2UlBuZnNCbXlZZW9FY211VEY3TU13SzZKM0FTQXUyV05uSWxVUnVxazA0bElGQzE4TzZRMHQyQ0NGOVl5emRSVlZ5SHFWMWVzYjBiSERXLWNadVBFZVF2Uw?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
-| 4 | [亚伦·索金谈好莱坞眼中的美国政治——这位曾凭借《社交网络》斩获奥斯卡奖的编剧、《白宫风云》的创作者，将在《纽约客》节上与泰勒·福加特进行现场对谈。](https://www.newyorker.com/podcast/political-scene/aaron-sorkin-on-hollywoods-vision-of-american-politics) | www.newyorker.com | IP |
-| 5 | [波多黎各选手詹妮弗·巴雷托在家乡夺得“环球小姐”桂冠](https://nyti.ms/4fqWHhQ) | nyti.ms | 回乡/情感 |
+| 3 | [顾依琳肩关节脱臼，因缺席世界杯向中国粉丝致歉 - South China Morning Post](https://news.google.com/read/CBMi0gFBVV95cUxNYlVsYTY1bzAzZ1NENEVUSWczZ0JkU1lnbkl6dV9aTU1kSnNCN2xBZ3dPQ2hyRkx2VWZ5T01zV2pYdWdoczRGSmEyX0dLYW11U3Boam12b1I4OEVaRHFiTTdYN1V3eXAxZkM0cW1jR0ZHcTlWNlZBb2NEajYtUERBVWFpRUk1RzBtSkFQVWlvaUxiLVhUVWFIdkdVRExkSUtiYzRNZWhZNFRWZUV3dGhuNVBFOWk1UDdxY2xZa0N3akdKZ2k5UXZuWFpWQ1NDbGY1blE?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | IP |
+| 4 | [罗技 MX Master 4 创作者特别版鼠标上市，899 元](https://www.ithome.com/1/032/578.htm) | IT之家 (ITHome) | IP |
+| 5 | [亚伦·索金谈好莱坞眼中的美国政治——这位曾凭借《社交网络》斩获奥斯卡奖的编剧、《白宫风云》的创作者，将在《纽约客》节上与泰勒·福加特进行现场对谈。](https://www.newyorker.com/podcast/political-scene/aaron-sorkin-on-hollywoods-vision-of-american-politics) | www.newyorker.com | IP |
 
-> 共 8 条，以上为 TOP 5。
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -66,10 +66,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [Ask HN: 月经常性收入（MRR）超过1k的独立创业者，你们的收入是否受到人工智能的影响？](https://news.ycombinator.com/item?id=50645393) | news.ycombinator.com | AI/变现 |
-| 2 | [学生贷款借款人正收到新的通知，要求他们退出基于收入的还款计划](https://www.businessinsider.com/student-loan-borrowers-kicked-off-ibr-repayment-plan-new-notices-2026-11) | www.businessinsider.com | 变现 |
-| 3 | [该谈谈AI的商业模式了](https://www.huxiu.com/article/4908522.html?f=rss) | 虎嗅 (Huxiu) | AI/变现 |
-| 4 | [小米今年 AI 投入 160 亿元：CFO 称稳健落地，MiMo 调用量与 AI 收入持续增加](https://www.aibase.com/news/32528) | AIbase | AI/变现 |
+| 1 | [《Media Partners Asia》报告显示，微剧收入将在2026年达到200亿美元，但中国以外地区的利润仍显微薄 - Yahoo Finance UK](https://news.google.com/read/CBMiigFBVV95cUxQdDdXUWtVUVBiS3Z1ank0ellSLVZ5dnhtZE1PR1A5VnQ1UnVPZzZnYjJJWksxam4wc2U2UmN2NHpncS1INTY0QUpGWnBnNGN0OTRscThscEVlZ1ZTekpkdFRNbTFYaVZXMjR5QW03aVBydVNOWWktZ3VwQXc2eFVZR0dyQUpqal83OVE?hl=en-US&gl=US&ceid=US%3Aen) | news.google.com | 变现 |
+| 2 | [《GTA VI》环境背景变现间谍软件](https://news.ycombinator.com/item?id=50650230) | news.ycombinator.com | 变现 |
+| 3 | [B站越赚钱，越不能张扬](https://www.huxiu.com/article/4908547.html?f=rss) | 虎嗅 (Huxiu) | 变现 |
+| 4 | [学生贷款借款人正收到新的通知，要求他们退出基于收入的还款计划](https://www.businessinsider.com/student-loan-borrowers-kicked-off-ibr-repayment-plan-new-notices-2026-11) | www.businessinsider.com | 变现 |
+| 5 | [该谈谈AI的商业模式了](https://www.huxiu.com/article/4908522.html?f=rss) | 虎嗅 (Huxiu) | AI/变现 |
+
+> 共 6 条，以上为 TOP 5。
 
 ---
 
@@ -81,8 +84,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-25T20:44:20.650Z
-- **总资讯数**：4320 条原始 → 715 条筛选后
+- **聚合时间**：2026-11-26T03:48:59.394Z
+- **总资讯数**：4346 条原始 → 708 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
