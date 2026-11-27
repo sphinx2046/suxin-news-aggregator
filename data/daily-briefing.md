@@ -1,4 +1,4 @@
-# 素心拾穗 · 每日情报 · 2026-11-26（周四）
+# 素心拾穗 · 每日情报 · 2026-11-27（周五）
 
 > 主攻：素心拾穗（践行记录） | 辅：路边放映日记 | 素心观禅暂停
 
@@ -10,11 +10,11 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [我最近用Codex做旅行攻略踩了几次大雷](https://mp.weixin.qq.com/s/vuXXsg_gfJ0Tun6doVUz2Q) | 产品犬舍 | 其他 |
-| 2 | [mini-agent已经从v1，v2演进到了v3(长文，慎入)](https://mp.weixin.qq.com/s/xnMPVPVblSgb6-ZUsF8zHQ) | 架构师之路 | AI |
-| 3 | [阿里、OPPO都下场了，Agent 记忆究竟哪家强？万字长文拆解 AML….](https://mp.weixin.qq.com/s/e1cE6m8LxfSWwN1E-NV-WA) | 夕小瑶科技说 | AI |
-| 4 | [黎曼猜想那份1740万行的证明，被砍掉了99.5%！](https://mp.weixin.qq.com/s/ndfAiUSbMP-xldNvgv7Y1w) | 夕小瑶科技说 | 其他 |
-| 5 | [Claude Code团队如何做代码验证](https://mp.weixin.qq.com/s/rwXuD7WvNVd1qmPCdSfJPw) | 夕小瑶科技说 | AI |
+| 1 | [Anthropic CEO长文刷屏！超级智能时代的桌面APP来了](https://aiera.com.cn/asi-post.html?id=125526) | 新智元 | AI |
+| 2 | [前Codex负责人：在OpenAI，dots正成为干活的主要方式](https://aiera.com.cn/asi-post.html?id=125509) | 新智元 | AI |
+| 3 | [震撼：OpenAI破解矩阵乘法指数，答案是9/4！连破8大世纪数学悬案](https://aiera.com.cn/asi-post.html?id=125497) | 新智元 | AI |
+| 4 | [高端GPU一卡难求！清华团队联手国产芯破局，推理性能暴涨3倍](https://aiera.com.cn/asi-post.html?id=125459) | 新智元 | AI |
+| 5 | [15岁少年火爆全网：一段话，Claude 5.6把PPT炸到∞](https://aiera.com.cn/asi-post.html?id=125447) | 新智元 | AI |
 
 > 共 15 条，以上为 TOP 5。
 
@@ -26,11 +26,9 @@
 |---|------|------|------|
 | 1 | [Signal’s Moxie Marlinspike says AI safety is building mass surveillance](https://thenextweb.com/news/moxie-marlinspike-ai-surveillance-confer-encryption) | The Next Web | AI |
 | 2 | [Samsung is building a private AI cloud that could make Galaxy AI far more powerful](https://www.androidpolice.com/samsung-is-building-a-private-ai-cloud-to-supercharge-your-galaxy-ai-spac) | Android Police | AI |
-| 3 | [The only thing not affected by AI this Black Friday? Gaming monitors! Here's how to bag yourself a bargain](https://www.techradar.com/computing/monitors/the-only-thing-not-affected-by-ai-this-black-friday-gaming-monitors-heres-how-to-bag-yourself-a-bargain) | TechRadar | AI |
-| 4 | [AI Agent Skill 入门指南：文件夹本质、渐进式加载与挑选方法](https://juejin.cn/post/7709761919902482466) | 掘金 · 人工智能本周最热 | AI |
-| 5 | [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153) | sspai | AI/认知 |
-
-> 共 7 条，以上为 TOP 5。
+| 3 | [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153) | sspai | AI/认知 |
+| 4 | [Why "Everyone's An AI Builder" Is A Myth](https://www.youtube.com/shorts/H1gRkTkEo7I) | Lenny's Podcast | AI |
+| 5 | [How to use an AI note taker without a bot in the call](https://medium.com/@reitawood_52024/how-to-use-an-ai-note-taker-without-a-bot-in-the-call-5fc43991e4da?source=rss------note_taking-5) | Medium · Note Taking | AI |
 
 ---
 
@@ -38,13 +36,13 @@
 
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
-| 1 | [给AI机房搭个模拟实验室，国产系统级仿真平台开源了](https://mp.weixin.qq.com/s/pJNFTjaS82Oq3XAG86RkTw) | GitHubDaily | AI |
-| 2 | [圣塔菲学者：大模型突然变强，就算智能涌现了吗?](https://mp.weixin.qq.com/s/LwUbD9JvW6MUh0Mq_jp_VA) | 集智俱乐部 | AI |
-| 3 | [GPT-6.2正式接班！OpenAl官宣淘汰GPT-5.6](https://mp.weixin.qq.com/s/qnMnIMCJkK4KK_zaNQMIUg) | 新智元 | AI |
-| 4 | [ChatGPT即将到来的大更新，为何让老用户集体破防](https://mp.weixin.qq.com/s/0Nyu3QmGzE0W3AI6DGQH0A) | APPSO | AI |
-| 5 | [千亿融资刚到手，DeepSeek女用户的爱情就到期了](https://mp.weixin.qq.com/s/2_wY3Wf7J0otO-WRkqrarg) | 36氪 | AI/情感 |
+| 1 | [GPT-6.2正式接班！OpenAI官宣淘汰GPT-5.6](https://aiera.com.cn/asi-post.html?id=125476) | 新智元 | AI |
+| 2 | [NYT Warns Photographers Not To Update Photoshop Over AI Features](https://news.slashdot.org/story/26/11/26/041231/nyt-warns-photographers-not-to-update-photoshop-over-ai-features) | Slashdot | AI |
+| 3 | [Anthropic, OpenAI Employees Fear Models Are Too Unsafe to Ever Release](https://slashdot.org/story/26/11/25/0814233/anthropic-openai-employees-fear-models-are-too-unsafe-to-ever-release) | Slashdot | AI |
+| 4 | [Saudi National Charged In OpenAI Bugging To Be Released On $1 Million Bond](https://yro.slashdot.org/story/26/11/25/0633231/saudi-national-charged-in-openai-bugging-to-be-released-on-1-million-bond) | Slashdot | AI |
+| 5 | [Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX (Meir Orbach/CTech)](https://www.techmeme.com/261126/p27) | Techmeme | AI |
 
-> 共 50 条，以上为 TOP 5。
+> 共 44 条，以上为 TOP 5。
 
 ---
 
@@ -54,11 +52,9 @@
 |---|------|------|------|
 | 1 | [workbuddy可以操控电脑！真的太省心了，AI博主利器啊](https://juejin.cn/post/7710647322555760691) | 掘金 · 人工智能本周最热 | AI/IP |
 | 2 | [为了抵御短视频平台上的保健品推广，我做了它](https://sspai.com/post/113866) | 少数派 · #应用推荐 | IP |
-| 3 | [杰西·艾森伯格表示，他的电影中“没有性元素”。但也许只是他的粉丝没那么饥渴？](https://www.theguardian.com/film/2026/nov/26/jesse-eisenberg-says-his-films-contain-no-sexuality-but-maybe-his-fans-are-just-less-desperate) | www.theguardian.com | IP |
-| 4 | [Ask HN: 目前有哪些独立创作者推出的课程或产品值得入手？](https://news.ycombinator.com/item?id=50656763) | news.ycombinator.com | IP |
-| 5 | [《打造MrBeast：吉米·唐纳森如何从一个害羞的孩子蜕变为YouTube顶级创作者，并打造出一家价值数十亿的企业》](https://www.businessinsider.com/mrbeast) | www.businessinsider.com | IP |
-
-> 共 6 条，以上为 TOP 5。
+| 3 | [Ask HN: 目前有哪些独立创作者推出的课程或产品值得入手？](https://news.ycombinator.com/item?id=50656763) | news.ycombinator.com | IP |
+| 4 | [《打造MrBeast：吉米·唐纳森如何从一个害羞的孩子蜕变为YouTube顶级创作者，并打造出一家价值数十亿的企业》](https://www.businessinsider.com/mrbeast) | www.businessinsider.com | IP |
+| 5 | [《我的世界》那位低调的创作者向Anthropic提出了一项提议](https://www.businessinsider.com/minecraft-creator-markus-persson-has-a-proposition-for-anthropic-2026-11) | www.businessinsider.com | AI/IP |
 
 ---
 
@@ -67,8 +63,7 @@
 | # | 标题 | 来源 | 分类 |
 |---|------|------|------|
 | 1 | [没有人能随随便便财务自由](https://mp.weixin.qq.com/s/dC_MHmchGXh9jvi946IzHQ) | 辉哥奇谭 | 变现 |
-| 2 | [AI最火的时候，最赚钱的是一块布](https://www.36kr.com/p/4085169946159492) | 36氪 · 24小时热榜 | AI/变现 |
-| 3 | [出于兴趣学习知识，可能比为了赚钱而学习所需的脑力更少](https://phys.org/news/2026-11-facts-mental-effort-money.html) | phys.org | 变现 |
+| 2 | [出于兴趣学习知识，可能比为了赚钱而学习所需的脑力更少](https://phys.org/news/2026-11-facts-mental-effort-money.html) | phys.org | 变现 |
 
 ---
 
@@ -80,8 +75,8 @@
 
 ## 📊 数据底座统计
 
-- **聚合时间**：2026-11-26T22:38:57.929Z
-- **总资讯数**：4017 条原始 → 583 条筛选后
+- **聚合时间**：2026-11-27T05:30:17.114Z
+- **总资讯数**：4023 条原始 → 596 条筛选后
 - **覆盖站点**：14 个来源
 - **筛选主题**：AI/科技/认知/IP/变现/回乡
 
